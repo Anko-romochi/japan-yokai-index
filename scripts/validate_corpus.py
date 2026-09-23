@@ -106,15 +106,21 @@ def read_jsonl(kind: str, errors: list[str]) -> dict[str, dict]:
 def main() -> int:
     errors: list[str] = []
     entities, sources, claims = (read_jsonl(kind, errors) for kind in KINDS)
-    for entity in entities.values():
-        for source_id in entity.get("source_ids", []) if isinstance(entity.get("source_ids"), list) else []:
-            if not isinstance(source_id, str) or source_id not in sources:
-                errors.append(f"entity {entity.get('id')}: missing source {source_id}")
+    for left, right, shared in (
+        ("entity", "source", set(entities) & set(sources)),
+        ("entity", "claim", set(entities) & set(claims)),
+        ("source", "claim", set(sources) & set(claims)),
+    ):
+        for record_id in sorted(shared):
+            errors.append(f"duplicate ID {record_id} in {left} and {right}")
+    claimed_entities: set[str] = set()
     for claim in claims.values():
         claim_id = claim.get("id")
         entity_id = claim.get("entity_id")
         if not isinstance(entity_id, str) or entity_id not in entities:
             errors.append(f"claim {claim_id}: missing entity {claim.get('entity_id')}")
+        else:
+            claimed_entities.add(entity_id)
         refs = claim.get("evidence_source_ids", [])
         refs = refs if isinstance(refs, list) else []
         if claim.get("layer") == "source_fact" and not refs:
@@ -127,10 +133,12 @@ def main() -> int:
             for source_id in locations:
                 if source_id not in refs:
                     errors.append(f"claim {claim_id}: location has unlisted source {source_id}")
-            if claim.get("layer") == "source_fact" and any(
+            if any(
                 not isinstance(source_id, str) or source_id not in locations for source_id in refs
             ):
-                errors.append(f"claim {claim_id}: source_fact requires locations for all evidence")
+                errors.append(f"claim {claim_id}: evidence_locations required for all cited sources")
+    for entity_id in sorted(set(entities) - claimed_entities):
+        errors.append(f"entity {entity_id}: no claim connects this entity to evidence")
     if errors:
         for error in errors:
             print(f"FAIL {error}", file=sys.stderr)
