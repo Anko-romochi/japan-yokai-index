@@ -6,7 +6,7 @@
 
 ## Status and limits
 
-- MVO v0.2: 15 entities, 8 sources, 16 claims. 完全収録ではありません。
+- MVO v0.3: 30 entities, 19 sources, 31 claims. 完全収録ではありません。
 - デジタルアクセス可能な資料と機関公開ページに偏りがあります。
 - 誤りや未確認情報が含まれ得ます。Issue・PRによる訂正を歓迎します。
 - `source_fact`, `established_view`, `inference`, `hypothesis` を分離します。独自仮説は `theory/` に置き、一般事実とは扱いません。
@@ -31,7 +31,7 @@ Python 3.10+ の標準ライブラリのみ使用します。プロジェクト�
 python scripts/validate_corpus.py
 ```
 
-検証対象はUTF-8、JSONL、スキーマの必須項目・型・列挙値、ID重複、参照整合性、`source_fact` の根拠資料と位置です。実行結果が `PASS` でも出典内容の人手確認は必要です。2026-09-23 のローカル結果：`PASS: 15 entities, 8 sources, 16 claims`。
+検証対象はUTF-8、JSONL、スキーマの必須項目・型・列挙値、ID重複、参照整合性、`source_fact` の根拠資料と位置です。実行結果が `PASS` でも出典内容の人手確認は必要です。2026-09-23 のローカル結果：`PASS: 30 entities, 19 sources, 31 claims`。
 
 ## Contribute and reuse
 
