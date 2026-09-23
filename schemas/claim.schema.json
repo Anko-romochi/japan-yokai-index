@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Claim",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "entity_id", "claim_ja", "claim_en", "layer", "evidence_source_ids", "evidence_locations", "confidence", "review_status"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^claim_[0-9]{4,}$"},
+    "entity_id": {"type": "string", "minLength": 1},
+    "claim_ja": {"type": "string", "minLength": 1},
+    "claim_en": {"type": ["string", "null"]},
+    "layer": {"enum": ["source_fact", "established_view", "inference", "hypothesis"]},
+    "evidence_source_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "evidence_locations": {"type": "object", "additionalProperties": {"type": "string", "minLength": 1}},
+    "confidence": {"enum": ["confirmed", "probable", "tentative", "unverified"]},
+    "review_status": {"enum": ["reviewed", "pending", "disputed"]}
+  }
+}

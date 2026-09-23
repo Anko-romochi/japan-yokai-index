@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "author", "date", "period", "repository", "source_url", "external_id", "location", "language", "source_type", "rights_note", "accessed_on"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^source_[0-9]{4,}$"},
+    "title": {"type": "string", "minLength": 1},
+    "author": {"type": ["string", "null"]},
+    "date": {"type": ["string", "null"]},
+    "period": {"type": ["string", "null"]},
+    "repository": {"type": ["string", "null"]},
+    "source_url": {"type": ["string", "null"], "format": "uri"},
+    "external_id": {"type": ["string", "null"]},
+    "location": {"type": ["string", "null"]},
+    "language": {"type": "string", "minLength": 2},
+    "source_type": {"enum": ["primary_or_early_source", "research_article", "institutional_explanation", "institutional_catalog", "database_record"]},
+    "rights_note": {"type": ["string", "null"]},
+    "accessed_on": {"type": ["string", "null"], "format": "date"}
+  },
+  "anyOf": [
+    {"required": ["source_url"], "properties": {"source_url": {"type": "string"}}},
+    {"required": ["external_id"], "properties": {"external_id": {"type": "string"}}}
+  ]
+}
