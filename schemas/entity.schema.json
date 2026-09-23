@@ -3,7 +3,7 @@
   "title": "Entity",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "name_ja", "name_kana", "name_romaji", "aliases", "entity_type", "periods", "regions", "source_ids", "tags", "research_status"],
+  "required": ["id", "name_ja", "name_kana", "name_romaji", "aliases", "entity_type", "attested_periods", "attested_regions", "tags", "research_status"],
   "properties": {
     "id": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
     "name_ja": {"type": "string", "minLength": 1},
@@ -11,9 +11,8 @@
     "name_romaji": {"type": ["string", "null"]},
     "aliases": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
     "entity_type": {"enum": ["folklore_being", "named_supernatural_entity", "historical_person_in_supernatural_tradition", "supernatural_phenomenon", "urban_legend_figure", "object_spirit"]},
-    "periods": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-    "regions": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-    "source_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "attested_periods": {"description": "Periods documented by cited claims; not the entity's origin date or historical existence.", "type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "attested_regions": {"description": "Regions documented for the tradition by cited claims; not an original or inherent habitat.", "type": "array", "items": {"type": "string"}, "uniqueItems": true},
     "tags": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
     "research_status": {"enum": ["provisional", "reviewed", "needs_revision"]}
   }
