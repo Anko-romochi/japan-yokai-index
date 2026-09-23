@@ -1,0 +1,23 @@
+name: New entity / 新規存在
+description: 妖怪・怪異・人霊などの索引項目を提案する
+title: "New entity: "
+labels: ["new-entity", "reported"]
+body:
+  - type: input
+    id: name_ja
+    attributes:
+      label: 日本語名 / Japanese name
+    validations:
+      required: true
+  - type: textarea
+    id: distinction
+    attributes:
+      label: 既存項目との違い / Distinction from existing entries
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 根拠資料・URL／書誌・該当位置 / Source, URL or bibliography, locator
+    validations:
+      required: true

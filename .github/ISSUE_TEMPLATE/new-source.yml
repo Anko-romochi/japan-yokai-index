@@ -1,0 +1,35 @@
+name: New source / 新規資料
+description: Corpusで参照すべき資料を提案する
+title: "New source: "
+labels: ["new-source", "reported"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 資料名 / Title
+    validations:
+      required: true
+  - type: textarea
+    id: bibliography
+    attributes:
+      label: 著者・年代・所蔵／提供機関 / Author, date, repository
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URLまたは外部ID / URL or external ID
+    validations:
+      required: true
+  - type: input
+    id: locator
+    attributes:
+      label: 該当位置 / Locator
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: 関連する存在・主張と権利情報 / Relevance and rights
+    validations:
+      required: true

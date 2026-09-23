@@ -1,0 +1,46 @@
+name: Correction / 訂正
+description: 根拠付きで既存データの修正を提案する
+title: "Correction: "
+labels: ["correction", "reported"]
+body:
+  - type: input
+    id: target_id
+    attributes:
+      label: 対象ID / Target ID
+      description: entity、source、claim のID
+      placeholder: claim_0001
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 問題箇所 / Problem
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 修正案 / Proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 根拠資料 / Evidence source
+      description: 資料名、著者、発行年など
+    validations:
+      required: true
+  - type: input
+    id: bibliography
+    attributes:
+      label: URL／書誌 / URL or bibliography
+      placeholder: https://... または書誌ID
+    validations:
+      required: true
+  - type: input
+    id: locator
+    attributes:
+      label: ページまたは位置 / Page or locator
+      placeholder: p. 12 / 第3コマ / 「河童」節
+    validations:
+      required: true
