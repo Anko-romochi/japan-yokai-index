@@ -78,3 +78,4 @@
 {"id":"betobeto_san","name_ja":"ベトベトさん","name_kana":"べとべとさん","name_romaji":"Betobeto-san","aliases":[],"entity_type":"supernatural_phenomenon","attested_periods":[],"attested_regions":["奈良県宇陀市大宇陀町"],"tags":[],"research_status":"provisional"}
 {"id":"gouriki_san","name_ja":"ゴウリキさん","name_kana":"ごうりきさん","name_romaji":"Gōriki-san","aliases":[],"entity_type":"supernatural_phenomenon","attested_periods":[],"attested_regions":["山形県庄内地方"],"tags":[],"research_status":"provisional"}
 {"id":"okurisuzume","name_ja":"送り雀","name_kana":"おくりすずめ","name_romaji":"Okurisuzume","aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["紀州地方"],"tags":[],"research_status":"provisional"}
+{"id":"tofu_kozo","name_ja":"豆腐小僧","name_kana":"とうふこぞう","name_romaji":"Tōfu-kozō","aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["edo","heisei"],"attested_regions":[],"tags":[],"research_status":"provisional"}
