@@ -1,0 +1,135 @@
+[
+  {
+    "case": "油取り",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1550068.html",
+    "output": {
+      "name_mentions": [
+        "油取り（俗信）",
+        "高田十郎",
+        "各地のいひならはし（其六）",
+        "なら",
+        "岩手県遠野市"
+      ],
+      "record_ids": [
+        "1550068"
+      ],
+      "page_locators": [
+        "3裏"
+      ],
+      "section_headings": []
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "赤マント",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html",
+    "output": {
+      "name_mentions": [
+        "飯倉義之",
+        "子取りばばあ",
+        "油取り",
+        "赤マントの怪人",
+        "竹槍騒擾記",
+        "旅と伝説",
+        "各地のいひならはし（其七）",
+        "なら"
+      ],
+      "record_ids": [],
+      "page_locators": [],
+      "section_headings": [
+        "### 第42回"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "饅頭食わせ",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0690264",
+    "output": {
+      "name_mentions": [
+        "饅頭食はせ",
+        "狐",
+        "狸",
+        "尾張犬山の口碑伝説",
+        "郷土趣味",
+        "4巻8号",
+        "通巻44号",
+        "1923年",
+        "愛知県犬山市"
+      ],
+      "record_ids": [
+        "0690264"
+      ],
+      "page_locators": [
+        "17"
+      ],
+      "section_headings": []
+    },
+    "machine_errors": [],
+    "machine_warnings": [
+      "non-name candidate requires Sol filtering: 4巻8号",
+      "non-name candidate requires Sol filtering: 通巻44号",
+      "non-name candidate requires Sol filtering: 1923年"
+    ],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "ヒダル神",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2240297",
+    "output": {
+      "name_mentions": [
+        "ヒダル神",
+        "柳田国男",
+        "ひだる神のこと",
+        "民族",
+        "奈良県宇陀郡"
+      ],
+      "record_ids": [
+        "2240297"
+      ],
+      "page_locators": [
+        "158"
+      ],
+      "section_headings": []
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "ヒトタタラ",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1720003.html",
+    "output": {
+      "name_mentions": [
+        "ヒトタタラ",
+        "鬼",
+        "若尾五雄",
+        "鬼と金工",
+        "日本民俗学",
+        "通巻69号",
+        "1970年",
+        "和歌山県東牟婁郡那智勝浦町",
+        "王子権現",
+        "熊野",
+        "刑部左衛門"
+      ],
+      "record_ids": [
+        "1720003"
+      ],
+      "page_locators": [
+        "58"
+      ],
+      "section_headings": []
+    },
+    "machine_errors": [],
+    "machine_warnings": [
+      "non-name candidate requires Sol filtering: 通巻69号",
+      "non-name candidate requires Sol filtering: 1970年"
+    ],
+    "markdown_fence_normalized": true
+  }
+]
