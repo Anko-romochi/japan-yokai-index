@@ -76,14 +76,16 @@ def check(output, snippet, accepted_names=()):
                 errors.append(f"{key}: numeric ID as name: {item!r}")
     if errors:
         return errors
-    expected_records = re.findall(r"■ 番号\s+([0-9]+)", snippet)
+    expected_records = re.findall(r"■ 番号\s+([A-Za-z0-9-]+)", snippet)
     expected_pages = re.findall(r"■ 掲載箇所・開始頁\s+([^\n]+)", snippet)
     if output["record_ids"] != expected_records:
         errors.append("record_ids: mismatch against labelled source field")
     if output["page_locators"] != expected_pages:
         errors.append("page_locators: mismatch against labelled source field")
-    if any(not item.startswith("### ") for item in output["section_headings"]):
-        errors.append("section_headings: not a section heading")
+    source_headings = re.findall(r"^### (.+)$", snippet, flags=re.MULTILINE)
+    normalized_headings = [item.removeprefix("### ") for item in output["section_headings"]]
+    if normalized_headings != source_headings:
+        errors.append("section_headings: mismatch against source headings")
     if accepted_names and not any(name in mention for name in accepted_names for mention in output["name_mentions"]):
         errors.append("target surface form omitted")
     return errors

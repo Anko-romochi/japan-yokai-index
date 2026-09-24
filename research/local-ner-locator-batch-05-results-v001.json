@@ -1,0 +1,161 @@
+[
+  {
+    "case": "子取婆",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1231229.html",
+    "output": {
+      "name_mentions": [
+        "コトリバア",
+        "子取婆",
+        "三木春露",
+        "『竹槍騒擾記』",
+        "旅と伝説",
+        "香川県",
+        "三豊市",
+        "ノブ"
+      ],
+      "record_ids": [
+        "1231229"
+      ],
+      "page_locators": [
+        "65"
+      ],
+      "section_headings": [
+        "### カード表示"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "ナンジ",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html",
+    "output": {
+      "name_mentions": [
+        "熊野古道",
+        "ヒダル神",
+        "ヒトタタラ",
+        "ナンジ"
+      ],
+      "record_ids": [],
+      "page_locators": [],
+      "section_headings": [
+        "### 第71回"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "送り狼",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1260080",
+    "output": {
+      "name_mentions": [
+        "オクリオオカミ",
+        "送り狼",
+        "口承文芸",
+        "中京民俗",
+        "岐阜県",
+        "恵那市",
+        "殿様街道",
+        "夕立山"
+      ],
+      "record_ids": [
+        "1260080"
+      ],
+      "page_locators": [
+        "231"
+      ],
+      "section_headings": [
+        "### カード表示"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "ベトベトさん",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2180750",
+    "output": {
+      "name_mentions": [
+        "ベトベトサン",
+        "ベトベトさん",
+        "柳田国男",
+        "妖怪名彙（三）",
+        "民間伝承",
+        "奈良県",
+        "宇陀市"
+      ],
+      "record_ids": [
+        "2180750"
+      ],
+      "page_locators": [
+        "12"
+      ],
+      "section_headings": [
+        "カード表示"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "ゴウリキさん",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1140545",
+    "output": {
+      "name_mentions": [
+        "ゴウリキサン",
+        "ゴウリキさん",
+        "高橋敏弘",
+        "怪異雑考（六）",
+        "西郊民俗",
+        "山形県",
+        "ベトベトさん",
+        "山形県庄内地方"
+      ],
+      "record_ids": [
+        "1140545"
+      ],
+      "page_locators": [
+        "32"
+      ],
+      "section_headings": [
+        "カード表示"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  },
+  {
+    "case": "送り雀",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/C0410963-000.html",
+    "output": {
+      "name_mentions": [
+        "オクリスズメ",
+        "送り雀",
+        "宮城縣",
+        "妖怪変化・幽霊：妖怪変化",
+        "宮城縣史 民俗3",
+        "チチ、チチ",
+        "紀州地方",
+        "送り狼"
+      ],
+      "record_ids": [
+        "C0410963-000"
+      ],
+      "page_locators": [
+        "442"
+      ],
+      "section_headings": [
+        "### カード表示"
+      ]
+    },
+    "machine_errors": [],
+    "machine_warnings": [],
+    "markdown_fence_normalized": true
+  }
+]
