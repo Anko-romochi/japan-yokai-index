@@ -183,3 +183,33 @@ candidate_name,region,source,source_type,digital_access,possible_duplicate,prior
 わかっぱ,福岡県,北九州市案内,institutional_explanation,yes,yes,B,deferred_mascot_identity
 笑うゴロスケ,神奈川県,横浜市港南区民話,institutional_explanation,yes,no,B,rejected_ordinary_owl
 二十三夜様,青森県,YoukaiDB C0220059-001,database_record,yes,no,B,rejected_insufficient_supernatural_scope
+さぎむすめ,,NDL新形三十六怪撰,institutional_catalog,yes,no,A,admitted
+痘鬼神,,NDL新形三十六怪撰,institutional_catalog,yes,no,A,admitted
+頓欲の婆々,,NDL和漢百物語,institutional_catalog,yes,no,A,admitted
+タタミタタキ,高知県,YoukaiDB 2180704,database_record,yes,no,A,admitted
+ケチビ,高知県,YoukaiDB 2180843,database_record,yes,no,A,admitted
+ヒンナ神,富山県,YoukaiDB 2180205,database_record,yes,no,A,admitted
+コチョボ,富山県,YoukaiDB 2180205,database_record,yes,yes,A,admitted_separate_object_form
+脛立,岩手県,YoukaiDB 0730011,database_record,yes,no,A,admitted
+シバテン,徳島県,YoukaiDB 0150082,database_record,yes,no,A,admitted
+ゴンゴロウビ,新潟県,YoukaiDB 2180958,database_record,yes,no,A,admitted
+砂まき,新潟県,YoukaiDB 2180740,database_record,yes,no,A,admitted_three_regions
+アブラスマシ,熊本県,YoukaiDB 2180763,database_record,yes,no,A,admitted
+金ン主,熊本県,YoukaiDB 2180962,database_record,yes,no,A,admitted
+天火,熊本県,YoukaiDB 2180832,database_record,yes,no,A,admitted
+食わず女房,青森県,YoukaiDB C0220093-000,database_record,yes,no,A,admitted
+オシラサマ,青森県,YoukaiDB C0220076-000,database_record,yes,no,A,admitted
+ティティコブシ,島根県,YoukaiDB 1232090,database_record,yes,no,A,admitted
+五郎さま,島根県,YoukaiDB 2010008,database_record,yes,no,A,admitted
+七尋女房,島根県,YoukaiDB 2610016,database_record,yes,no,A,admitted
+えんこう,島根県,YoukaiDB 0950017,database_record,yes,yes,A,admitted_no_kappa_alias
+黒坊,山口県,YoukaiDB 2400029,database_record,yes,yes,A,admitted_no_kappa_alias
+あかしゃぐま,徳島県,YoukaiDB 1230217_002,database_record,yes,no,A,admitted
+高入道,徳島県,YoukaiDB 2180782,database_record,yes,yes,A,admitted_no_high_bozu_alias
+夜行さん,徳島県,YoukaiDB 2180965,database_record,yes,no,A,admitted
+常元虫,滋賀県,YoukaiDB 3510014,database_record,yes,no,A,admitted
+浅倉當吾亡霊,,NDL歌川国芳の描いた妖怪,institutional_catalog,yes,yes,B,rejected_probable_existing_sakura_sogo
+見上げ入道,新潟県,YoukaiDB 2180787,database_record,yes,yes,B,deferred_existing_mikoshi_nyudo_identity
+かりこ坊,宮崎県,YoukaiDB C4510189-000,database_record,yes,yes,B,deferred_kappa_hyosunbo_scope
+常陸坊海尊仙人／清悦,岩手県,YoukaiDB 1232051_001,database_record,yes,yes,B,deferred_identity_mapping
+うはばみ／一,山口県,YoukaiDB 1230205,database_record,yes,yes,B,deferred_generic_vs_named_grain
