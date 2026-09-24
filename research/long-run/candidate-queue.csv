@@ -96,3 +96,28 @@ candidate_name,region,source,source_type,digital_access,possible_duplicate,prior
 川天狗,神奈川県,YoukaiDB C1450062-000,database_record,yes,yes,A,admitted
 忌田,群馬県,YoukaiDB 1420069,database_record,yes,yes,A,admitted
 クダキツネ,長野県,YoukaiDB 0160016,database_record,yes,yes,A,admitted
+花の咲かない桔梗,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,yes,A,admitted
+シラサギの霊,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,no,A,admitted
+血を流す大杉,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,no,A,admitted
+寅薬師と御手洗池,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,yes,A,admitted
+玉屋の離れ座敷,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,no,A,admitted
+三夜様の榎,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,no,A,admitted
+高野のお化け石,茨城県,守谷市守谷の七不思議,institutional_explanation,yes,no,A,admitted
+鹿島明神の鹿,福井県,あわら市吉崎の七不思議,institutional_explanation,yes,yes,A,admitted
+お筆草,福井県,あわら市吉崎の七不思議,institutional_explanation,yes,no,A,admitted
+お腰掛の石,福井県,あわら市吉崎の七不思議,institutional_explanation,yes,no,A,admitted
+お花松,福井県,あわら市吉崎の七不思議,institutional_explanation,yes,no,A,admitted
+こなごの由来,福井県,あわら市吉崎の七不思議,institutional_explanation,yes,no,A,admitted
+蓮如がに,福井県,あわら市吉崎の七不思議,institutional_explanation,yes,no,A,admitted
+神鴉,広島県,宮島観光協会七不思議,institutional_explanation,yes,no,A,admitted
+弥山の松明,広島県,宮島観光協会七不思議,institutional_explanation,yes,no,A,admitted
+弥山の拍子木,広島県,宮島観光協会七不思議,institutional_explanation,yes,no,A,admitted
+みさき,広島県,宮島観光協会七不思議,institutional_explanation,yes,yes,A,admitted
+雪の跡,広島県,宮島観光協会七不思議,institutional_explanation,yes,no,A,admitted
+負け嫌い稲荷,兵庫県,丹波篠山市負け嫌い稲荷,institutional_explanation,yes,yes,A,admitted
+観音橋の夜泣榎,兵庫県,丹波篠山市怪談七不思議,institutional_explanation,yes,no,A,admitted
+土手裏のおちょぼ,兵庫県,丹波篠山市怪談七不思議,institutional_explanation,yes,no,A,admitted
+川ン丁の鼻黒,兵庫県,丹波篠山市怪談七不思議,institutional_explanation,yes,no,A,admitted
+井の榧の木,兵庫県,丹波篠山市怪談七不思議,institutional_explanation,yes,yes,A,admitted
+一本松の見越しの入道,兵庫県,丹波篠山市怪談七不思議,institutional_explanation,yes,yes,A,admitted
+番所橋の酒買い小僧,兵庫県,丹波篠山市怪談七不思議,institutional_explanation,yes,no,A,admitted
