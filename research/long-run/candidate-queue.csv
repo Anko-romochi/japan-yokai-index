@@ -213,3 +213,34 @@ candidate_name,region,source,source_type,digital_access,possible_duplicate,prior
 かりこ坊,宮崎県,YoukaiDB C4510189-000,database_record,yes,yes,B,deferred_kappa_hyosunbo_scope
 常陸坊海尊仙人／清悦,岩手県,YoukaiDB 1232051_001,database_record,yes,yes,B,deferred_identity_mapping
 うはばみ／一,山口県,YoukaiDB 1230205,database_record,yes,yes,B,deferred_generic_vs_named_grain
+千間川の河童,福岡県,遠賀町ページID 0001484,institutional_explanation,yes,yes,A,admitted
+水神の薮の竜,福岡県,遠賀町ページID 0001487,institutional_explanation,yes,no,A,admitted
+日本さいごの鬼,福岡県,遠賀町ページID 0001488,institutional_explanation,yes,yes,A,admitted
+ハガクレ天狗,福岡県,遠賀町ページID 0001490,institutional_explanation,yes,no,A,admitted
+夢前川の河童,兵庫県,ひょうご伝説紀行「夢前川の河童 穴淵の綱引き、大勝負」,institutional_explanation,yes,yes,A,admitted
+ソランジン,兵庫県,ひょうご伝説紀行「鷲の地主神 如意尼とソランジン」,institutional_explanation,yes,no,A,admitted
+明石の大ダコ,兵庫県,ひょうご伝説紀行「明石の大ダコ 三郎左衛門の知恵」,institutional_explanation,yes,yes,A,admitted
+しうりのカン子,青森県,Moda7-05-01-0-253／資料番号253,primary_or_early_source,yes,no,A,admitted
+河媼,青森県,Fork_IW_0000,institutional_explanation,yes,yes,A,admitted
+ヒィーヒョーどん,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,yes,A,admitted
+荒川のもれんび,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,no,A,admitted
+田中どんのもれんのひ,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,no,A,admitted
+アブンサマ,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,no,A,admitted
+冠岳のウヘッ,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,yes,A,admitted
+舟川の山姫,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,yes,A,admitted
+洗濯女,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,no,A,admitted
+安茶ヶ原のキツネ,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,yes,A,admitted
+黒江嘉門介の怨霊,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,no,A,admitted
+お光,鹿児島県,いちき串木野市郷土史料集1 民話・祭り編,institutional_explanation,yes,no,A,admitted
+菊姫の怨霊,福岡県,宗像市 歴史文化遺産リスト,institutional_catalog,yes,no,B,admitted
+鎮国寺の白蛇,福岡県,宗像市 歴史文化遺産リスト,institutional_catalog,yes,yes,B,admitted
+釣川の長太郎河童,福岡県,宗像市 歴史文化遺産リスト,institutional_catalog,yes,no,B,admitted
+樽見峠の河童,福岡県,宗像市 歴史文化遺産リスト,institutional_catalog,yes,yes,B,admitted
+津和瀬の幽霊船,福岡県,宗像市 歴史文化遺産リスト,institutional_catalog,yes,no,B,admitted
+龍王池の金色の龍,福岡県,宗像市 歴史文化遺産リスト,institutional_catalog,yes,no,B,admitted
+ネコガン,鹿児島県,municipal_folklore_page,institutional_explanation,yes,yes,B,deferred_generic_cat_deity_scope
+稲庭化,福岡県,municipal_folklore_page,institutional_explanation,yes,yes,B,deferred_literal_name_and_identity
+おきよ地蔵,福岡県,municipal_folklore_page,institutional_explanation,yes,no,B,rejected_ordinary_memorial
+底井野姥さん,福岡県,municipal_folklore_page,institutional_explanation,yes,no,B,rejected_ordinary_person
+まてじい,福岡県,municipal_folklore_page,institutional_explanation,yes,no,B,rejected_ordinary_person
+神盗人,福岡県,municipal_folklore_page,institutional_explanation,yes,no,B,rejected_no_distinct_supernatural_entity
