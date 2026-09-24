@@ -1,0 +1,32 @@
+[
+  {
+    "case": "油取り",
+    "accepted_entity_names": ["油取り"],
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1550068.html",
+    "snippet": "取得ページ: 国際日本文化研究センター『怪異・妖怪伝承データベース』カード表示。URL: https://www.nichibun.ac.jp/YoukaiCard/1550068.html\n■ 番号 1550068\n■ 呼称（漢字） 油取り（俗信）\n■ 執筆者 高田十郎\n■ 論文名 各地のいひならはし（其六）\n■ 書名・誌名 なら、通巻32号\n■ 発行年（西暦） 1925年\n■ 掲載箇所・開始頁 3裏\n■ 地域 岩手県遠野市\n■ 要約 人の油を取ると噂される油取りの来訪が戦争の前触れとされた。"
+  },
+  {
+    "case": "赤マント",
+    "accepted_entity_names": ["赤マント"],
+    "source_url": "https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html",
+    "snippet": "取得ページ: 国際日本文化研究センター『異界の杜』解説記事。URL: https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html\n### 第42回\n# 夕暮れ、子供にせまる影\n日文研妖怪DB班・飯倉義之。本文では、子取りばばあ、油取り、赤マントの怪人を、夕暮れに子供を連れ去ると語られる脅威として並べている。帰宅を促す文句に使われ、連れ去りの理由には売買、採血、肝取りなどが挙げられる。\n調べてみよう: 「竹槍騒擾記」『旅と伝説』、「各地のいひならはし（其七）」『なら』ほか。"
+  },
+  {
+    "case": "饅頭食わせ",
+    "accepted_entity_names": ["饅頭食わせ", "饅頭食はせ"],
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0690264",
+    "snippet": "取得ページ: 国際日本文化研究センター『怪異・妖怪伝承データベース』カード表示。URL: https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0690264\n■ 番号 0690264\n■ 呼称（漢字） 饅頭食はせ，狐，狸\n■ 論文名 尾張犬山の口碑伝説\n■ 書名・誌名 郷土趣味、4巻8号／通巻44号\n■ 発行年（西暦） 1923年\n■ 掲載箇所・開始頁 17\n■ 地域 愛知県犬山市\n■ 要約 子に毒饅頭を食べさせる饅頭食わせがいるとの噂が広がる。和尚らが調べるが、村人は事件を知らず、狐か狸に化かされた可能性として語られる。"
+  },
+  {
+    "case": "ヒダル神",
+    "accepted_entity_names": ["ヒダル神"],
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2240297",
+    "snippet": "取得ページ: 国際日本文化研究センター『怪異・妖怪伝承データベース』カード表示。URL: https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2240297\n■ 番号 2240297\n■ 呼称（漢字） ヒダル神\n■ 執筆者 柳田国男\n■ 論文名 ひだる神のこと\n■ 書名・誌名 民族、1巻1号\n■ 発行年（西暦） 1925年\n■ 掲載箇所・開始頁 158\n■ 地域 奈良県宇陀郡\n■ 要約 食物を持たず空腹のまま通るとヒダル神に取り憑かれる場所があると記す。近くに文久3年建立の供養塔がある。"
+  },
+  {
+    "case": "ヒトタタラ",
+    "accepted_entity_names": ["ヒトタタラ"],
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1720003.html",
+    "snippet": "取得ページ: 国際日本文化研究センター『怪異・妖怪伝承データベース』カード表示。URL: https://www.nichibun.ac.jp/YoukaiCard/1720003.html\n■ 番号 1720003\n■ 呼称（漢字） ヒトタタラ，鬼\n■ 執筆者 若尾五雄\n■ 論文名 鬼と金工\n■ 書名・誌名 日本民俗学、通巻69号\n■ 発行年（西暦） 1970年\n■ 掲載箇所・開始頁 58\n■ 地域 和歌山県東牟婁郡那智勝浦町\n■ 要約 王子権現に片目片足の鬼がいたとされ、熊野参詣の人々を悩ませ、刑部左衛門が討ち取ったと記す。"
+  }
+]

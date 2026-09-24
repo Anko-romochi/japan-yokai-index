@@ -1,0 +1,318 @@
+[
+  {
+    "case": "油取り",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1550068.html",
+    "raw": "```json\n{\n  \"entity_candidate\": {\n    \"name\": \"油取り\",\n    \"name_type\": \"rumor/phenomenon\",\n    \"aliases_explicitly_found\": [\n      \"油取り（俗信）\"\n    ]\n  },\n  \"source_container\": {\n    \"container_type\": \"database\",\n    \"title\": \"怪異・妖怪伝承データベース\",\n    \"author\": null,\n    \"publication_date\": null,\n    \"repository\": \"国際日本文化研究センター\",\n    \"url\": \"https://www.nichibun.ac.jp/YoukaiCard/1550068.html\",\n    \"external_id\": \"1550068\"\n  },\n  \"record_metadata\": {\n    \"record_id\": \"1550068\",\n    \"record_label\": \"油取り（俗信）\",\n    \"section_heading\": null,\n    \"page_or_locator\": \"3裏\"\n  },\n  \"work_reference\": {\n    \"explicit_work_title\": \"各地のいひならはし（其六）\",\n    \"work_type\": \"article\",\n    \"is_explicitly_named_in_source\": true,\n    \"evidence_locator\": \"論文名\"\n  },\n  \"claim_candidate\": {\n    \"text\": \"人の油を取ると噂される油取りの来訪が戦争の前触れとされた。\",\n    \"layer_candidate\": \"rumor/phenomenon\"\n  },\n  \"relations\": {\n    \"historical_person_relation\": null,\n    \"land_or_deity_relation\": null,\n    \"persona_formation_relation\": null\n  },\n  \"quality\": {\n    \"ambiguities\": [],\n    \"possible_duplicates\": [],\n    \"requires_sol_review\": true,\n    \"review_reasons\": [\n      \"rumor/phenomenon\"\n    ]\n  }\n}\n```",
+    "output": {
+      "entity_candidate": {
+        "name": "油取り",
+        "name_type": "rumor/phenomenon",
+        "aliases_explicitly_found": [
+          "油取り（俗信）"
+        ]
+      },
+      "source_container": {
+        "container_type": "database",
+        "title": "怪異・妖怪伝承データベース",
+        "author": null,
+        "publication_date": null,
+        "repository": "国際日本文化研究センター",
+        "url": "https://www.nichibun.ac.jp/YoukaiCard/1550068.html",
+        "external_id": "1550068"
+      },
+      "record_metadata": {
+        "record_id": "1550068",
+        "record_label": "油取り（俗信）",
+        "section_heading": null,
+        "page_or_locator": "3裏"
+      },
+      "work_reference": {
+        "explicit_work_title": "各地のいひならはし（其六）",
+        "work_type": "article",
+        "is_explicitly_named_in_source": true,
+        "evidence_locator": "論文名"
+      },
+      "claim_candidate": {
+        "text": "人の油を取ると噂される油取りの来訪が戦争の前触れとされた。",
+        "layer_candidate": "rumor/phenomenon"
+      },
+      "relations": {
+        "historical_person_relation": null,
+        "land_or_deity_relation": null,
+        "persona_formation_relation": null
+      },
+      "quality": {
+        "ambiguities": [],
+        "possible_duplicates": [],
+        "requires_sol_review": true,
+        "review_reasons": [
+          "rumor/phenomenon"
+        ]
+      }
+    },
+    "machine_errors": [
+      "JSON-only contract violated: Markdown fence",
+      "entity_candidate.name_type: enum",
+      "source_container.container_type: enum",
+      "claim_candidate.layer_candidate: enum",
+      "aliases inferred without an explicit synonym statement"
+    ],
+    "mandatory_review_reasons": [
+      "work title present"
+    ]
+  },
+  {
+    "case": "赤マント",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html",
+    "raw": "```json\n{\n  \"entity_candidate\": {\n    \"name\": \"子取りばばあ\",\n    \"name_type\": \"rumor/phenomenon\",\n    \"aliases_explicitly_found\": []\n  },\n  \"source_container\": {\n    \"container_type\": \"web_page\",\n    \"title\": \"異界の杜\",\n    \"author\": \"飯倉義之\",\n    \"publication_date\": null,\n    \"repository\": \"国際日本文化研究センター\",\n    \"url\": \"https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html\",\n    \"external_id\": null\n  },\n  \"record_metadata\": {\n    \"record_id\": \"第42回\",\n    \"record_label\": \"夕暮れ、子供にせまる影\",\n    \"section_heading\": null,\n    \"page_or_locator\": \"本文\"\n  },\n  \"work_reference\": {\n    \"explicit_work_title\": \"竹槍騒擾記\",\n    \"work_type\": \"literature\",\n    \"is_explicitly_named_in_source\": true,\n    \"evidence_locator\": \"調べてみよう\"\n  },\n  \"claim_candidate\": {\n    \"text\": \"夕暮れに子供を連れ去ると語られる脅威として並べている。帰宅を促す文句に使われ、連れ去りの理由には売買、採血、肝取りなどが挙げられる。\",\n    \"layer_candidate\": \"rumor/phenomenon\"\n  },\n  \"relations\": {\n    \"historical_person_relation\": null,\n    \"land_or_deity_relation\": null,\n    \"persona_formation_relation\": null\n  },\n  \"quality\": {\n    \"ambiguities\": [\n      \"油取り\",\n      \"赤マントの怪人\"\n    ],\n    \"possible_duplicates\": [],\n    \"requires_sol_review\": true,\n    \"review_reasons\": [\n      \"同名異伝承（子取りばばあ、油取り、赤マントの怪人が並列されているため）\"\n    ]\n  }\n}\n```",
+    "output": {
+      "entity_candidate": {
+        "name": "子取りばばあ",
+        "name_type": "rumor/phenomenon",
+        "aliases_explicitly_found": []
+      },
+      "source_container": {
+        "container_type": "web_page",
+        "title": "異界の杜",
+        "author": "飯倉義之",
+        "publication_date": null,
+        "repository": "国際日本文化研究センター",
+        "url": "https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html",
+        "external_id": null
+      },
+      "record_metadata": {
+        "record_id": "第42回",
+        "record_label": "夕暮れ、子供にせまる影",
+        "section_heading": null,
+        "page_or_locator": "本文"
+      },
+      "work_reference": {
+        "explicit_work_title": "竹槍騒擾記",
+        "work_type": "literature",
+        "is_explicitly_named_in_source": true,
+        "evidence_locator": "調べてみよう"
+      },
+      "claim_candidate": {
+        "text": "夕暮れに子供を連れ去ると語られる脅威として並べている。帰宅を促す文句に使われ、連れ去りの理由には売買、採血、肝取りなどが挙げられる。",
+        "layer_candidate": "rumor/phenomenon"
+      },
+      "relations": {
+        "historical_person_relation": null,
+        "land_or_deity_relation": null,
+        "persona_formation_relation": null
+      },
+      "quality": {
+        "ambiguities": [
+          "油取り",
+          "赤マントの怪人"
+        ],
+        "possible_duplicates": [],
+        "requires_sol_review": true,
+        "review_reasons": [
+          "同名異伝承（子取りばばあ、油取り、赤マントの怪人が並列されているため）"
+        ]
+      }
+    },
+    "machine_errors": [
+      "JSON-only contract violated: Markdown fence",
+      "entity_candidate.name_type: enum",
+      "source_container.container_type: enum",
+      "work_reference.work_type: enum",
+      "claim_candidate.layer_candidate: enum",
+      "entity identity differs from target"
+    ],
+    "mandatory_review_reasons": [
+      "work title present"
+    ]
+  },
+  {
+    "case": "饅頭食わせ",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0690264",
+    "raw": "```json\n{\n  \"entity_candidate\": {\n    \"name\": \"饅頭食はせ\",\n    \"name_type\": \"rumor/phenomenon\",\n    \"aliases_explicitly_found\": [\n      \"狐\",\n      \"狸\"\n    ]\n  },\n  \"source_container\": {\n    \"container_type\": \"database\",\n    \"title\": \"怪異・妖怪伝承データベース\",\n    \"author\": null,\n    \"publication_date\": null,\n    \"repository\": \"国際日本文化研究センター\",\n    \"url\": \"https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0690264\",\n    \"external_id\": \"0690264\"\n  },\n  \"record_metadata\": {\n    \"record_id\": \"0690264\",\n    \"record_label\": \"饅頭食はせ，狐，狸\",\n    \"section_heading\": null,\n    \"page_or_locator\": \"17\"\n  },\n  \"work_reference\": {\n    \"explicit_work_title\": \"尾張犬山の口碑伝説\",\n    \"work_type\": \"article\",\n    \"is_explicitly_named_in_source\": true,\n    \"evidence_locator\": \"論文名\"\n  },\n  \"claim_candidate\": {\n    \"text\": \"子に毒饅頭を食べさせる饅頭食わせがいるとの噂が広がる。和尚らが調べるが、村人は事件を知らず、狐か狸に化かされた可能性として語られる。\",\n    \"layer_candidate\": \"rumor/phenomenon\"\n  },\n  \"relations\": {\n    \"historical_person_relation\": null,\n    \"land_or_deity_relation\": null,\n    \"persona_formation_relation\": null\n  },\n  \"quality\": {\n    \"ambiguities\": [\n      \"呼称に「狐」「狸」が含まれるが、これらが実在の動物か化けの正体かの区別が不明瞭\"\n    ],\n    \"possible_duplicates\": [],\n    \"requires_sol_review\": true,\n    \"review_reasons\": [\n      \"呼称に複数の名称が含まれており、同一の存在を指すのか、あるいは別の伝承と混同されているか確認が必要\",\n      \"「狐」「狸」が実在の動物か、それとも怪異としての呼称かの判定が必要\"\n    ]\n  }\n}\n```",
+    "output": {
+      "entity_candidate": {
+        "name": "饅頭食はせ",
+        "name_type": "rumor/phenomenon",
+        "aliases_explicitly_found": [
+          "狐",
+          "狸"
+        ]
+      },
+      "source_container": {
+        "container_type": "database",
+        "title": "怪異・妖怪伝承データベース",
+        "author": null,
+        "publication_date": null,
+        "repository": "国際日本文化研究センター",
+        "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0690264",
+        "external_id": "0690264"
+      },
+      "record_metadata": {
+        "record_id": "0690264",
+        "record_label": "饅頭食はせ，狐，狸",
+        "section_heading": null,
+        "page_or_locator": "17"
+      },
+      "work_reference": {
+        "explicit_work_title": "尾張犬山の口碑伝説",
+        "work_type": "article",
+        "is_explicitly_named_in_source": true,
+        "evidence_locator": "論文名"
+      },
+      "claim_candidate": {
+        "text": "子に毒饅頭を食べさせる饅頭食わせがいるとの噂が広がる。和尚らが調べるが、村人は事件を知らず、狐か狸に化かされた可能性として語られる。",
+        "layer_candidate": "rumor/phenomenon"
+      },
+      "relations": {
+        "historical_person_relation": null,
+        "land_or_deity_relation": null,
+        "persona_formation_relation": null
+      },
+      "quality": {
+        "ambiguities": [
+          "呼称に「狐」「狸」が含まれるが、これらが実在の動物か化けの正体かの区別が不明瞭"
+        ],
+        "possible_duplicates": [],
+        "requires_sol_review": true,
+        "review_reasons": [
+          "呼称に複数の名称が含まれており、同一の存在を指すのか、あるいは別の伝承と混同されているか確認が必要",
+          "「狐」「狸」が実在の動物か、それとも怪異としての呼称かの判定が必要"
+        ]
+      }
+    },
+    "machine_errors": [
+      "JSON-only contract violated: Markdown fence",
+      "entity_candidate.name_type: enum",
+      "source_container.container_type: enum",
+      "claim_candidate.layer_candidate: enum",
+      "aliases inferred without an explicit synonym statement"
+    ],
+    "mandatory_review_reasons": [
+      "work title present"
+    ]
+  },
+  {
+    "case": "ヒダル神",
+    "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2240297",
+    "raw": "```json\n{\n  \"entity_candidate\": {\n    \"name\": \"ヒダル神\",\n    \"name_type\": \"deity\",\n    \"aliases_explicitly_found\": []\n  },\n  \"source_container\": {\n    \"container_type\": \"database\",\n    \"title\": \"怪異・妖怪伝承データベース\",\n    \"author\": null,\n    \"publication_date\": null,\n    \"repository\": \"国際日本文化研究センター\",\n    \"url\": \"https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2240297\",\n    \"external_id\": \"2240297\"\n  },\n  \"record_metadata\": {\n    \"record_id\": \"2240297\",\n    \"record_label\": \"ヒダル神\",\n    \"section_heading\": null,\n    \"page_or_locator\": \"158\"\n  },\n  \"work_reference\": {\n    \"explicit_work_title\": \"ひだる神のこと\",\n    \"work_type\": \"article\",\n    \"is_explicitly_named_in_source\": true,\n    \"evidence_locator\": \"論文名\"\n  },\n  \"claim_candidate\": {\n    \"text\": \"食物を持たず空腹のまま通るとヒダル神に取り憑かれる場所があると記す。近くに文久3年建立の供養塔がある。\",\n    \"layer_candidate\": \"rumor/phenomenon\"\n  },\n  \"relations\": {\n    \"historical_person_relation\": null,\n    \"land_or_deity_relation\": \"deity\",\n    \"persona_formation_relation\": null\n  },\n  \"quality\": {\n    \"ambiguities\": [],\n    \"possible_duplicates\": [],\n    \"requires_sol_review\": true,\n    \"review_reasons\": [\n      \"work title\"\n    ]\n  }\n}\n```",
+    "output": {
+      "entity_candidate": {
+        "name": "ヒダル神",
+        "name_type": "deity",
+        "aliases_explicitly_found": []
+      },
+      "source_container": {
+        "container_type": "database",
+        "title": "怪異・妖怪伝承データベース",
+        "author": null,
+        "publication_date": null,
+        "repository": "国際日本文化研究センター",
+        "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2240297",
+        "external_id": "2240297"
+      },
+      "record_metadata": {
+        "record_id": "2240297",
+        "record_label": "ヒダル神",
+        "section_heading": null,
+        "page_or_locator": "158"
+      },
+      "work_reference": {
+        "explicit_work_title": "ひだる神のこと",
+        "work_type": "article",
+        "is_explicitly_named_in_source": true,
+        "evidence_locator": "論文名"
+      },
+      "claim_candidate": {
+        "text": "食物を持たず空腹のまま通るとヒダル神に取り憑かれる場所があると記す。近くに文久3年建立の供養塔がある。",
+        "layer_candidate": "rumor/phenomenon"
+      },
+      "relations": {
+        "historical_person_relation": null,
+        "land_or_deity_relation": "deity",
+        "persona_formation_relation": null
+      },
+      "quality": {
+        "ambiguities": [],
+        "possible_duplicates": [],
+        "requires_sol_review": true,
+        "review_reasons": [
+          "work title"
+        ]
+      }
+    },
+    "machine_errors": [
+      "JSON-only contract violated: Markdown fence",
+      "entity_candidate.name_type: enum",
+      "source_container.container_type: enum",
+      "claim_candidate.layer_candidate: enum"
+    ],
+    "mandatory_review_reasons": [
+      "work title present",
+      "record label equals entity name"
+    ]
+  },
+  {
+    "case": "ヒトタタラ",
+    "source_url": "https://www.nichibun.ac.jp/YoukaiCard/1720003.html",
+    "raw": "```json\n{\n  \"entity_candidate\": {\n    \"name\": \"ヒトタタラ\",\n    \"name_type\": \"unknown\",\n    \"aliases_explicitly_found\": [\n      \"鬼\"\n    ]\n  },\n  \"source_container\": {\n    \"container_type\": \"database\",\n    \"title\": \"怪異・妖怪伝承データベース\",\n    \"author\": null,\n    \"publication_date\": null,\n    \"repository\": \"国際日本文化研究センター\",\n    \"url\": \"https://www.nichibun.ac.jp/YoukaiCard/1720003.html\",\n    \"external_id\": \"1720003\"\n  },\n  \"record_metadata\": {\n    \"record_id\": \"1720003\",\n    \"record_label\": \"ヒトタタラ，鬼\",\n    \"section_heading\": null,\n    \"page_or_locator\": \"58\"\n  },\n  \"work_reference\": {\n    \"explicit_work_title\": \"鬼と金工\",\n    \"work_type\": \"article\",\n    \"is_explicitly_named_in_source\": true,\n    \"evidence_locator\": \"論文名\"\n  },\n  \"claim_candidate\": {\n    \"text\": \"王子権現に片目片足の鬼がいたとされ、熊野参詣の人々を悩ませ、刑部左衛門が討ち取ったと記す。\",\n    \"layer_candidate\": \"unknown\"\n  },\n  \"relations\": {\n    \"historical_person_relation\": null,\n    \"land_or_deity_relation\": null,\n    \"persona_formation_relation\": null\n  },\n  \"quality\": {\n    \"ambiguities\": [\n      \"「鬼」がヒトタタラを指すのか、あるいは別の存在を指すのかの区別が不明\"\n    ],\n    \"possible_duplicates\": [],\n    \"requires_sol_review\": true,\n    \"review_reasons\": [\n      \"別個の呼称（ヒトタタラ、鬼）が同一の存在を指すか判断不可\",\n      \"「鬼」という一般名称と固有の怪異名の混同の可能性\"\n    ]\n  }\n}\n```",
+    "output": {
+      "entity_candidate": {
+        "name": "ヒトタタラ",
+        "name_type": "unknown",
+        "aliases_explicitly_found": [
+          "鬼"
+        ]
+      },
+      "source_container": {
+        "container_type": "database",
+        "title": "怪異・妖怪伝承データベース",
+        "author": null,
+        "publication_date": null,
+        "repository": "国際日本文化研究センター",
+        "url": "https://www.nichibun.ac.jp/YoukaiCard/1720003.html",
+        "external_id": "1720003"
+      },
+      "record_metadata": {
+        "record_id": "1720003",
+        "record_label": "ヒトタタラ，鬼",
+        "section_heading": null,
+        "page_or_locator": "58"
+      },
+      "work_reference": {
+        "explicit_work_title": "鬼と金工",
+        "work_type": "article",
+        "is_explicitly_named_in_source": true,
+        "evidence_locator": "論文名"
+      },
+      "claim_candidate": {
+        "text": "王子権現に片目片足の鬼がいたとされ、熊野参詣の人々を悩ませ、刑部左衛門が討ち取ったと記す。",
+        "layer_candidate": "unknown"
+      },
+      "relations": {
+        "historical_person_relation": null,
+        "land_or_deity_relation": null,
+        "persona_formation_relation": null
+      },
+      "quality": {
+        "ambiguities": [
+          "「鬼」がヒトタタラを指すのか、あるいは別の存在を指すのかの区別が不明"
+        ],
+        "possible_duplicates": [],
+        "requires_sol_review": true,
+        "review_reasons": [
+          "別個の呼称（ヒトタタラ、鬼）が同一の存在を指すか判断不可",
+          "「鬼」という一般名称と固有の怪異名の混同の可能性"
+        ]
+      }
+    },
+    "machine_errors": [
+      "JSON-only contract violated: Markdown fence",
+      "source_container.container_type: enum",
+      "aliases inferred without an explicit synonym statement"
+    ],
+    "mandatory_review_reasons": [
+      "work title present",
+      "entity grain requires review"
+    ]
+  }
+]
