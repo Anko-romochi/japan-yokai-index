@@ -152,3 +152,34 @@ candidate_name,region,source,source_type,digital_access,possible_duplicate,prior
 猫地蔵,東京都,青梅市ガイドブック,institutional_explanation,yes,no,B,deferred_supernatural_link_unclear
 待ち伏せオオカミ,東京都,青梅市ガイドブック,institutional_explanation,yes,no,B,deferred_ordinary_animal_possible
 かっぱの金さん,埼玉県,戸田市昔話・伝説,institutional_explanation,yes,yes,B,deferred_name_refers_to_person
+木魅,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,no,A,admitted
+白児,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,no,A,admitted
+獺,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,no,A,admitted
+垢嘗,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,no,A,admitted
+狸,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,yes,A,admitted_generic_type
+網剪,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,no,A,admitted
+絡新婦,,NDL鳥山石燕妖怪リスト,institutional_catalog,yes,no,A,admitted
+歌をうたうミケネコ,神奈川県,横浜市港南区民話,institutional_explanation,yes,no,A,admitted
+さわげ婆,神奈川県,横浜市港南区民話,institutional_explanation,yes,no,A,admitted
+首塚の亡霊,神奈川県,横浜市港南区民話,institutional_explanation,yes,no,A,admitted
+アワノスさま,神奈川県,横浜市港南区民話,institutional_explanation,yes,no,A,admitted
+ヌエの宮,神奈川県,横浜市港南区民話,institutional_explanation,yes,yes,A,admitted_site_scope
+海御前,福岡県,北九州市案内,institutional_explanation,yes,no,A,admitted
+リキリン,福岡県,北九州市案内,institutional_explanation,yes,no,A,admitted
+河童封じ地蔵,福岡県,北九州市案内,institutional_explanation,yes,yes,A,admitted_literary_site_scope
+ミシゲー・マジムン,沖縄県,YoukaiDB 0640357_001,database_record,yes,no,A,admitted
+ミンツチ,北海道,YoukaiDB 0640038_001,database_record,yes,yes,A,admitted_no_alias
+長狐,愛媛県,YoukaiDB C3820145-000,database_record,yes,no,A,admitted
+五人衆,愛媛県,YoukaiDB 0080295,database_record,yes,no,A,admitted
+ミヤル,鹿児島県,YoukaiDB 1470027,database_record,yes,no,A,admitted
+ヌルクンガナシ,鹿児島県,YoukaiDB 1470027,database_record,yes,no,A,admitted
+乙媛様,鹿児島県,YoukaiDB 1232076,database_record,yes,no,A,admitted
+瓜子姫,石川県,YoukaiDB 2450281,database_record,yes,no,A,admitted
+河童神さまの御手洗池,宮城県,YoukaiDB C0411185-000,database_record,yes,yes,A,admitted_site_scope
+たね,鳥取県,YoukaiDB 0590192,database_record,yes,yes,A,admitted_variant_stories_separate
+ナビゲー・マジムン,沖縄県,YoukaiDB 0640357_001,database_record,yes,yes,B,deferred_internal_spelling_conflict
+ヌサオガミ／ヌサメガミ,,YoukaiDB 2160004,database_record,yes,yes,B,deferred_internal_written_form_conflict
+浄念寺の咳止め玄入坊,神奈川県,横浜市港南区民話,institutional_explanation,yes,yes,B,deferred_internal_spelling_conflict
+わかっぱ,福岡県,北九州市案内,institutional_explanation,yes,yes,B,deferred_mascot_identity
+笑うゴロスケ,神奈川県,横浜市港南区民話,institutional_explanation,yes,no,B,rejected_ordinary_owl
+二十三夜様,青森県,YoukaiDB C0220059-001,database_record,yes,no,B,rejected_insufficient_supernatural_scope
