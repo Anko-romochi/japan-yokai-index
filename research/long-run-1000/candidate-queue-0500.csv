@@ -69,3 +69,19 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 猿神退治,https://www.pref.tottori.lg.jp/272555.htm,語り 正体が狸狐と明かされる末尾,鳥取県,unresolved,題名の猿神と本文中の動物を同一視しない,defer,妖怪個体を誤認しないよう原話の分析単位を要検討,Codex
 鬼の足,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/18.html,本文 墓地で足を見る場面,和歌山県,folklore_being,鬼の姿も固有名もない,defer,独立個体か鬼類型の一目撃話か判断保留,Codex
 波の音をきらった神,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/27.html,本文 野島から山口へ移祀,和歌山県,named_supernatural_entity,社の神と移動譚の関係を確かめる必要,defer,独立entityとする前に社の歴史資料を照合,Codex
+蓼科山の甲賀三郎,https://www.town.nagawa.nagano.jp/material/files/group/3/tateshina_kogasaburo.pdf,PDF p.3,長野県,named_supernatural_entity,既存甲賀系のentityなし,admit,蛇身と龍への変化を本文で確認,Codex
+鳥羽山の古狐,https://www.town.nagawa.nagano.jp/material/files/group/3/tobayama_furukitsune.pdf,PDF pp.1 and 3-4,長野県,folklore_being,既存の狐個体と鳥羽山の個体を分離,admit,尾の特徴と子どもに化ける話を直接確認,Codex
+小豆とぎの女,https://www.town.nagawa.nagano.jp/material/files/group/3/azukitogi_onna.pdf,PDF pp.1-3,長野県,supernatural_phenomenon,同名既存entityなし,admit,姿は確認されず音に対する呼称と記録,Codex
+赤沼の河童,https://www.town.nagawa.nagano.jp/material/files/group/3/kagihikiishi_kappa.pdf,PDF pp.1-2,長野県,folklore_being,河童一般や他の河童個体と区別,admit,場所と指引きの一連の話を確認,Codex
+二の坂のおまん狸,https://www.city.minamata.lg.jp/common/upload/freearea/4_151_418_up_5iuqwmik.pdf,PDF p.56,熊本県,named_supernatural_entity,既存おまん狸なし,admit,固有名と下女への変化を本文で確認,Codex
+肥前陣の黒ベコ,https://www.city.minamata.lg.jp/common/upload/freearea/4_151_418_up_5iuqwmik.pdf,PDF p.63,熊本県,named_supernatural_entity,既存黒ベコなし,admit,本文に地域と形態変化を確認,Codex
+茂田のモゼ,https://www.city.minamata.lg.jp/common/upload/freearea/4_151_418_up_5iuqwmik.pdf,PDF p.64,熊本県,named_supernatural_entity,多々良のタゼンと別の役割,admit,夜の火と合戦を見せる個体と記述,Codex
+多々良のタゼン,https://www.city.minamata.lg.jp/common/upload/freearea/4_151_418_up_5iuqwmik.pdf,PDF pp.64-65,熊本県,named_supernatural_entity,茂田のモゼと混同しない,admit,山主と殿様行列の個体として記述,Codex
+閼伽井護法善神,https://www.city.kyoto.lg.jp/sakyo/page/0000024251.html,竹伐り会式の伝説説明段落,京都府,named_supernatural_entity,既存鞍馬山天狗と別主体,admit,雌大蛇と奉祀を市の解説で確認,Codex
+深沼街道の狐,https://www.t-bunkyo.ac.jp/library/minwa/archives/naranasitori/text/13.html,個別翻刻13 狐退治,山形県,folklore_being,街道の狐を他地域個体と結合しない,admit,一つの狐退治話に限定して記録,Codex
+清水坂の狐,https://www.town.nagawa.nagano.jp/material/files/group/3/shimizuzakanokitaune.pdf,PDF pp.2-4,長野県,folklore_being,鳥羽山の古狐との関係不明,defer,直接見た狐と老人の推断の区別が要る,Codex
+伝蔵稲荷,https://www.town.nagawa.nagano.jp/material/files/group/3/denzoinari.pdf,PDF pp.1-3,長野県,unresolved,狐と伝蔵本人と社名の主体が混在,defer,怪異entityの粒度未確定,Codex
+おじろ池の女,https://www.town.nagawa.nagano.jp/material/files/group/3/ojyroike_yurai.pdf,PDF pp.1-2,長野県,unresolved,名のない女性と池名とイモリの関係を分ける,defer,個体の範囲と人霊性が未確定,Codex
+毛抜きカッパ,https://www.city.minamata.lg.jp/common/upload/freearea/4_151_418_up_5iuqwmik.pdf,PDF p.67,熊本県,folklore_being,河童類型との差を追加検討,defer,地域呼称が固有人格なのか説明的題名なのか保留,Codex
+赤湯の鎮守の化物,https://www.t-bunkyo.ac.jp/library/minwa/archives/naranasitori/text/15.html,個別翻刻15 角力と化物,山形県,unresolved,鎮守さまとの同一性は語り内のみ,defer,怪物と神格をentityで統合する前に再検討,Codex
+石座神社の雌雄の大蛇,https://kyoto-bunkaisan.city.kyoto.lg.jp/kyotoisan/nintei-theme/hinoshinkou.html,岩倉火祭の解説段落,京都府,unresolved,二体の区別と神格との関係に未確認部分,defer,二体を一個体とみなさない,Codex
