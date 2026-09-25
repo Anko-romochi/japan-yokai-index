@@ -49,3 +49,23 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 褌をしめた狐,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi6/1000810.html,本文 女行商人の正体の結末,神奈川県,folklore_being,無名の変化狐で他話との差異未確認,defer,独立entityとする安定した名前・個体情報が弱い,Codex
 鹿沼のぼうず狐,https://www.lib-kanuma.jp/archive/29,ページ紹介文と動画,栃木県,folklore_being,かみそり狐類型との関係未確認,defer,紹介文だけでは本文中の行動とentity粒度を確認できない,Codex
 狐にばかされた与太郎,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/ootaki42.html,内容 与太郎が狐と考える結末,千葉県,folklore_being,題名の与太郎は人間,reject,無名狐の独立個体を本文から特定できない,Codex
+琴の滝の牛鬼,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/40.html,本文 滝つぼの牛鬼と正月の供物,和歌山県,folklore_being,一般の牛鬼と同一視せず琴の滝の一話に限定,admit,滝に結びついた行動と供物の記述を確認,Codex
+白良浜の甲羅法師,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/37.html,本文 噂と彦左の相撲と約束,和歌山県,folklore_being,一般のカッパ類型と分離,admit,地名と呼称と行動が本文にある,Codex
+瀞の主,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/47.html,本文 幸右衛門の妻の正体,和歌山県,folklore_being,他地域の瀞の主とは未統合,admit,大蛇の個別婚姻譚を確認,Codex
+国主淵の大蛇,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/10.html,本文 龍宮岩と桜井刑部の対決,和歌山県,folklore_being,生き面や大国主明神そのものとは分離,admit,淵に結びつく大蛇を本文で確認,Codex
+紀ノ川河口の大蛇,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/02.html,本文 大蛇の上陸と三分祭祀,和歌山県,folklore_being,杉尾神社の呼称おはらはんと蛇そのものを同一視しない,admit,大蛇と分祀の固有の語りを確認,Codex
+住持池の大蛇,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/06.html,本文 婚礼行列と二匹の大蛇,和歌山県,folklore_being,桂姫との個体同一性は未断定,admit,池と婚礼の個別語りを確認,Codex
+天神崎の狸々の娘,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/35.html,本文 娘の名乗りと釣糸,和歌山県,folklore_being,狸々一般や別の娘と統合しない,admit,娘が自ら狸々の娘と名乗る本文を確認,Codex
+小又川の枕がえし,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/31.html,本文 小人が枕を返す場面,和歌山県,supernatural_phenomenon,小人群と現象を区別し現象として採録,admit,特定のもみの木をめぐる現象として本文に限定,Codex
+打田の巨人,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/07.html,本文 最初峯から大台原の足跡,和歌山県,folklore_being,一般の巨人や別の地形伝説と同一視しない,admit,一話で連続して動く巨人を確認,Codex
+てんぐの徳兵衛,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/38.html,本文 帰還後の説明と祠,和歌山県,named_supernatural_entity,天狗そのものと混同せず実在人間とも断定しない,admit,固有名と超常的体験と後の祭祀を本文で確認,Codex
+葛ばば,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale21-30/,番号25,奈良県,named_supernatural_entity,既存kuzu_babaと一致,reject,既存entityの重複になる,Codex
+二重滝のしろへび,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale31-40/,番号39,奈良県,folklore_being,既存futaetaki_no_shirohebiと一致,reject,既存entityの重複になる,Codex
+一つたたら,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/44.html,本文 冒頭の那智奥山,和歌山県,folklore_being,既存hitotataraと同地域同名,reject,新entityでなく既存entityに関する追加資料候補,Codex
+下の七兵衛の骸骨,https://www.pref.tottori.lg.jp/268173.htm,語り 峠の再会と踊る骸骨,鳥取県,named_supernatural_entity,既存shimo_no_shichibe_no_gaikotsuと一致,reject,既存entityの重複になる,Codex
+打吹山の天女,https://www.pref.tottori.lg.jp/270744.htm,語り 羽衣と山名の由来,鳥取県,folklore_being,既存utsubukiyama_no_tennyoと一致,reject,既存entityの重複になる,Codex
+久保の小女郎,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/50.html,本文 池の主と娘の別れ,和歌山県,unresolved,人間の娘と大蛇の主の分析単位を分離,defer,小女郎を超自然entityとして切る根拠を追加確認する,Codex
+仙八と山おじ,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/39.html,本文 ほえ比べ,和歌山県,folklore_being,山おじの個体性と類型性が不明,defer,単一話の無名山おじを独立entityとするか保留,Codex
+猿神退治,https://www.pref.tottori.lg.jp/272555.htm,語り 正体が狸狐と明かされる末尾,鳥取県,unresolved,題名の猿神と本文中の動物を同一視しない,defer,妖怪個体を誤認しないよう原話の分析単位を要検討,Codex
+鬼の足,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/18.html,本文 墓地で足を見る場面,和歌山県,folklore_being,鬼の姿も固有名もない,defer,独立個体か鬼類型の一目撃話か判断保留,Codex
+波の音をきらった神,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/27.html,本文 野島から山口へ移祀,和歌山県,named_supernatural_entity,社の神と移動譚の関係を確かめる必要,defer,独立entityとする前に社の歴史資料を照合,Codex
