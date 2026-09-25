@@ -33,3 +33,19 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 大照院の龍,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100210?f=1,個別レコード0800100210 原文 p.210,茨城県,folklore_being,一般龍・彫刻龍とは同一視しない,defer,画中の二頭を一entityにするか不明,Codex
 中谷原の送り狼,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100208?f=1,個別レコード0800100208 原文 p.208,茨城県,folklore_being,既存の送り狼類型とは分離を保留,defer,語り内の狼が独立した怪異個体か判断できない,Codex
 七ッ滝の大蛇,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100044?f=1,個別レコード0800100044 原文 p.44,茨城県,folklore_being,同名の大蛇とは未比較,reject,題名と異なり本文の中心が大あわびで大蛇entityを切れない,Codex
+国分薬師の白椿の精,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi1/1000720.html,本文 白椿と茶店の娘および針の場面,神奈川県,named_supernatural_entity,既存の植物精・白椿の記録に一致なし,admit,国分薬師の一本の椿と娘姿が個別の話で結び付く,Codex
+大谷観音堂ののぞき小僧,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi1/1000724.html,本文 小僧の姿と建物撤去の段落,神奈川県,folklore_being,一般の小僧妖怪と場所を限定し同一視しない,admit,観音堂の天井に現れる個別の伝承,Codex
+下大谷観音堂の水飲み竜,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi1/1000722.html,本文 竜彫刻と池および彫刻師の処置,神奈川県,folklore_being,常光寺沼など他寺の竜彫刻と分離,admit,下大谷観音堂の彫刻に限定された話,Codex
+有鹿姫,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi6/1000817.html,本文 入水・大蛇化・命名,神奈川県,named_supernatural_entity,実在人物と認定せず物語の姫を索引,admit,固有名と変身の内容を確認できる,Codex
+大塚っ原の雪女郎,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi5/1000796.html,本文 大塚屋の一夜と寝床の段落,神奈川県,folklore_being,他地域の雪女や同市別話の雪女郎とは同一視しない,admit,大塚宿に限定した反復出現の語り,Codex
+社家三島社の大蛇,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi2/1000735.html,本文 神木・失踪・村人の推測,神奈川県,folklore_being,他の神木大蛇と分離し事件の事実性を主張しない,admit,社家三島社の神木に限定された大蛇譚,Codex
+能恵姫,https://common3.pref.akita.lg.jp/genkimura/archive/contents-788,本文 岩窟での姫の言葉と白蛇の正体,秋田県,named_supernatural_entity,史実の姫と断定しない,admit,名前と竜神に仕える役割を独立した話として確認,Codex
+三崎山の手長足長,https://common3.pref.akita.lg.jp/genkimura/archive/contents-536,本文 冒頭と慈覚大師の段落,秋田県,named_supernatural_entity,一般の手長足長伝承と同一視しない,admit,三崎山に限定した怪物の名前と行動を確認,Codex
+不聞どうろく神,https://www.town.nagawa.nagano.jp/material/files/group/3/kikazudourokujin.pdf,PDF pp.1–4 道祖神信仰と呼称の説明,長野県,named_supernatural_entity,一般道祖神と同一視せず長久保宿に限定,admit,神格の固有呼称と信仰内容をPDF本文で確認,Codex
+天垂れのねずみ観音,https://adeac.jp/kaminokawa-lib/top/minwa/minwa1-1.html,ねずみ観音 テキスト形式シーン1–11,栃木県,named_supernatural_entity,一般馬頭観音や他のねずみ観音と分離,admit,ねずみ観音と呼ぶに至る個別の語り,Codex
+なんじゃもんじゃの雪女郎,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi5/1000797.html,本文 木の洞での遭遇,神奈川県,folklore_being,大塚っ原の雪女郎との同一性未確認,defer,近隣の別話を同一個体とも別個体ともまだ断定しない,Codex
+海源寺のタヌキ,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi2/1000739.html,本文 寺での化け姿と子狸・見送りの段落,神奈川県,folklore_being,複数個体の可能性あり,defer,寺の狸を単一entityとして切る根拠不足,Codex
+新玉の池の大蛇,https://common3.pref.akita.lg.jp/genkimura/archive/contents-409/,本文 池の移住説とお玉の変身説,秋田県,folklore_being,二つの異なる由来譚を同一個体としない,defer,二系統の関係とentity粒度が未確定,Codex
+褌をしめた狐,https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/minwa/mukashi6/1000810.html,本文 女行商人の正体の結末,神奈川県,folklore_being,無名の変化狐で他話との差異未確認,defer,独立entityとする安定した名前・個体情報が弱い,Codex
+鹿沼のぼうず狐,https://www.lib-kanuma.jp/archive/29,ページ紹介文と動画,栃木県,folklore_being,かみそり狐類型との関係未確認,defer,紹介文だけでは本文中の行動とentity粒度を確認できない,Codex
+狐にばかされた与太郎,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/ootaki42.html,内容 与太郎が狐と考える結末,千葉県,folklore_being,題名の与太郎は人間,reject,無名狐の独立個体を本文から特定できない,Codex
