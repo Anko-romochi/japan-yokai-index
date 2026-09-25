@@ -24,3 +24,42 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 みやざきの民話PDF収録事例,https://www.lib.pref.miyazaki.lg.jp/ct/other000002000/minwa_hen.pdf,PDF全体、個別本文未確定,宮崎県,folklore_being,個別名未確定,defer,PDFは取得したが文字抽出が破損。個別本文を画像で照合するまで採録しない,Codex
 ぼてふり平さん,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/ootaki14.html,「内容」、狐に化かされた魚売り,千葉県,historical_person_in_supernatural_tradition,同名既存なし,reject,平さんは怪異ではなく被害者。狐も個体同定できない,Codex
 せんがりの田,https://www.bunka.pref.mie.lg.jp/minwa/iga/nabari/index.htm,本文、猿が水を運ぶ段,三重県,supernatural_phenomenon,同名既存なし,reject,主題は地名由来で、固有怪異名としての根拠がない,Codex
+竹の子童子,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.57–58、第37話「竹の子童子」,香川県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+宝藏院の小坊主,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,pp.68–69、第41話「山寺の恠」,香川県,object_spirit,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+山寺の白狐,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.69、第41話「山寺の恠」,香川県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+和仁川宮の三鶏,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.69、第41話「山寺の恠」,香川県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+東野の牛頭,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.69、第41話「山寺の恠」,香川県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+南の宮池の鯉魚,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.69、第41話「山寺の恠」,香川県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+眞島のおばけ,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.95、第69話「眞島のおばけ」,香川県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+シチマジムン,https://okimu.jp/museum/minwa/1582449190/,個別カード「概要」および「民話詳細DATA」レコード番号 47O411541,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+アヒルマジムン,https://okimu.jp/museum/minwa/1582449190/,個別カード「概要」および「民話詳細DATA」レコード番号 47O411541,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+イナボーマジューヌ,https://okimu.jp/museum/minwa/1582433045/,個別カード「概要」および「民話詳細DATA」レコード番号 47O200339,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+ヤチバー,https://okimu.jp/museum/minwa/1582448974/,個別カード「概要」および「民話詳細DATA」レコード番号 47O411325,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+識名の遺念火,https://okimu.jp/museum/minwa/1582430265/,個別カード「概要」および「民話詳細DATA」レコード番号 47O377090,沖縄県,supernatural_phenomenon,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+真玉橋の遺念火,https://okimu.jp/museum/minwa/1582428175/,個別カード「概要」および「民話詳細DATA」レコード番号 47O416555,沖縄県,supernatural_phenomenon,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+屋良ムルチのジャー,https://okimu.jp/museum/minwa/1582427238/,個別カード「概要」および「民話詳細DATA」レコード番号 47O235618,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+佐久川の亡霊,https://okimu.jp/museum/minwa/1582427484/,個別カード「概要」および「民話詳細DATA」レコード番号 47O235864,沖縄県,named_supernatural_entity,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+綾門大道の生首,https://okimu.jp/museum/minwa/1582449150/,個別カード「概要」および「民話詳細DATA」レコード番号 47O411501,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+千年蛇,https://okimu.jp/museum/minwa/1582444937/,個別カード「概要」および「民話詳細DATA」レコード番号 47O220681,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+サーターヤー毛の幽霊,https://okimu.jp/museum/minwa/1582425830/,個別カード「概要」および「民話詳細DATA」レコード番号 47O412816,沖縄県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+雪ばば,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=330,個別カード「あらすじ」・番号 330（原掲載 秋田むがしこ pp.58–59 は未照合）,秋田県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+カネつけ婆あ,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=1413,個別カード「あらすじ」・番号 1403（原掲載 ひろし爺さまの昔話 pp.299–300 は未照合）,秋田県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+かくし婆,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=2843,個別カード「あらすじ」・番号 2837（原掲載 男鹿五里合民俗誌 pp.388–389 は未照合）,秋田県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+夜泣き布団,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=6537,個別カード「あらすじ」・番号 6531（原掲載 阿仁町の伝承・民話 pp.97–98 は未照合）,秋田県,object_spirit,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+柳の霊,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=4871,個別カード「あらすじ」・番号 4865（原掲載 黒甜瑣語 pp.48 は未照合）,秋田県,object_spirit,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+窪堰川七曲の主なまず,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=2846,個別カード「あらすじ」・番号 2840（原掲載 太田の昔話と伝説 pp.107–108 は未照合）,秋田県,named_supernatural_entity,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+バチ淵のバチ蛇,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=1645,個別カード「あらすじ」・番号 1635（原掲載 大雄村史 pp.1300–1302 は未照合）,秋田県,named_supernatural_entity,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+アンドジの灯,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5769,個別カード「あらすじ」・番号 5763（原掲載 東由利の民話（第四集） pp.50–52 は未照合）,秋田県,supernatural_phenomenon,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+金為蔵の亡霊,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5709,個別カード「あらすじ」・番号 5703（原掲載 ふるさとの心とくらし pp.120–121 は未照合）,秋田県,named_supernatural_entity,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+悪病の神,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=1731,個別カード「あらすじ」・番号 1721（原掲載 山村民俗誌 pp.96 は未照合）,秋田県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+怨念の人首,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=6823,個別カード「あらすじ」・番号 6817（原掲載 徳政夜話 翻刻書 pp.70–71 は未照合）,秋田県,supernatural_phenomenon,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+大病女の幽霊,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=6995,個別カード「あらすじ」・番号 6989（原掲載 伊頭園茶話二の巻 pp.132 は未照合）,秋田県,folklore_being,既存ID・日本語名・source URLを照合。既存類型との同一性は未主張,admit,個別本文または個別DBカードの呼称と記述を確認。DBカードは原掲載本文と区別,Codex
+すすけちょうちん,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=2845,カード2839,秋田県,object_spirit,候補名と既存entityを照合,defer,家の怪異全体の一描写で、提灯の独立した作用が未確認,Codex
+イタヤツキ,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=1707,カード1697,秋田県,object_spirit,候補名と既存entityを照合,defer,木の名と祟り現象の境界が未確認,Codex
+黒沼の蛇,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=2850,カード2844,秋田県,folklore_being,候補名と既存entityを照合,defer,水流が蛇に見える記述のみで独立性が弱い,Codex
+多度津の橋の鬼,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.99–100、第77話,香川県,folklore_being,候補名と既存entityを照合,defer,物語上の無名の鬼で個体の継続性は未確認,Codex
+平安座ハッタラー,https://okimu.jp/museum/minwa/1582448002/,カード47O410353,沖縄県,historical_person_in_supernatural_tradition,候補名と既存entityを照合,defer,力持ちの伝説上の人間。超自然的存在としての採録要件は未確定,Codex
+太田山の怪,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=7040,カード7034,秋田県,supernatural_phenomenon,候補名と既存entityを照合,defer,一度の声・音のみで存在の単位が定まらない,Codex
+火玉,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5977,カード5971,秋田県,supernatural_phenomenon,候補名と既存entityを照合,defer,報告者自身が自然現象を検討する観察記録。怪異entityとしての採録は保留,Codex
+産女の礼物,https://www.akihaku.jp/monogatari/show_detail.php?serial_no=6994,カード6988,秋田県,folklore_being,候補名と既存entityを照合,reject,題名は産女だが要約の女は山中の氏神と名乗る。産女として採録しない,Codex
+ゴーヘイ鳥,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,p.100–101、第78話,香川県,folklore_being,候補名と既存entityを照合,reject,編者は梟ともされる鳥と記す。天狗は聞き手の誤認,Codex
