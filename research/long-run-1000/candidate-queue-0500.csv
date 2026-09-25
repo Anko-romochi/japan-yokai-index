@@ -1,0 +1,19 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+大滝寺の猫又,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-2,第一部第25話 pp.54–59,香川県,folklore_being,既存の一般猫又や他寺の猫又とは同一視しない,admit,寺と一連の行動が本文で特定される,Codex
+信行院のたぬき,https://www.library.pref.kagawa.lg.jp/know/local/local_3009,山本町の民話 p.4,香川県,folklore_being,既存の狸個体とは場所・話が異なる,admit,信行院の林と変化・逃走の話が本文で確認できる,Codex
+万八狸,https://www.library.pref.kagawa.lg.jp/know/local/local_3009,山本町誌から p.75,香川県,named_supernatural_entity,既存名に一致なし,admit,固有名と憑依・読経の役割が本文で確認できる,Codex
+智行寺山の金のにわとり,https://www.library.pref.kagawa.lg.jp/know/local/local_3009,山本町の民話 p.31,香川県,folklore_being,既存名に一致なし,admit,場所と元日早朝に鳴く伝承が本文で確認できる,Codex
+慈泉寺の猫又,https://www.library.pref.kagawa.lg.jp/know/local/local_3002-2,前編 猫山由来 イ p.58,香川県,folklore_being,大滝寺・弥谷寺・一般猫又と同一視しない,admit,慈泉寺から猫山へ移る個別の語りがある,Codex
+おきく狸,https://www.library.pref.kagawa.lg.jp/know/local/local_3002-2,前編 猫山由来 ロ pp.58–59,香川県,named_supernatural_entity,他地域の「おきく」や喜八猫と分離,admit,多聞院で飼われ固有名で呼ばれる狸,Codex
+喜八猫,https://www.library.pref.kagawa.lg.jp/know/local/local_3002-2,前編 猫山由来 ロ pp.58–59,香川県,named_supernatural_entity,おきく狸や一般猫又と分離,admit,田町の名付き猫として物語内の別役割を担う,Codex
+お鶴（印西の大蛇譚）,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai04.html,内容 お鶴の入水と変化,千葉県,named_supernatural_entity,既存のお鶴一般や蛇類型と同一視しない,admit,印西の具体的な名前・場所・変化の語りがある,Codex
+草深原の狐,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai01.html,内容 カメに導かれる場面と結末,千葉県,folklore_being,既存の狐一般と分離し個体同定は保留,admit,草深原に結び付く一件の狐の語りとして限定索引,Codex
+光堂の竜,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai02.html,内容 欄干の尾と田の通り道,千葉県,folklore_being,彫刻の尾と日光の竜の同一性は主張しない,admit,印西光堂の伝承として限定索引し対象の粒度は後続監査,Codex
+柳のおりゅう,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-2,第一部第24話 pp.52–54,香川県,named_supernatural_entity,既存oryu_yanagiとの関係未確認,defer,同名の柳女房を別entityにする条件を先に確認,Codex
+きんみね大五郎,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-4,第二部第96話 pp.166–167,香川県,historical_person_in_supernatural_tradition,父きんみねと子大五郎の分析単位が異なる,defer,子の怪力と父の死後祭祀を混同できない,Codex
+蛇と酒屋の蛇,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-2,第一部第33話 pp.74–76,香川県,folklore_being,既存蛇婿類型との差異が弱い,defer,場所・固有名が乏しく話型から独立entityを切れない,Codex
+信田の森の狐,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-4,第二部第118話 pp.200–202,香川県,named_supernatural_entity,既存kuzunohaとの関係未確認,defer,安易に同一人物化も別個体化もしない,Codex
+猫又の話,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-4,第二部第113話 pp.194–196,香川県,folklore_being,既存一般猫又と区別する固有情報が弱い,defer,一話の無名猫を独立個体にする根拠不足,Codex
+お遍路さんと化物,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-2,第一部第20話 pp.47–49,香川県,folklore_being,既存名に一致なし,reject,化物と見えた対象の正体が怪異個体ではない,Codex
+なまやけの弥兵エ,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai05.html,内容 弥兵エとむじなの顛末,千葉県,historical_person_in_supernatural_tradition,弥兵エは物語内の人間,reject,題名の人物は怪異ではなく無名むじなは粒度不足,Codex
+頼政塚とじごくそば,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai03.html,内容 首塚と植物の段落,千葉県,supernatural_phenomenon,頼政本人はこの資料で怪異化しない,reject,地名・由来譚から怪異entityを一意に切れない,Codex
