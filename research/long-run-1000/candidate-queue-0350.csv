@@ -23,3 +23,42 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 福井城隅櫓下の大鼈,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/29991.html,展示(15)の翻刻,福井県,folklore_being,同名なし,defer,巨大動物の目撃と超自然的怪異との境界が不明。草稿から除外,Codex
 福井城隅櫓下の大鯉,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/29991.html,展示(22)の翻刻,福井県,folklore_being,同名なし,reject,巨大魚の伝聞以上の怪異性が資料から確認できない,Codex
 元覚堤の人柱,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/29991.html,展示(14)の翻刻,福井県,historical_person_in_supernatural_tradition,同名なし,reject,殺害伝承であり怪異としての出現・人格は記されない,Codex
+男滝の龍,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale21-30/,(22)『男滝の龍』本文、六部の目撃と森屋の老婆の発言,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+葛ばば,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale21-30/,(25)『葛ばば』本文、冒頭の呼称と葛の袈裟の助言,奈良県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+笠捨山の白蛇,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale21-30/,(25)『葛ばば』本文、白蛇の出現と結末,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+蛇の窪の大蛇,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale21-30/,(26)『蛇の窪』本文、池・子・鍬・蛇崩の記述,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+二重滝の白蛇,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale31-40/,(39)『二重滝のしろへび』本文、滝の主の説明から斬首後まで,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+折立・猫又の滝の怪猫,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale41-50/,(41)・(46)『猫又の滝』各本文、滝名の説明と怪異場面,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+ダンジョウ平の大蛇,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale41-50/,(43)『ダンジョウ平の大蛇』本文,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+十津川のごうらご,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale51-60/,(53)『ごうらご』本文、呼称注記と女の姿の場面,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+引牛峠の大蜘蛛,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale61-70/,(61)『引牛』本文、大蜘蛛と地名由来の段,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+タンノクチガマの主,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale61-70/,(62)『タンノクチガマの主』本文、淵内の老人夫婦と正体の段,奈良県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+さんばば,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale61-70/,(63)『さんばばのはなし』末尾、おたみの回想,奈良県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+なかしま大池の主,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale71-80/,(71)『大池の御前若の宮』本文、麻糸と大池の主の段,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+大池の御前若の宮,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale71-80/,(71)『大池の御前若の宮』本文、祠・呼称の段。『大塔十津川時報』由来との表示,奈良県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+ソウハン渕の大アメノウオ,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale71-80/,(73)『ソウハン渕の怪』本文、僧への粟餅と魚の胃の段,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+弁財天渕のガマ主,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale71-80/,(76)『ガマ主と八人の杣師』本文、女の誘いと翌朝のガマガエル,奈良県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+高山の柳の精,https://www.pref.tottori.lg.jp/266685.htm,『語り』本文、柳の精が人に化ける段と伐採の段,鳥取県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+波多のおさん狐,https://www.pref.tottori.lg.jp/265927.htm,『語り』本文、冒頭の『おさん狐』と結末の剃髪場面,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,同名の別地域採集話を地域限定で索引。個体同一性は未主張。,Codex
+大谷のおさん狐,https://www.pref.tottori.lg.jp/266696.htm,『語り』本文、喜助が呼び出す段と女に化ける段,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,同名の別地域採集話を地域限定で索引。個体同一性は未主張。,Codex
+赤松の池の蛇体の姫,https://www.pref.tottori.lg.jp/287216.htm,『語り』本文、姫の入水と蛇体の出現の段,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+藤内狐,https://www.pref.tottori.lg.jp/266709.htm,『語り』本文、冒頭の名と老女の姿の段,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+下の七兵衛の骸骨,https://www.pref.tottori.lg.jp/268173.htm,『語り』本文、殺害、骸骨の踊り、殿様への告発の段,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+竜宮のはなたれ小僧,https://www.pref.tottori.lg.jp/265926.htm,『語り』本文、乙姫から小僧を受け取る段と小僧の働き,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+彦名の八百比丘尼,https://www.pref.tottori.lg.jp/266706.htm,『語り』本文、人魚肉・娘・洞穴の段,鳥取県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+打吹山の天女,https://www.pref.tottori.lg.jp/270744.htm,『語り』本文、羽衣・帰天・打吹山の段,鳥取県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+貧乏神,https://www.pref.tottori.lg.jp/270749.htm,『語り』本文、貧乏神が掃きだめを去る段,鳥取県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+奥富のおさんどんに化けたムジナ,https://www.city.sayama.saitama.jp/shisei/kouhou/koho/sayamanomukashi/202210.html,本文、ムジナへの投石とおさんどんの姿の段,埼玉県,folklore_being,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+水野の化け地蔵伝承,https://www.city.sayama.saitama.jp/manabu/dentou/ehon/iriso/bakejizou.html,本文、旅人の目撃、翌朝の種明かし、噂の伝播の段,埼玉県,supernatural_phenomenon,既存ID・表記揺れ・source URLを照合,admit,怪異の噂とスイカ提灯の種明かしを併記。石像が実際に化けたとは主張しない。,Codex
+三蔵（八戸の化け猫）,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MN1_810110,Ⅰ部8章1節p.398–410、［事例］猫檀家（通観386）、『村の話』上p.165との出典表示,青森県,named_supernatural_entity,既存ID・表記揺れ・source URLを照合,admit,出典本文に区別可能な対象を確認。資料年代と起源を混同しない。,Codex
+大蛇の鱗とりの大蛇,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale51-60/,(55)本文,奈良県,folklore_being,未登録,defer,大蛇を捕る計画が語られるが、作中で大蛇そのものの確認がない,Codex
+退休寺の三化物,https://www.pref.tottori.lg.jp/272550.htm,『語り』本文,鳥取県,folklore_being,未登録,defer,鶏・横槌・山芋の三者を一entityに束ねる粒度が不安定,Codex
+十津川の娘になった狐,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale41-50/,(42)本文,奈良県,folklore_being,既存狐類型と比較要,defer,見た人が狐に化かされた筋で、固有個体としての同定が弱い,Codex
+内原の氏神,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale41-50/,(45)本文,奈良県,named_supernatural_entity,未登録,defer,玉石・蛇・蜘蛛という表象と既存祭神のidentityを追加資料で確認する,Codex
+狭山のだいだらぼっち,https://www.city.sayama.saitama.jp/shisei/kouhou/koho/sayamanomukashi/202109.html,本文,埼玉県,folklore_being,一般類型と比較要,defer,単一再話だけで類型か地域個体かを決めない,Codex
+青森県史の白犬シロ,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MN1_810110,［事例］犬むかし,青森県,folklore_being,一般話型と比較要,defer,隣の爺型の名前付き動物で、独立entityとしての位置づけが未確定,Codex
+ひとつ目小僧,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale61-70/,(68)本文,奈良県,folklore_being,既存hitotsume_kozo＝一ツ目子僧,reject,表記差の重複を事前検出。新entityではなく既存entityの将来の地域claim候補,Codex
+子育て幽霊（波多）,https://www.pref.tottori.lg.jp/266681.htm,『語り』本文,鳥取県,folklore_being,既存kosodate_yurei,reject,既存entityの伝承例であり新規個体とは確認できない,Codex
+サバ食い山姥,https://www.pref.tottori.lg.jp/266702.htm,『語り』本文,鳥取県,folklore_being,既存yamauba,reject,既存山姥類型の話型例として扱う,Codex
+猟犬になった狼,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale41-50/,(44)本文,奈良県,folklore_being,未登録,reject,猟犬としての行動が怪異であるとは本文から十分に言えない,Codex
+百夜月の月,https://www.vill.totsukawa.lg.jp/bridge/folklore/old-tale/old-tale61-70/,(70)本文,奈良県,supernatural_phenomenon,未登録,reject,地名由来譚の月を独立した怪異entityとする根拠が弱い,Codex
