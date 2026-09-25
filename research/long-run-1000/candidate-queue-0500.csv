@@ -17,3 +17,19 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 お遍路さんと化物,https://www.library.pref.kagawa.lg.jp/know/local/local_3004-2,第一部第20話 pp.47–49,香川県,folklore_being,既存名に一致なし,reject,化物と見えた対象の正体が怪異個体ではない,Codex
 なまやけの弥兵エ,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai05.html,内容 弥兵エとむじなの顛末,千葉県,historical_person_in_supernatural_tradition,弥兵エは物語内の人間,reject,題名の人物は怪異ではなく無名むじなは粒度不足,Codex
 頼政塚とじごくそば,https://www.pref.chiba.lg.jp/kkbunka/b-shigen/08minwa/inzai03.html,内容 首塚と植物の段落,千葉県,supernatural_phenomenon,頼政本人はこの資料で怪異化しない,reject,地名・由来譚から怪異entityを一意に切れない,Codex
+山王のおさん,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100007?f=1,個別レコード0800100007 原文 p.7,茨城県,named_supernatural_entity,他県の名付きおさん狐とは同一視しない,admit,三匹のうち山王のおさんを固有名で示す,Codex
+笠間稲荷の紋三郎狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100036?f=1,個別レコード0800100036 原文 p.36,茨城県,named_supernatural_entity,静神社の紋三郎との同一性は未確認,admit,笠間稲荷に結び付く紋三郎の行動を個別本文で確認,Codex
+華蔵院の猫,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100020?f=1,個別レコード0800100020 原文 p.20,茨城県,folklore_being,他寺の猫怪異と同一視しない,admit,華蔵院の猫として場所と行動を限定できる,Codex
+女化の原の白狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100016?f=1,個別レコード0800100016 原文 p.16,茨城県,folklore_being,葛の葉など他の狐女房と同一視しない,admit,女化の原に結び付く個別の狐女房譚,Codex
+笠間城の大蛇,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100068?f=1,個別レコード0800100068 原文 p.68,茨城県,folklore_being,一般大蛇や他の城の大蛇と分離,admit,城中の噂と後の骨の解釈を資料内の語りとして限定,Codex
+龍神山の女竜,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100138?f=1,個別レコード0800100138 原文 p.138,茨城県,folklore_being,同じ山の男竜とは分離,admit,染谷に住む女竜の姿と役割を本文で確認,Codex
+常光寺沼の竜,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100169?f=1,個別レコード0800100169 原文 p.169,茨城県,folklore_being,彫刻作者伝説の事実性は主張しない,admit,山門の竜と沼の異変を結ぶ村の噂を確認,Codex
+佐野子の河童,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100195?f=1,個別レコード0800100195 原文 p.195,茨城県,folklore_being,他地域の河童と同一視しない,admit,桜川と満蔵寺を伴う一件の河童譚,Codex
+十の字むじな,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100221?f=1,個別レコード0800100221 原文 p.221,茨城県,named_supernatural_entity,無名むじなとは分離,admit,外見からの固有の呼称と寺での行動を確認,Codex
+おこん狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100028?f=1,個別レコード0800100028 原文 p.28,茨城県,named_supernatural_entity,同名の狐や実在人物と同一視しない,admit,題名の狐名と本文のおこんの名乗りを分けて要約,Codex
+静神社の四匹の狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100012?f=1,個別レコード0800100012 原文 p.12,茨城県,named_supernatural_entity,笠間稲荷の紋三郎との関係未確認,defer,四匹の集団と個体の粒度および同名別系統を要検討,Codex
+巴川の河童,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100166?f=1,個別レコード0800100166 原文 p.166,茨城県,folklore_being,他地域の河童と分離,defer,親子三匹を一entityにする根拠が不足,Codex
+武田池の狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100207?f=1,個別レコード0800100207 原文 p.207,茨城県,folklore_being,才三郎狐とおまん狐との関係未確認,defer,複数個体と異説が混在しidentity確定を要する,Codex
+大照院の龍,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100210?f=1,個別レコード0800100210 原文 p.210,茨城県,folklore_being,一般龍・彫刻龍とは同一視しない,defer,画中の二頭を一entityにするか不明,Codex
+中谷原の送り狼,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100208?f=1,個別レコード0800100208 原文 p.208,茨城県,folklore_being,既存の送り狼類型とは分離を保留,defer,語り内の狼が独立した怪異個体か判断できない,Codex
+七ッ滝の大蛇,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100044?f=1,個別レコード0800100044 原文 p.44,茨城県,folklore_being,同名の大蛇とは未比較,reject,題名と異なり本文の中心が大あわびで大蛇entityを切れない,Codex
