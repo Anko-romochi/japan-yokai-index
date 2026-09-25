@@ -20,3 +20,25 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 松江城の盆踊り少女,https://www.pref.shimane.lg.jp/admin/seisaku/koho/esque/2021/shimanesuque119/2.html,盆踊り（松江城）段落,島根県,unresolved,既存城郭怪異とは未照合,defer,人身御供の少女と城の揺れを一主体にしない,Codex
 シイ,https://archives.pref.yamaguchi.lg.jp/events/exhibition/h24/,第12回資料小展示説明第1・2段落,山口県,folklore_being,既存同名なし,admit,牛を殺すと伝えられる狸似の不明な獣を展示が説明,Codex
 杉小次郎の怨霊,https://archives.pref.yamaguchi.lg.jp/events/exhibition/h24/,第2回資料小展示説明段落,山口県,unresolved,歴史人物と霊の同一性を分離,defer,展示は伝説名を挙げるのみで行動と出典本文を確認できない,Codex
+オドデ様,https://vill.kunohe.iwate.jp/docs/255.html,本文「九戸地方にはいろいろな昔話が…」のオドデ様紹介段落,岩手県,named_supernatural_entity,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+桜淵の河童,https://www.city.hanamaki.iwate.jp/kosodate_kyoiku/kyoiku/sho_chugakko/website/1001550/1013983/1013988/1014000.html,見出し「河童の証文（口碑伝記：第一集）」、馬を引く場面と三箇条の約束・手印の段落,岩手県,folklore_being,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+亀ケ森の身代わり観音,https://www.city.hanamaki.iwate.jp/kosodate_kyoiku/kyoiku/sho_chugakko/website/1001550/1013983/1013988/1013998.html,見出し「亀ケ森玄蕃の兜神（亀ケ森村誌抄）」、光背欠損・身代わり観音の段落と質屋の霊夢の段落,岩手県,object_spirit,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+新玉の池の大蛇,https://common3.pref.akita.lg.jp/genkimura/archive/contents-409,「新玉の池」本文の大蛇伝説の段落および「また、『男鹿の昔ばなし』によると」の段落,秋田県,folklore_being,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+夜宮の森の産婦狐,https://www.city.kitakyushu.lg.jp/tobata/file_0007.html,「夜宮の森にまつわるお話」本文、出産から翌朝の子狐までの段落,福岡県,folklore_being,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+紫雲寺潟のお福,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁59／PDF 1頁、（１）福島潟「紫雲寺潟とお福」,新潟県,named_supernatural_entity,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+善照寺の鐘,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁60／PDF 2頁、（１）福島潟「福島潟に沈んだ鐘」,新潟県,object_spirit,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+鳥屋野潟の竜灯,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁60／PDF 2頁、（３）鳥屋野潟「竜灯」,新潟県,supernatural_phenomenon,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+白山亀,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁60／PDF 2頁、（３）鳥屋野潟「白山亀と鳥屋野亀」,新潟県,named_supernatural_entity,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+色麻の河童,https://www.town.shikama.miyagi.jp/soshiki/shakai_kyoiku/8/458.html,「かっぱ伝説」本文、若侍が腕を切り落とす段落と河童膏と交換する段落,宮城県,folklore_being,既存name・alias・地域・役割を照合し同一例なし,admit,個別本文または所在を固定した資料内の記述を確認。既刊原冊未照合はsource欄に明記,Codex
+三崎山の手長足長,https://common3.pref.akita.lg.jp/genkimura/archive/contents-536,本文の伝説説明,秋田県,folklore_being,既存misakiyama_tenaga_ashinaga,reject,既存entityと同一の三崎山伝承,Codex
+能恵姫,https://common3.pref.akita.lg.jp/genkimura/archive/contents-788,本文の岩崎伝説,秋田県,named_supernatural_entity,既存noe_hime,reject,既存entityと同一人物の伝説,Codex
+海御前,https://www.city.kitakyushu.lg.jp/moji/w1100373.html,水天宮-平家伝説,福岡県,historical_person_in_supernatural_tradition,既存moji_amagoze,reject,既存entityと同一の北九州市説明,Codex
+リキリン,https://www.city.kitakyushu.lg.jp/moji/w1100373.html,恒見八幡神社,福岡県,named_supernatural_entity,既存moji_rikirin,reject,既存entityと同一の北九州市説明,Codex
+根岸のオシラサマ,https://www.city.hanamaki.iwate.jp/kosodate_kyoiku/kyoiku/sho_chugakko/website/1001550/1013983/1013988/1014001.html,「根岸のオシラサマ（中平文書）」,岩手県,object_spirit,既存oshira_samaとのregional manifestation関係未整理,defer,儀礼対象は確認できるが独立entity粒度を要レビュー,Codex
+高塔山の河童群,https://www.city.kitakyushu.lg.jp/wakamatsu/file_0014.html,かっぱ封じの地蔵尊,福岡県,folklore_being,群体と既存河童類型を比較,defer,市の解説は小説『石と釘』経由。群体のentity粒度と原作未照合,Codex
+内沼潟のミノムシ,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁60／PDF 2頁「ミノムシ」,新潟県,supernatural_phenomenon,既存minomushi_roadと同地域・火の現象,defer,既存ミノムシとの同異と原掲載『豊栄市史』未確認,Codex
+鳥屋野潟の大亀,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁60／PDF 2頁「鳥屋野潟の大亀」「白山亀と鳥屋野亀」,新潟県,folklore_being,同一潟の複数異伝を確認,defer,サイズ・行動が出典ごとに異なり個体粒度を先に検討,Codex
+三平池の大亀,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁60–61／PDF 2–3頁「三平池の大亀」,新潟県,folklore_being,鳥屋野潟の大亀との同異未確認,defer,複数報告の主・亀の同一性を原冊で確認する必要,Codex
+高屋敷館の狐,https://www.city.hanamaki.iwate.jp/kosodate_kyoiku/kyoiku/sho_chugakko/website/1001550/1012754/1013757.html,紙芝居ページ1013757,岩手県,folklore_being,既存同名なし,defer,公開ページ本文は画像中心で内容とlocatorを直接抽出できない,Codex
+こえだのキツネ,https://www.city.hanamaki.iwate.jp/kosodate_kyoiku/kyoiku/sho_chugakko/website/1001550/1012754/1013189.html,紙芝居ページ1013189,岩手県,folklore_being,既存同名なし,defer,リンク表示と個別ページ題名が異なり画像本文のidentity未確認,Codex
+福島潟のうわばみ,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf,印刷頁59／PDF 1頁「うわばみ」2項,新潟県,folklore_being,二話の大蛇の同異未確認,defer,岸新田と葛塚の話を同一entityに束ねない,Codex
