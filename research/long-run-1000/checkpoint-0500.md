@@ -46,4 +46,3 @@ Unresolved: direct original-publication checks for DB-mediated and list-only ent
 ## Reopen gate
 
 The [Indexer Skill v1.0 test](indexer-skill-v1-test-0500.md) screened ten unadmitted candidates in an isolated copy, passed its behavioral QC and validator, and left production at 500. The checkpoint's sole major locator error has been corrected, with no major error remaining in the 50-record audit. Production validator passes; no schema or theory change is required. Thus all user-defined criteria are met: **`LONG_RUN_1000_REOPEN_PASS`**. The next production admission may be #501 at the next 550 checkpoint run; the isolated test records must not be copied into main without normal candidate review.
-
