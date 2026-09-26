@@ -63,3 +63,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "夜泣き地蔵（片原一色町）","https://www.city.inazawa.aichi.jp/0000002612.html","本文 夜の声から呼称成立まで","愛知県","object_spirit","既存の地蔵名・場所を照合し一致なし","admit","片原一色町の物語で声と固有の呼称を確認","Codex"
 "姉宮のなげき","https://www.city.inazawa.aichi.jp/0000002566.html","本文 姉宮東春日社の撤去から結末","愛知県","supernatural_phenomenon","東春日社の局地的伝承を検索","defer","織物不調と神格の因果は村人の解釈。神・社・現象のentity粒度を保留","Codex"
 "梅須賀村の観音様","https://www.city.inazawa.aichi.jp/0000002599.html","本文 川の光から木の観音像製作まで","愛知県","object_spirit","既存の観音像伝承と照合","defer","光る木と後に彫られた観音像の同一entity扱いを保留","Codex"
+"宝尾山の大蛇","https://www.city.fukui.lg.jp/kankou/kankou/jouhou/introduce_shimizu-den-mitome.html","2「宝尾山の大蛇」","福井県","folklore_being","既存大蛇の名前・地域を照合し一致なし","admit","市の再掲に局地的呼称と池の主という村人の見方が明記される","Codex"
+"中ノ俣の猫又","https://www.city.joetsu.niigata.jp/soshiki/bunkagyousei/chikinotakara-r2-no25.html","「実際にあった話として伝わる妖怪伝説」第1・2段落","新潟県","folklore_being","generic猫又と香川・奈良の局地猫又を比較し別地域・別話","admit","中ノ俣の退治伝説として主体と場所を特定できる。史実性は未認定","Codex"
+"底なし沼の大蛇","https://www.city.minamata.lg.jp/kiji003883/index.html","本文第2・3段落","熊本県","folklore_being","既存大蛇と沼・地域・出典を照合し一致なし","admit","市の本文に池の大蛇の出現を伴う一話があり局地的主体として区別可能","Codex"
+"一寸坊","https://www.town.miyako.lg.jp/kyoutsuu/kankou/minwa/issunnbounohaka.html","本文 子の出生・命名","福岡県","named_supernatural_entity","既存名・aliasを検索し一致なし","admit","固有名を持ち大蛇の子という伝承上の出生を明示","Codex"
+"小松ヶ池の大蛇","https://www.town.miyako.lg.jp/kyoutsuu/kankou/minwa/issunnbounohaka.html","本文 糸の行方・男の正体","福岡県","folklore_being","既存の蛇婿・大蛇と場所および文脈を照合し一致なし","admit","一寸坊とは別主体として人間に化ける池の大蛇を確認。同一資料を再利用","Codex"
