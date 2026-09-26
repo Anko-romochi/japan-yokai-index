@@ -76,3 +76,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "山姥の話（大川内）","https://www.city.minamata.lg.jp/kiji003882/index.html","本文 異様な女の描写","熊本県","folklore_being","既存山姥類型と比較","defer","物語冒頭で山姥か川女か未確定とされ、主体の同定を保留","Codex"
 "抱え地蔵","https://www.town.miyako.lg.jp/kyoutsuu/kankou/minwa/kakaejizou.html","本文 光冨と久富の二像","福岡県","object_spirit","同ページ内に別々の地蔵が二体ある","defer","同名の二像を一entityに統合しない。原資料と所在の照合後に再検討","Codex"
 "難行原の昼狐","https://www.town.miyako.lg.jp/kyoutsuu/kankou/minwa/minwa1.html","本文 複数狐事例","福岡県","folklore_being","複数独立狐の可能性を確認","defer","複数の狐遭遇談を束ねる呼称で単一個体とみなせない","Codex"
+"鬼沢の鬼","https://www.city.hirosaki.aomori.jp/school/jitoku/2014-1127-kisinn-denndetu.html","「鬼神伝説」弥十郎・堰・鬼神社の段落","青森県","folklore_being","既存の鬼沢・鬼神社名とaliasに一致なし","admit","地元の一体の鬼と堰・祭祀の文脈が市立学校本文で確認可能","Codex"
+"名取左衛門太郎","https://www.city.yamagata-yamagata.lg.jp/shiseijoho/shicho/1006787/1006788/1005517.html","本文 松の精と阿古耶姫の段落","山形県","named_supernatural_entity","既存の名取太郎・阿古耶関連名とaliasに一致なし","admit","市の民話本文が松の精の固有名と同段落の短称を明示","Codex"
+"飯縄権現","https://www.city.joetsu.niigata.jp/site/cultural-property/cultural-property-city196.html","「徴証・伝来」第1–3段落","新潟県","named_supernatural_entity","既存の飯縄・飯綱権現および別の権現名を照合し一致なし","admit","市の文化財解説が名のある修験尊像と像容を記す。像制作年代は不明","Codex"
+"三ツ石様","https://www.pref.iwate.jp/kensei/profile/1000647.html","本文 三つの大石と羅刹鬼を縛る段落","岩手県","object_spirit","既存の三ツ石様・神と照合し一致なし","admit","県の本文が石の神格と伝承上の行動を明示","Codex"
+"羅刹鬼","https://www.pref.iwate.jp/kensei/profile/1000647.html","本文 羅刹鬼が縛られる段落","岩手県","named_supernatural_entity","既存名には一致なし。県説明は単数だが盛岡市の資料には複数形もある","defer","呼称が特定一体を指すか鬼の集団・類型を指すか未確定","Codex"
