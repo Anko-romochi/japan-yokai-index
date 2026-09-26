@@ -580,3 +580,7 @@
 {"id":"minamata_sokonashi_numa_daija","name_ja":"底なし沼の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["熊本県"],"tags":[],"research_status":"provisional"}
 {"id":"miyako_issunbo","name_ja":"一寸坊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
 {"id":"komatsugaike_no_daija","name_ja":"小松ヶ池の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
+{"id":"minamata_konjin_don","name_ja":"金神どん","name_kana":"こんじんどん","name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["熊本県"],"tags":[],"research_status":"provisional"}
+{"id":"sanbanmagari_no_furudanuki","name_ja":"三番曲りの古狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["熊本県"],"tags":[],"research_status":"provisional"}
+{"id":"mitsudomi_no_kawanton","name_ja":"光冨のカワントン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
+{"id":"minamata_kenuki_kappa","name_ja":"毛抜きカッパ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["熊本県"],"tags":[],"research_status":"provisional"}
