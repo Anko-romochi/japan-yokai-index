@@ -538,3 +538,6 @@
 {"id":"keizobo_kitsune","name_ja":"経蔵坊","name_kana":null,"name_romaji":null,"aliases":["慶蔵坊","桂蔵坊"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}
 {"id":"sochiyama_sakon","name_ja":"曽地山左近","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["兵庫県"],"tags":[],"research_status":"provisional"}
 {"id":"hata_tenguyama_no_tengu","name_ja":"波多の天狗山の天狗","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}
+{"id":"yashaka_mannaka_no_oni","name_ja":"満仲の鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
+{"id":"ooiwa_no_oni","name_ja":"大岩の鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
+{"id":"mawari_sakama_kappa","name_ja":"廻りサカマの河童","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["熊本県"],"tags":[],"research_status":"provisional"}

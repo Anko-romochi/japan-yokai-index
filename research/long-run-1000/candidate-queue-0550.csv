@@ -74,3 +74,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 右近・左近の白狐,https://www.city.yonezawa.yamagata.jp/category/kanko_iju/2/5196.html,「右近・左近の白狐伝説」,山形県,named_supernatural_entity,既存の米沢右近・左近なし。丹波篠山の曽地山左近とは別,defer,資料は二匹を明示するが飛脚となった一匹の名前を特定しない。ペアのentity粒度を保留,Codex
 智頭町波多の子育て幽霊,https://www.pref.tottori.lg.jp/266681.htm,語り、1987-08-23採集,鳥取県,folklore_being,既存の産女類型と長崎の飴屋幽霊がある,defer,地域採集譚の匿名霊と一般話型のindex grainを確認する必要,Codex
 藤内狐,https://www.pref.tottori.lg.jp/266709.htm,語り冒頭,鳥取県,named_supernatural_entity,既存entity tonai_gitsune と source_0265,reject,既収録につき重複採録を防止,Codex
+満仲の鬼,https://www.pref.nagano.lg.jp/sabo/manabu/chizu-yomitoku-ookura.html,「伝承」「大岩」,長野県,folklore_being,既存同名・同地の鬼なし,admit,大岩の鬼と会話し岩を投げる別個の行為主体として資料が区別,Codex
+大岩の鬼,https://www.pref.nagano.lg.jp/sabo/manabu/chizu-yomitoku-ookura.html,「伝承」「大岩」,長野県,folklore_being,既存同名・同地の鬼なし,admit,満仲の鬼から岩を受け取る別個の行為主体として資料が区別,Codex
+廻りサカマの河童,https://www.vill.sagara.lg.jp/dl?q=6054_filelib_eaad081c9a9fc4c254385e0b22e64248.pdf,p.32「河童の墓」,熊本県,folklore_being,既存同地名の河童なし,admit,村報告書で現地看板と魚を届ける話を確認。名前は地名を付けた記述的索引名,Codex
+小柳の河童,https://www.pref.kumamoto.jp/uploaded/attachment/117399.pdf,教育用英語読み物p.49–50,熊本県,folklore_being,既存の小柳事例なし,defer,教育用に再話された資料で原地域伝承・兄弟墓との関係を未照合,Codex
+おばけの金太,https://www.city.kumamoto.jp/kiji0033056/,「おばけの金太」段落,熊本県,object_spirit,既存同名なし,reject,市の説明はからくり玩具とそのモデルの人間を記述し、超自然的存在を示さない,Codex
