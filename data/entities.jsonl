@@ -568,3 +568,4 @@
 {"id":"yoshita_ogojo_no_rei","name_ja":"ヨシタオゴジョの霊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
 {"id":"miyama_ike_no_nushi","name_ja":"みやま池の主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
 {"id":"neko_gan_uto","name_ja":"ネコガン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"arakawa_matsuo_jinja_no_kami","name_ja":"荒川の松尾神社の神様","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
