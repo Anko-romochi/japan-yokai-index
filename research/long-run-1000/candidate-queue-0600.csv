@@ -1,0 +1,9 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+住吉池の大蛇,https://www.pref.kagoshima.jp/ba04/kyoiku-bunka/school/kyodo/documents/109456_20231225132543-1.pdf,8「住吉池の大蛇（民話）」PDF 10–11頁,鹿児島県,folklore_being,既存name・alias・住吉池の局地例を検索し同一例なし,admit,教育委員会の民話本文で主体・行動を確認。別資料の異筋と自動統合しない,Codex
+八木の大蛇,https://www.pref.hiroshima.lg.jp/site/monjokan/saigai-sub01-02-01.html,1－2（1）「実伝蛇王池物語」解説,広島県,folklore_being,既存八木・蛇王池の例なし,admit,県立文書館が大蛇退治伝説と辻作品の資料段階を明示。原作は未読,Codex
+オロニョン,https://www.pref.fukushima.lg.jp/sec/16035b/touhokushizenhodou-25.html,コースガイド水神森・雄国沼,福島県,named_supernatural_entity,既存名・読み・雄国沼の例なし,admit,県の案内に固有名と沼の主を明示。祠の神との同一性は主張しない,Codex
+上平川の大蛇,https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/china/daijya.html,上平川の大蛇踊り本文,鹿児島県,folklore_being,既存同地なし,defer,現資料は芸能上の役。独立伝承の怪異との連続性は未確認,Codex
+高城川のガラッパ,https://www.pref.kagoshima.jp/aa02/kohokocho/kouhoushi/kohosi/gurakago/documents/472-14.pdf,「稚児が淵」PDF 1頁,鹿児島県,folklore_being,既存ガラッパ類型・地域差を再確認要,defer,一群の河童と事件の記述で独立個体の粒度が未確定,Codex
+茗荷沢ため池の悪霊,https://www.pref.fukushima.lg.jp/sec/36260a/sosonorin7.html,茗荷沢ため池の段落,福島県,supernatural_phenomenon,既存同地なし,defer,決壊原因として噂された不特定の悪霊で独立した主体性は未確認,Codex
+皇徳寺の大蛇,https://www.city.kagoshima.lg.jp/kikakuzaisei/kikaku/seisaku-s/shise/shokai/shishi/documents/2012510162043.pdf,第八編民俗「民話」1、印刷頁1096／PDF 126頁,鹿児島県,folklore_being,既存同地なし,defer,縦組み本文の画像照合と市史の巻次・刊年を確認してから採否判定,Codex
+猫魔ヶ岳の話,https://www.pref.fukushima.lg.jp/sec/16035b/touhokushizenhodou-25.html,コースガイド猫魔ヶ岳,福島県,folklore_being,既存同地なし,reject,現資料は話の題名のみで超自然的主体の記述がない,Codex

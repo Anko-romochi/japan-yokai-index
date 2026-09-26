@@ -548,3 +548,6 @@
 {"id":"jana_no_daija_gifu","name_ja":"蛇穴の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["岐阜県"],"tags":[],"research_status":"provisional"}
 {"id":"oyamajo_icho_hime_rei","name_ja":"城山公孫樹の姫君の霊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["栃木県"],"tags":[],"research_status":"provisional"}
 {"id":"nekonoshima_oomukade","name_ja":"猫ノ島の大ムカデ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["石川県"],"tags":[],"research_status":"provisional"}
+{"id":"sumiyoshiike_daija_aira","name_ja":"住吉池の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"yagi_daija_hiroshima","name_ja":"八木の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["広島県"],"tags":[],"research_status":"provisional"}
+{"id":"oronion_oguninuma","name_ja":"オロニョン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["福島県"],"tags":[],"research_status":"provisional"}
