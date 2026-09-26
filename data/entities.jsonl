@@ -561,3 +561,5 @@
 {"id":"iwakajiri_taiji","name_ja":"岩かじり","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
 {"id":"kishimayama_matsu_no_sei","name_ja":"杵島山の松の精","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["佐賀県"],"tags":[],"research_status":"provisional"}
 {"id":"misogorodon","name_ja":"ミソゴロドン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["佐賀県"],"tags":[],"research_status":"provisional"}
+{"id":"kijigoya_mura_no_daija","name_ja":"木地小屋村の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福島県"],"tags":[],"research_status":"provisional"}
+{"id":"daionji_no_bake_doro","name_ja":"大恩寺の化け灯籠","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"supernatural_phenomenon","attested_periods":[],"attested_regions":["福島県"],"tags":[],"research_status":"provisional"}
