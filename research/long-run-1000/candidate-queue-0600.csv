@@ -19,3 +19,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 ましらら媛,https://www.pref.wakayama.lg.jp/prefg/130600/kikakunishi/ayashi/ayashitop_d/fil/11-12oino.pdf,印刷頁12「ましらら媛」,和歌山県,named_supernatural_entity,既存name・aliasに該当なし。蛇など別主体との粒度を要確認,reject,現本文では悲恋の人物として描かれ、超自然的主体とは確認できない,Codex
 久保の小女郎,https://www.pref.wakayama.lg.jp/prefg/130600/kikakunishi/ayashi/ayashitop_d/fil/13-14kubono.pdf,印刷頁13「久保の小女郎」,和歌山県,named_supernatural_entity,既存name・aliasに該当なし。蛇など別主体との粒度を要確認,defer,大蛇に連れ去られる娘と蛇の主体を混同しないため保留,Codex
 お浪,https://www.pref.wakayama.lg.jp/prefg/130600/kikakunishi/ayashi/ayashitop_d/fil/13-14kubono.pdf,印刷頁14「お浪」,和歌山県,named_supernatural_entity,既存name・aliasに該当なし。蛇など別主体との粒度を要確認,defer,現れた女性の性質が人霊か生身の人物か現本文だけでは判定できない,Codex
+杵島山の松の精,https://www2.tosyo-saga.jp/kentosyo/web-mukashibanashi/title.html,No.27「あらすじ」,佐賀県,folklore_being,既存name・aliasに該当なし。他の木の精とは場所・語りが異なる,admit,索引に松の精と明記され、三谷城の松をめぐる一話として区別できる。原掲載本文は未照合,Codex
+ミソゴロドン,https://www2.tosyo-saga.jp/kentosyo/web-mukashibanashi/title.html,No.90「あらすじ」,佐賀県,named_supernatural_entity,既存name・aliasに該当なし,admit,固有名をもつ巨人が多良岳・有明海に結びつく。原掲載本文は未照合,Codex
+月見草の花嫁,https://www2.tosyo-saga.jp/kentosyo/web-mukashibanashi/title.html,No.59「あらすじ」,佐賀県,folklore_being,既存name・aliasに該当なし,defer,題名は人物名とは限らない。月見草の精を独立entityとする粒度と原掲載本文を要確認,Codex
+絹巻の観音様,https://www2.tosyo-saga.jp/kentosyo/web-mukashibanashi/title.html,No.28「あらすじ」,佐賀県,named_supernatural_entity,既存name・aliasに該当なし,defer,観音化身と娘が同一主体か、寺・像の由来名か未確定,Codex

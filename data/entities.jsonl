@@ -559,3 +559,5 @@
 {"id":"hitotsudatara_kumano","name_ja":"一つだたら","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
 {"id":"nikusui_kumano","name_ja":"肉吸い","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
 {"id":"iwakajiri_taiji","name_ja":"岩かじり","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
+{"id":"kishimayama_matsu_no_sei","name_ja":"杵島山の松の精","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["佐賀県"],"tags":[],"research_status":"provisional"}
+{"id":"misogorodon","name_ja":"ミソゴロドン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["佐賀県"],"tags":[],"research_status":"provisional"}
