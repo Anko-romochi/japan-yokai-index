@@ -35,3 +35,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 唯願寺の大蛇の化身,https://www.city.ogaki.lg.jp/0000019601.html,「概要」第1段落,岐阜県大垣市上石津町下山,folklore_being,既存name・aliasおよび唯願寺の伝承に該当なし,admit,大垣市の個別解説に大蛇の化身の母親という怪異主体が確認できる。名称は地域を含む索引名であり伝承上の固有名とはしない。原掲載資料未照合,Codex
 龍王寺の鐘の大蛇,https://www.pref.shiga.lg.jp/file/attachment/2042798.pdf,PDF第2頁「竜神伝説」,滋賀県竜王町,folklore_being,既存name・aliasに該当なし,defer,県公開PDFの縦書き本文は確認したが資料タイトル・刊行情報の固定と引用元『近江輿地志略』巻六一の直接照合を要する,Codex
 山香のぶすくた,https://www.pref.oita.jp/site/archive/201653.html,「説明」段落,大分県杵築市山香町,folklore_being,既存name・aliasに該当なし,defer,県ページは民話名と公園展示への言及のみ。怪異主体と物語本文が確認できない,Codex
+ヨシタオゴジョの霊,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編19、印刷pp.51–53／PDF pp.54–56,鹿児島県・みやま池／荒川,named_supernatural_entity,既存name・aliasに該当なし。既存source_0246を再利用,admit,娘の霊が池辺りを漂うという叙述と荒川での祭祀を本文で確認。観音像・実在人物・池の主とは同一視しない,Codex
+みやま池の主,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編19、印刷p.52／PDF p.55,鹿児島県薩摩川内市みやま池,folklore_being,既存name・aliasに該当なし。既存source_0246を再利用,admit,本文に大蛇を池のヌシと明記。ヨシタオゴジョの霊とは別主体として索引,Codex
+荒川の黄金を生む兎,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編11、印刷pp.38–40／PDF pp.41–43,鹿児島県いちき串木野市荒川,folklore_being,既存name・aliasに該当なし,defer,超自然的な兎は確認できるが、昔話の一回限りの個体を独立entityとする粒度を追加比較する,Codex
+鷹巣神社の鷹の子,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編20、印刷p.53／PDF p.56,鹿児島県薩摩川内市・いちき串木野市,folklore_being,既存name・aliasに該当なし,defer,本文に鷹の親鳥と三羽の子、神の化身説が併記され、独立個体と神格の関係を固定できない,Codex
+舟川の山姫,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編31、印刷p.70／PDF p.73,鹿児島県いちき串木野市,folklore_being,既存 funakawa_no_yamahime に一致,reject,採録済みのため重複登録しない,Codex
+荒川のもれんび,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編15、印刷p.48／PDF p.51,鹿児島県いちき串木野市,supernatural_phenomenon,既存 arakawa_no_morenbi に一致,reject,採録済みのため重複登録しない,Codex
+黒江嘉門介の怨霊,https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf,民話編35、印刷p.77／PDF p.80,鹿児島県いちき串木野市,named_supernatural_entity,既存 kuroe_kamonosuke_onryo に一致,reject,採録済みのため重複登録しない,Codex
