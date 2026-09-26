@@ -567,3 +567,4 @@
 {"id":"yuganji_no_daija_no_keshin","name_ja":"唯願寺の大蛇の化身","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["岐阜県"],"tags":[],"research_status":"provisional"}
 {"id":"yoshita_ogojo_no_rei","name_ja":"ヨシタオゴジョの霊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
 {"id":"miyama_ike_no_nushi","name_ja":"みやま池の主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"neko_gan_uto","name_ja":"ネコガン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
