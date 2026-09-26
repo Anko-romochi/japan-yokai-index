@@ -571,3 +571,5 @@
 {"id":"arakawa_matsuo_jinja_no_kami","name_ja":"荒川の松尾神社の神様","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
 {"id":"ibori_no_daija","name_ja":"井堀の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
 {"id":"yago_no_katame_no_hebi","name_ja":"片目のへび","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
+{"id":"hokkeji_mujinatanuki","name_ja":"むじなたぬき","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
+{"id":"funabashi_kikyo_no_mae","name_ja":"桔梗の前","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["千葉県"],"tags":[],"research_status":"provisional"}
