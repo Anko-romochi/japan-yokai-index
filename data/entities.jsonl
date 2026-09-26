@@ -588,3 +588,6 @@
 {"id":"natori_saemon_taro","name_ja":"名取左衛門太郎","name_kana":null,"name_romaji":null,"aliases":["名取太郎"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["山形県"],"tags":[],"research_status":"provisional"}
 {"id":"iizuna_gongen","name_ja":"飯縄権現","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}
 {"id":"mitsuishi_sama","name_ja":"三ツ石様","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["岩手県"],"tags":[],"research_status":"provisional"}
+{"id":"buzen_ibo_kamisama","name_ja":"久路土のいぼ神様","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
+{"id":"jabami_white_snake_spirit","name_ja":"蛇喰の白蛇の霊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["千葉県"],"tags":[],"research_status":"provisional"}
+{"id":"rendaiji_enma_head","name_ja":"蓮台寺の閻魔大王の首","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["千葉県"],"tags":[],"research_status":"provisional"}
