@@ -541,3 +541,6 @@
 {"id":"yashaka_mannaka_no_oni","name_ja":"満仲の鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
 {"id":"ooiwa_no_oni","name_ja":"大岩の鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
 {"id":"mawari_sakama_kappa","name_ja":"廻りサカマの河童","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["熊本県"],"tags":[],"research_status":"provisional"}
+{"id":"saruoni","name_ja":"猿鬼","name_kana":"さるおに","name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["石川県"],"tags":[],"research_status":"provisional"}
+{"id":"chota_mujina","name_ja":"長太ムジナ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["石川県"],"tags":[],"research_status":"provisional"}
+{"id":"nawagaike_ryujin","name_ja":"縄が池の竜神","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["富山県"],"tags":[],"research_status":"provisional"}

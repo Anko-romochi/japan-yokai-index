@@ -79,3 +79,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 廻りサカマの河童,https://www.vill.sagara.lg.jp/dl?q=6054_filelib_eaad081c9a9fc4c254385e0b22e64248.pdf,p.32「河童の墓」,熊本県,folklore_being,既存同地名の河童なし,admit,村報告書で現地看板と魚を届ける話を確認。名前は地名を付けた記述的索引名,Codex
 小柳の河童,https://www.pref.kumamoto.jp/uploaded/attachment/117399.pdf,教育用英語読み物p.49–50,熊本県,folklore_being,既存の小柳事例なし,defer,教育用に再話された資料で原地域伝承・兄弟墓との関係を未照合,Codex
 おばけの金太,https://www.city.kumamoto.jp/kiji0033056/,「おばけの金太」段落,熊本県,object_spirit,既存同名なし,reject,市の説明はからくり玩具とそのモデルの人間を記述し、超自然的存在を示さない,Codex
+猿鬼,https://www.library.pref.ishikawa.lg.jp/shosho/curation/KIKAKUTEN0009,「石川の妖怪たち①」猿鬼,石川県,folklore_being,既存同名・同地なし,admit,県立図書館の展示本文が読みと複数の伝承像を明示。単一個体とは断定しない,Codex
+長太ムジナ,https://www.library.pref.ishikawa.lg.jp/shosho/curation/KIKAKUTEN0009,「石川の妖怪たち①」ムジナ,石川県,folklore_being,既存同名なし。木こり長太とは別,admit,県立図書館の展示本文でムジナと木こりを区別し、襲撃・妻の敵討ちを記す,Codex
+縄が池の竜神,https://www.pref.toyama.jp/1711/kurashi/kankyoushizen/kankyou/mizu/chisui/map/gaiyou_oyabegawa.html,「縄が池伝説」,富山県,folklore_being,既存の他地域の池の大蛇と別,admit,県解説に池の主となる大蛇の子の役割を明示。地名付きの記述的索引名,Codex
+赤丸の大ムカデ,https://www.pref.toyama.jp/1711/kurashi/kankyoushizen/kankyou/mizu/chisui/map/gaiyou_oyabegawa.html,「赤丸の大ムカデ」,富山県,folklore_being,既存同地なし,defer,見出しは大ムカデだが本文は権現を祭る話のみで、ムカデの行為主体を確認できない,Codex
+三本松の鶴瓶落とし,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/32200.html,「温古集 二巻」「三本松」展示解説,福井県,folklore_being,既存同地なし,defer,出現するといわれた名称だけで個別の性質や原資料本文は未確認,Codex
+三本松の天狗,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/32200.html,「温古集 二巻」「三本松」展示解説,福井県,folklore_being,既存同地なし,defer,紹介された一件は天狗面を着けた人間のいたずら。別の天狗伝承と混同しない,Codex
+ミソシ,https://www.library.pref.ishikawa.lg.jp/shosho/curation/KIKAKUTEN0009,「石川の妖怪たち②」河童,石川県,folklore_being,既存河童類型あり,defer,七尾市中島町の河童呼称との説明。独立entityか地域名・異名かは未判定,Codex
