@@ -535,3 +535,6 @@
 {"id":"kuramadera_osu_daija","name_ja":"鞍馬寺の雄大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["京都府"],"tags":[],"research_status":"provisional"}
 {"id":"kogenji_ameya_yurei","name_ja":"光源寺の飴屋の幽霊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
 {"id":"katasode_engi_mojo","name_ja":"片袖縁起の亡女","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["大阪府"],"tags":[],"research_status":"provisional"}
+{"id":"keizobo_kitsune","name_ja":"経蔵坊","name_kana":null,"name_romaji":null,"aliases":["慶蔵坊","桂蔵坊"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}
+{"id":"sochiyama_sakon","name_ja":"曽地山左近","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["兵庫県"],"tags":[],"research_status":"provisional"}
+{"id":"hata_tenguyama_no_tengu","name_ja":"波多の天狗山の天狗","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}

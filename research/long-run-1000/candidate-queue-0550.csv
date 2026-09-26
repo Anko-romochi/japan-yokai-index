@@ -68,3 +68,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 片袖縁起の亡女,https://www.dainenbutsuji.com/schedule/museum/,「亡女の片袖 幽霊博物館の所以」,大阪府,folklore_being,片袖縁起・松太夫の妻の既存entityなし,admit,寺の縁起中の亡女として限定。元和3年は物語内年代であり資料年代ではない,Codex
 西萱場のかっぱ松の河童,https://www.city.niigata.lg.jp/minami/kohoshi/minamikuyoukai.files/Minamikuyoukaidaizukan2.pdf,PDF 3頁「月潟地区の民話 かっぱ松」,新潟県,folklore_being,一般の河童は既存。地域事例としては未収録,defer,図鑑全体がフィクションと明記。原民話と現代創作の境界を追加資料で確認する,Codex
 狐狩りの狐,https://www.city.okayama.jp/bungaku/0000081999.html,「狐狩り」本文,岡山県,folklore_being,既存狐類型はある,reject,文学作品の狐の出現だけでは独立した伝承存在を区別できない,Codex
+経蔵坊,https://www.pref.tottori.lg.jp/223202.htm,資料紹介【第13回】,鳥取県,named_supernatural_entity,既存の経蔵坊・慶蔵坊・桂蔵坊なし,admit,県史だよりが別名と狐飛脚の役割を明示。別名は同一資料の明示対応のみ,Codex
+曽地山左近,https://www.city.tambasasayama.lg.jp/photo_history/2/bunkazai_hubutu_huzoku/tabasasayamakankoupoint/tanbasasayamagojusantugi/13966.html,本文第3段落、相撲説話,兵庫県,named_supernatural_entity,米沢の左近と同名要素あり、土地・役割・出典が異なる,admit,丹波篠山の稲荷化身に限定。米沢の白狐左近とは統合しない,Codex
+波多の天狗山の天狗,https://www.pref.tottori.lg.jp/272554.htm,語り冒頭2段落,鳥取県,folklore_being,既存の波多天狗山の採集譚なし,admit,1979年採集の地名付き事例に限定。天狗山の名称は語り本文に確認,Codex
+右近・左近の白狐,https://www.city.yonezawa.yamagata.jp/category/kanko_iju/2/5196.html,「右近・左近の白狐伝説」,山形県,named_supernatural_entity,既存の米沢右近・左近なし。丹波篠山の曽地山左近とは別,defer,資料は二匹を明示するが飛脚となった一匹の名前を特定しない。ペアのentity粒度を保留,Codex
+智頭町波多の子育て幽霊,https://www.pref.tottori.lg.jp/266681.htm,語り、1987-08-23採集,鳥取県,folklore_being,既存の産女類型と長崎の飴屋幽霊がある,defer,地域採集譚の匿名霊と一般話型のindex grainを確認する必要,Codex
+藤内狐,https://www.pref.tottori.lg.jp/266709.htm,語り冒頭,鳥取県,named_supernatural_entity,既存entity tonai_gitsune と source_0265,reject,既収録につき重複採録を防止,Codex
