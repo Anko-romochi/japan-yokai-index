@@ -27,3 +27,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 大恩寺の化け灯籠,https://www.pref.fukushima.lg.jp/uploaded/attachment/57934.pdf,第十一章第二節、印刷頁624、PDF頁331右面,福島県猪苗代町,supernatural_phenomenon,既存name・aliasに該当なし,admit,灯籠移動後の老翁出現と灯籠の刀傷を町史本文で確認。老翁と灯籠の同一性は断定しない,Codex
 三把すげの湖主,https://www.pref.fukushima.lg.jp/uploaded/attachment/57934.pdf,第十一章第二節、印刷頁612–613、PDF頁325,福島県猪苗代町,folklore_being,既存name・aliasに該当なし,defer,湖水中の声は確認できるが『湖主』が本文で明示された名称・主体か未確定,Codex
 猫石,https://www.pref.fukushima.lg.jp/uploaded/attachment/57934.pdf,第十一章第二節、印刷頁621、PDF頁329,福島県猪苗代町,object_spirit,既存name・aliasに該当なし,reject,見出しは石の名称で、本文は猫の石化と祭祀を説明する。独立した怪異主体としては採らない,Codex
+鼻取り地蔵,https://www.city.mishima.shizuoka.jp/page/1320.html,本文段落3–8、および文化財一覧 BB2220620058,静岡県三島市,named_supernatural_entity,既存name・aliasに該当なし。既存の素麺地蔵とは場所と伝承が異なる,admit,光安寺の特定の地蔵を市郷土資料館本文で確認。文化財一覧が表記と読みを裏付ける。一般的な地蔵類型全体との同一視はしない,Codex
+天狗の話,https://www.city.mishima.shizuoka.jp/page/1321.html,本文段落1–13,静岡県三島市,folklore_being,既存の天狗類型あり,reject,個体名のない天狗による子さらいの一話であり、独立entityの粒度を満たさない,Codex
+言成地蔵,https://www.city.mishima.shizuoka.jp/page/1200.html,本文段落1–9,静岡県三島市,named_supernatural_entity,既存name・aliasに該当なし,reject,本文は少女の死と記念の地蔵造立を語るが、超自然的行動や怪異主体は示さない,Codex
+三島石,https://www.city.mishima.shizuoka.jp/page/1385.html,本文段落1–4,静岡県三島市,object_spirit,既存name・aliasに該当なし,reject,採石・石材の解説であり、超自然的伝承を示さない,Codex
+比夜叉御前,https://kitabiwako.jp/spot/spot_17536,三島池の逸話,滋賀県米原市,named_supernatural_entity,既存name・aliasに該当なし,defer,比婆女姫など近接する名称との同一性と読みを原資料で確認できていない,Codex
