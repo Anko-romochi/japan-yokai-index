@@ -49,3 +49,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 守山の火まつりの大蛇,https://www.pref.shiga.lg.jp/ab00/23243.html,「祭の起源～天皇平癒伝説～」,滋賀県,folklore_being,既存の守山大蛇記録なし,admit,祭りの由来として県が紹介する一体の大蛇。名称は説明的索引名,Codex
 浅生の釜池の大蛇,https://www.town.kamiichi.toyama.jp/page/2033.html,「浅生の釜池（浅生）」姫が大蛇と語る段落,富山県,folklore_being,同ページ「大滝の大蛇」と釜池を共有,defer,大滝の蛇との同異が資料から確定しないため重複採録を保留,Codex
 大滝の大蛇,https://www.town.kamiichi.toyama.jp/page/2033.html,「大滝の大蛇（大岩）」釜池と煙草谷を往来する段落,富山県,folklore_being,同ページの釜池の蛇との同異未確定,defer,場所を跨ぐ同一個体または別伝承の可能性を判定できない,Codex
+中峰（迦葉山）,https://www.pref.gunma.jp/site/kougei/690381.html,中峰が天狗となる説明段落,群馬県,named_supernatural_entity,既存名・同寺院伝承なし,admit,僧の実在性は主張せず県の伝承内の名付けられた超自然的人物として索引,Codex
+二つ道祖村の猿猴,https://archives.pref.yamaguchi.lg.jp/user_data/upload/File/doubutsu18.pdf,PDF 1頁②猿猴石,山口県,folklore_being,既存猿猴名なし。長蔵寺例と別村・別文献,admit,地域と一話に限定した説明的索引名。引用原冊は未照合,Codex
+萩長蔵寺の猿猴,https://archives.pref.yamaguchi.lg.jp/user_data/upload/File/doubutsu18.pdf,PDF 1頁③猿猴の手形板,山口県,folklore_being,二つ道祖村例と別場所・別文献,admit,手形板の伝承に登場する一体を索引。引用原冊は未照合,Codex
+龍門の滝の大蛇,https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen4_10.html,女釜・男釜の伝説段落,栃木県,folklore_being,既存の同滝大蛇なし,admit,大蛇伝説の主体を滝に限定。名称は説明的索引名,Codex
+九万坊大権現,https://www.koutokuzan-tonji9.com/,「九万坊尊について」九万坊大権現冒頭,石川県,named_supernatural_entity,既存九万坊記録なし,admit,寺院自身が三聖の一柱として名を記す。複数地点の信仰は統合しない,Codex
+百堂の渡しの河童三匹,https://www.pref.oita.jp/site/archive/201526.html,「1996年9月 NEO OITA 21号」説明,大分県,folklore_being,既存同場所なし,defer,三匹の群体を一entityにする粒度が未確定。個々の識別も不能,Codex
+切込・刈込湖の毒蛇,https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen3_03.html,本文第1段落,栃木県,folklore_being,既存同湖記録なし,defer,県の短い説明は毒蛇を記すが超自然的主体と断定する情報が足りない,Codex
