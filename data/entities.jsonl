@@ -556,3 +556,6 @@
 {"id":"hakuryuo_shinpu","name_ja":"白竜王","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["edo"],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
 {"id":"nikko_izumi_kotaro","name_ja":"日光泉小太郎","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["edo"],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
 {"id":"madoou_nakabusa","name_ja":"魔道王","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["edo"],"attested_regions":["長野県"],"tags":[],"research_status":"provisional"}
+{"id":"hitotsudatara_kumano","name_ja":"一つだたら","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
+{"id":"nikusui_kumano","name_ja":"肉吸い","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
+{"id":"iwakajiri_taiji","name_ja":"岩かじり","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県"],"tags":[],"research_status":"provisional"}
