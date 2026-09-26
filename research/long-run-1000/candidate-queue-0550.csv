@@ -56,3 +56,11 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 九万坊大権現,https://www.koutokuzan-tonji9.com/,「九万坊尊について」九万坊大権現冒頭,石川県,named_supernatural_entity,既存九万坊記録なし,admit,寺院自身が三聖の一柱として名を記す。複数地点の信仰は統合しない,Codex
 百堂の渡しの河童三匹,https://www.pref.oita.jp/site/archive/201526.html,「1996年9月 NEO OITA 21号」説明,大分県,folklore_being,既存同場所なし,defer,三匹の群体を一entityにする粒度が未確定。個々の識別も不能,Codex
 切込・刈込湖の毒蛇,https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen3_03.html,本文第1段落,栃木県,folklore_being,既存同湖記録なし,defer,県の短い説明は毒蛇を記すが超自然的主体と断定する情報が足りない,Codex
+太郎天,https://www.city.bungotakada.oita.jp/uploaded/attachment/5567.pdf,「木造太郎天及二童子立像」本文10頁（PDF 11頁）胎内墨書,大分県,named_supernatural_entity,既存の太郎天・屋山尊名なし,admit,市教育委員会の文化財冊子が1130年胎内墨書の写真と尊名を報告。原物未照合,Codex
+姫島浮田の大蛇,https://edit.pref.oita.jp/series/island-guide/2648/,姫島七不思議２「浮田」,大分県,folklore_being,既存の姫島浮田伝承なし,admit,一体の大蛇と田の揺れを関連付ける伝承。名称は説明的索引名,Codex
+蛇島の大蛇,https://www.pref.kyoto.jp/co-kyoto/special/240417.html,【戦国期】海上交通の要所「蛇島城」島名の段落,京都府,folklore_being,既存の佐波賀・蛇島伝承なし,admit,海を渡る大蛇と退治の話を特定。島名は由来説の一つに限定,Codex
+二畳ヶ滝の竜神,https://aichinow.pref.aichi.jp/features/detail/148/,二畳ヶ滝「言い伝えの残る神聖な滝」,愛知県,named_supernatural_entity,既存の二畳ヶ滝伝承なし,admit,竜神伝承を滝壺に限定。大蛇との同一性は主張しない,Codex
+鞍馬寺の雄大蛇,https://www.city.kyoto.lg.jp/sakyo/page/0000024251.html,本文「月日：6月20日　場所：鞍馬寺」直下,京都府,folklore_being,既存の雌大蛇＝閼伽井護法善神と同じ話だが別の雄大蛇,admit,同一資料が雌雄二体を明示。既存source_0382を再利用,Codex
+二畳ヶ滝の大蛇,https://aichinow.pref.aichi.jp/features/detail/148/,二畳ヶ滝「言い伝えの残る神聖な滝」,愛知県,folklore_being,同滝の竜神との同一性未確認,defer,同じ短い段落から二体と判定できず、別entity化を保留,Codex
+窪八幡宮本殿裏の池の龍神,https://www.city.okayama.jp/shisei/0000047199.html,日本語「窪八幡宮」末段落,岡山県,named_supernatural_entity,既存同宮伝承なし,defer,龍神伝説の存在のみで個体の描写とidentityを特定できない,Codex
+蛇の穴の大蛇,https://www.pref.okayama.jp/page/573741.html,主なみどころ「蛇の穴」,岡山県,folklore_being,既存同洞窟伝承なし,defer,短い説明では超自然的性質が明確でない,Codex
