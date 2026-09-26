@@ -64,3 +64,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 二畳ヶ滝の大蛇,https://aichinow.pref.aichi.jp/features/detail/148/,二畳ヶ滝「言い伝えの残る神聖な滝」,愛知県,folklore_being,同滝の竜神との同一性未確認,defer,同じ短い段落から二体と判定できず、別entity化を保留,Codex
 窪八幡宮本殿裏の池の龍神,https://www.city.okayama.jp/shisei/0000047199.html,日本語「窪八幡宮」末段落,岡山県,named_supernatural_entity,既存同宮伝承なし,defer,龍神伝説の存在のみで個体の描写とidentityを特定できない,Codex
 蛇の穴の大蛇,https://www.pref.okayama.jp/page/573741.html,主なみどころ「蛇の穴」,岡山県,folklore_being,既存同洞窟伝承なし,defer,短い説明では超自然的性質が明確でない,Codex
+光源寺の飴屋の幽霊,https://www.city.nagasaki.lg.jp/nagazine/hakken0111/17/index.html,取材メモ2「産女の幽霊（飴屋の幽霊）」,長崎県,folklore_being,既存の産女は一般類型。この光源寺の井戸譚は別の地域事例,admit,地名を付けた記述的索引名。実在女性や京都の類話との同一性は未確認,Codex
+片袖縁起の亡女,https://www.dainenbutsuji.com/schedule/museum/,「亡女の片袖 幽霊博物館の所以」,大阪府,folklore_being,片袖縁起・松太夫の妻の既存entityなし,admit,寺の縁起中の亡女として限定。元和3年は物語内年代であり資料年代ではない,Codex
+西萱場のかっぱ松の河童,https://www.city.niigata.lg.jp/minami/kohoshi/minamikuyoukai.files/Minamikuyoukaidaizukan2.pdf,PDF 3頁「月潟地区の民話 かっぱ松」,新潟県,folklore_being,一般の河童は既存。地域事例としては未収録,defer,図鑑全体がフィクションと明記。原民話と現代創作の境界を追加資料で確認する,Codex
+狐狩りの狐,https://www.city.okayama.jp/bungaku/0000081999.html,「狐狩り」本文,岡山県,folklore_being,既存狐類型はある,reject,文学作品の狐の出現だけでは独立した伝承存在を区別できない,Codex
