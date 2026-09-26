@@ -573,3 +573,5 @@
 {"id":"yago_no_katame_no_hebi","name_ja":"片目のへび","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
 {"id":"hokkeji_mujinatanuki","name_ja":"むじなたぬき","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
 {"id":"funabashi_kikyo_no_mae","name_ja":"桔梗の前","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["千葉県"],"tags":[],"research_status":"provisional"}
+{"id":"nakano_tan_jizo","name_ja":"たん地蔵","name_kana":"たんじぞう","name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
+{"id":"kataharaisshiki_yonaki_jizo","name_ja":"夜泣き地蔵","name_kana":"よなきじぞう","name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["愛知県"],"tags":[],"research_status":"provisional"}
