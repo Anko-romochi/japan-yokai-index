@@ -32,3 +32,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 言成地蔵,https://www.city.mishima.shizuoka.jp/page/1200.html,本文段落1–9,静岡県三島市,named_supernatural_entity,既存name・aliasに該当なし,reject,本文は少女の死と記念の地蔵造立を語るが、超自然的行動や怪異主体は示さない,Codex
 三島石,https://www.city.mishima.shizuoka.jp/page/1385.html,本文段落1–4,静岡県三島市,object_spirit,既存name・aliasに該当なし,reject,採石・石材の解説であり、超自然的伝承を示さない,Codex
 比夜叉御前,https://kitabiwako.jp/spot/spot_17536,三島池の逸話,滋賀県米原市,named_supernatural_entity,既存name・aliasに該当なし,defer,比婆女姫など近接する名称との同一性と読みを原資料で確認できていない,Codex
+唯願寺の大蛇の化身,https://www.city.ogaki.lg.jp/0000019601.html,「概要」第1段落,岐阜県大垣市上石津町下山,folklore_being,既存name・aliasおよび唯願寺の伝承に該当なし,admit,大垣市の個別解説に大蛇の化身の母親という怪異主体が確認できる。名称は地域を含む索引名であり伝承上の固有名とはしない。原掲載資料未照合,Codex
+龍王寺の鐘の大蛇,https://www.pref.shiga.lg.jp/file/attachment/2042798.pdf,PDF第2頁「竜神伝説」,滋賀県竜王町,folklore_being,既存name・aliasに該当なし,defer,県公開PDFの縦書き本文は確認したが資料タイトル・刊行情報の固定と引用元『近江輿地志略』巻六一の直接照合を要する,Codex
+山香のぶすくた,https://www.pref.oita.jp/site/archive/201653.html,「説明」段落,大分県杵築市山香町,folklore_being,既存name・aliasに該当なし,defer,県ページは民話名と公園展示への言及のみ。怪異主体と物語本文が確認できない,Codex
