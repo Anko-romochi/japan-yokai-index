@@ -86,3 +86,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 三本松の鶴瓶落とし,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/32200.html,「温古集 二巻」「三本松」展示解説,福井県,folklore_being,既存同地なし,defer,出現するといわれた名称だけで個別の性質や原資料本文は未確認,Codex
 三本松の天狗,https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/32200.html,「温古集 二巻」「三本松」展示解説,福井県,folklore_being,既存同地なし,defer,紹介された一件は天狗面を着けた人間のいたずら。別の天狗伝承と混同しない,Codex
 ミソシ,https://www.library.pref.ishikawa.lg.jp/shosho/curation/KIKAKUTEN0009,「石川の妖怪たち②」河童,石川県,folklore_being,既存河童類型あり,defer,七尾市中島町の河童呼称との説明。独立entityか地域名・異名かは未判定,Codex
+三穂太郎,https://www.town.nagi.okayama.jp/gyousei/chousei/shoukai/shoukai/densetsu.html,「三穂太郎（さんぶたろう）物語」,岡山県,named_supernatural_entity,既存の同名・同地なし。史上モデルと巨人を区別,admit,奈義町の本文に巨人の出生・行動・読みを明示。史上の人物と同一とは断定しない,Codex
+蛇穴の大蛇,https://www.pref.gifu.lg.jp/page/2198.html,「蛇穴（じゃあな）」,岐阜県,folklore_being,既存蛇穴の大蛇なし。他地域の大蛇と別,admit,岐阜県の説明が洞窟から出て昇天する大蛇を地名付きで区別,Codex
+城山公孫樹の姫君の霊,https://www.city.oyama.tochigi.jp/kankou-bunka/rekishi_bunka/bunkazai/page000036.html,「公孫樹」概要第2段落,栃木県,folklore_being,既存小山城・公孫樹の姫君なし,admit,小山市が木に宿る姫君の霊を伝説として明記。姫の実在は主張しない,Codex
+猫ノ島の大ムカデ,https://www.library.pref.ishikawa.lg.jp/shosho/curation/KIKAKUTEN0009,「石川の妖怪たち①」大ムカデ,石川県,folklore_being,既存猫ノ島事例なし。赤丸の大ムカデと無関係,admit,島の主の蛇と敵対する大ムカデを同段落が区別。地名付き記述的索引名,Codex
+中峰（迦葉山）,https://www.pref.gunma.jp/site/kougei/690381.html,迦葉山天狗面本文,群馬県,named_supernatural_entity,既存 kashozan_chuho と source_0398,reject,同一候補は既収録。二重登録を防止,Codex
+念興寺の鬼,https://www.city.gujo.gifu.jp/admin/detail/8905.html,「念興寺の鬼の首としだれ桜」,岐阜県,folklore_being,既存同地なし。瓢ヶ岳の鬼との粒度未判定,defer,市の紹介は鬼の首の伝承を示すが、単独個体か瓢ヶ岳伝承の一部か未確認,Codex
+祇園寺の天狗,https://www.pref.okayama.jp/page/573580.html,「天狗杉」,岡山県,folklore_being,既存同地なし,defer,樹上に現れたという一文のみ。独立した行為主体としての粒度に追加資料が必要,Codex
