@@ -19,3 +19,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 釜口の一の釜の大蛇,https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2366448,個別カード2366448『要約』；原掲載pp.210–211未照合,山梨県山梨市,folklore_being,同じ釜口の一の釜には龍・釜の主の別カードがあり同一性未解決。,defer,龍・大蛇・釜の主の関係と原掲載本文を先に確認する。,Codex
 名護のきじむなー,https://www.city.nago.okinawa.jp/museum/api/detail.html?data_id=3688&doccode=2101&genrecode=03,『きじむなーとおじい』あらすじ,沖縄県名護市,folklore_being,既存キジムナー類型あり。固有個体名なし。,reject,既存類型の一例であり、別entity化する根拠がない。,Codex
 豚マジムン,https://www.city.uruma.lg.jp/documents/2855/katurenminwa_ritou.pdf,『かつれんの民話 離島篇』目次のみ,沖縄県うるま市,folklore_being,既存同名未確認。,defer,市公開PDFは目次のみ。原掲載本文・個体粒度を未確認。,Codex
+龍王（水俣龍山の亡霊）,source_0381,PDF pp.20–21『龍王物語』,熊本県水俣市南福寺・龍山,named_supernatural_entity,龍王池の金色の龍とは別地域・別人物。既存同一物語なし。,admit,市公開本文が固有名・討死後の出現・弔いを記す。相良氏の系譜と天正年代は未検証なので物語内設定に留める。,Codex
+水俣の猟師の化け猫,source_0381,PDF p.59『鉄砲撃ちと化け猫』,熊本県水俣市,folklore_being,既存の八戸三蔵・島根出葉屋の化け猫とは別地域・別物語。,admit,市公開本文に猟師の猫という個体関係・変身・結末がある。説明的索引名で固有名としない。,Codex
+田頭の狐岩の狐群,source_0381,PDF pp.60–61『田頭のお稲荷さん』,熊本県水俣市古里田頭,folklore_being,既存同地名なし。集団で個体識別不可。,defer,80–100匹の群れを一個体entityとしない。祭祀対象との同一性も未確認。,Codex
+泣く子山の赤子の声,source_0381,PDF p.7『久木野城』末段,熊本県水俣市久木野,supernatural_phenomenon,既存同地名なし。,defer,夜の泣き声という一文のみで、怪異の主体・伝承粒度が弱い。,Codex
