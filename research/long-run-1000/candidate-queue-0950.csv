@@ -22,3 +22,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 月見草の精,source_0424,Web版佐賀の昔話 No.59『月見草の花嫁』あらすじ第1–2段落,佐賀県嬉野市塩田町美野（語り手所在地）,folklore_being,既存の杵島山の松の精とは別話・別植物・別人物。,admit,県立図書館の複数段落のあらすじに、一人の娘の婚姻と月見草の精としての正体がある。安定した個体名ではなく資料内の記述名。,Codex
 杵島山の松の精,source_0424,Web版佐賀の昔話 No.27,佐賀県嬉野市塩田町美野,folklore_being,既存kishimayama_matsu_no_seiと同一索引・同一話。,reject,既存entityの重複採録。,Codex
 水神さんの手紙の姉妹,source_0424,Web版佐賀の昔話 No.48あらすじ,佐賀県嬉野市塩田町美野,named_supernatural_entity,同名既存なし。姉・妹の正体と人数の粒度が未確定。,defer,題名だけでは水神と語り中の二人の女性との同一性を固定できない。,Codex
+清涼寺のいたずら狸,source_0676,個別レコード0800100051『原文』第1段落／原掲載p.51,茨城県石岡市国府・清涼寺,folklore_being,同名・同寺の既存entityなし。鴉の長さんは人間、和尚への化身は作中推測。,admit,一匹の狸が場所と反復行動を持つ。題名は資料内の説明名として保持。,Codex
+瓜ボッコの白狐,source_0677,個別レコード0800100072『原文』第1–2段落・狐の名乗り／原掲載p.72,茨城県日立市会瀬町二丁目・瓜ボッコ,folklore_being,他の白狐・稲荷狐と地名・行動が異なる。同一性の証拠なし。,admit,資料本文が居所・役割・自称を備えた特定の白狐を描く。,Codex
+長楽寺（岩間山の天狗）,source_0678,個別レコード0801200005『原文』内『仙境異聞』引用段／原掲載pp.19–23,茨城県笠間市・岩間山／愛宕山,named_supernatural_entity,寺院名とも同綴だが掲載文は真言僧／天狗となる者を明示。既存長楽寺entityなし。,admit,引用箇所に加入者の固有呼称と十三天狗への変化がある。原典未照合をsourceに明記。,Codex
+岩崎城の白蛇,source_0363,『能恵姫伝説』本文、庭の白蛇・婚姻約束・岩窟の大蛇の段,秋田県湯沢市岩崎,folklore_being,既存noe_himeは姫であり、白蛇は別の行為主体。,admit,同じ解説が二者を明確に区別し、白蛇の継続した行動を語る。,Codex
+笠師の狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100211?f=1,個別レコード0800100211『原文』末段／原掲載p.211,茨城県土浦市笠師村,folklore_being,同名既存なし。侍への変化は『かもしれません』という作中の推測。,defer,特定の母狐の超自然行動を資料自体が確言していない。,Codex
+新池の狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0801100022?f=1,個別レコード0801100022『原文』,茨城県かすみがうら市兵崎・新池,folklore_being,既存shinike_no_kitsune_ishiokaと同じ資料・同じ池。,reject,重複採録になる。,Codex
+坪貝の竜神,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MT1_820210,『青森県史民俗編資料津軽』pp.410–411［神］,青森県青森市油川・坪貝神社,named_supernatural_entity,ツボ子・佐五右衛門の二人を祀る竜神様。個体／祭祀名の粒度未確定。,defer,二人と竜神の同一性を索引本文だけで一個体に固定できない。,Codex
