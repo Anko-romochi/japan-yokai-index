@@ -758,3 +758,4 @@
 {"id": "hakutaku", "name_ja": "白澤", "name_kana": "はくたく", "name_romaji": null, "aliases": [], "entity_type": "named_supernatural_entity", "attested_periods": ["edo"], "attested_regions": [], "tags": [], "research_status": "provisional"}
 {"id": "toi_no_daija", "name_ja": "都井の大蛇", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["宮崎県"], "tags": [], "research_status": "provisional"}
 {"id": "daioji_amekau_onna", "name_ja": "大雄寺の飴を買う女", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["島根県"], "tags": [], "research_status": "provisional"}
+{"id": "kaminotozanai_mura_raiju", "name_ja": "『雷の落ちない村』の雷獣", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": ["showa"], "attested_regions": ["滋賀県"], "tags": [], "research_status": "provisional"}

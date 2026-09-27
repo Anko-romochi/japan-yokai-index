@@ -23,3 +23,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 守山の火まつりの大蛇,source_0397,滋賀県『祭の起源～天皇平癒伝説～』節,滋賀県,folklore_being,既存 moriyama_himatsuri_daija と source_0397 に一致,reject,守山市の別ページを探索したが、同じ祭りの大蛇伝承を既に索引していた。,Codex
 海坊主（桑名の錦絵）,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-840.html,個別レコードF-320-840『説明』,三重県,folklore_being,既存 umibozu と同じ広域類型,defer,桑名屋徳蔵との問答は地域作品として比較価値があるが、既存海坊主と別entityにすべき根拠は不足。,Codex
 月照寺の大亀,https://www.city.matsue.lg.jp/material/files/group/32/koizumiyakumomap.pdf,PDF 2ページ目・地点14『月照寺』,島根県,object_spirit,既存 gesshoji_no_kame_sekizo に一致,reject,松江市マップにも記載があるが、既に同寺の亀石像を索引している。,Codex
+『雷の落ちない村』の雷獣,source_0571,大津市『三橋節子と近江昔話』見出し『雷の落ちない村・雷封じの宮』,滋賀県,folklore_being,既存名称・雷獣類型・作品名を照合し一致なし,admit,1974年の絵画と後世の市立美術館解説で確認できる個別作品の雷獣として索引。先行伝承との同一性や起源は主張しない。,Codex
