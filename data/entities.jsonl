@@ -601,3 +601,6 @@
 {"id":"kurokane_zasu","name_ja":"黒金座主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["沖縄県"],"tags":[],"research_status":"provisional"}
 {"id":"kasuya_white_bakemono","name_ja":"糟屋郡の白いばけもの","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
 {"id":"naka_mikoshi_nyudo","name_ja":"那珂郡の見越入道","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
+{"id":"oohara_fox","name_ja":"大原狐","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}
+{"id":"oonuma_white_snake","name_ja":"大沼の白蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}
+{"id":"ohata_head_seeking_serpent","name_ja":"大幡の首を求める大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}

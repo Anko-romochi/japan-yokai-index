@@ -12,3 +12,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "糸六神社の大蛇","https://common3.pref.akita.lg.jp/bunka/detail.html?cid=18&id=5641","第108回秋田弁の昔っこ イベントレポートの糸六神社段落","秋田県","folklore_being","既存名なし","defer","イベント報告は一文の再話。大蛇の個体名や原話の位置を確認できず","Codex"
 "ナナヒロニョバ","https://www.pref.tottori.lg.jp/221795.htm","鳥取県史ブックレット 鳥取県の妖怪 目次","鳥取県","folklore_being","既存nanahiro_nyoboと類似表記","reject","名称差だけの別entity化は重複を招く。異読・地域差は既存entityの研究課題","Codex"
 "高山の柳の精","https://www.pref.tottori.lg.jp/266685.htm","おりゅうと柳 語り本文","鳥取県","folklore_being","既存takayama_no_yanagi_no_sei","reject","既存entityに一致","Codex"
+"大原狐","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/tiikikouminkan/oohara.html","本文 女への変化から結末","埼玉県","folklore_being","大原・oohara・oharaを検索し一致なし","admit","市公開の一話で狐の行為を確認。明治頃は物語内年代としてのみ保持","Codex"
+"大沼の白蛇","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/tiikikouminkan/oonuma.html","本文 弁天島の祠と白蛇出現の言い伝え","埼玉県","folklore_being","大沼・oonumaを検索し一致なし","admit","祠の白蛇として局地伝承を特定。目撃や実在を主張しない","Codex"
+"大幡の首を求める大蛇","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/kumagayatyuokominkan/index.files/mukasibanasi.pdf","PDF 1頁 蛇の首切りから追跡","埼玉県","folklore_being","大幡・ohataを検索し一致なし","admit","一話の首を失った蛇として識別可能。蛇と大蛇は同話内の表現","Codex"
+"上須戸の大蛇","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/tiikikouminkan/nagai.html","上須戸八幡大神社の段落","埼玉県","folklore_being","上須戸を検索し一致なし","defer","一段落の紹介のみで大蛇の固有性・原話が未確認。1057年は伝承内年代","Codex"
+"鬼が飛ぶ晩の鬼","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/tiikikouminkan/oni.html","鬼が飛ぶ晩 本文","埼玉県","folklore_being","鬼一般と比較","defer","家に入る魔物を防ぐ行事であり個別の鬼・魔物のidentityを確認できない","Codex"
