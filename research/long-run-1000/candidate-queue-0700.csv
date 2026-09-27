@@ -66,3 +66,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 鎧潟の大蛇,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf,印刷p.89／PDF 5頁、鎧潟,新潟県,folklore_being,鎧潟と他の大蛇伝承は別地,defer,同一節に二つの大蛇譚があり同一個体か未確定。元の掲載書も未照合,Codex
 鏡潟の主,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf,印刷p.90／PDF 6頁、鏡潟,新潟県,folklore_being,鏡潟の蛇と娘の関係が不明,defer,娘と大蛇の同一性を推測しない。元の掲載書を要確認,Codex
 藤巻池の人魚,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf,印刷p.86／PDF 2頁、藤巻池,新潟県,folklore_being,同じ池の亀主との関係不明,defer,人魚と大亀が併記された異伝の粒度・元資料を要確認,Codex
+おきく狸,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,四十年代「猫壇家」ロ,香川県,named_supernatural_entity,既存entity okiku_tanuki_tadotsuを確認,reject,既採録で重複,Codex
+喜八猫,https://www.library.pref.kagawa.lg.jp/know/local/local_3001,四十年代「猫壇家」ロ,香川県,named_supernatural_entity,既存entity kihachi_nekoを確認,reject,既採録で重複,Codex
+宝尾山の大蛇,https://www.city.fukui.lg.jp/kankou/kankou/jouhou/introduce_shimizu-den-mitome.html,2「宝尾山の大蛇」,福井県,folklore_being,既存entity houosan_no_daijaを確認,reject,既採録で重複,Codex
+乙女狸,source_0512,PDF 2頁「タヌキのむかしばなし二つ」末段,愛媛県,named_supernatural_entity,既存名・田の上の楠を照合し一致なし,admit,名・場所・化身行動が明記された個体譚,Codex
+小女郎狸,source_0514,PDF 2頁「国領川の語あれこれ」冒頭,愛媛県,named_supernatural_entity,子女郎狸の表記差と一宮神社の同じ大楠を照合,admit,2018年号との表記差はあるが同一神社・同じ楠の名付き狸。aliasは未登録,Codex
+八郎狸,source_0513,PDF 2頁「松神子・大足智姫神社の大楠」,愛媛県,named_supernatural_entity,既存名・九左衛門新田を照合し一致なし,admit,本文が遊び場と行動を記す。大楠を根城としたという筆者の推測は採らない,Codex
+八畳狸,https://www.city.niihama.lg.jp/uploaded/life/149127_718203_misc.pdf,神郷にも狸がいた,愛媛県,named_supernatural_entity,八郎狸との関係を未確認,defer,2025年号の異名か別個体か未確定。自動alias・分割をしない,Codex

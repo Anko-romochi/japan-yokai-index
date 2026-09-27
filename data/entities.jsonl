@@ -676,3 +676,6 @@
 {"id":"oji_ike_no_oji","name_ja":"オジ池のオジ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}
 {"id":"arashigata_no_daija","name_ja":"嵐潟の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}
 {"id":"nakanogata_no_ogame","name_ja":"中ノ潟の大亀","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}
+{"id":"otome_tanuki_niihama","name_ja":"乙女狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
+{"id":"kojoro_tanuki_niihama","name_ja":"小女郎狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
+{"id":"hachiro_tanuki_niihama","name_ja":"八郎狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
