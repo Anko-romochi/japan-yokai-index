@@ -57,3 +57,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 更木の人の名を呼ぶキツネ,source_0507,見出し「人の名前をよぶキツネ」全文,北海道,folklore_being,更木・名を呼ぶ狐で既存照合し一致なし,admit,笹原の狐が人声をまねる個別話。別の更木の狐と統合しない,Codex
 イワナが姫,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「あまばんの由来」,北海道,object_spirit,イワナガ姫との音韻類似は同一性未確認,defer,本文の名が神格名か石の呼称か不明。類似神名との関係未確認,Codex
 更木にあらわれたキツネ,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,同名見出し全文,北海道,folklore_being,更木の別狐との同一性不明,defer,複数の更木狐譚を同一個体または別個体と判断できない,Codex
+阿池姫,source_0509,歴史に関する説明、阿池姫伝説,長崎県,named_supernatural_entity,阿池姫・川原大池で既存照合し一致なし,admit,名を持つ人物の竜化伝説。物語内年代を発生年代として使わない,Codex
+龍頭巌の大蛇,source_0510,（5）城の古祉、第1段落,長崎県,folklore_being,龍頭巌・お竹で既存照合し一致なし,admit,武士の姿で現れたとされる大蛇。お竹本人との同一性は主張しない,Codex
+お竹,https://www.city.nagasaki.lg.jp/nagazine/uta/051124/index.html,（5）城の古祉、第1段落,長崎県,historical_person_in_supernatural_tradition,龍頭巌の大蛇との関係を確認,reject,怪異を受けた人間として語られ、本人が怪異になったとは記されない,Codex

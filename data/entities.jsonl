@@ -671,3 +671,5 @@
 {"id":"asahata_no_numa_no_baasan","name_ja":"沼のばあさん","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["静岡県"],"tags":[],"research_status":"provisional"}
 {"id":"yuriko_zawa_no_ojizo_sama","name_ja":"百合子沢のお地蔵さま","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["北海道"],"tags":[],"research_status":"provisional"}
 {"id":"saraki_no_na_wo_yobu_kitsune","name_ja":"更木の人の名を呼ぶキツネ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["北海道"],"tags":[],"research_status":"provisional"}
+{"id":"ahime_kawahara","name_ja":"阿池姫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
+{"id":"ryuzugan_no_daija","name_ja":"龍頭巌の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
