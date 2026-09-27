@@ -55,3 +55,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 桑畑の立石様,source_0584,pp.392–397、第8章第2節2（1）［神］、桑畑と下風呂の二つの立石様の段,青森県,folklore_being,既存entity名・異名・二地点を照合し一致なし,admit,同名の下風呂の立石様とは別の岩・場所として記述される。 両者を同一個体としない。,Codex
 下風呂の立石様,source_0584,pp.392–397、第8章第2節2（1）［神］、桑畑と下風呂の二つの立石様の段,青森県,folklore_being,既存entity名・異名・二地点を照合し一致なし,admit,同名の桑畑の立石様とは別の岩・場所として記述される。 両者を同一個体としない。,Codex
 茂庭の大蛇,source_0586,PDF p.4（印刷p.2）『茂庭の大蛇伝説』,福島県,folklore_being,既存entity名・異名・菅沼を照合し一致なし,admit,福島市公開冊子で地名に結び付く大蛇伝承を確認。建久3年は伝承内年代で採録年ではない。,Codex
+洞雲寺の狐,source_0587,『山の寺伝説』、白髪の老人と狐の祠の段,宮城県,folklore_being,既存entity名・異名・洞雲寺を照合し一致なし,admit,仙台市解説で狐が老人に化ける個別伝承を確認。『洞雲寺伝』本文は未確認。,Codex

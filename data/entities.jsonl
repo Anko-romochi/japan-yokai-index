@@ -778,3 +778,4 @@
 {"id": "kuwabatake_no_tateishisama", "name_ja": "桑畑の立石様", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["青森県"], "tags": [], "research_status": "provisional"}
 {"id": "shimofuro_no_tateishisama", "name_ja": "下風呂の立石様", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["青森県"], "tags": [], "research_status": "provisional"}
 {"id": "moniwa_no_daija", "name_ja": "茂庭の大蛇", "name_kana": "もにわのだいじゃ", "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["福島県"], "tags": [], "research_status": "provisional"}
+{"id": "tounji_no_kitsune", "name_ja": "洞雲寺の狐", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["宮城県"], "tags": [], "research_status": "provisional"}
