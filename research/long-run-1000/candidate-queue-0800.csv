@@ -34,3 +34,11 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 三津屋村の河太郎,https://www.oml.city.osaka.lg.jp/torikomi/upload/tayori044.pdf,大阪市史編纂所だより44 PDF p.2『江戸時代の大坂の妖怪』,大阪府,folklore_being,既存 kappa と類型重複の可能性,defer,『摂陽群談』の河太郎済・河虎宮は特定の河童一体と集団を区別する必要があり原典巻7照合待ち。,Codex
 お玉さん（玉島）,source_0576,倉敷市『玉島の史跡紹介　新町』見出し『お玉さんの祠（伝説）』,岡山県,named_supernatural_entity,既存entityの名称・地域を照合し一致なし,admit,名を持つ伝説上の犠牲者の霊への祭祀を索引。本人の実在と祠の建立年代から伝説の成立年を推定しない。,Codex
 大槌島の大蛇,https://www.city.kurashiki.okayama.jp/_res/projects/default_project/_page_/001/002/922/1002922_ma_31.pdf,平山家文書目録 PDF p.6、資料142『蛇鱗乃由来』,岡山県,folklore_being,既存の大蛇entityとの同一性未確認,defer,文政2年の資料の目録要約のみ確認。原文未照合で大蛇の怪異性・個体識別を確定できない。,Codex
+木屋の竜神さま,source_0577,個別話『木屋（こや）の竜神さま』、池の縮小・供え物と雨乞い・鞆呂岐神社奥院の段,大阪府,folklore_being,既存entity名・地域・個別話を照合し一致なし,admit,木屋の鞆呂岐神社周辺の池に結ぶ個別の竜神。若宮八幡宮の菱に乗る竜神との同一性は未確認。,Codex
+太間の池の主,source_0578,個別話『豆腐屋さんと池の主（ぬし）』、終盤、池へのおからの施行と主の正体が不明とする段,大阪府,folklore_being,既存entity名・地域・個別話を照合し一致なし,admit,太間村付近の池の主として語られるが姿・種別は不明。他の池神や竜神と統合しない。,Codex
+菱に乗ってきた竜神さま,source_0579,個別話『菱（ひし）に乗ってきた竜神さま』、洪水時の菱上の姿・雨雲と祭祀・上堀平氏座談の段,大阪府,folklore_being,既存entity名・地域・個別話を照合し一致なし,admit,若宮八幡宮に関連づけられた一話の竜神。木屋の竜神との直接の関係は資料にない。,Codex
+河北の狐,source_0580,個別話『河北の狐』、河北村古老との座談より、五軒堀川の狐が尾で道行く人を惑わす段,大阪府,folklore_being,既存entity名・地域・個別話を照合し一致なし,admit,五軒堀川の一匹を索引。他地域の『狐』一般や同市の別の狐話とは統合しない。,Codex
+喜左衛門狸,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 kizaemon_tanuki_saijo と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
+ヤゲ谷の化猫,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 yage_dani_no_bakeneko と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
+香園寺の肉付きの面,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 koenji_no_nikutsuki_no_men と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
+黒滝の不思議な神かぐら,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 kurotaki_no_fushigi_na_kagura と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
