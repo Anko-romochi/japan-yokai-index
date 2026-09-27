@@ -56,3 +56,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 枇杷庄のゴイサギ狐,source_0688,『ゴイサギ返せ（枇杷庄）』本文、鳥の発見から返却を求める声まで。狐の実見は記されない,京都府城陽市枇杷庄・木津川堤防（掲載世間話）,folklore_being,同話・同地点の既存entityなし。見出しは物語題で、固有名の狐は本文にない。,admit,市の再話が特定地点と狐に帰属する発話を記録。索引用ラベルは記述的と明記。,Codex
 玉池の夜叉ばあさん,https://www.city.joyo.kyoto.jp/0000006289.html,『玉池の夜叉ばあさん（寺田）』本文、人面木と墓・婚礼忌避の段,京都府城陽市寺田・玉池,historical_person_in_supernatural_tradition,同名既存なし。元の女性・墓・人面木の関係と実在性が不明。,defer,人物伝承と樹木の怪異を同一entityにする根拠が足りない。,Codex
 富野の渡し狐,https://www.city.joyo.kyoto.jp/0000006405.html,『狐の逢引き（富野）』本文、雄狐と雌狐・渡し舟の段,京都府城陽市富野・木津川,folklore_being,同名既存なし。雄狐と雌狐の二個体が登場し単一主体としての粒度が未確定。,defer,二個体のうちどちらを索引するか整理が必要。,Codex
+桃山の竜神さん,source_0689,06_momoyamanoryuujinsan.pdf; PDF pp.3–5、竜神の声、池の修復、雨の後に天へ帰るという段,愛知県大府市桃山・大府地区（掲載民話）,named_supernatural_entity,同名・同地の既存entityなし。ほかの池の竜と同一視しない。,admit,山名・竜神の呼称と村人による池の修復を直接本文で確認。,Codex
+桃山の柿を食べる竜,source_0689,07_kakiwotaberuryuu.pdf; PDF pp.1–3、柿が消える段、見張りが竜を見つける段、後の祭祀の段,愛知県大府市桃山東・峰畑（掲載民話）,folklore_being,桃山の竜神さんと同地名だが物語内の役割・筋が異なる。直接の同一性は未確認。,admit,別話に竜の出現・行動と後の祭祀が記される。両竜神を統合しない。,Codex
+横根の大入道,source_0689,17_oonyuudou.pdf; PDF pp.1–4、逢妻川の堤防に大入道が現れ、泉田の寺で坊主に戻るという段,愛知県大府市横根・逢妻川（掲載民話）,folklore_being,同地・同話の既存entityなし。怪異の正体を断定しない。,admit,大入道としての知覚と後の坊主としての描写が同一話内にある。,Codex
+横根の天狗火,source_0689,18_tengubi.pdf; PDF pp.2–5、川中で消えたはずの手おけの火が燃える段と天狗火という呼称,愛知県大府市横根・境川沿いの小川（掲載民話の解説）,supernatural_phenomenon,既存の一般的な天狗火類型ではなく横根の一話の現象を索引。天狗自体の出現は記されない。,admit,火の異変・呼称・場所が本文中に確認できる。,Codex
+オシロ池の地蔵さん,source_0689,19_oshiroikenojizousan.pdf; PDF pp.1–3、光る地蔵像、像の移転と後ろ池への改称の段,愛知県大府市北崎地区・オシロ池（掲載民話の解説）,named_supernatural_entity,既存同名・同池のentityなし。別地域の地蔵伝承と統合しない。,admit,池畔の像・光の描写・祭祀と呼称が本文に記される。,Codex
+二つ池の狐,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/007/193/16_futatsuikenokitsune.pdf,PDF pp.1–5、道迷いと見えない声,愛知県大府市横根・二つ池,folklore_being,同地の狐既収載なし。姿は現れず、道迷いの原因を狐に帰属。,defer,狐の個体identityが話中で確認できず、現象と主体の粒度を保留。,Codex
+辰池の竜,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/007/193/21_tatsuikenoryuu.pdf,PDF pp.1–3、村人の竜説と雨乞い後の水柱,愛知県大府市北尾村・辰池,folklore_being,同池の竜既収載なし。姿の目撃は本文にない。,defer,水柱・閃光と竜の同一性が話中で推測される段階。個体としての粒度を保留。,Codex
