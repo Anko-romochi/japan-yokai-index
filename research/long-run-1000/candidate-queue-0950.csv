@@ -51,3 +51,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 三朝町大谷の米出し地蔵,https://www.pref.tottori.lg.jp/266698.htm,『米出し地蔵』語り冒頭と米が出る段,鳥取県三朝町大谷（採集地）,object_spirit,同名既存なし。語りの舞台は『あるところ』で地蔵像の特定不能。,defer,採集地だけで作中の地蔵の所在地や独立identityを確定できない。,Codex
 サバ食い山姥,https://www.pref.tottori.lg.jp/266702.htm,『サバ食い山姥』語り冒頭,鳥取県三朝町吉尾（採集地）,folklore_being,個体名・居所なし。山姥類型の一話。,defer,採集地を作中所在地とみなさず、類型との粒度差を保留。,Codex
 灰坊,https://www.pref.tottori.lg.jp/266722.htm,『灰坊』語り冒頭・名付けの段,鳥取県大山町高橋（採集地）,historical_person_in_supernatural_tradition,本文では元長者の息子で、灰坊は火焚きの奉公人名。,reject,確認範囲では人間の主人公であり怪異主体ではない。,Codex
+奈島の淀姫さん,source_0686,『淀姫さん（奈島）』本文、流れ着いた神の祭祀と水を守る神の説明。原冊未照合,京都府城陽市奈島・木津川堤防（掲載伝承・祭祀）,named_supernatural_entity,同名・同祭祀地点の既存entityなし。他地域の淀姫神格と同一視しない。,admit,市資料館の公開伝承に名称・場所・水神祭祀が確認できる。,Codex
+観音堂の雨乞い地蔵,source_0687,『雨乞い地蔵（観音堂）』本文、池から地蔵を上げて洗い祈祷する段。原冊未照合,京都府城陽市観音堂・常楽寺（掲載伝承）,named_supernatural_entity,同名の地蔵信仰一般から分離。既存の別地域の地蔵と連続性を推測しない。,admit,特定の寺と地蔵像に結び付いた信仰行為と呼称が記録されている。,Codex
+枇杷庄のゴイサギ狐,source_0688,『ゴイサギ返せ（枇杷庄）』本文、鳥の発見から返却を求める声まで。狐の実見は記されない,京都府城陽市枇杷庄・木津川堤防（掲載世間話）,folklore_being,同話・同地点の既存entityなし。見出しは物語題で、固有名の狐は本文にない。,admit,市の再話が特定地点と狐に帰属する発話を記録。索引用ラベルは記述的と明記。,Codex
+玉池の夜叉ばあさん,https://www.city.joyo.kyoto.jp/0000006289.html,『玉池の夜叉ばあさん（寺田）』本文、人面木と墓・婚礼忌避の段,京都府城陽市寺田・玉池,historical_person_in_supernatural_tradition,同名既存なし。元の女性・墓・人面木の関係と実在性が不明。,defer,人物伝承と樹木の怪異を同一entityにする根拠が足りない。,Codex
+富野の渡し狐,https://www.city.joyo.kyoto.jp/0000006405.html,『狐の逢引き（富野）』本文、雄狐と雌狐・渡し舟の段,京都府城陽市富野・木津川,folklore_being,同名既存なし。雄狐と雌狐の二個体が登場し単一主体としての粒度が未確定。,defer,二個体のうちどちらを索引するか整理が必要。,Codex
