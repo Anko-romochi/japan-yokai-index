@@ -46,3 +46,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 筵内熊野神社の黒馬,source_0600,第3話『熊野神社の黒馬』,福岡県古賀市,folklore_being,mushirochi_kumano_kuroumaとして既収載。,reject,既存entityとの重複。,Codex
 犬鳴の天狗,source_0600,第4話『天狗の笛』,福岡県古賀市,folklore_being,inunaki_fue_no_tenguとして既収載。,reject,既存entityとの重複。,Codex
 貝舞のほら貝,source_0600,第2話『貝舞』,福岡県古賀市,object_spirit,既存同名なし。ほら貝の漂流と地名由来の話。,defer,現本文に自律的な妖怪・怪異主体を確認できない。,Codex
+下の七兵衛の骸骨,source_0266,『踊る骸骨』語り本文・殺害と骸骨の告発,鳥取県智頭町波多,named_supernatural_entity,shimo_no_shichibe_no_gaikotsuとして既収載。,reject,1979年採集記録を再照合したが既存entityと同一。,Codex
+波多のかみそり狐,https://www.pref.tottori.lg.jp/265927.htm,『かみそり狐』語り冒頭,鳥取県智頭町波多,named_supernatural_entity,hata_no_osangitsuneの別話。本文はおさん狐と明記。,reject,話の題だけで別個体化しない。既存おさん狐の記録。,Codex
+三朝町大谷の米出し地蔵,https://www.pref.tottori.lg.jp/266698.htm,『米出し地蔵』語り冒頭と米が出る段,鳥取県三朝町大谷（採集地）,object_spirit,同名既存なし。語りの舞台は『あるところ』で地蔵像の特定不能。,defer,採集地だけで作中の地蔵の所在地や独立identityを確定できない。,Codex
+サバ食い山姥,https://www.pref.tottori.lg.jp/266702.htm,『サバ食い山姥』語り冒頭,鳥取県三朝町吉尾（採集地）,folklore_being,個体名・居所なし。山姥類型の一話。,defer,採集地を作中所在地とみなさず、類型との粒度差を保留。,Codex
+灰坊,https://www.pref.tottori.lg.jp/266722.htm,『灰坊』語り冒頭・名付けの段,鳥取県大山町高橋（採集地）,historical_person_in_supernatural_tradition,本文では元長者の息子で、灰坊は火焚きの奉公人名。,reject,確認範囲では人間の主人公であり怪異主体ではない。,Codex
