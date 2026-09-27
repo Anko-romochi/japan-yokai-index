@@ -34,3 +34,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 樋の滝の狐,source_0538,第88回、冊子p.33／PDF44–45頁,群馬県,folklore_being,既存名・場所・筋を照合し一致なし,admit,1997年記事の再録本文で憑依する狐の行為を確認。類似狐伝承と同一視しない。,Codex
 樋の滝の緋鯉,source_0538,第176回、冊子p.83／PDF95頁,群馬県,folklore_being,既存名・場所・筋を照合し一致なし,admit,2006年記事の再録本文で女性が緋鯉になり滝の主となる話を確認。記事年代を起源としない。,Codex
 樋の滝の蜘蛛,source_0538,第87回、冊子p.32／PDF44頁,群馬県,folklore_being,既存名・場所を照合,defer,糸と川底からの声は記すが、蜘蛛の姿・個体同定は当該話に明示されない。,Codex
+陸耳御笠,source_0539,『日子坐王の鬼退治』,京都府,named_supernatural_entity,既存名・別名・物語内の役割を照合し一致なし,admit,京都府の機関解説に個別の名と役割が明記。伝説内の時代を記録成立年代としない。,Codex
+英胡,source_0539,『麻呂子親王の鬼退治』,京都府,named_supernatural_entity,既存名・別名・物語内の役割を照合し一致なし,admit,京都府の機関解説に個別の名と役割が明記。伝説内の時代を記録成立年代としない。,Codex
+軽足,source_0539,『麻呂子親王の鬼退治』,京都府,named_supernatural_entity,既存名・別名・物語内の役割を照合し一致なし,admit,京都府の機関解説に個別の名と役割が明記。伝説内の時代を記録成立年代としない。,Codex
+土熊,source_0539,『麻呂子親王の鬼退治』,京都府,named_supernatural_entity,既存名・別名・物語内の役割を照合し一致なし,admit,京都府の機関解説に個別の名と役割が明記。伝説内の時代を記録成立年代としない。,Codex
+山科小山の大蛇,source_0540,冊子p.22／PDF23頁『大蛇伝説』,京都府,folklore_being,既存名・小山・牛尾山・二の講を照合し一致なし,admit,共同調査報告書の本文で大蛇と二の講の関係を確認。巻物の内容や古さは未照合。,Codex
