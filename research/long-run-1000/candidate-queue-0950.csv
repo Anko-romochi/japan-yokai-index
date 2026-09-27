@@ -1,0 +1,5 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+テッチン坊,source_0670,『化け物問答』本文、名乗り・椿の杵を割る結末の段,鳥取県三朝町吉尾（語り手所在地）,object_spirit,同名・同資料の既存entityなし。ほかの四怪異とは別名・別正体。,admit,1988年8月聴取と記される具体的な採集語り。物語内の寺の実在地は不明。,Codex
+トウザンのバコツ等の四怪異,source_0670,『化け物問答』本文、列挙と正体の説明の段,鳥取県三朝町吉尾（語り手所在地）,folklore_being,同じ語りの別個体だが1話の物語的構成要素。,defer,一話を複数entityへ機械的に分割しない。ほかの独立した採集例を調べる。,Codex
+佐伯区のあまんじゃく,https://www.city.hiroshima.lg.jp/saekiku/shoukai/1027808/1027814/1007937.html,『あまんじゃく伝説』引用本文、父を津久根島に葬る段,広島市佐伯区,folklore_being,多可のあまんじゃくとは別地域だが、同名のみで同一視しない。,reject,市掲載話は反対ばかりする人間の子の話で、怪異行為を確認できない。,Codex
+飯山市土倉の狸大明神,https://www.city.nagano.nagano.jp/museum/pdf/dayori/57.pdf,長野市立博物館だより57号の該当頁未固定,長野県飯山市土倉,named_supernatural_entity,同名既存は未確認。,defer,博物館PDFは画像主体で本文・頁を直接確認できず、検索断片から採録しない。,Codex
