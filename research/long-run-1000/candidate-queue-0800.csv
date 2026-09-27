@@ -47,3 +47,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 唐櫃の黄金の鶏,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story16/,見出し『唐櫃の黄金の鶏』、埋蔵と禁忌の段,兵庫県,folklore_being,既存entity名を照合し一致なし,defer,黄金の鶏は埋められた品として語られ、鶏自体の超自然的行為とentity粒度を確認できない。,Codex
 秦武文の亡霊,source_0582,見出し『沼島女郎』、秦武文の入水と亡霊が海に現れる段,兵庫県,folklore_being,既存entity名・異名・人物を照合し一致なし,admit,再話中に名を持つ亡霊として出る主体のみ索引。秦武文の実在や亡霊出現を史実化しない。,Codex
 沼島女郎,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story19/,末段、オコゼに似た魚の地方名を説明,兵庫県,folklore_being,既存名称を照合し一致なし,reject,本文では魚の地方名であり、その魚の超自然的行為は語られない。題名だけで妖怪として索引しない。,Codex
+寝屋の西坂の大狸,source_0583,『勘七と化け物』、化け物の変化と終盤に大狸と判明する段,大阪府,folklore_being,既存entity名・寝屋西坂・個別話を照合し一致なし,admit,『化け物』は本文では大狸と明らかにされる。同市の『マッチで消えた化け物』と同一視しない。,Codex
+河内街道の背高坊主,https://www.city.neyagawa.osaka.jp/organization_list/shiminkatsudou/bunkasport/bunkazai/mukashibanasi/1378084705535.html,『マッチで消えた化け物』、若者に現れた背高坊主と油揚げ消失の段,大阪府,folklore_being,既存寝屋西坂の大狸とは場所・話が異なる,defer,背高坊主の姿は確認できるが、狐等の正体は本文にない。独立entity名は説明的で同一伝承系列も未確認。,Codex
