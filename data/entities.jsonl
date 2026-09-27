@@ -829,3 +829,5 @@
 {"id":"yozo_yozonuma","name_ja":"与蔵","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["山形県鮭川村"],"tags":[],"research_status":"provisional"}
 {"id":"shirahigenuma_no_ryujin","name_ja":"白髭沼の龍神","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["山形県鮭川村"],"tags":[],"research_status":"provisional"}
 {"id":"funado_no_ike_no_nushi","name_ja":"船戸の池の主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["和歌山県北山村"],"tags":[],"research_status":"provisional"}
+{"id":"omasu_tanuki_sumoto","name_ja":"お増","name_kana":"おます","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["2002"],"attested_regions":["兵庫県洲本市"],"tags":[],"research_status":"provisional"}
+{"id":"masuemon_tanuki_sumoto","name_ja":"桝右衛門","name_kana":"ますえもん","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["2002"],"attested_regions":["兵庫県洲本市"],"tags":[],"research_status":"provisional"}
