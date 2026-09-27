@@ -80,3 +80,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 猫又退治の猫又,source_0695,印刷pp.227–229、第二部第144話,香川県（採集資料対象地域。物語内の村は不詳）,folklore_being,既存の一般猫又や地域猫又と同一性なし。,defer,単一話の名無しの猫又であり、既存類型とのentity grainを比較してから判断。,Codex
 猫又の話の猫又,source_0695,印刷pp.243–244、第二部第155話,香川県（採集資料対象地域。物語内の家は不詳）,folklore_being,第144話の猫又とも同一個体の根拠なし。,defer,名無しの猫又であるため、同じ本の別話を件数合わせで個体化しない。,Codex
 竹姫,source_0695,印刷p.257、第二部第168話,香川県（採集資料対象地域）,named_supernatural_entity,同名の地域話・かぐや姫との同一性未確認。,defer,竹から生まれて月へ帰る話型で、地域独立の人格としての粒度を決めるには比較資料が必要。,Codex
+大槌・小槌の大蛇,source_0695,印刷pp.215–216、第二部第133話「二人の兄弟」,大槌島・小槌島の間（語りの舞台）,named_supernatural_entity,同名・同筋の既存entityなし。『大槌・小槌の大蛇』は語り中の場所と姿による索引用名称で原文の固有名ではない。,admit,弟が蛇となり特定の島間へ移る一続きの物語で個体を識別できる。採集地や変身の史実性は推測しない。,Codex

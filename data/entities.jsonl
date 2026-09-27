@@ -936,3 +936,4 @@
 {"id":"hatta_suzuki_miyo","name_ja":"みよ","name_kana":"みよ","name_romaji":"Miyo","aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["石川県金沢市八田町・森本川下流（市公開民話の舞台）"],"tags":[],"research_status":"provisional"}
 {"id":"inegami_sama_sanuki","name_ja":"稲神さま","name_kana":null,"name_romaji":null,"aliases":["稻神さま"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":[],"tags":[],"research_status":"provisional"}
 {"id":"domen_san_sanuki","name_ja":"胴面さん","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["香川県（『東讃岐昔話集』の採集地域）"],"tags":[],"research_status":"provisional"}
+{"id":"otsuchi_kotsuchi_no_daija","name_ja":"大槌・小槌の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["大槌島・小槌島の間（語りの舞台）"],"tags":[],"research_status":"provisional"}
