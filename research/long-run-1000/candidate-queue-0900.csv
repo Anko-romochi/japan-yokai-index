@@ -43,3 +43,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 江波のおさん狐,source_0654,広島市中区版「おさん狐」項目,広島県広島市中区江波,named_supernatural_entity,既存波多・大谷・露藤のおさん狐は各別地域・資料。江波の記録を自動統合しない。,admit,市広報紙が江波の狐の呼称・行動・像を明記。読みと古い表記は未確認。,Codex
 もみみん,https://www.city.hiroshima.lg.jp/living/shobo-bohan/1006085/1025613/1025615/1019188.html,広島市消防局「もみみん」設定表,広島県広島市,named_supernatural_entity,江波のおさん狐をモチーフとする新規マスコットであり同一個体ではない。,defer,市消防局キャラクターとしての設定は確認できるが、超自然的存在としての描写は確認できない。,Codex
 化け猫ポン太,https://www.city.ishinomaki.lg.jp/cont/10053500/0050/3639/tashirojima.pdf,石巻市田代島リーフレット地図ラベル,宮城県石巻市田代島,named_supernatural_entity,既存同名なし。ただし地図上の地点名のみ。,defer,地図ラベルだけで猫の人格・伝承・独立entityか施設名かを確定できない。,Codex
+柴助狸,source_0655,兵庫県立歴史博物館『狸と狐』節『洲本八狸』内の同名小見出し,兵庫県洲本市（物語の舞台）,named_supernatural_entity,同名・同地域の既存entityなし。芝右衛門・お増・桝右衛門とは別の個体として明記。,admit,博物館が2002年刊の絵本に基づき個体名と行動を説明。古い伝承成立時期は未確認。,Codex
+武左衛門狸,source_0655,兵庫県立歴史博物館『狸と狐』節『洲本八狸』内の同名小見出し,兵庫県洲本市（物語の舞台）,named_supernatural_entity,同名・同地域の既存entityなし。芝右衛門・お増・桝右衛門とは別の個体として明記。,admit,博物館が2002年刊の絵本に基づき個体名と行動を説明。古い伝承成立時期は未確認。,Codex
+宅左衛門狸,source_0655,兵庫県立歴史博物館『狸と狐』節『洲本八狸』内の同名小見出し,兵庫県洲本市（物語の舞台）,named_supernatural_entity,同名・同地域の既存entityなし。芝右衛門・お増・桝右衛門とは別の個体として明記。,admit,博物館が2002年刊の絵本に基づき個体名と行動を説明。古い伝承成立時期は未確認。,Codex
+お松狸,source_0655,兵庫県立歴史博物館『狸と狐』節『洲本八狸』内の同名小見出し,兵庫県洲本市（物語の舞台）,named_supernatural_entity,同名・同地域の既存entityなし。芝右衛門・お増・桝右衛門とは別の個体として明記。,admit,博物館が2002年刊の絵本に基づき個体名と行動を説明。古い伝承成立時期は未確認。,Codex
+川太郎狸,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story12/journey10/,節『洲本八狸』の小見出し『川太郎狸』,兵庫県洲本市（物語の舞台）,named_supernatural_entity,既存同名なし。ただし一家全員が川太郎という名と明記。,defer,家族の共通名であり単一個体としてのentity粒度が未解決。,Codex
