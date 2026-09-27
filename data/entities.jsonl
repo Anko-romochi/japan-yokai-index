@@ -974,3 +974,4 @@
 {"id":"hikaru_kaicho_osarizawa","name_ja":"光る怪鳥","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["秋田県鹿角市尾去沢・大森山（鹿角市掲載伝説の場所）"],"tags":[],"research_status":"provisional"}
 {"id":"omori_kojibei_ga_mita_kine","name_ja":"大森小治兵衛が見た杵","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":[],"tags":[],"research_status":"provisional"}
 {"id":"sotobaba_no_kuronudo","name_ja":"外馬場の黒入道","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["石川県加賀市大聖寺・外馬場（現代語訳の場所表記）"],"tags":[],"research_status":"provisional"}
+{"id":"tsuchinoko_kaga_account","name_ja":"ツチノコ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["大聖寺藩の外馬場・前田靱負屋敷前（現代語訳が伝える目撃地点）"],"tags":[],"research_status":"provisional"}
