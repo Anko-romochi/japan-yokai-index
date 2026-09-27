@@ -42,3 +42,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 ヤゲ谷の化猫,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 yage_dani_no_bakeneko と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
 香園寺の肉付きの面,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 koenji_no_nikutsuki_no_men と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
 黒滝の不思議な神かぐら,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minnwa-index.html,西条市の民話、該当個別話,愛媛県,,既存 kurotaki_no_fushigi_na_kagura と照合,reject,既存採録済みの同一話。新規entityを作らず重複を防止。,Codex
+犬飼村の猿神,source_0581,見出し『犬飼村の猿神退治』、大猿が犬と戦い狸に変じる段,兵庫県,folklore_being,既存entity名・地域・個別話を照合し一致なし,admit,博物館題名の猿神と本文の狸への変身を併記し、同一話の主体として索引。神格と狸の由来は確定しない。,Codex
+ソランジン,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story17/,見出し『鷲の地主神』、ソランジンを大鷲の正体と記す段,兵庫県,named_supernatural_entity,既存 soranjin と同一名・同一伝説を照合,reject,既存entityおよびsource_0242の採録済み記録と重複するため新規登録しない。,Codex
+唐櫃の黄金の鶏,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story16/,見出し『唐櫃の黄金の鶏』、埋蔵と禁忌の段,兵庫県,folklore_being,既存entity名を照合し一致なし,defer,黄金の鶏は埋められた品として語られ、鶏自体の超自然的行為とentity粒度を確認できない。,Codex
