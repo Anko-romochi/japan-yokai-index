@@ -47,3 +47,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 泥谷の相撲河童,source_0543,『ふと見れば、そこに河童がいたことはありませんか？』、泥谷地区の水神相撲の段,大分県,folklore_being,既存名・別名・地名・説話内容を照合し一致なし,admit,市報の独立した説話に登場する河童一体を行動と場所で索引。固有名が伝わるとは主張しない。,Codex
 蛇渕の大蛇,source_0544,PDF1頁『郷土の伝説 ～蛇渕の話～（山香地区）』、大蛇の居所と藁人形の段,大分県,folklore_being,既存名・別名・地名・説話内容を照合し一致なし,admit,市議会だよりは山香町誌からの引用と表示。町誌本文や伝説内の天文三年の史実性は未照合。,Codex
 菊姫,source_0544,PDF1頁『蛇渕の話』,大分県,historical_person_in_supernatural_tradition,福岡県の菊姫怨霊とは別の説話,reject,本文では死亡した娘として語られ、菊姫自身の怪異化は確認できない。,Codex
+東成田の大蛇,source_0545,『トピックス-斉兵衛の大蛇退治伝説』、大蛇と斉兵衛の段,宮城県,folklore_being,既存名・別名・地名・役割を照合し一致なし,admit,一つの大蛇退治譚を場所で索引。『東成田の大蛇』は資料上の固有名ではない。,Codex
+奥州の蛇藤,source_0546,『13.根無藤』、白鳥神社の『奥州の蛇藤』に言及する段,宮城県,supernatural_phenomenon,既存名・別名・地名・役割を照合し一致なし,admit,資料上の名称を使用。藤と二匹の蛇を独立した個体に分割せず、変化する藤の伝説を現象として索引。,Codex
+水沼の蛇,https://www.city.ishinomaki.lg.jp/school/20301900/d0010/d0100/d0150/53ryuusenin/index.html,『水沼の蛇物語』,宮城県,folklore_being,既存名・水沼・龍泉院を照合し一致なし,defer,石巻市立稲井小学校の説明は新聞記者による小説化と人間の子・青年という別記述を併記。伝承と創作の粒度を確認できない。,Codex
