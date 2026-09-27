@@ -868,3 +868,4 @@
 {"id":"osato_myo_mikeneko","name_ja":"味明・泉永寺の三毛猫の精霊","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["宮城県大郷町味明地区・泉永寺"],"tags":[],"research_status":"provisional"}
 {"id":"oriya_daija","name_ja":"おりや","name_kana":"おりや","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["山形県上山市周辺（物語内の舞台）"],"tags":[],"research_status":"provisional"}
 {"id":"yanagihyoe_kitsune","name_ja":"柳兵衛","name_kana":"やなぎひょうえ","name_romaji":null,"aliases":["柳兵衛狐"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":[],"tags":[],"research_status":"provisional"}
+{"id":"eba_osangitsune","name_ja":"江波のおさん狐","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["reiwa"],"attested_regions":["広島県広島市中区江波"],"tags":[],"research_status":"provisional"}

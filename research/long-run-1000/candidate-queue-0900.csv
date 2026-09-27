@@ -40,3 +40,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 竜宮童子,https://www.t-bunkyo.ac.jp/library/minwa/archives/ryuguwarashi/text/35.html,佐藤家の昔話十五・第35話「竜宮童子」本文,地域未特定,folklore_being,既存同名なし。ただし名ではなく竜宮から来た子の類型的役割を示す題名。,defer,具体的な固有名や地域同定がなく、独立entityか話型の索引かを判断できない。,Codex
 浪太郎,https://www.pref.niigata.lg.jp/sec/itoigawa_kikaku/1246392127949.html,新潟県「浪太郎」の紹介文,新潟県糸魚川市・高浪の池,folklore_being,既存同名なし。翠との同一性は未確認。,defer,巨大魚の目撃・伝説を扱うが通常動物と怪異entityの境界が不明。,Codex
 猫又権現,https://nagaoka-navi.or.jp/spot/42272,長岡観光ナビ「南部神社」解説,新潟県長岡市栃尾,named_supernatural_entity,既存猫又類型はあるが、当該呼称は神社の通称・祭神・猫像の関係が混在。,defer,独立した怪猫個体を示す資料ではないため、神社呼称からentityを作らない。,Codex
+江波のおさん狐,source_0654,広島市中区版「おさん狐」項目,広島県広島市中区江波,named_supernatural_entity,既存波多・大谷・露藤のおさん狐は各別地域・資料。江波の記録を自動統合しない。,admit,市広報紙が江波の狐の呼称・行動・像を明記。読みと古い表記は未確認。,Codex
+もみみん,https://www.city.hiroshima.lg.jp/living/shobo-bohan/1006085/1025613/1025615/1019188.html,広島市消防局「もみみん」設定表,広島県広島市,named_supernatural_entity,江波のおさん狐をモチーフとする新規マスコットであり同一個体ではない。,defer,市消防局キャラクターとしての設定は確認できるが、超自然的存在としての描写は確認できない。,Codex
+化け猫ポン太,https://www.city.ishinomaki.lg.jp/cont/10053500/0050/3639/tashirojima.pdf,石巻市田代島リーフレット地図ラベル,宮城県石巻市田代島,named_supernatural_entity,既存同名なし。ただし地図上の地点名のみ。,defer,地図ラベルだけで猫の人格・伝承・独立entityか施設名かを確定できない。,Codex
