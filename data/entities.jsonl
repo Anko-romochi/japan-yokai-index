@@ -819,3 +819,4 @@
 {"id":"asekaki_jizo_nakajima","name_ja":"汗かき地蔵","name_kana":"あせかきじぞう","name_romaji":null,"aliases":["奥州汗かき地蔵"],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["福島県中島村代畑地区"],"tags":[],"research_status":"provisional"}
 {"id":"tamayo_hime_anenuma","name_ja":"玉世姫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["青森県上北郡六戸町"],"tags":[],"research_status":"provisional"}
 {"id":"katsuyo_hime_ogawarako","name_ja":"勝世姫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["青森県上北郡六戸町"],"tags":[],"research_status":"provisional"}
+{"id":"ogon_no_koma_bandai","name_ja":"黄金の駒","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["福島県"],"tags":[],"research_status":"provisional"}
