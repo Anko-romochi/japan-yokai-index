@@ -6,3 +6,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 野々井の大蛇,source_0671,個別レコード0801100028『原文』第1–2段落；原掲載p.85,茨城県石岡市・北ノ谷の野々井（公開本文内）,folklore_being,同名・同地の既存entityなし。井戸を大蛇のaliasとしない。,admit,県DB公開本文に場所・個体・怪異的行動が明記。原掲載本は未照合。,Codex
 大蛇丸,source_0672,個別レコード0800100108『原文』結末；原掲載p.108,茨城県かすみがうら市志筑,object_spirit,同名既存なし。,reject,『大蛇丸』は退治に使われた太刀の呼び名であり、大蛇個体の名ではない。,Codex
 権現山の大蛇,source_0672,個別レコード0800100108『原文』大蛇の出現・退治・祟りの噂；原掲載p.108,茨城県かすみがうら市志筑・権現山,folklore_being,同名・同地の既存entityなし。『大蛇丸』をaliasにしない。,admit,県DB公開本文の特定地域の大蛇個体を索引。原掲載本は未照合。,Codex
+大槌島の大蛇,source_0673,六三『蛇骨の話』印刷pp.112–113,坂出市王越（話者）／大槌島（物語内）,folklore_being,同名・同地の既存entityなし。一般の大蛇種や蛇骨という物名と区別。,admit,採集話の娘から大蛇への変身・島での生活・蛇骨採取が一つの個体譚を成す。資料固有の記述名として採録。,Codex
+うなぎ沢の大ウナギ,source_0674,質問『娘に化けた大ウナギ』の調査過程1・調査にあたって,山梨県市川三郷町上野樋田,folklore_being,同地・同役割の既存entityなし。アニメ題名をaliasとしない。,admit,県立図書館の調査回答に地点と変身・漁の中止依頼がある。原掲載本は未照合。,Codex
+さつき姫,source_0674,質問『山梨県南部町のさつき姫伝説』の回答,山梨県南巨摩郡南部町福士小久保,named_supernatural_entity,同名・同地の既存entityなし。竜神一般と同一視しない。,admit,図書館が複数の地域資料を列挙し、名前・土地・竜神化の伝説を具体的に紹介。原掲載本の本文は未照合。,Codex
+鐘馗の泥めんこ,https://www.pref.yamanashi.jp/maizou-bnk/topics/501_600/0511.html,泥めんこの出土品説明と鍾馗伝説の段,山梨県富士川町（出土）,object_spirit,中国起源の鍾馗像と出土玩具を区別。,reject,泥めんこは図像資料で、玩具そのものを独立した怪異entityにはしない。,Codex
+糸六神社の大蛇男,https://common3.pref.akita.lg.jp/bunka/detail.html?cid=18&id=5641,第108回秋田弁の昔っこ・糸六神社紹介段落,秋田県南部,folklore_being,同名既存なし。お糸という娘とは別の主体。,defer,催事紹介の一文だけでは男の名称・個体粒度・物語上の行動を十分固定できない。原話を探す。,Codex
