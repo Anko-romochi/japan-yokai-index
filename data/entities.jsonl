@@ -840,3 +840,4 @@
 {"id":"todoroki_no_taki_no_shinryu","name_ja":"轟の滝の神龍","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長崎県長崎市田手原町"],"tags":[],"research_status":"provisional"}
 {"id":"senjagaike_no_daija","name_ja":"千蛇ヶ池の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["showa"],"attested_regions":["石川県・白山千蛇ヶ池"],"tags":[],"research_status":"provisional"}
 {"id":"karikomiike_no_daija","name_ja":"刈込池の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["showa"],"attested_regions":["福井県大野市・刈込池"],"tags":[],"research_status":"provisional"}
+{"id":"nekkashima_no_bakeneko_tachi","name_ja":"ネッカシマの化猫たち","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["showa"],"attested_regions":["石川県石川郡尾口村字尾添・ネッカシマ"],"tags":[],"research_status":"provisional"}
