@@ -850,3 +850,4 @@
 {"id":"iwabe_no_daija","name_ja":"岩部の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["兵庫県姫路市・岩部"],"tags":[],"research_status":"provisional"}
 {"id":"shiratamahime_taniyama","name_ja":"白玉姫","name_kana":null,"name_romaji":null,"aliases":["白玉姫命"],"entity_type":"named_supernatural_entity","attested_periods":["showa"],"attested_regions":["鹿児島県谷山市・中村"],"tags":[],"research_status":"provisional"}
 {"id":"tossaadon_taniyama","name_ja":"とっさあどん","name_kana":"とっさあどん","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["showa"],"attested_regions":["鹿児島県谷山市・諏訪神社付近"],"tags":[],"research_status":"provisional"}
+{"id":"mihonoseki_shichirui_no_tennin","name_ja":"美保関七類の天人","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["showa"],"attested_regions":["島根県松江市美保関町七類"],"tags":[],"research_status":"provisional"}

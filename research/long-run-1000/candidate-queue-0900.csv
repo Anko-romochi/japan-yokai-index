@@ -4,3 +4,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 白玉姫,source_0421,印刷頁1102／PDF 131頁、民話11,鹿児島県谷山市・中村,named_supernatural_entity,既存の名前・alias・資料・地域を照合し一致なし。章見出しと本文で白玉姫／白玉姫命が対応。,admit,市誌本文で独立した固有名、祭祀対象、片目の女神という説明を確認。伝承の真実性は主張しない。,Codex
 とっさあどん,source_0421,印刷頁1105／PDF 134頁、民話18,鹿児島県谷山市・諏訪神社付近,named_supernatural_entity,既存の名前・alias・資料・地域を照合し一致なし。石祠と本文中の神の行動が対応。,admit,市誌本文で呼称、荒神としての役割と独自の伝承を確認。石祠そのものの成立年代は主張しない。,Codex
 水喰の大男,source_0421,印刷頁1101／PDF 130頁、民話8,鹿児島県谷山市・入来原,folklore_being,既存に同場面なし。水喰は地名であり大男の固有名ではない。,defer,大男は無名で、地名由来譚の独立entity粒度と名称を要検討。,Codex
+美保関七類の天人,source_0639,PDF 4–6頁「天人の嫁さん」、1970年7月26日収録,島根県松江市美保関町七類,folklore_being,既存の打吹山の天女とは別の採録地・語り手・筋。既存の名前・alias・資料を照合し同一個体の証拠なし。,admit,直接掲載された長い語りの一個体を地域付き説明名で索引。『天人の嫁さん』は話の題名で固有名とは断定しない。,Codex
+打吹山の天女,source_0639,PDF 7頁「5 伝説 打吹山の由来」,鳥取県倉吉市,folklore_being,既存 utsubukiyama_no_tennyo が別資料から同話を索引,reject,既存entityとの重複。美保関七類の語りとの同一個体性は主張しない。,Codex
+鉈盗られ物語の唐六左衛門,source_0639,PDF 1–3頁「鉈盗られ物語」,島根県松江市美保関町七類,named_supernatural_entity,既存同名なし,reject,採録本文では通常の昔話の人間であり、超自然的主体ではない。,Codex
