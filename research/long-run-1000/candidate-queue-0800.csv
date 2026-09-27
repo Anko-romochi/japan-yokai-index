@@ -66,3 +66,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 明光比丘尼,source_0591,明光比丘尼が石になったと里人が悟り、その石に咳平癒を願う段,神奈川県,named_supernatural_entity,既存の八百比丘尼個体と名前・場所・役割が異なると確認。,admit,伝承上の比丘尼と石への変化を索引。実在人物・古代起源・他の八百比丘尼との連続性は未確認。,Codex
 東野の乳出神さま,source_0592,泉が乳出神さまと呼ばれ、乳の祈願を受ける段,神奈川県,named_supernatural_entity,既存の同名・同地域の泉神なし。市の民話本文で呼称と対象を照合。,admit,東野の特定の泉に結びつく呼称を索引。人格を持つ神格か、泉自体の神聖視かは未確定。,Codex
 露木谷のきつね,https://www.city.yokohama.lg.jp/seya/kurashi/kyodo_manabi/manabi/rekishi/minwa/minwa07.html,第七話、里人が狐の悪戯と推測する段,神奈川県,folklore_being,既存の露木谷個体なし。本文では狐を目撃せず、固有名もない,defer,奇妙な出来事を狐の仕業とする登場人物の推測にとどまり、単一個体のidentityを確定できない。,Codex
+天渦の主,source_0384,第33話『天渦の主』、渕の主の異説と黒いものの段,高知県,folklore_being,既存同名・仁淀川の天渦個体なし。鯉説と正体不明説を区別,admit,特定の渕の主を索引。鯉という説を確定形態とせず、明治直前という物語内年代を記録年代としない。,Codex
+えながかせえ,source_0384,第7話『えながかせえ』、亡者が柄杓を求める段,高知県,folklore_being,船幽霊類型との重複を照合。表題は発話で個体名ではない,defer,海の亡者の集団像を特定entityとして切り出す粒度と既存船幽霊との関係が未確定。,Codex
+小鯛大明神,source_0384,第44話『小鯛大明神』、祠と幟の段,高知県,named_supernatural_entity,既存同名なし。本文では小鯛を供えた誤解から祠が建立,defer,祠の呼称であり、独立した神格・妖怪の性格は本文から確認できない。,Codex
+北前の狸,https://www.city.kochi.kochi.jp/deeps/20/2019/muse/hanashi/hanashi15.html,第15話、野村玄門に化けた狸の段,高知県,folklore_being,既存同名なし。ただし北前は場所・話題、狸の個体名ではない,defer,無名の狸が一度人に化ける話で、表題を安定した個体名として扱えない。,Codex
+田村麻呂伝説の大蛇,source_0593,見出し『浜松武将アラカルト（4）』、田村麻呂と俊光に関する伝説の概略（段落1–2）,静岡県,folklore_being,既存同名・俊光母と薬師の淵を結ぶentityなし。田村麻呂や俊光自身とは区別,admit,物語に登場する大蛇の個体を索引。市は歴史的根拠なしと明記しており実在・古代成立を主張しない。,Codex
+名草厳島神社の白い大蛇,source_0594,見出し『由緒他』第1箇条、白い大蛇が空海を導く段,栃木県,folklore_being,既存同名・名草神社の白蛇entityなし。全国の白蛇信仰と同一視しない,admit,特定社の由緒に登場する白蛇を索引。弁財天との関係は市の『化身と思われる』という限定を保つ。,Codex
+新宮池の竜,https://www.city.hamamatsu.shizuoka.jp/tn-shinko/ward/tenryuku/inaka/wat12.html,『新宮池』紹介の竜や大蛇に触れる段,静岡県,folklore_being,既存新宮池個体なし。市の頁は竜や大蛇伝説の存在のみ記す,defer,伝説本文と主のidentity・役割・個体数を確認できない。,Codex
