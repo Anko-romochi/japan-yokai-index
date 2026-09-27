@@ -78,3 +78,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 川副町の蛇女房,https://www.city.saga.lg.jp/material/files/group/2/s34632_20130321042521.pdf,川副町誌 pp.901–902、PDF 7–8ページ目,佐賀県,folklore_being,蛇女房の広域昔話類型との関係と個別entity粒度が未確定,defer,資料上は地域の異類婚姻譚だが独立個体名ではない,Codex
 黒髪山の大蛇,source_0596,大蛇退治の設問、正答直後の解説段,佐賀県,folklore_being,既存黒髪山個体なし。大撫山など他の山の大蛇とは場所・物語が異なる,admit,山麓の池にすむ七本角の大蛇として物語中の個体を区別できる,Codex
 大撫山の大蛇,source_0597,本文第2段落の佐用里談紹介,兵庫県,folklore_being,既存大撫山個体なし。『播磨風土記』の山への言及を大蛇伝承とは混ぜない,admit,佐用里談に結び付けて説明された山の特定の大蛇伝承を索引,Codex
+野房の三吉狐,source_0598,本文第1–4段落,千葉県,named_supernatural_entity,秋田の狭山の三吉は狸で地名・種・資料が異なる。既存野房狐なし,admit,固有名三吉と狐の正体・役割が同一物語で確認できる,Codex
+木の倉山の白狐,source_0599,本文第1–4段落,千葉県,folklore_being,既存白狐の各地域個体と場所・物語が異なる。天狗とは別個体化しない,admit,天狗と思われた対象の正体を白狐とする市の物語に固有の個体,Codex
+里見の大猿,https://www.city.minamiboso.chiba.jp/0000001314.html,本文第1–3段落,千葉県,folklore_being,既存里見大猿なし,defer,超人的な力と死後の怨念は語られるが動物個体を怪異として分離する基準が未確定,Codex
+富浦の亡者船,https://www.city.minamiboso.chiba.jp/0000001285.html,本文第1–6段落,千葉県,supernatural_phenomenon,津和瀬の幽霊船とは別地域。房州一帯の類型としての粒度が未確定,defer,複数回の遭遇を単独個体としては扱えない,Codex
