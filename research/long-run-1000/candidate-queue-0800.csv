@@ -13,3 +13,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 姫魚（平戸）,source_0565,国立歴史民俗博物館F-320-592『説明』釈文,長崎県（文書に記された平戸沖。発祥地とは未判定）,named_supernatural_entity,既存名・別称・予言獣の役割を照合し一致なし,admit,個別収蔵記録は原品1枚と文政2年表記の釈文を提示。神社姫等との同一性は未主張。DBカードを原品そのものとは扱わない。,Codex
 神社姫,https://miyoshi-mononoke.jp/wp/wp-content/uploads/2022/09/%E4%BA%88%E8%A8%80%E7%8D%A3%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9_%E5%B1%95%E7%A4%BA%E7%9B%AE%E9%8C%B2.pdf,展示目録の神社姫資料項目,未確認,named_supernatural_entity,既存名・姫魚との関係を照合し一致なし,defer,展示目録だけでは個別資料本文・役割・姫魚との境界を確認できない。,Codex
 尼彦（明治十五年の錦絵）,source_0566,国立歴史民俗博物館F-320-745『説明』釈文,熊本県（錦絵中の出現場所。刊行地・発祥地ではない）,named_supernatural_entity,既存名・アマビコ表記・予言獣の姿を照合し一致なし,admit,個別の1882年錦絵を索引。尼彦と他のアマビコ類や姫魚を自動統合しない。読みは未確認。,Codex
+海出人（福嶋潟）,source_0567,国立歴史民俗博物館F-320-223『説明』読み下し,新潟県（刷物中の出現場所）,named_supernatural_entity,既存名・尼彦の話型・福嶋潟を照合し一致なし,admit,刷物内で海出人と自称。尼彦に似た予言の型でも同一個体と推定しない。,Codex
+人形魚（悪病除刷物）,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-770.html,個別レコードF-320-770『説明』,未確認,folklore_being,既存名・人魚類型を照合し一致なし,defer,図像と呪符の効能は確認できるが、人形魚という呼称が資料内の存在名か目録名か未確認。予言の記載もない。,Codex
+日新真事誌の消える娘,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-225.html,個別レコードF-320-225『説明』,東京都（物語の場所）,folklore_being,既存の疱瘡神・幽霊・消える娘の記録を照合し一致なし,defer,1875年の錦絵は娘を疱瘡の厄神ではないかと推測する話。娘の同定・呼称・粒度は未確定。,Codex
+宝尾山の大蛇,source_0435,福井市『清水地域の三留町の伝承』2『宝尾山の大蛇』,福井県,folklore_being,既存 houosan_no_daija とsource_0435に一致,reject,既に同一個別本文に基づき採録済み。重複entity・sourceを作らない。,Codex
