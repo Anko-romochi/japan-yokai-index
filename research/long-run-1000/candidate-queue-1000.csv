@@ -10,3 +10,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 泡池の腰元大蛇,https://www.city.aso.kumamoto.jp/files/uploads/2014/05/caldera201311_20.pdf,p.1『泡池』,熊本県阿蘇市,folklore_being,清夜姫に同行する六人の一人とされるが個人識別不能。,defer,六人を池ごとに独立entity化する根拠が不足。2008年郷土読本を確認する。,Codex
 味生池の悪龍,https://www.city.kumamoto.jp/kiji00321624/5_21624_266968_up_MH0SV0HT.pdf,龍伝説コラム p.159,熊本県熊本市,folklore_being,縁起絵巻の第1・第4話と大蛇夫婦の同一性は未照合。,defer,市解説は複数資料をまとめる。個体と資料段階を分けて原絵巻を確認する。,Codex
 川内町の背高・背低の化物,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MS1_810110,事例12『化物のはなし』／引用元『西通りの民俗』p.195,青森県旧川内町,folklore_being,既存同名なし。,defer,採録の物語役で固有名なし。個別entityの粒度と原掲載資料を先に確認する。,Codex
+蛙岩の大蛙,source_0709,『かつて海であったことを物語る蛙岩』第3段,広島県福山市港町,folklore_being,既存の蛙岩・大蛙entityなし。大槌島など別地域の大蛇とも別筋。,admit,市解説が古い地誌に帰する具体的な変身譚。原地誌は未照合なので市解説自体を根拠とする。,Codex
+蛙岩を襲う大蛇,https://www.city.fukuyama.hiroshima.jp/koho-detail50/koho-202103/211072.html,同ページ第3段,広島県福山市港町,folklore_being,大蛙と同じ話の別役。,defer,一話を機械的に分割しない。大蛇の独立した語りと原地誌の本文を確認する。,Codex
+蛇円山の大蛇,https://www.city.fukuyama.hiroshima.jp/koho-detail50/koho-202501/352801.html,『雨を呼ぶ神が座す 蛇円山』第2段,広島県福山市駅家町,folklore_being,既存同地名なし。龍王との同一視は未確認。,defer,『西備名区』にいたとの紹介のみで個体粒度が薄い。原地誌または別の伝承本文を探す。,Codex
