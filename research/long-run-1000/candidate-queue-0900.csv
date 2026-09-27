@@ -24,3 +24,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 高森山の神,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_HM_6900,県史叢書07 pp.140–150「平内町山口の高森山」後半,青森県平内町山口,folklore_being,既存名なし。ただし女神・竜神・天狗・猿田彦像・羽衣竜神弁財天の関係が複合。,defer,同一神格・別表象・後世勧請の切り分けが一資料では不十分。,Codex
 坊太郎,source_0649,新潟県「坊ヶ池」本文第1段落,新潟県上越市清里区・坊ヶ池,named_supernatural_entity,既存名・alias・坊ヶ池・竜神伝説を照合し一致なし。,admit,県解説に固有名と竜神の子という役割を直接確認。池の江戸期築造を伝承の成立年としない。,Codex
 大池の大亀・小池の大蛇,https://www.pref.niigata.lg.jp/sec/nochikensetsu/1288558924918.html,県「県内のため池の紹介」大池・小池の1行説明,新潟県上越市頸城区,folklore_being,既存同地域・同名なし。資料は題名と短い要約のみ。,defer,個体・現象の描写と独立した話の本文がなく、一覧行だけでentity粒度を決められない。,Codex
+おいよ,https://www.ojiyajc.org/densetsu/den_oiyo.php,個別ページ「おいよ」全段,新潟県小千谷市坪野・郡殿の池,historical_person_in_supernatural_tradition,同名既存entityなし。娘と蛇のidentityは本文でも別。,defer,蛇に選ばれる娘であり、本人が怪異・人霊となった記述は確認できない。,Codex
+お藤お松お杉,https://www.ojiyajc.org/densetsu/den_ofuji.php,個別ページ「お藤お松お杉」後半,新潟県小千谷市時水,folklore_being,三姉妹の霊と三本の樹の精の同一性は語りの推測。,defer,人霊・樹の精の粒度と同一性が一資料では決まらない。,Codex
+中町の猫,source_0650,個別ページ「中町の猫」前半の家猫と後半の雲洞庵移動,新潟県小千谷市・中町／南魚沼市・雲洞庵,folklore_being,既存猫又・化け猫entityの地域・名称・話筋を照合し一致なし。,admit,1979年刊行の話を発行団体が再掲。同一猫の行動と移動が本文で連続し、名称は見出しによる説明的索引名として扱う。,Codex
