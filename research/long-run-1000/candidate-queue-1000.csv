@@ -23,3 +23,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 水俣の猟師の化け猫,source_0381,PDF p.59『鉄砲撃ちと化け猫』,熊本県水俣市,folklore_being,既存の八戸三蔵・島根出葉屋の化け猫とは別地域・別物語。,admit,市公開本文に猟師の猫という個体関係・変身・結末がある。説明的索引名で固有名としない。,Codex
 田頭の狐岩の狐群,source_0381,PDF pp.60–61『田頭のお稲荷さん』,熊本県水俣市古里田頭,folklore_being,既存同地名なし。集団で個体識別不可。,defer,80–100匹の群れを一個体entityとしない。祭祀対象との同一性も未確認。,Codex
 泣く子山の赤子の声,source_0381,PDF p.7『久木野城』末段,熊本県水俣市久木野,supernatural_phenomenon,既存同地名なし。,defer,夜の泣き声という一文のみで、怪異の主体・伝承粒度が弱い。,Codex
+伊万里の涎たれ小僧,source_0424,県立図書館 Web版佐賀の昔話 No.23あらすじ,佐賀県伊万里市立花町渚,named_supernatural_entity,既存の涎たれ小僧なし。地名は採話地で物語の起源地とはしない。,admit,願いをかなえる固有の超自然的個体が詳細なあらすじにある。原掲載本文は未照合。,Codex
+伊万里の和尚の三毛猫,source_0424,県立図書館 Web版佐賀の昔話 No.69あらすじ,佐賀県伊万里市立花町渚,folklore_being,水俣猟師猫・島根出葉屋猫・八戸三蔵と別地域・別話。,admit,和尚と暮らした老いた三毛猫が発話・妖力を示す個別の物語。固有名でなく説明的索引名。,Codex
+佐賀市大和町の鐘を撞く蛇女房,source_0424,県立図書館 Web版佐賀の昔話 No.1あらすじ,佐賀県佐賀市大和町久池井,folklore_being,既存蛇女房類型との個体粒度未比較。,defer,話型としても紹介されるため、個別伝承と類型の境界を先に確認。,Codex
+絹巻の観音様,source_0424,県立図書館 Web版佐賀の昔話 No.28あらすじ,佐賀県神埼市脊振町鳥羽院下,named_supernatural_entity,観音菩薩と娘の二者が一話に登場。,defer,娘が観音様と呼ばれる過程と祭祀対象のidentityを原掲載で照合する。,Codex
+黒髪山の大蛇,source_0424,県立図書館 Web版佐賀の昔話 No.30あらすじ,佐賀県有田町稗古場,folklore_being,既存kurokamiyama_no_daijaに同伝承を登録済み。,reject,既存entityの重複。資料追加候補にはなり得るが新entityとしない。,Codex
