@@ -7,3 +7,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 でえだらぼう（市川）,source_0563,市川市立図書館『でえだらぼう』本文冒頭と山を移す段,千葉県,folklore_being,既存巨人の名称・地域・役割を照合し一致なし,admit,公開本文が同一人物の異名として『だいだらぼっち』を明示。市川の語りの一例として索引し全国の全事例と同一視しない。,Codex
 鬼越のお不動さま,https://www.city.ichikawa.lg.jp/site/library/8056.html,公開本文前半・後半省略,千葉県,named_supernatural_entity,既存名・寺院・小栗判官を照合,defer,公開抄録は不動明王への祈りの後で途切れ、超自然的行為や独立entity粒度を確認できない。,Codex
 お経塚,https://www.city.ichikawa.lg.jp/site/library/2359.html,公開本文前半・後半省略,千葉県,supernatural_phenomenon,既存名・塚の地名を照合,reject,公開部分は災害と祈祷・塚の話で、区別可能な怪異主体が確認できない。,Codex
+クタベ,source_0564,博物館『立山ゆかりの霊獣越中立山のクタベ』刷物の段,未確定（語りの舞台は越中立山、流行資料は都市部）,named_supernatural_entity,既存名・異名・地域・役割を照合し一致なし,admit,博物館が江戸期の刷物を具体的に紹介。立山周辺で語られたとの主張は採用せず、地域は空配列。『クダベ』異表記は同解説が明示。,Codex
+平知盛の怨霊,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story3/,『平家の怨霊』本文、黒雲の彼方の武者の段,兵庫県,historical_person_in_supernatural_tradition,既存 taira_no_tomomori と照合し同一人物,reject,既存entityに能『船弁慶』の根拠付きclaimがあり、新規entityは重複。異なる再話の追加claimは今回必須ではない。,Codex
+乳なし仁王,https://www.city.ichikawa.lg.jp/site/library/3171.html,公開抄録、運慶の母の出現と仁王像の彫刻の段,千葉県,object_spirit,既存名・像・母の霊を照合,defer,怪異主体は出現する母の霊であり、仁王像は公開部分では活動しない。母は無名でentity粒度が未確定。,Codex
+姫魚（平戸）,source_0565,国立歴史民俗博物館F-320-592『説明』釈文,長崎県（文書に記された平戸沖。発祥地とは未判定）,named_supernatural_entity,既存名・別称・予言獣の役割を照合し一致なし,admit,個別収蔵記録は原品1枚と文政2年表記の釈文を提示。神社姫等との同一性は未主張。DBカードを原品そのものとは扱わない。,Codex
+神社姫,https://miyoshi-mononoke.jp/wp/wp-content/uploads/2022/09/%E4%BA%88%E8%A8%80%E7%8D%A3%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9_%E5%B1%95%E7%A4%BA%E7%9B%AE%E9%8C%B2.pdf,展示目録の神社姫資料項目,未確認,named_supernatural_entity,既存名・姫魚との関係を照合し一致なし,defer,展示目録だけでは個別資料本文・役割・姫魚との境界を確認できない。,Codex
