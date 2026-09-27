@@ -11,3 +11,11 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 さつき姫,source_0674,質問『山梨県南部町のさつき姫伝説』の回答,山梨県南巨摩郡南部町福士小久保,named_supernatural_entity,同名・同地の既存entityなし。竜神一般と同一視しない。,admit,図書館が複数の地域資料を列挙し、名前・土地・竜神化の伝説を具体的に紹介。原掲載本の本文は未照合。,Codex
 鐘馗の泥めんこ,https://www.pref.yamanashi.jp/maizou-bnk/topics/501_600/0511.html,泥めんこの出土品説明と鍾馗伝説の段,山梨県富士川町（出土）,object_spirit,中国起源の鍾馗像と出土玩具を区別。,reject,泥めんこは図像資料で、玩具そのものを独立した怪異entityにはしない。,Codex
 糸六神社の大蛇男,https://common3.pref.akita.lg.jp/bunka/detail.html?cid=18&id=5641,第108回秋田弁の昔っこ・糸六神社紹介段落,秋田県南部,folklore_being,同名既存なし。お糸という娘とは別の主体。,defer,催事紹介の一文だけでは男の名称・個体粒度・物語上の行動を十分固定できない。原話を探す。,Codex
+お袖狸,source_0037,『伊予たぬき伝説巡り』(1),松山市堀之内,named_supernatural_entity,同名既存なし。八股榎大明神を別entityへ分割しない。,admit,協会の説明に固有名・祠・老婆救助と信仰がある。原話と年代は未照合。,Codex
+六角堂狸,source_0037,『伊予たぬき伝説巡り』(2),松山市勝山町,named_supernatural_entity,同名既存なし。施設名を一般類型と同一視しない。,admit,協会の説明に固有名・行動・改心の逸話がある。,Codex
+毘沙門狸,source_0675,『松山城が関わる昔話』→『毘沙門狸』第1–2段落,松山城東雲口付近,named_supernatural_entity,同名既存なし。お袖・六角堂・金平と場所・行動が異なる。,admit,城公式の解説に固有名・呼称の由来・複数の変化行動がある。,Codex
+金平狸,source_0037,『伊予たぬき伝説巡り』(7),松山市上野町・大宮八幡神社,named_supernatural_entity,同名既存なし。刑部狸と同一視しない。,admit,協会説明に固有名・役割・神社との関係がある。読みは松山市FAQで明示。,Codex
+お紅さん狸,source_0037,『伊予たぬき伝説巡り』(4),松山市居相町・椿神社,named_supernatural_entity,同名既存なし。,defer,古楠の根元に住む一文以外の個体像・独立した話がまだ未確認。,Codex
+西林寺の大狸,source_0037,『伊予たぬき伝説巡り』(5),東温市西林寺,folklore_being,同名既存なし。名称が説明的。,defer,手にタコを持つ一文だけでは独立した個体名と粒度を固定しにくい。,Codex
+三光姫狸,source_0037,『伊予たぬき伝説巡り』(6),松山市高井町・高井八幡神社,named_supernatural_entity,同名既存なし。おさん狸の地域別同名entityとの関係未確定。,defer,愛称の同一性と出征譚の原資料を追加確認する。,Codex
+刑部狸,source_0037,『伊予たぬき伝説巡り』(8)・『伊予八百八狸』,松山市久谷町,named_supernatural_entity,既存inugami_gyobuと説明上対応する。,reject,既存entityの重複採録になる。今回alias追加も原資料照合まで保留。,Codex
