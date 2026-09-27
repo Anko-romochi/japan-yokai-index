@@ -29,3 +29,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 吉佐美の白狐,source_0573,伝説17『狐の化けた管長さん』、吉佐美の貫主来訪と終盤の白狐判明の段,静岡県,folklore_being,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,吉佐美の一話に現れる狐を説明的地名付きで索引。本文末尾に挙がる他地域の類話と同一個体とはみなさない。,Codex
 コガセンばあさん,source_0574,伝説04『コガセンばあさん』、祠の位置と死後に咳の神として信仰される段,静岡県,named_supernatural_entity,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,特定の女性だったとする由来を持つ祠の名として索引。女性の実在や死因を史実とは断定しない。,Codex
 オテンパクサマ,source_0575,伝説21『オテンパクサ』、吉佐美上条の祠・無名の武士の死・禁伐の段,静岡県,named_supernatural_entity,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,祠で呼ばれる霊の名を索引。伝説の無名武士を実在人物と確定せず、森の禁伐を史実化しない。,Codex
+高山陣屋の飼猫（根古石）,source_0547,高山市『旧陣屋稲荷宮境内地』解説末段・猫の首と根古石,岐阜県,folklore_being,既存 takayama_jinya_no_daija は同じ話の大蛇で別主体,admit,斬首後の行為と死後の祭祀を持つ飼猫を大蛇とは別に索引。根古石を猫の固有名とは扱わず、ページの江戸時代を伝説の成立年とは扱わない。,Codex
+西鶴の天満四化物,https://www.oml.city.osaka.lg.jp/torikomi/upload/tayori044.pdf,大阪市史編纂所だより44 PDF pp.2-3『江戸時代の大坂の妖怪』,大阪府,folklore_being,既存名称を照合し一致なし,defer,二次解説に四つの呼称があるが原典『好色五人女』は狐狸の変化と述べる。個別entity粒度は原文照合後に判断。,Codex
+三津屋村の河太郎,https://www.oml.city.osaka.lg.jp/torikomi/upload/tayori044.pdf,大阪市史編纂所だより44 PDF p.2『江戸時代の大坂の妖怪』,大阪府,folklore_being,既存 kappa と類型重複の可能性,defer,『摂陽群談』の河太郎済・河虎宮は特定の河童一体と集団を区別する必要があり原典巻7照合待ち。,Codex
