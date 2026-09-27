@@ -32,3 +32,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 鮪浦の大蛇,source_0713,『トピックス』内『鮪浦の大蛇と漁師の話』,大分県佐伯市鶴見・鮪浦,folklore_being,既存鮪浦の大蛇なし。蛇渕等は別地域・別伝承。,admit,市公開の長い伝説本文に個体の往来・変化・祭祀が具体的にある。,Codex
 お参・お市・白兵衛,https://www.city.usuki.oita.jp/docs/2014020501155/,『下ノ江駅の鳥越稲荷』末段,大分県臼杵市下ノ江駅・鳥越山,named_supernatural_entity,既存名なし。三名と一族を一括記す。,defer,個々の行動・同一性が一段落では分かれず、三個体への分割粒度を未確認。,Codex
 吉祥寺のぞうの首,https://www.city.saiki.oita.jp/kiji0031672/index.html,『吉祥寺物語』段,大分県佐伯市鶴見・沖松浦,supernatural_phenomenon,既存同名なし。,defer,ぞうの首の表記・複数性・主体が不明。原資料で照合。,Codex
+はんざき大明神,source_0714;source_0715,MLIT 'Hanzaki in Local Culture' 第1–2段; 岡山県PDF p.1備考,岡山県真庭市湯原,named_supernatural_entity,既存同名・同地域の神格なし。動物類型全体とは区別。,admit,国交省の伝承説明と岡山県の神社説明で固有神名・祭祀場所を確認。伝承の出来事や古さは未確定。,Codex
