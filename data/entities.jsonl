@@ -854,3 +854,4 @@
 {"id":"karasu_sunuma_no_nushi","name_ja":"空素沼の主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["heisei"],"attested_regions":["秋田県秋田市寺内・空素沼"],"tags":[],"research_status":"provisional"}
 {"id":"yashanuma_no_me_daija","name_ja":"八蛇沼の雌大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["福島県西会津町安座集落・八蛇沼"],"tags":[],"research_status":"provisional"}
 {"id":"numazawanuma_no_o_daija","name_ja":"沼沢沼の雄大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["福島県金山町・沼沢沼"],"tags":[],"research_status":"provisional"}
+{"id":"abikonuma_no_daija","name_ja":"阿彦沼の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["heisei"],"attested_regions":["秋田県秋田市上新城・阿彦沼"],"tags":[],"research_status":"provisional"}
