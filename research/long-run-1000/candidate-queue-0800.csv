@@ -32,3 +32,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 高山陣屋の飼猫（根古石）,source_0547,高山市『旧陣屋稲荷宮境内地』解説末段・猫の首と根古石,岐阜県,folklore_being,既存 takayama_jinya_no_daija は同じ話の大蛇で別主体,admit,斬首後の行為と死後の祭祀を持つ飼猫を大蛇とは別に索引。根古石を猫の固有名とは扱わず、ページの江戸時代を伝説の成立年とは扱わない。,Codex
 西鶴の天満四化物,https://www.oml.city.osaka.lg.jp/torikomi/upload/tayori044.pdf,大阪市史編纂所だより44 PDF pp.2-3『江戸時代の大坂の妖怪』,大阪府,folklore_being,既存名称を照合し一致なし,defer,二次解説に四つの呼称があるが原典『好色五人女』は狐狸の変化と述べる。個別entity粒度は原文照合後に判断。,Codex
 三津屋村の河太郎,https://www.oml.city.osaka.lg.jp/torikomi/upload/tayori044.pdf,大阪市史編纂所だより44 PDF p.2『江戸時代の大坂の妖怪』,大阪府,folklore_being,既存 kappa と類型重複の可能性,defer,『摂陽群談』の河太郎済・河虎宮は特定の河童一体と集団を区別する必要があり原典巻7照合待ち。,Codex
+お玉さん（玉島）,source_0576,倉敷市『玉島の史跡紹介　新町』見出し『お玉さんの祠（伝説）』,岡山県,named_supernatural_entity,既存entityの名称・地域を照合し一致なし,admit,名を持つ伝説上の犠牲者の霊への祭祀を索引。本人の実在と祠の建立年代から伝説の成立年を推定しない。,Codex
+大槌島の大蛇,https://www.city.kurashiki.okayama.jp/_res/projects/default_project/_page_/001/002/922/1002922_ma_31.pdf,平山家文書目録 PDF p.6、資料142『蛇鱗乃由来』,岡山県,folklore_being,既存の大蛇entityとの同一性未確認,defer,文政2年の資料の目録要約のみ確認。原文未照合で大蛇の怪異性・個体識別を確定できない。,Codex
