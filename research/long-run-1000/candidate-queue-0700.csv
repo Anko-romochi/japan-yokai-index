@@ -36,3 +36,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 乳母が懐の姫・乳母,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minwa0008.html,個別本文「乳母が懐」,愛媛県,named_supernatural_entity,既存名・場所を照合し一致なし,defer,椀貸しの人物像と人間の姫・乳母の境界が本文だけでは不明,Codex
 たるもんじさん,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minwa0009.html,個別本文全2段落,愛媛県,historical_person_in_supernatural_tradition,既存名に一致なし,reject,強力者同士の逸話で超自然主体と断定できない,Codex
 過行橋のえんこ,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minwa0016.html,個別本文「えんこの話」,愛媛県,folklore_being,既存えんこう2件は別地域,defer,橋名は解放地点であり原資料の個体名ではない。場所修飾と粒度を再確認,Codex
+祢々,source_0502,文化財概要、最終段落,栃木県,folklore_being,祢々・祢々切で既存照合し一致なし,admit,地名と役割を伴う祢々の伝説。刀の制作年代を伝説成立年代にしない,Codex
+祢々切丸太刀,https://bunkazai.pref.tochigi.lg.jp/cultural/%E3%80%90%E5%B1%B1%E9%87%91%E9%80%A0%E6%B3%A2%E6%96%87%E8%9B%AD%E5%B7%BB%E3%80%80%E5%A4%A7%E5%A4%AA%E5%88%80%E4%B8%AD%E8%BA%AB%E7%84%A1%E9%8A%98%EF%BC%88%E5%8F%B7%E3%80%80%E7%A5%A2%E3%80%85%E5%88%87/,文化財概要,栃木県,object_spirit,祢々と同資料,defer,実在の文化財と自動抜刀の伝説との分析単位を再検討,Codex
+小石丸,source_0503,PDF 2ページ目、犬上郡名起源譚,滋賀県,named_supernatural_entity,小石丸・犬上で既存照合し一致なし,admit,固有名の犬に超自然的行為と祭祀が語られる。原典本文は未照合,Codex
+平木沢の大蛇,source_0504,PDF 2ページ目、竜神伝説,滋賀県,folklore_being,平木沢・龍王寺で既存照合し一致なし,admit,場所付き大蛇と人間妻の姿が説明される。原典本文は未照合,Codex
+龍王寺の鐘,https://www.pref.shiga.lg.jp/file/attachment/2042798.pdf,PDF 1–2ページ目,滋賀県,object_spirit,龍王寺・梵鐘で既存照合し一致なし,defer,実在文化財と雨乞い霊験の伝説を器物怪異として切り出す粒度を再検討,Codex
+宇都宮の百目鬼,https://www.city.utsunomiya.lg.jp/_res/projects/default_project/_page_/001/014/437/24-6.pdf,PDF 1ページ目,栃木県,folklore_being,百目鬼で既存照合し一致なし,defer,市資料間で単一鬼と百鬼頭領の表現が異なりidentity判断保留,Codex

@@ -661,3 +661,6 @@
 {"id":"kuwamura_no_ema_no_uma","name_ja":"桑村の絵馬の馬","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
 {"id":"koenji_no_nikutsuki_no_men","name_ja":"香園寺の肉付きの面","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
 {"id":"kurotaki_no_fushigi_na_kagura","name_ja":"黒滝の不思議な神かぐら","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"supernatural_phenomenon","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
+{"id":"nene_nikkosan","name_ja":"祢々","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["栃木県"],"tags":[],"research_status":"provisional"}
+{"id":"koishimaru_inukami","name_ja":"小石丸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["滋賀県"],"tags":[],"research_status":"provisional"}
+{"id":"hirakisawa_no_daija","name_ja":"平木沢の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["滋賀県"],"tags":[],"research_status":"provisional"}
