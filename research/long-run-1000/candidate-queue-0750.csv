@@ -24,3 +24,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 小倉川のかっぱ,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1066,PDF 1頁、伏兵となる複数の河童の段,栃木県,folklore_being,既存名・場所を照合,defer,複数個体で単一entity粒度が弱い。,Codex
 西方村の竜の頭,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1069,PDF 1頁「竜の頭」,栃木県,folklore_being,既存名・場所を照合,defer,竜本体と残された岩のどちらをentityとするか粒度を保留。,Codex
 人をよぶムジナ,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1098,PDF 1頁「人をよぶムジナ」,栃木県,folklore_being,既存名・場所を照合,defer,声をムジナの仕業とする村人の解釈だけで個体を確認できない。,Codex
+大平の田植え地蔵,source_0536,PDF 1頁「田植え地蔵」、子どもと地蔵の足の段,栃木県,object_spirit,既存名・場所・役割を照合し一致なし,admit,一体の地蔵と手伝う子どもの対応を記事が語る。子どもの正体を歴史的事実と断定しない。,Codex
+泣き地蔵,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1088,PDF 1頁「泣き地蔵」,栃木県,object_spirit,既存名・場所を照合,reject,地蔵は亡くなった子の供養のため作られたと記すだけで超自然的行為を示さない。,Codex
+もちよび地蔵,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1091,PDF 1～2頁「もちよび地蔵」,栃木県,object_spirit,既存名・場所を照合,defer,餅を求める声と地蔵の関係は話の題名と方向による示唆であり、直接の行為主体は不明。,Codex
+大中寺の根なしの藤,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1080,PDF 1頁「大中寺の七不思議」①,栃木県,supernatural_phenomenon,既存名・場所を照合,defer,藤の由来と鬼坊主の因果・entity粒度を他資料と照合する必要がある。,Codex
