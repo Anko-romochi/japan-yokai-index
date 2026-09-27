@@ -604,3 +604,6 @@
 {"id":"oohara_fox","name_ja":"大原狐","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}
 {"id":"oonuma_white_snake","name_ja":"大沼の白蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}
 {"id":"ohata_head_seeking_serpent","name_ja":"大幡の首を求める大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}
+{"id":"tsuyufuji_okunoin_pond_turtle","name_ja":"露藤・奥の院沼の大亀","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["山形県"],"tags":[],"research_status":"provisional"}
+{"id":"dehaya_bakeneko","name_ja":"出葉屋の化け猫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["島根県"],"tags":[],"research_status":"provisional"}
+{"id":"ibara_river_enko","name_ja":"井原川のエンコウ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["島根県"],"tags":[],"research_status":"provisional"}

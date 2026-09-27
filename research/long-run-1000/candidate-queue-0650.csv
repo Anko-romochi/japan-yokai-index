@@ -17,3 +17,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "大幡の首を求める大蛇","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/kumagayatyuokominkan/index.files/mukasibanasi.pdf","PDF 1頁 蛇の首切りから追跡","埼玉県","folklore_being","大幡・ohataを検索し一致なし","admit","一話の首を失った蛇として識別可能。蛇と大蛇は同話内の表現","Codex"
 "上須戸の大蛇","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/tiikikouminkan/nagai.html","上須戸八幡大神社の段落","埼玉県","folklore_being","上須戸を検索し一致なし","defer","一段落の紹介のみで大蛇の固有性・原話が未確認。1057年は伝承内年代","Codex"
 "鬼が飛ぶ晩の鬼","https://www.city.kumagaya.lg.jp/about/soshiki/kyoiku/tiikikouminkan/oni.html","鬼が飛ぶ晩 本文","埼玉県","folklore_being","鬼一般と比較","defer","家に入る魔物を防ぐ行事であり個別の鬼・魔物のidentityを確認できない","Codex"
+"露藤・奥の院沼の大亀","https://www.t-bunkyo.ac.jp/library/minwa/archives/tsuyufujinodensetsu/text/73.html","第73話 奥の院沼の怪 後半","山形県","folklore_being","奥の院沼・鬼五郎・大亀を検索し一致なし","admit","白蛇を沼の主とする別の伝えと亀を同一視しない。文久は物語内年代","Codex"
+"出葉屋の化け猫","https://kanbenosato.com/minwa/249/","語り本文 火の玉から古猫の結末","島根県","folklore_being","出葉屋・dehayaを検索し一致なし","admit","一話の古猫として識別可能。語り手の住所を物語の舞台とはしない","Codex"
+"井原川のエンコウ","https://kanbenosato.com/minwa/368/","語り本文 馬の尾のエンコウと約束","島根県","folklore_being","井原川・エンコウを検索し一致なし","admit","井原川の一話で捕らえられた個体。掲載の収録日8月52日は誤記として保留","Codex"
+"奥の院沼の白蛇","https://www.t-bunkyo.ac.jp/library/minwa/archives/tsuyufujinodensetsu/text/73.html","第73話 前半の沼の主","山形県","folklore_being","奥の院沼の大亀との同定を検討","defer","白蛇説と大亀の話の系譜・同一性は本文だけでは解決しない","Codex"
