@@ -82,3 +82,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 竹姫,source_0695,印刷p.257、第二部第168話,香川県（採集資料対象地域）,named_supernatural_entity,同名の地域話・かぐや姫との同一性未確認。,defer,竹から生まれて月へ帰る話型で、地域独立の人格としての粒度を決めるには比較資料が必要。,Codex
 大槌・小槌の大蛇,source_0695,印刷pp.215–216、第二部第133話「二人の兄弟」,大槌島・小槌島の間（語りの舞台）,named_supernatural_entity,同名・同筋の既存entityなし。『大槌・小槌の大蛇』は語り中の場所と姿による索引用名称で原文の固有名ではない。,admit,弟が蛇となり特定の島間へ移る一続きの物語で個体を識別できる。採集地や変身の史実性は推測しない。,Codex
 亀女,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/09_sankoshiryo.pdf,潟環境研究所ニュースレター第6号p.7「潟」伝説,新潟県福島潟（記事内の舞台）,folklore_being,既存の亀女entityなし。海中の人との同一性は未確認。,defer,同記事は嘉永年間の複数摺物で海中の人・亀女と姿が変わると述べる。原摺物と個体同一性を確認するまで統合・独立採録を保留。,Codex
+多鯰が池のおたね,https://www.pref.tottori.lg.jp/94670.htm,本文・娘が蛇となる段,鳥取県鳥取市・多鯰が池,named_supernatural_entity,既存tanegaike_taneと同一話・同地,reject,既存entityの重複。別名称だけで新規採録しない。,Codex
+古屋のもり,https://www.pref.tottori.lg.jp/94671.htm,本文・屋根の雨漏りが判明する段,鳥取県大山山麓（語りの舞台）,folklore_being,同名entityなし,reject,本文では雨漏りを狼・泥棒が恐れた誤認話であり独立した怪異ではない。,Codex
+波多のかみそり狐,https://www.pref.tottori.lg.jp/265927.htm,語り冒頭おさん狐の名乗りと末尾,鳥取県智頭町波多,named_supernatural_entity,既存hata_no_osangitsune,reject,かみそり狐は話型名であり語りの個体は既存のおさん狐。,Codex
+米出し地蔵,https://www.pref.tottori.lg.jp/266698.htm,語り・地蔵の鼻から米が出る段と解説,鳥取県三朝町大谷（採集地）,object_spirit,同名entityなし。笠地蔵話型との関係は解説が明示。,defer,一話の無名の地蔵像を独立entityとする粒度と所在地が未確認。,Codex
+灰坊,https://www.pref.tottori.lg.jp/266722.htm,語り冒頭・若者への命名段,鳥取県大山町高橋（採集地）,historical_person_in_supernatural_tradition,同名entityなし,reject,本文では呼称を付けられた人間の若者で超自然的対象として識別できない。,Codex
+多根の藤助の狼女房,source_0696,語り・狼の正体告白と田植え段,鳥取県智頭町波多（採集地）,folklore_being,同話・同個体の既存なし。狼女房は独自の索引名で原文の固有名ではない。,admit,1987年採集の県立博物館翻刻で助けられた狼が女房となる同一個体の行動を直接確認。,Codex
+浮布池の大蛇,source_0697,小冊子p.29「2つの池の昔話」浮布池,島根県大田市・浮布池（物語の舞台）,folklore_being,浮布池・同話の大蛇entityなし。邇幣姫・姫逃池の話と統合しない。,admit,大田市小冊子に青年の姿をした大蛇の行動と池への逃走が記され、物語内の個体を識別できる。,Codex
