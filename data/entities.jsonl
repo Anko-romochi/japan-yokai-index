@@ -679,3 +679,4 @@
 {"id":"otome_tanuki_niihama","name_ja":"乙女狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
 {"id":"kojoro_tanuki_niihama","name_ja":"小女郎狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
 {"id":"hachiro_tanuki_niihama","name_ja":"八郎狸","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["愛媛県"],"tags":[],"research_status":"provisional"}
+{"id":"kaimon_yashiki_no_neko","name_ja":"かいもん屋敷の猫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["佐賀県"],"tags":[],"research_status":"provisional"}
