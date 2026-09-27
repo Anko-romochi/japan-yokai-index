@@ -42,3 +42,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 平木沢の大蛇,source_0504,PDF 2ページ目、竜神伝説,滋賀県,folklore_being,平木沢・龍王寺で既存照合し一致なし,admit,場所付き大蛇と人間妻の姿が説明される。原典本文は未照合,Codex
 龍王寺の鐘,https://www.pref.shiga.lg.jp/file/attachment/2042798.pdf,PDF 1–2ページ目,滋賀県,object_spirit,龍王寺・梵鐘で既存照合し一致なし,defer,実在文化財と雨乞い霊験の伝説を器物怪異として切り出す粒度を再検討,Codex
 宇都宮の百目鬼,https://www.city.utsunomiya.lg.jp/_res/projects/default_project/_page_/001/014/437/24-6.pdf,PDF 1ページ目,栃木県,folklore_being,百目鬼で既存照合し一致なし,defer,市資料間で単一鬼と百鬼頭領の表現が異なりidentity判断保留,Codex
+鞍沼の大蛇,source_0505,PDF 15ページ目／紙面 p.14、鞍沼伝説,青森県,folklore_being,鞍沼・蓑ケ坂で既存照合し一致なし,admit,沼と変化形を伴う独立した大蛇伝説。資料は後年の事業報告書,Codex
+竜宮の馬,source_0506,［事例5］本文・東通村記載,青森県,folklore_being,竜宮・馬を既存照合し鳥取の竜宮のはなたれ小僧とは別,admit,県史DB掲載の東通村採話の馬。原採録資料は未照合,Codex
+山道の背高背低の化物,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MS1_810110,［事例12］兄弟の村救い,青森県,folklore_being,類似無名化物を未網羅,defer,見出しは「化物のはなし」で固有名はない。話型と個体の索引粒度を確認,Codex
+住吉池の大蛇,source_0418,8「住吉池の大蛇」,鹿児島県,folklore_being,既存sumiyoshiike_daija_airaと完全一致,reject,既存entityへの重複登録を防止,Codex
+大雄寺の水飴幽霊,https://www.city.matsue.lg.jp/material/files/group/34/kouza25-5sakai.pdf,PDF冒頭の伝説例示,島根県,folklore_being,大雄寺・水飴幽霊を既存照合し一致なし,defer,講座資料の例示だけでは具体的な怪異主体と伝承系統を同定できない,Codex
