@@ -31,3 +31,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 天の宮の大蛇,source_0537,冊子 p.11／PDF 5頁『二宮昔話 天の宮の大蛇』,群馬県,folklore_being,既存名・別名・土地・筋を照合し一致なし,admit,現地語り手を明記した市の冊子本文で、大蛇の行為と場所を確認。原掲載年を伝承成立年としない。,Codex
 二之宮の宮川の河童,source_0537,冊子 p.12／PDF 6頁『二宮昔話 ごんべ川（宮川）』,群馬県,folklore_being,既存河童名・宮川・二之宮を照合し一致なし,admit,河童がごんべえに捕まり約束する個別説話。ごんべえという人間を河童名として扱わない。,Codex
 笹井のタケ坊,source_0251,本文『笹井のタケ坊河童の話』,埼玉県,named_supernatural_entity,既存sasai_no_takebo・claim_0345に一致,reject,既存entityを再採録しない。,Codex
+樋の滝の狐,source_0538,第88回、冊子p.33／PDF44–45頁,群馬県,folklore_being,既存名・場所・筋を照合し一致なし,admit,1997年記事の再録本文で憑依する狐の行為を確認。類似狐伝承と同一視しない。,Codex
+樋の滝の緋鯉,source_0538,第176回、冊子p.83／PDF95頁,群馬県,folklore_being,既存名・場所・筋を照合し一致なし,admit,2006年記事の再録本文で女性が緋鯉になり滝の主となる話を確認。記事年代を起源としない。,Codex
+樋の滝の蜘蛛,source_0538,第87回、冊子p.32／PDF44頁,群馬県,folklore_being,既存名・場所を照合,defer,糸と川底からの声は記すが、蜘蛛の姿・個体同定は当該話に明示されない。,Codex
