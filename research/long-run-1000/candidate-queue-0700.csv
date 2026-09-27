@@ -14,3 +14,19 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 てんぐの徳兵衛,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/38.html,本文「てんぐ徳兵衛」,和歌山県,named_supernatural_entity,既存tengu_tokubei,reject,既存entityの同一資料・同一人物像,Codex
 おはらはんの大蛇,source_0371,本文「おはらはん」,和歌山県,folklore_being,既存kinokawa_kakou_no_daija,reject,既存entityと同じ紀ノ川河口の大蛇であり、おはらはんは腹を祀る神社の呼称,Codex
 室家の桂姫,source_0372,本文「住持池 室家の桂姫とのまつわり」,和歌山県,named_supernatural_entity,既存jujigaike_no_daijaが同じ物語を索引,defer,桂姫の人間から大蛇への変容と既存池蛇entityの粒度関係を原冊で確認したい,Codex
+堂園池の大蛇,source_0495,本文「布田川断層帯（堂園）」第2段落,熊本県,folklore_being,既存ID・名・堂園池を照合し一致なし,admit,町が民話名と場所を明示。災害との因果説はclaimに採用しない,Codex
+喜左衛門狸,source_0496,個別本文「喜左衛門狸」第1–3段落,愛媛県,named_supernatural_entity,既存ID・名・aliasを照合し一致なし,admit,固有名と変化行為を市の個別本文で確認,Codex
+ヤゲ谷の化猫,source_0497,個別本文全3段落,愛媛県,folklore_being,既存化猫・ヤゲ谷を照合し一致なし,admit,一話の老三毛猫を場所付きで索引,Codex
+ひょうたん池の大蛙,source_0498,個別本文第1–11段落,愛媛県,folklore_being,既存大蛙・ひょうたん池を照合し一致なし,admit,同話の大蛇と別主体として確認,Codex
+ひょうたん池の森の大蛇,source_0498,個別本文第7–11段落,愛媛県,folklore_being,既存大蛇・ひょうたん池を照合し一致なし,admit,同話の大蛙と別主体として確認,Codex
+信行院のたぬき,source_0342,やまもと風土記p.4,香川県,folklore_being,既存shingyo_in_tanuki,reject,既存entityと同一翻刻,Codex
+万八狸,source_0342,やまもと風土記p.75,香川県,named_supernatural_entity,既存manpachi_tanuki,reject,既存entityと同一翻刻,Codex
+智行寺山の金のにわとり,source_0342,"やまもと風土記pp.31,73",香川県,folklore_being,既存chigyojiyama_kinnoniwatori,reject,既存entityと同一翻刻,Codex
+早太郎,https://www.pref.nagano.lg.jp/koho/kids/menu03/minwan01.html,本文「早太郎」,長野県,named_supernatural_entity,既存hayataro,reject,既存個体,Codex
+犀竜・白竜王・日光泉小太郎,source_0422,信府統記第十七翻刻表示頁4–6,長野県,named_supernatural_entity,既存sairyu_shinpu等3件,reject,既存の原資料系3 entityと重複,Codex
+坪貝の竜神様,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MT1_820210,青森県史民俗編資料津軽pp.410–411［神］,青森県,named_supernatural_entity,既存名・坪貝を照合し一致なし,defer,祀られたツボ子・佐五右衛門と竜神様のentity grain未確定,Codex
+白良浜の甲羅法師,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/37.html,本文「甲羅法師」,和歌山県,folklore_being,既存shirahama_no_gouraboushi,reject,既存entityと同一話,Codex
+岩神さん,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/34.html,本文「みなべ」の由来,和歌山県,object_spirit,既存名に一致なし,defer,三つの石を単一主体として索引できるか、信仰名との関係を要確認,Codex
+野島の八幡神,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/27.html,本文「波の音をきらった神」,和歌山県,named_supernatural_entity,既存名に一致なし,defer,神社移動譚の主体が一般八幡神と独立entityか判断保留,Codex
+うそ淵のカワウソ,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/13.html,本文「うそ淵」,和歌山県,folklore_being,既存名に一致なし,reject,通常のカワウソと地名の語呂を扱う話で超自然主体なし,Codex
+ぽいとこの話,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/25.html,本文「ぽいとこの話」,和歌山県,supernatural_phenomenon,既存名に一致なし,reject,言葉遊びで超自然主体なし,Codex
