@@ -610,3 +610,5 @@
 {"id":"ushigamine_serpent","name_ja":"牛が峰の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["兵庫県"],"tags":[],"research_status":"provisional"}
 {"id":"oton_joro_fox","name_ja":"オトン女郎","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}
 {"id":"aka_tenugui_fox","name_ja":"赤テヌグイ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}
+{"id":"gaida_baba","name_ja":"ガイダ婆","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["兵庫県"],"tags":[],"research_status":"provisional"}
+{"id":"kishin_dayu_tsugaru","name_ja":"鬼神太夫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["青森県"],"tags":[],"research_status":"provisional"}
