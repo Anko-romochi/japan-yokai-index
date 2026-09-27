@@ -939,3 +939,4 @@
 {"id":"otsuchi_kotsuchi_no_daija","name_ja":"大槌・小槌の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["大槌島・小槌島の間（語りの舞台）"],"tags":[],"research_status":"provisional"}
 {"id":"tane_no_tosuke_no_okami_nyobo","name_ja":"多根の藤助の狼女房","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鳥取県智頭町波多（採集地）"],"tags":[],"research_status":"provisional"}
 {"id":"ukinunoike_no_daija","name_ja":"浮布池の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["島根県大田市・浮布池（物語の舞台）"],"tags":[],"research_status":"provisional"}
+{"id":"hosenji_no_onezumi","name_ja":"法船寺の大ねずみ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["石川県金沢市中央通町・法船寺（市公開民話の舞台）"],"tags":[],"research_status":"provisional"}

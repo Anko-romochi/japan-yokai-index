@@ -89,3 +89,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 灰坊,https://www.pref.tottori.lg.jp/266722.htm,語り冒頭・若者への命名段,鳥取県大山町高橋（採集地）,historical_person_in_supernatural_tradition,同名entityなし,reject,本文では呼称を付けられた人間の若者で超自然的対象として識別できない。,Codex
 多根の藤助の狼女房,source_0696,語り・狼の正体告白と田植え段,鳥取県智頭町波多（採集地）,folklore_being,同話・同個体の既存なし。狼女房は独自の索引名で原文の固有名ではない。,admit,1987年採集の県立博物館翻刻で助けられた狼が女房となる同一個体の行動を直接確認。,Codex
 浮布池の大蛇,source_0697,小冊子p.29「2つの池の昔話」浮布池,島根県大田市・浮布池（物語の舞台）,folklore_being,浮布池・同話の大蛇entityなし。邇幣姫・姫逃池の話と統合しない。,admit,大田市小冊子に青年の姿をした大蛇の行動と池への逃走が記され、物語内の個体を識別できる。,Codex
+妙慶寺の天狗,source_0693,市公開『天狗さんの寺』本文8・10,石川県金沢市寺町,folklore_being,既存myokeiji_no_tenguと同一話・同個体,reject,既存entityの重複を確認したため新規採録しない。,Codex
+伝燈寺の狛犬,https://www4.city.kanazawa.lg.jp/bunka_sports_kanko/rekishi_bunkazai/5/2/index.html,市公開『おおかみを退治したこま犬』本文1・9–11,石川県金沢市鳴和奥・伝燈寺（物語の舞台）,object_spirit,同話の既存なし。左右一対の像が同時に行動する。,defer,一対を一entityとするか個体を分けるか、本文で個体差がないためgrainを検討。,Codex
+邇幣姫,https://www.ginzan-wm.jp/purpose_post/%E6%B5%AE%E5%B8%83%E3%81%AE%E6%B1%A0/,浮布の池・伝説と神社の段,島根県大田市・浮布池,named_supernatural_entity,同名既存なし。市小冊子の無名の娘と観光協会記事の名付き姫の同一性を未検証。,defer,観光記事は姫の入水と神社の名を併記するが姫自身の超自然的性質・同一神格化を示さない。,Codex
+法船寺の大ねずみ,source_0698,市公開『法船寺のねずみたいじ』本文4・7–9,石川県金沢市中央通町・法船寺（物語の舞台）,folklore_being,同話・同個体の既存なし。先のdefer後に本文1–11を照合。,admit,普通の鼠でないという語りと大きさ・毒気を市再話で直接確認し、物語内の個体を識別できる。,Codex
