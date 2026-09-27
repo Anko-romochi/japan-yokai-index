@@ -880,3 +880,4 @@
 {"id":"kyonan_yasuke_gitsune","name_ja":"弥助","name_kana":"やすけ","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["reiwa"],"attested_regions":["千葉県鋸南町吉浜・妙本寺（物語内）"],"tags":[],"research_status":"provisional"}
 {"id":"hitoboneyama_no_oni","name_ja":"人骨山の鬼","name_kana":"ひとぼねやまのおに","name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["千葉県鋸南町大崩・畑地区の人骨山（物語内）"],"tags":[],"research_status":"provisional"}
 {"id":"dedepo_kyonan","name_ja":"デーデッポ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["千葉県鋸南町・江月／浮島（物語内）"],"tags":[],"research_status":"provisional"}
+{"id":"sannodaki_no_nushi","name_ja":"山王滝のぬし","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鳥取県鳥取市佐治町中・山王滝"],"tags":[],"research_status":"provisional"}
