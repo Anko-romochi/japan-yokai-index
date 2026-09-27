@@ -27,3 +27,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 おいよ,https://www.ojiyajc.org/densetsu/den_oiyo.php,個別ページ「おいよ」全段,新潟県小千谷市坪野・郡殿の池,historical_person_in_supernatural_tradition,同名既存entityなし。娘と蛇のidentityは本文でも別。,defer,蛇に選ばれる娘であり、本人が怪異・人霊となった記述は確認できない。,Codex
 お藤お松お杉,https://www.ojiyajc.org/densetsu/den_ofuji.php,個別ページ「お藤お松お杉」後半,新潟県小千谷市時水,folklore_being,三姉妹の霊と三本の樹の精の同一性は語りの推測。,defer,人霊・樹の精の粒度と同一性が一資料では決まらない。,Codex
 中町の猫,source_0650,個別ページ「中町の猫」前半の家猫と後半の雲洞庵移動,新潟県小千谷市・中町／南魚沼市・雲洞庵,folklore_being,既存猫又・化け猫entityの地域・名称・話筋を照合し一致なし。,admit,1979年刊行の話を発行団体が再掲。同一猫の行動と移動が本文で連続し、名称は見出しによる説明的索引名として扱う。,Codex
+味明・泉永寺の三毛猫の精霊,source_0651,印刷24頁／PDF25頁「三毛猫の恩返し（味明地区）」,宮城県大郷町味明地区・泉永寺,folklore_being,既存の仙台・猫塚の三毛猫、中町の猫等と場所・関係人物・話筋が異なる。,admit,町勢要覧の紹介文に具体的な精霊の役割がある。2018年原冊子の本文は未確認として残す。,Codex
+石原の雲南明神,source_0651,印刷24頁／PDF25頁「鰻と雲南さま（石原地区）」,宮城県大郷町石原地区,named_supernatural_entity,雲南神信仰の地域間同一性と鰻そのものの個体性は未確認。,defer,紹介文だけでは地域神格の粒度・他地域との同一性を確定できない。,Codex
+板谷斉兵衛大蛇退治の大蛇,source_0651,印刷24頁／PDF25頁「板谷斉兵衛大蛇退治（東成田地区）」,宮城県大郷町東成田地区,folklore_being,既存同名なし。ただし説明的題名の無名大蛇。,defer,短い紹介文からは個体の特徴・原話の具体的筋が不足する。,Codex
