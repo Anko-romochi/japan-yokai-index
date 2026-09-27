@@ -816,3 +816,4 @@
 {"id":"zenki_ennogyosha","name_ja":"前鬼","name_kana":"ぜんき","name_romaji":null,"aliases":["義覚"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["奈良県"],"tags":[],"research_status":"provisional"}
 {"id":"goki_ennogyosha","name_ja":"後鬼","name_kana":"ごき","name_romaji":null,"aliases":["義賢"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["奈良県"],"tags":[],"research_status":"provisional"}
 {"id":"seki_no_taro_oniiwa","name_ja":"関の太郎","name_kana":"せきのたろう","name_romaji":null,"aliases":["鬼の太郎"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["岐阜県"],"tags":[],"research_status":"provisional"}
+{"id":"asekaki_jizo_nakajima","name_ja":"汗かき地蔵","name_kana":"あせかきじぞう","name_romaji":null,"aliases":["奥州汗かき地蔵"],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["福島県中島村代畑地区"],"tags":[],"research_status":"provisional"}
