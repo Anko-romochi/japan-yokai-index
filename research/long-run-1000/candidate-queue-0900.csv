@@ -65,3 +65,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 玉垣内の底なし田の主,source_0662,(87)「玉垣内の底なし田」、沼の主の説明、男の追跡、結末のぐちなわの段,奈良県十津川村玉垣内（再話内）,folklore_being,同名同地域の既存entityなし。瀞の主など既存の別伝承とは統合しない。,admit,題名は場所名で、entity名は場所＋本文中の主の記述から作る索引名。独立した固有名とはしない。,Codex
 瀞のぬし,source_0662,(85)「瀞のぬし」,奈良県十津川村・瀞八丁,folklore_being,既存 doro_no_nushi_wakayama が同名・類似筋。本文間のidentity連続性は未照合。,defer,既存entityとの関係確認を要する。人数合わせで別entityにしない。,Codex
 猫又の龍,source_0662,(84)「滝の主」前半,奈良県十津川村折立・猫又,folklore_being,同名同地域の既存entityなし。,defer,この箇所は主の列挙と序列のみで個別の行動記録がない。,Codex
+猫又の主,source_0663,(99)「猫又の主」、神様による大蛇の説明と家族の謝罪の段,奈良県十津川村折立・猫又の滝（再話内）,folklore_being,同名同地域の既存entityなし。類型名から他地域の事例と統合しない。,admit,同じアーカイブの(84)に名前の列挙もあるが、個別行動は(99)を根拠とする。,Codex
+乙立の鬼,source_0664,付・22頁（PDF24頁）5.4(3)「網かけ岩とかぶと岩」,島根県出雲市乙立町・佐田町大呂（物語内）,folklore_being,同名同地域の既存entityなし。類型名から他地域の事例と統合しない。,admit,報告書は『神戸川探訪』を典拠とするが、その原冊は未照合。鬼と金比羅神の同一性を確定しない。,Codex
+魚切りの主,source_0664,付・22頁（PDF24頁）5.4(4)「魚切りのたたり」,島根県出雲市佐田町反辺・魚切り（物語内）,folklore_being,同名同地域の既存entityなし。類型名から他地域の事例と統合しない。,admit,報告書は『乙立郷土誌』を典拠とするが、その原冊は未照合。目撃の史実性は主張しない。,Codex
+魔渡り橋の馬／魔,source_0664,付・22頁5.4(1),島根県出雲市佐田町下橋波,supernatural_phenomenon,同名同地域の既存entityなし。,defer,馬か魔物かを資料自体が疑問形で示す。entity identity未確定。,Codex
