@@ -75,3 +75,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 八畳狸,https://www.city.niihama.lg.jp/uploaded/life/149127_718203_misc.pdf,神郷にも狸がいた,愛媛県,named_supernatural_entity,八郎狸との関係を未確認,defer,2025年号の異名か別個体か未確定。自動alias・分割をしない,Codex
 かいもん屋敷の猫,source_0515,登録ID 2780 本文・出典欄,佐賀県,folklore_being,既存の猫神・化猫は地域・物語を照合し一致なし,admit,貝野の特定屋敷の猫と祀りを記す個体譚。原掲載町史は未照合,Codex
 蛇女房（川副）,https://www.saga-otakara.jp/search/detail.html?cultureId=2085,登録ID 2085,佐賀県,folklore_being,蛇女房類型の個体同一性は未確認,defer,個体名・特定の池名がなく一般的異類婚姻譚の別個体採録に慎重を要する,Codex
+室家の桂姫,source_0372,本文「住持池 室家の桂姫とのまつわり」桂姫の婚礼から末尾,和歌山県,named_supernatural_entity,既存の住持池の大蛇は別個体。桂姫の名前と結末を確認,admit,伝承上の人間の名と蛇化を追跡する単位。実在性・時代を推定しない,Codex
+久保の小女郎,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/50.html,本文「久保の小女郎」末段,和歌山県,named_supernatural_entity,池の大蛇と娘は本文上別個体,defer,蛇と結ばれる娘だが自身の超自然的変化は本文で確認できず、entity範囲を要検討,Codex
+鍋島猫化け騒動の怪猫,https://www.saga-otakara.jp/search/detail.html?cultureId=2489,登録ID 2489,佐賀県,folklore_being,他の化猫とは地名が異なるが類話との関係未照合,defer,DB掲載本文が史実と劇化後の筋を接続。原掲載資料と作品系譜を要確認,Codex
