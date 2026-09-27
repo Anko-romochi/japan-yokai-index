@@ -13,3 +13,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 蛙岩の大蛙,source_0709,『かつて海であったことを物語る蛙岩』第3段,広島県福山市港町,folklore_being,既存の蛙岩・大蛙entityなし。大槌島など別地域の大蛇とも別筋。,admit,市解説が古い地誌に帰する具体的な変身譚。原地誌は未照合なので市解説自体を根拠とする。,Codex
 蛙岩を襲う大蛇,https://www.city.fukuyama.hiroshima.jp/koho-detail50/koho-202103/211072.html,同ページ第3段,広島県福山市港町,folklore_being,大蛙と同じ話の別役。,defer,一話を機械的に分割しない。大蛇の独立した語りと原地誌の本文を確認する。,Codex
 蛇円山の大蛇,https://www.city.fukuyama.hiroshima.jp/koho-detail50/koho-202501/352801.html,『雨を呼ぶ神が座す 蛇円山』第2段,広島県福山市駅家町,folklore_being,既存同地名なし。龍王との同一視は未確認。,defer,『西備名区』にいたとの紹介のみで個体粒度が薄い。原地誌または別の伝承本文を探す。,Codex
+珊瑚珠姫,source_0710,コードNo.3100『御祭神』『由緒沿革』,山梨県甲府市右左口町,named_supernatural_entity,既存名・別名・祭宮社ソースなし。御祭神表記と社伝の姫を同一ページ内で照合。,admit,固有名を持つ祭神として神社庁が社伝を明記。社伝年代を史実化せず採録。,Codex
+サケノスケ（大井沢）,source_0711,日文研個別カード2366438『呼称』『地域』『要約』,山形県西川町大井沢,folklore_being,既存サケノスケなし。類似の鮭の大助・サケノオウド等への同一化を行わず採録。,admit,個別カードに女性姿・行動・忌避があり、地域でスコープを固定。原掲載p.122未照合。,Codex
+よいまもの（宮司の滝）,https://www.city.hokuto.yamanashi.jp/fc/location/22437.html,『宮司の滝』第3段,山梨県北杜市高根町清里,folklore_being,既存同名なし。,defer,市ページは名と滝に住む伝承のみで具体的な話の本文・個体粒度を示さない。,Codex
+釜口の一の釜の大蛇,https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2366448,個別カード2366448『要約』；原掲載pp.210–211未照合,山梨県山梨市,folklore_being,同じ釜口の一の釜には龍・釜の主の別カードがあり同一性未解決。,defer,龍・大蛇・釜の主の関係と原掲載本文を先に確認する。,Codex
+名護のきじむなー,https://www.city.nago.okinawa.jp/museum/api/detail.html?data_id=3688&doccode=2101&genrecode=03,『きじむなーとおじい』あらすじ,沖縄県名護市,folklore_being,既存キジムナー類型あり。固有個体名なし。,reject,既存類型の一例であり、別entity化する根拠がない。,Codex
+豚マジムン,https://www.city.uruma.lg.jp/documents/2855/katurenminwa_ritou.pdf,『かつれんの民話 離島篇』目次のみ,沖縄県うるま市,folklore_being,既存同名未確認。,defer,市公開PDFは目次のみ。原掲載本文・個体粒度を未確認。,Codex
