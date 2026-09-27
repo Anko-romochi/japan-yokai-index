@@ -673,3 +673,6 @@
 {"id":"saraki_no_na_wo_yobu_kitsune","name_ja":"更木の人の名を呼ぶキツネ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["北海道"],"tags":[],"research_status":"provisional"}
 {"id":"ahime_kawahara","name_ja":"阿池姫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
 {"id":"ryuzugan_no_daija","name_ja":"龍頭巌の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
+{"id":"oji_ike_no_oji","name_ja":"オジ池のオジ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}
+{"id":"arashigata_no_daija","name_ja":"嵐潟の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}
+{"id":"nakanogata_no_ogame","name_ja":"中ノ潟の大亀","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["新潟県"],"tags":[],"research_status":"provisional"}

@@ -60,3 +60,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 阿池姫,source_0509,歴史に関する説明、阿池姫伝説,長崎県,named_supernatural_entity,阿池姫・川原大池で既存照合し一致なし,admit,名を持つ人物の竜化伝説。物語内年代を発生年代として使わない,Codex
 龍頭巌の大蛇,source_0510,（5）城の古祉、第1段落,長崎県,folklore_being,龍頭巌・お竹で既存照合し一致なし,admit,武士の姿で現れたとされる大蛇。お竹本人との同一性は主張しない,Codex
 お竹,https://www.city.nagasaki.lg.jp/nagazine/uta/051124/index.html,（5）城の古祉、第1段落,長崎県,historical_person_in_supernatural_tradition,龍頭巌の大蛇との関係を確認,reject,怪異を受けた人間として語られ、本人が怪異になったとは記されない,Codex
+オジ池のオジ,source_0511,印刷p.89／PDF 5頁、オジ池,新潟県,named_supernatural_entity,既存名・オジ池・山おじを照合し一致なし,admit,名を持つ青年の大蛇化と池主化。実在人物とは断定しない,Codex
+嵐潟の大蛇,source_0511,印刷p.89／PDF 5頁、嵐潟,新潟県,folklore_being,嵐潟・大蛇地蔵尊を既存照合し一致なし,admit,嵐潟の退治譚を他の潟主と混同しない,Codex
+中ノ潟の大亀,source_0511,印刷p.86／PDF 2頁、中ノ潟,新潟県,folklore_being,中ノ潟・大亀を既存照合し一致なし,admit,カナ蛇への変化を伴う個別の潟主譚,Codex
+鎧潟の大蛇,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf,印刷p.89／PDF 5頁、鎧潟,新潟県,folklore_being,鎧潟と他の大蛇伝承は別地,defer,同一節に二つの大蛇譚があり同一個体か未確定。元の掲載書も未照合,Codex
+鏡潟の主,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf,印刷p.90／PDF 6頁、鏡潟,新潟県,folklore_being,鏡潟の蛇と娘の関係が不明,defer,娘と大蛇の同一性を推測しない。元の掲載書を要確認,Codex
+藤巻池の人魚,https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf,印刷p.86／PDF 2頁、藤巻池,新潟県,folklore_being,同じ池の亀主との関係不明,defer,人魚と大亀が併記された異伝の粒度・元資料を要確認,Codex
