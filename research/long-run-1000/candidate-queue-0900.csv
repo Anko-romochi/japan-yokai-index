@@ -74,3 +74,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 貞伝上人,source_0466,pp.410–411「2 津軽の伝説（1）文化叙事伝説」［聖者］、貞伝上人の段,青森県今別町（県史の記述）,historical_person_in_supernatural_tradition,同名・同地域の既存entityなし。既存類型と同一視しない。,admit,県史に固有人物と二つの奇話が記載される。奇跡や人物の史実性はclaimで断定しない。,Codex
 坪貝の竜神,source_0466,pp.410–411［神］,青森県青森市油川,named_supernatural_entity,同名同地域なし。ただし二人を祀ったとする複合の神格。,defer,ツボ子・佐五右衛門・竜神のentity粒度が一段落だけでは確定しない。,Codex
 娘に化けたこんにゃくいも,source_0663,(98)の本文,奈良県十津川村,object_spirit,同名同地域なし。,defer,個体名・場所がなく、こんにゃくいも一般の変化譚との境界が未確定。,Codex
+弥八郎狐,source_0665,見出し『きつねのくれた文福茶釜』、弥八郎狐の来訪・巻物・茶釜の段,山形県米沢市南原・糠山（伝説内）,named_supernatural_entity,同名同地域の既存entityなし。一般類型・器物・祭祀施設との粒度を区別。,admit,固有名・居所・行動が市の本文に明記。茶釜を狐個体のaliasとしない。,Codex
+夏井家の風の神,source_0666,見出し『風の神』、夏井家に伝わる旅僧の正体とその後の祭祀の段,山形県米沢市城北二丁目・夏井家屋敷跡（解説内）,named_supernatural_entity,同名同地域の既存entityなし。一般類型・器物・祭祀施設との粒度を区別。,admit,夏井家に限定する索引名。風の神一般の類型全体とは同一視しない。,Codex
+雪舟大明神,https://www.city.yonezawa.yamagata.jp/soshiki/18/2/5/5/464.html,石碑紹介と祈願の段,山形県米沢市大沢・板谷,named_supernatural_entity,同名の既存entityなし。,defer,石碑・祈願対象としては確認できるが、人格や怪異行為はこのページでは確認できない。,Codex
