@@ -101,3 +101,14 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 吉野長者の娘たまき,source_0701,『広報ふじ』339号p.10命名・長者ヶ池の主の段,静岡県富士市天間・長者ヶ池（物語の舞台）,named_supernatural_entity,吉野長者・たまき・長者ヶ池で既存entity/claim照合し同個体なし。,admit,1982年市広報民話に固有名と竜への変化、池の主という自己説明が直接記される。,Codex
 神谷のお不動さんの白蛇,source_0702,『広報ふじ』016号p.2岩の割れ目・後藤家の土蔵の段,静岡県富士市神谷（伝説の舞台）,folklore_being,神谷・不動・白蛇で既存entity/claim照合し同個体なし。,admit,1967年署名記事が後藤家の白蛇と不動尊の祭日の出現を一続きの伝説として記す。,Codex
 いけにえ渕の毒蛇,https://www.city.fuji.shizuoka.jp/archive/kouhou/kiji/100550605_0297_08.htm,『広報ふじ』297号p.10「いけにえ渕の毒蛇（2）」,静岡県富士市三ッ股渕（物語の舞台）,folklore_being,同名既存なし。前篇未照合。,defer,後篇のみでは個体と渕の関係・話の導入が欠け、全体照合を待つ。,Codex
+潟沼のお駒,source_0703,『広報しわ』第178号再掲「潟沼の主」入水・潟大明神の段,岩手県紫波町片寄・潟沼（物語の舞台）,named_supernatural_entity,潟沼・お駒で既存entity/claim照合し同個体なし。墨田区の片葉の芦のお駒は別話。,admit,署名付き1970年記事が名前・入水・沼の主と守り神への転化を一続きの物語として示す。,Codex
+片寄のお菊,https://www.town.shiwa.iwate.jp/soshiki/4_1/2_6_2/994.html/,『広報しわ』第180号再掲「片寄のお菊」全段,岩手県紫波町片寄・五郎沼（物語の舞台）,named_supernatural_entity,既存okiku_mizuも五郎沼の蛇の生まれ変わりとする日文研カードを参照。,defer,同一伝承・同一個体の可能性が高く、原掲載とDB要約のidentity照合を先に行う。,Codex
+豆切丸,https://www.town.shiwa.iwate.jp/soshiki/4_1/2_6_2/991.html/,『広報しわ』第176号再掲「豆切丸」豆が切れる段,岩手県紫波町東長岡（物語の舞台）,object_spirit,同名既存なし。,reject,記事は際立って鋭い鉈を語るが超自然的な人格・行動を示さない。,Codex
+キギスの夜泣石,source_0704,『広報しわ』第182号再掲「キギスと夜泣き石」変身と命名の段,岩手県紫波町（物語の舞台）,object_spirit,大多喜の夜泣き石は千葉県の犬石伝承で別系統。紫波の同個体なし。,admit,記事が赤子から石への変化と夜泣きする特定石を直接記す。地名付き索引名は区別のため。,Codex
+錦戸太郎の墓石,https://www.town.shiwa.iwate.jp/soshiki/4_1/2_6_2/995.html/,『広報しわ』第181号再掲「錦戸太郎の墓」、光るものと戻った石の段,岩手県紫波町（物語の舞台）,object_spirit,同話既存なし。,defer,光るものの正体と墓石が自力で戻った因果関係が本文では確定せずentity identityを保留。,Codex
+明光比丘尼,https://www.city.yokohama.lg.jp/seya/kurashi/kyodo_manabi/manabi/rekishi/minwa/minwa01.html,第一話・石になったお比丘さんの段,神奈川県横浜市瀬谷区,named_supernatural_entity,既存seya_myoko_bikuni/claim_0831に同話あり。,reject,既存entityと同一人物・石化譚につき重複採録しない。,Codex
+浮島沼の沼のばんばあ,source_0705,『広報ふじ』688号p.16溺死・声・命名の段,静岡県富士市・浮島沼（物語の舞台）,folklore_being,麻機沼の『沼のばあさん』は別地域・別筋。浮島沼の同話は既存なし。,admit,1997年記事が浮島沼の特定の声の呼称と祖母の話を結びつける。記事中の食用ガエル説は断定しない。,Codex
+瀬谷の一つ目小僧,https://www.city.yokohama.lg.jp/seya/kurashi/kyodo_manabi/manabi/rekishi/minwa/minwa15.html,第十五話・十二月八日と目籠の段,神奈川県横浜市瀬谷区,folklore_being,同名類型の広域伝承との差異未分析。,defer,一般類型の一地方説明で特定個体としての識別情報がない。,Codex
+坊主石,source_0706,『広報しわ』第188号再掲「坊主石の話」雨との関係と別称の段,岩手県紫波町山屋（伝説の舞台）,object_spirit,坊主石・雨ごい地蔵で既存照合し同個体なし。記事内のいたこ石とは別物。,admit,1971年署名記事が特定の石の呼称と雨との作用を一続きに記し、別称を明示する。,Codex
+いたこ石,source_0706,『坊主石の話』冒頭と別伝承の美しい女の段,岩手県紫波町山屋（伝説の舞台）,object_spirit,坊主石とは記事内で別の石。既存同名なし。,defer,別伝承で変身する石のidentityと現物との関係を別資料で確かめる。,Codex
+南面の桜,https://www.town.shiwa.iwate.jp/soshiki/4_1/2_6_2/997.html/,『広報しわ』第185号再掲「南面の桜」,岩手県紫波町,object_spirit,同名既存なし。,reject,南を向く花の由来譚で、石や木の超自然的人格・意志を示す記述はない。,Codex
