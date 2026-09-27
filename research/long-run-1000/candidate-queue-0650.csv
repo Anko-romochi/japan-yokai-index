@@ -1,0 +1,9 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+"黒金座主","https://okimu.jp/museum/minwa/1582449180/","個別カード47O411531 概要の死後の祟り段落","沖縄県","named_supernatural_entity","既存name・alias・黒金を検索し一致なし","admit","個別記録が超自然的行為と死後の祟りを明示。実在人物とは未同定","Codex"
+"糟屋郡の白いばけもの","https://museum.city.fukuoka.jp/archives/leaflet/303/index.html","1、ばけもの大集合 糟屋郡の白いばけもの","福岡県","folklore_being","既存name・alias・糟屋郡を検索し一致なし","admit","一話に目鼻を持つ白い主体を区別可能。狸の正体説は確定しない","Codex"
+"那珂郡の見越入道","https://museum.city.fukuoka.jp/archives/leaflet/303/index.html","1、ばけもの大集合 那珂郡の見越入道","福岡県","folklore_being","既存name・alias・那珂郡を検索し一致なし","admit","百姓を追う一個体を記す局地的再話。見越入道一般の起源とはしない","Codex"
+"退休寺の三怪","https://www.pref.tottori.lg.jp/272550.htm","語り本文 退休寺の踊る三人と正体の段落","鳥取県","folklore_being","既存退休寺を検索し一致なし","defer","古鶏・横槌・山芋を一集団とするか各個体とするか粒度未決","Codex"
+"鴻池の嫁譚の池の蛇","https://www.pref.tottori.lg.jp/272549.htm","語り本文 池から出る蛇と解説","鳥取県","folklore_being","既存の蛇婿類型と比較","defer","昔話の池は特定されず採集地と物語の土地を同一視できない","Codex"
+"マズムヌと人間のマズムヌ","https://okimu.jp/museum/minwa/1582427110/","個別カード47O233974 概要","沖縄県","folklore_being","既存マジムン類型を確認","defer","一話の個体と広いマズムヌ呼称の境界を先に検討","Codex"
+"斉兵衛退治の大蛇","https://www.pref.miyagi.jp/soshiki/sizenhogo/higasinarita.html","トピックス 斉兵衛の大蛇退治伝説","宮城県","folklore_being","既存大郷町・東成田の大蛇を検索し一致なし","defer","県ページは一段落の紹介。原掲載の大郷町昔かたり本文へ進むまで個体化保留","Codex"
+"耳切り坊主","https://okimu.jp/museum/minwa/1582449180/","個別カード47O411531 子守り歌と由来","沖縄県","named_supernatural_entity","黒金座主との重複可能性を確認","defer","歌には複数の坊主が現れる。黒金座主との個体同一性は資料内で未確定","Codex"

@@ -598,3 +598,6 @@
 {"id":"monjuji_lion","name_ja":"文殊寺の獅子","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["埼玉県"],"tags":[],"research_status":"provisional"}
 {"id":"ganeko_blue_meowing_cat","name_ja":"我如古長柵の青鳴き猫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["沖縄県"],"tags":[],"research_status":"provisional"}
 {"id":"yonago_tama_cat","name_ja":"今在家のタマ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鳥取県"],"tags":[],"research_status":"provisional"}
+{"id":"kurokane_zasu","name_ja":"黒金座主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["沖縄県"],"tags":[],"research_status":"provisional"}
+{"id":"kasuya_white_bakemono","name_ja":"糟屋郡の白いばけもの","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
+{"id":"naka_mikoshi_nyudo","name_ja":"那珂郡の見越入道","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["福岡県"],"tags":[],"research_status":"provisional"}
