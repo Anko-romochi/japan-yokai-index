@@ -69,3 +69,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 乙立の鬼,source_0664,付・22頁（PDF24頁）5.4(3)「網かけ岩とかぶと岩」,島根県出雲市乙立町・佐田町大呂（物語内）,folklore_being,同名同地域の既存entityなし。類型名から他地域の事例と統合しない。,admit,報告書は『神戸川探訪』を典拠とするが、その原冊は未照合。鬼と金比羅神の同一性を確定しない。,Codex
 魚切りの主,source_0664,付・22頁（PDF24頁）5.4(4)「魚切りのたたり」,島根県出雲市佐田町反辺・魚切り（物語内）,folklore_being,同名同地域の既存entityなし。類型名から他地域の事例と統合しない。,admit,報告書は『乙立郷土誌』を典拠とするが、その原冊は未照合。目撃の史実性は主張しない。,Codex
 魔渡り橋の馬／魔,source_0664,付・22頁5.4(1),島根県出雲市佐田町下橋波,supernatural_phenomenon,同名同地域の既存entityなし。,defer,馬か魔物かを資料自体が疑問形で示す。entity identity未確定。,Codex
+たごころ姫,source_0663,(91)「袴石」、女神の紹介と袴石の由来の段,奈良県十津川村折立・中谷（再話内）,named_supernatural_entity,同名・同地域の既存entityなし。既存類型と同一視しない。,admit,神格の固有名と行動が再話中に明記。伝説上の祭神選定を史実としない。,Codex
+目まじない,source_0663,(93)「悲しい目まじない」、嫁の死と小虫の説明の段,奈良県十津川村（再話の収録先）,folklore_being,同名・同地域の既存entityなし。既存類型と同一視しない。,admit,虫の一般名称を超自然的な伝承で説明する事例。特定地域・実在人物の起源は主張しない。,Codex
+貞伝上人,source_0466,pp.410–411「2 津軽の伝説（1）文化叙事伝説」［聖者］、貞伝上人の段,青森県今別町（県史の記述）,historical_person_in_supernatural_tradition,同名・同地域の既存entityなし。既存類型と同一視しない。,admit,県史に固有人物と二つの奇話が記載される。奇跡や人物の史実性はclaimで断定しない。,Codex
+坪貝の竜神,source_0466,pp.410–411［神］,青森県青森市油川,named_supernatural_entity,同名同地域なし。ただし二人を祀ったとする複合の神格。,defer,ツボ子・佐五右衛門・竜神のentity粒度が一段落だけでは確定しない。,Codex
+娘に化けたこんにゃくいも,source_0663,(98)の本文,奈良県十津川村,object_spirit,同名同地域なし。,defer,個体名・場所がなく、こんにゃくいも一般の変化譚との境界が未確定。,Codex
