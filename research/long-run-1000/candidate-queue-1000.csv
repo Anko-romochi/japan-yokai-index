@@ -62,3 +62,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 切込湖・刈込湖の大蛇,source_0733,日本語解説文第2段,栃木県日光市・切込湖と刈込湖周辺,folklore_being,既存同湖の大蛇なし。勝道上人と主体を分ける。,admit,国交省の個別解説に一体の大蛇と勝道上人との場面がある。,Codex
 湯田温泉の白狐,https://www.mlit.go.jp/tagengo-db/R5-00323.html,日本語解説文第2段,山口県山口市・湯田温泉,folklore_being,既存同温泉の白狐なし。,defer,狐は温泉発見の契機だが超自然的能力や独立した怪異主体としての証拠は本文で弱い。,Codex
 書写山の天女,https://www.mlit.go.jp/tagengo-db/R2-01616.html,日本語解説文第1段,兵庫県姫路市・書写山圓教寺,folklore_being,既存同場面の天女なし。,defer,天女の一場面はあるが元の寺院伝承と解説文の像の年代に不整合があり、主体の粒度をさらに確認する。,Codex
+嬉野・轟の滝の龍神,source_0734,日本語解説文『龍神と弁財天』段,佐賀県嬉野市・轟の滝と白石町・縫ノ池,named_supernatural_entity,既存の長崎市田手原町・轟の滝の神龍とは別地点・別伝承。,admit,国交省の個別解説に轟の滝の龍神が縫ノ池の弁財天を訪ねる具体的な伝説がある。,Codex
+須賀・横堀家の河童,source_0392,印刷p.81／PDF 22頁『横堀家河童相伝の名灸』,新潟県新潟市西区須賀・西川,folklore_being,既存同家・同川の河童なし。小口やドンチ池とは別場面。,admit,高橋報告が河童の捕獲と灸の伝授を別個の項目で紹介する。原冊未照合。,Codex
+小口・能代川の河童,source_0392,印刷p.81／PDF 22頁『小口の河童』,新潟県新潟市秋葉区小口・能代川,folklore_being,既存同地点の河童なし。横堀家やドンチ池とは別場面。,admit,高橋報告が馬と河童の遭遇および証文を別個の項目で紹介する。原冊未照合。,Codex
+ドンチ池の河童,source_0392,印刷p.82／PDF 23頁『ドンチ池の河童の話』,新潟県新潟市西区・ドンチ池,folklore_being,既存同池の河童なし。横堀家や小口とは別場面。,admit,高橋報告に糸毬に化けて子を池に誘う固有場面がある。原冊未照合。,Codex
