@@ -82,3 +82,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 木の倉山の白狐,source_0599,本文第1–4段落,千葉県,folklore_being,既存白狐の各地域個体と場所・物語が異なる。天狗とは別個体化しない,admit,天狗と思われた対象の正体を白狐とする市の物語に固有の個体,Codex
 里見の大猿,https://www.city.minamiboso.chiba.jp/0000001314.html,本文第1–3段落,千葉県,folklore_being,既存里見大猿なし,defer,超人的な力と死後の怨念は語られるが動物個体を怪異として分離する基準が未確定,Codex
 富浦の亡者船,https://www.city.minamiboso.chiba.jp/0000001285.html,本文第1–6段落,千葉県,supernatural_phenomenon,津和瀬の幽霊船とは別地域。房州一帯の類型としての粒度が未確定,defer,複数回の遭遇を単独個体としては扱えない,Codex
+犬鳴の笛の天狗,source_0600,第4話『天狗の笛』、三本柞での雷雨と笛を探す段,福岡県,folklore_being,既存犬鳴の笛天狗なし。地域外の天狗個体と同定しない,admit,同一話中に居所・所有物・行動を持つ天狗として区別可能,Codex
+筵内熊野神社の黒馬,source_0600,第3話『熊野神社の黒馬』後半,福岡県,folklore_being,既存筵内絵馬馬なし。絵馬と走る馬の同一性は物語内の噂として限定,admit,特定の神社の絵馬と結びつく作中の黒馬を索引,Codex
+古賀の古狸,https://www.city.koga.fukuoka.jp/cityhall/work/kikaku/007.php,第1話『古賀の古狸』,福岡県,folklore_being,既存古賀村の古狸なし,defer,怪異の原因を古狸とするのは近隣住民の推測であり個体の確認がない,Codex
