@@ -17,3 +17,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 鼬川の老いた鼬,source_0531,「鼬川」願泉寺の記録を紹介する段,大阪府,folklore_being,既存名・場所・役割を照合し一致なし,admit,川の名に関する伝説中の一匹の鼬を索引。願泉寺原記録は未確認。,Codex
 権助狐,https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000033855.html,「037 権助狐と今川墓地」本文,大阪府,named_supernatural_entity,既存名・場所を照合,defer,題名に狐名があるが本文は狐の個体としての行為を明示せず、今川墓地の地蔵相撲との関係は不明。,Codex
 鞍馬山の雌の大蛇,source_0382,鞍馬山竹伐り会式の伝説段,京都府,folklore_being,既存akkai_gohou_zenjinと同一の記録,reject,既存閼伽井護法善神の別称となる候補で、重複entityを作らない。,Codex
+思川の大蛇,source_0532,PDF 1頁「思川にまつわる話」、妻が大蛇に変わり若い女性を襲う段,栃木県,folklore_being,既存名・場所・役割を照合し一致なし,admit,個別PDF本文の怪異主体と行為を画像で確認。見出しからの説明的索引名であり伝承上の固有名と断定しない。,Codex
+星の宮のお化け,source_0533,PDF 1頁「星の宮のお化け」、神社に大入道が現れる段,栃木県,folklore_being,既存名・場所・役割を照合し一致なし,admit,個別PDF本文の怪異主体と行為を画像で確認。見出しからの説明的索引名であり伝承上の固有名と断定しない。,Codex
+都賀の恩返し河童,source_0534,PDF 1頁「河童の恩返し」、河童が毎日鮎を届けると約束する段,栃木県,folklore_being,既存名・場所・役割を照合し一致なし,admit,個別PDF本文の怪異主体と行為を画像で確認。見出しからの説明的索引名であり伝承上の固有名と断定しない。,Codex
+藤岡のさむらいに化けた狐,source_0535,PDF 1頁「さむらいに化けた狐」、侍に化けて酒を取り上げる段と翌朝の段,栃木県,folklore_being,既存名・場所・役割を照合し一致なし,admit,個別PDF本文の怪異主体と行為を画像で確認。見出しからの説明的索引名であり伝承上の固有名と断定しない。,Codex
+小倉川のかっぱ,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1066,PDF 1頁、伏兵となる複数の河童の段,栃木県,folklore_being,既存名・場所を照合,defer,複数個体で単一entity粒度が弱い。,Codex
+西方村の竜の頭,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1069,PDF 1頁「竜の頭」,栃木県,folklore_being,既存名・場所を照合,defer,竜本体と残された岩のどちらをentityとするか粒度を保留。,Codex
+人をよぶムジナ,https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1098,PDF 1頁「人をよぶムジナ」,栃木県,folklore_being,既存名・場所を照合,defer,声をムジナの仕業とする村人の解釈だけで個体を確認できない。,Codex
