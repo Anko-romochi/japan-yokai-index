@@ -3,3 +3,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 生福のガラッパ,source_0246,民話編3『ガラッパ（河童）どんの手』冊子p.18～19／PDF p.21～22、切られた腕を祀る段,鹿児島県,folklore_being,既存名・alias・場所・説話内容を照合し一致なし,admit,川崎家の説話に登場する腕を失ったガラッパを索引。石塔の年代は伝承成立年代としない。,Codex
 キッチョンと話す冠岳の天狗,source_0246,民話編24『キッチョンと冠岳の天狗』冊子p.57～58／PDF p.60～61、天狗とキッチョンの会話・蓑笠の貸借の段,鹿児島県,folklore_being,既存名・alias・場所・説話内容を照合し一致なし,admit,先行の複数天狗記事と同一個体と断定せず、キッチョンの説話に登場する相手を索引。,Codex
 退休寺の化け横槌,source_0523,『語り』本文、毎夜踊る三人の正体の段（椿の横槌）,鳥取県,object_spirit,既存名・alias・場所・説話内容を照合し一致なし,admit,同じ語りの鶏・山芋とは別の器物として索引。採集年を成立年代としない。,Codex
+尾先白左衛門,source_0524,三田市の民話『見比峠の尾先白左衛門』本文、狐の呼称と巡礼姿の段,兵庫県,named_supernatural_entity,既存名・alias・場所・物語を照合し一致なし,admit,固有名・化ける行為が個別記事に明示。原掲載『三田の民話100選（下）』は未照合。,Codex
+忠兵衛薮の大入道,source_0525,三田市の民話『石割と忠兵衛薮の大入道』本文、大入道が古狸に戻る段,兵庫県,folklore_being,既存名・alias・場所・物語を照合し一致なし,admit,古狸に化け戻る一話の存在。『忠兵衛薮の大入道』は場所付き索引名で固有名とはしない。,Codex
+松ノ坂の甚五郎ぎつね,source_0526,三田市の民話『松ノ坂の甚五郎ぎつね』本文、三匹の名と化け比べの段,兵庫県,named_supernatural_entity,既存名・alias・場所・物語を照合し一致なし,admit,甚五郎・おさよ・こじろを同一個体に統合しない。今回は頭領甚五郎のみ索引。,Codex
+松林寺谷のずんべらぼう,source_0527,三田市の民話『松林寺谷のずんべらぼう』本文、娘姿の化け蛇の段,兵庫県,named_supernatural_entity,既存名・alias・場所・物語を照合し一致なし,admit,寺僧の殺害は物語内の設定としてのみ扱い、実際の歴史や怪異の起源としない。,Codex
+風呂ヶ谷の白狐,https://www.city.sanda.lg.jp/soshiki/15/gyomu/rekishi_bunkazai/minwa/1883.html,本文、白狐が水たまりに入る段,兵庫県,folklore_being,既存名・場所を照合,reject,白狐が温泉を見つけるが怪異性・超自然的行為が示されない,Codex
+虚空蔵山の黒白の蛇,https://www.city.sanda.lg.jp/soshiki/15/gyomu/rekishi_bunkazai/minwa/3415.html,本文、黒蛇と白蛇が現れる段,兵庫県,folklore_being,既存名・場所を照合,defer,二匹のentity粒度と雨乞いとの因果の強さを原掲載書まで保留,Codex
+竜神池の金の鶏,https://www.city.sanda.lg.jp/soshiki/15/gyomu/rekishi_bunkazai/minwa/1910.html,本文、鶏の声と寺の宝物の推測の段,兵庫県,object_spirit,既存名・場所を照合,defer,声の主を金の鶏とするのは記事内の推測で物体の怪異化は未確定,Codex
