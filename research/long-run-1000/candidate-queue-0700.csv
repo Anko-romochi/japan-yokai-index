@@ -78,3 +78,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 室家の桂姫,source_0372,本文「住持池 室家の桂姫とのまつわり」桂姫の婚礼から末尾,和歌山県,named_supernatural_entity,既存の住持池の大蛇は別個体。桂姫の名前と結末を確認,admit,伝承上の人間の名と蛇化を追跡する単位。実在性・時代を推定しない,Codex
 久保の小女郎,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/50.html,本文「久保の小女郎」末段,和歌山県,named_supernatural_entity,池の大蛇と娘は本文上別個体,defer,蛇と結ばれる娘だが自身の超自然的変化は本文で確認できず、entity範囲を要検討,Codex
 鍋島猫化け騒動の怪猫,https://www.saga-otakara.jp/search/detail.html?cultureId=2489,登録ID 2489,佐賀県,folklore_being,他の化猫とは地名が異なるが類話との関係未照合,defer,DB掲載本文が史実と劇化後の筋を接続。原掲載資料と作品系譜を要確認,Codex
+浮島の森の大蛇,source_0516,本文「美少女おいの」大蛇出現・蛇の穴の段落,和歌山県,folklore_being,浮島・おいの・蛇の穴を既存entity照合し一致なし,admit,特定の森と穴に結び付いた一個体の大蛇譚,Codex
+おはらはん,source_0371,本文「おはらはん」身体三分の段落,和歌山県,named_supernatural_entity,既存entity kinokawa_kakou_no_daija と同じ記事・身体,reject,同じ大蛇の腹を祀る呼称。独立個体として増やさず既存entityとの関係検討事項,Codex
