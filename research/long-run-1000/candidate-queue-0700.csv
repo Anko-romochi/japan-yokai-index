@@ -30,3 +30,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 野島の八幡神,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/27.html,本文「波の音をきらった神」,和歌山県,named_supernatural_entity,既存名に一致なし,defer,神社移動譚の主体が一般八幡神と独立entityか判断保留,Codex
 うそ淵のカワウソ,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/13.html,本文「うそ淵」,和歌山県,folklore_being,既存名に一致なし,reject,通常のカワウソと地名の語呂を扱う話で超自然主体なし,Codex
 ぽいとこの話,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/25.html,本文「ぽいとこの話」,和歌山県,supernatural_phenomenon,既存名に一致なし,reject,言葉遊びで超自然主体なし,Codex
+桑村の絵馬の馬,source_0499,個別本文第2–7段落,愛媛県,object_spirit,既存絵馬・桑村を照合し一致なし,admit,単一神社絵馬に描かれた馬の動きと手綱が記述される,Codex
+香園寺の肉付きの面,source_0500,個別本文第1–3段落,愛媛県,object_spirit,既存肉付き面・香園寺を照合し一致なし,admit,貼り付く面という特定器物を場所付きで索引,Codex
+黒滝の不思議な神かぐら,source_0501,個別本文全1段落,愛媛県,supernatural_phenomenon,既存神かぐら・黒滝を照合し一致なし,admit,音のみの怪異現象として索引。奏者や神格を推測しない,Codex
+乳母が懐の姫・乳母,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minwa0008.html,個別本文「乳母が懐」,愛媛県,named_supernatural_entity,既存名・場所を照合し一致なし,defer,椀貸しの人物像と人間の姫・乳母の境界が本文だけでは不明,Codex
+たるもんじさん,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minwa0009.html,個別本文全2段落,愛媛県,historical_person_in_supernatural_tradition,既存名に一致なし,reject,強力者同士の逸話で超自然主体と断定できない,Codex
+過行橋のえんこ,https://www.city.saijo.ehime.jp/soshiki/syakaikyoiku/minwa0016.html,個別本文「えんこの話」,愛媛県,folklore_being,既存えんこう2件は別地域,defer,橋名は解放地点であり原資料の個体名ではない。場所修飾と粒度を再確認,Codex
