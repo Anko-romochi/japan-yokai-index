@@ -54,3 +54,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 大里峠のおりの,source_0556,『大里峠伝説』第1–2段,新潟県関川村・大里峠,named_supernatural_entity,既存orino_oozatoと同一伝説・同一名。,reject,既存entityとclaim_0791の重複。,Codex
 天狗壁の天狗,https://www.city.nomi.lg.jp/docs/2819.html,本文第2段,石川県能美市岩本町・天狗壁,folklore_being,同名・同地点の既存entityなし。,defer,天狗が棲むという一文のみで個体性と活動を確定できない。,Codex
 後生掛のオナメ・モトメ,https://www.city.kazuno.lg.jp/soshiki/kankou_koutsu/kankokoryu/gyomu/2/3/densetu/8297.html,本文末段・二つの噴泉の命名,秋田県鹿角市・後生掛,supernatural_phenomenon,二つの噴泉と伝説上の二人の女性の粒度を未整理。,defer,自然の噴泉・死者の霊・伝説上の成立話のどれを索引単位にするか未確定。,Codex
+興国寺の天狗,source_0729,日本語解説文第1・3段,和歌山県日高郡由良町・興国寺,folklore_being,既存同寺の天狗なし。天狗一般と区別。,admit,旅僧が天狗だったという村人の判断と一夜の再建を明記。固有名とはしない。,Codex
+龍が池の大蛇,source_0730,日本語解説文第1段,滋賀県大津市・比叡山延暦寺横川の龍が池,folklore_being,同池・同伝承の既存entityなし。弁財天と混同しない。,admit,良源との問答・変身・封印・龍神化までを一個体の伝説として記す。,Codex
+宇佐神宮百段の鬼,source_0731,日本語解説文第2段,大分県宇佐市・宇佐神宮百段,folklore_being,既存同段の鬼なし。蛇版との同一性は未確定。,admit,一晩の石段作りと八幡神との約束を記す個別伝説。,Codex
+宇佐神宮百段の大蛇,source_0731,日本語解説文第2段の別版,大分県宇佐市・宇佐神宮百段,folklore_being,鬼版の敵役との関係が異伝か別個体か未判定。,defer,同じ話の別版として短く言及され、独立した主体としての粒度を確認できない。,Codex
