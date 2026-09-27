@@ -96,3 +96,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 薬屋さんの化け物退治の大物,https://www.pref.tottori.lg.jp/266710.htm,語り・薬屋の退治段,鳥取県米子市観音寺（採集地）,folklore_being,ウワバミかどうか話者も不確定。汎用怪物の一話型。,defer,名称と個体識別が不安定なため独立entity化を保留。,Codex
 細越のにせ本尊狐,source_0699,『にせ本尊』語り・細越の狐、本尊変身、伊勢での再会,鳥取県三朝町吉尾（採集地）,folklore_being,細越・にせ本尊・偽本尊で既存照合し同個体なし。記述名で固有名ではない。,admit,一続きの採集語りで細越の狐の変身と再会を追え、同話内の個体として識別できる。,Codex
 サバ食い山姥,https://www.pref.tottori.lg.jp/266702.htm,語り・牛方山姥型の追跡段,鳥取県三朝町吉尾（採集地）,folklore_being,無名の山姥で同型の複数伝承との差異は未照合。,defer,一話型中の山姥を独立個体とする粒度を保留。,Codex
+金正寺の猫,source_0700,『広報ふじ』652号p.14「金正寺の猫」,静岡県富士市平垣（民話の舞台）,folklore_being,金正寺・猫で既存entity・claimを照合し同話なし。飼い猫タマは別個体。,admit,寺の大きな三毛猫が踊る猫集団を率いる一個体として本文に識別される。,Codex
+妙法二神（妙心・法心）,https://www.city.fuji.shizuoka.jp/archive/kouhou/kiji/101110305_0728_12.htm,『広報ふじ』728号p.14「岩本の妙法天狗」,静岡県富士市岩本・実相寺,named_supernatural_entity,既存同名なし。二神を一つの『妙法天狗』とする記事内集合呼称。,defer,兄弟の二個体と総称のどちらを索引するかentity粒度を決める必要がある。,Codex
+吉野長者の娘たまき,source_0701,『広報ふじ』339号p.10命名・長者ヶ池の主の段,静岡県富士市天間・長者ヶ池（物語の舞台）,named_supernatural_entity,吉野長者・たまき・長者ヶ池で既存entity/claim照合し同個体なし。,admit,1982年市広報民話に固有名と竜への変化、池の主という自己説明が直接記される。,Codex
+神谷のお不動さんの白蛇,source_0702,『広報ふじ』016号p.2岩の割れ目・後藤家の土蔵の段,静岡県富士市神谷（伝説の舞台）,folklore_being,神谷・不動・白蛇で既存entity/claim照合し同個体なし。,admit,1967年署名記事が後藤家の白蛇と不動尊の祭日の出現を一続きの伝説として記す。,Codex
+いけにえ渕の毒蛇,https://www.city.fuji.shizuoka.jp/archive/kouhou/kiji/100550605_0297_08.htm,『広報ふじ』297号p.10「いけにえ渕の毒蛇（2）」,静岡県富士市三ッ股渕（物語の舞台）,folklore_being,同名既存なし。前篇未照合。,defer,後篇のみでは個体と渕の関係・話の導入が欠け、全体照合を待つ。,Codex
