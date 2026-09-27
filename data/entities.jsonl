@@ -666,3 +666,6 @@
 {"id":"hirakisawa_no_daija","name_ja":"平木沢の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["滋賀県"],"tags":[],"research_status":"provisional"}
 {"id":"kuranuma_no_daija","name_ja":"鞍沼の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["青森県"],"tags":[],"research_status":"provisional"}
 {"id":"ryugu_no_uma_higashidori","name_ja":"竜宮の馬","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["青森県"],"tags":[],"research_status":"provisional"}
+{"id":"numanosawa_no_shirokimono_no_onna","name_ja":"沼の沢の白い着物の女","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["北海道"],"tags":[],"research_status":"provisional"}
+{"id":"kikonai_no_komochiishi","name_ja":"子持ち石","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["北海道"],"tags":[],"research_status":"provisional"}
+{"id":"asahata_no_numa_no_baasan","name_ja":"沼のばあさん","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["静岡県"],"tags":[],"research_status":"provisional"}

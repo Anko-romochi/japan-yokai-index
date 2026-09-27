@@ -47,3 +47,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 山道の背高背低の化物,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MS1_810110,［事例12］兄弟の村救い,青森県,folklore_being,類似無名化物を未網羅,defer,見出しは「化物のはなし」で固有名はない。話型と個体の索引粒度を確認,Codex
 住吉池の大蛇,source_0418,8「住吉池の大蛇」,鹿児島県,folklore_being,既存sumiyoshiike_daija_airaと完全一致,reject,既存entityへの重複登録を防止,Codex
 大雄寺の水飴幽霊,https://www.city.matsue.lg.jp/material/files/group/34/kouza25-5sakai.pdf,PDF冒頭の伝説例示,島根県,folklore_being,大雄寺・水飴幽霊を既存照合し一致なし,defer,講座資料の例示だけでは具体的な怪異主体と伝承系統を同定できない,Codex
+沼の沢の白い着物の女,source_0507,見出し「沼の沢」全文,北海道,folklore_being,沼の沢・札苅で既存照合し一致なし,admit,複数段落の異形の女を場所付きで索引。自死女性・大蛇との同一性は村人の解釈として保持,Codex
+子持ち石,source_0507,見出し「子持ち石」全文,北海道,object_spirit,子持ち石・札苅で既存照合し一致なし,admit,小石増加と子授け信仰のある特定の石。原採話年は不明,Codex
+沼のばあさん,source_0508,PDF 5ページ目の麻機地区紹介,静岡県,folklore_being,沼のばあさん・麻機で既存照合し一致なし,admit,龍に変身する祖母として索引。秋野等の別資料の人物名は未統合,Codex
+老松を守った蛇,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「老松を守った蛇」,北海道,folklore_being,願応寺・老松で既存照合し一致なし,defer,通常の蛇に守護力を帰した語りか独立した怪異主体か未確定,Codex
+木古内の坊,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「木古内の坊」,北海道,historical_person_in_supernatural_tradition,木古内の坊・友吉で既存照合し一致なし,defer,実在人物と転生伝説の区別およびentity type判断が必要,Codex
+中野の橋の幽霊,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「幽霊とにおうの花」,北海道,folklore_being,中野の橋を既存照合し一致なし,reject,本文で幽霊は花の見間違いと明示される,Codex
