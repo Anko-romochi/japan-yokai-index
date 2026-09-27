@@ -21,3 +21,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "出葉屋の化け猫","https://kanbenosato.com/minwa/249/","語り本文 火の玉から古猫の結末","島根県","folklore_being","出葉屋・dehayaを検索し一致なし","admit","一話の古猫として識別可能。語り手の住所を物語の舞台とはしない","Codex"
 "井原川のエンコウ","https://kanbenosato.com/minwa/368/","語り本文 馬の尾のエンコウと約束","島根県","folklore_being","井原川・エンコウを検索し一致なし","admit","井原川の一話で捕らえられた個体。掲載の収録日8月52日は誤記として保留","Codex"
 "奥の院沼の白蛇","https://www.t-bunkyo.ac.jp/library/minwa/archives/tsuyufujinodensetsu/text/73.html","第73話 前半の沼の主","山形県","folklore_being","奥の院沼の大亀との同定を検討","defer","白蛇説と大亀の話の系譜・同一性は本文だけでは解決しない","Codex"
+"牛が峰の大蛇","https://www.town.shinonsen.hyogo.jp/page/?mode=detail&page_id=4006e5965bd9f831a6cbbf2eb86e35d4","４・牛が峰 前半の小僧と藁人形","兵庫県","folklore_being","牛が峰・ushigamineを検索し一致なし。高山の大蛇とは別扱い","admit","町の一話における局地個体。寺院や土砂崩れの歴史性・別伝承との同一性は未認定","Codex"
+"オトン女郎","https://www.town.shinonsen.hyogo.jp/page/?mode=detail&page_id=1f34d95c5e462b221bd01929466fce38","冒頭と末尾 オトン女郎と油商人","鳥取県","named_supernatural_entity","オトン女郎を検索し一致なし","admit","因幡国を舞台に明示名と狐の姿・行動を確認。提供町の所在地を伝承地域としない","Codex"
+"赤テヌグイ","https://www.town.shinonsen.hyogo.jp/page/?mode=detail&page_id=1f34d95c5e462b221bd01929466fce38","冒頭と前半 赤テヌグイと医者","鳥取県","named_supernatural_entity","赤テヌグイを検索し一致なし","admit","名乗りと独立した挿話あり。兄弟狐との関係は資料の記述に限定","Codex"
+"お城山のケイゾウ坊","https://www.town.shinonsen.hyogo.jp/page/?mode=detail&page_id=1f34d95c5e462b221bd01929466fce38","冒頭と中段 ケイゾウ坊","鳥取県","named_supernatural_entity","既存keizobo_kitsuneとの同一可能性が高い","defer","同名・役割近似だが既存entityのaliasとこの資料の個体を追加で照合してから判断。別entityは作らない","Codex"
