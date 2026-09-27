@@ -66,3 +66,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 須賀・横堀家の河童,source_0392,印刷p.81／PDF 22頁『横堀家河童相伝の名灸』,新潟県新潟市西区須賀・西川,folklore_being,既存同家・同川の河童なし。小口やドンチ池とは別場面。,admit,高橋報告が河童の捕獲と灸の伝授を別個の項目で紹介する。原冊未照合。,Codex
 小口・能代川の河童,source_0392,印刷p.81／PDF 22頁『小口の河童』,新潟県新潟市秋葉区小口・能代川,folklore_being,既存同地点の河童なし。横堀家やドンチ池とは別場面。,admit,高橋報告が馬と河童の遭遇および証文を別個の項目で紹介する。原冊未照合。,Codex
 ドンチ池の河童,source_0392,印刷p.82／PDF 23頁『ドンチ池の河童の話』,新潟県新潟市西区・ドンチ池,folklore_being,既存同池の河童なし。横堀家や小口とは別場面。,admit,高橋報告に糸毬に化けて子を池に誘う固有場面がある。原冊未照合。,Codex
+八木の大蛇,https://www.pref.hiroshima.lg.jp/site/monjokan/saigai-sub01-02-01.html,『実伝蛇王池物語』紹介段,広島県広島市安佐南区八木,folklore_being,既存yagi_daija_hiroshimaと同一伝承。,reject,県立文書館の解説は既存の八木の大蛇の資料であり新規主体ではない。,Codex
+下湯の津矢虎鬼,source_0735,本文『この山中に兇徒』から『津矢虎身図の沢』まで,青森県青森市・下湯,named_supernatural_entity,既存同名鬼なし。身図鬼とは資料が二鬼として区別。,admit,青森市掲載の下湯伝承に固有名と別個の行動主体がある。,Codex
+下湯の身図鬼,source_0735,本文『この山中に兇徒』から『津矢虎身図の沢』まで,青森県青森市・下湯,named_supernatural_entity,既存同名鬼なし。津矢虎鬼とは資料が二鬼として区別。,admit,青森市掲載の下湯伝承に固有名と別個の行動主体がある。,Codex
+松江城天狗の間の女,source_0736,PDF p.11『雲陽秘事記』引用段,島根県松江市・松江城天狗の間,folklore_being,既存同城・同場面の女なし。人柱との同定は未確定。,admit,市の調査コラムが近世伝本引用で女の出現と消失を示す。,Codex
