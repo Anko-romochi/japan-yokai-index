@@ -1,0 +1,16 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+関の平の山おじ,source_0491,個別本文「仙八と山おじ」第1–3段落,和歌山県,folklore_being,既存名・alias・関の平を照合し一致なし,admit,一話の山おじを地域修飾で索引。山おじ一般への同一化なし,Codex
+鴻野山の大蛇,source_0492,個別原文／原掲載p.11,茨城県,folklore_being,既存名・alias・鴻野山を照合し一致なし,admit,沼の主である一個体が和尚と交渉する話。刊年は起源でない,Codex
+新池の狐,source_0493,個別原文／原掲載pp.70–72,茨城県,folklore_being,既存名・alias・新池を照合し一致なし,admit,新池に結びつく狐の一話。明治初めは物語内設定,Codex
+飯島のおまん狐,source_0494,個別原文冒頭・結末／原掲載p.173,茨城県,named_supernatural_entity,既存名・alias・おまんを照合し一致なし,admit,飯島の固有名付き狐。別資料の同名狐とは自動統合しない,Codex
+青塚のおせん狐,source_0494,個別原文第1–3段落／原掲載p.173,茨城県,named_supernatural_entity,既存名・alias・おせんを照合し一致なし,admit,青塚の固有名付き妹狐。同じ話の姉狐と別個体,Codex
+大蛇丸,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100108?f=1,個別原文結末／原掲載p.108,茨城県,object_spirit,既存名・aliasに大蛇丸なし,reject,大蛇丸は大蛇を斬った太刀の呼称であり、超自然的主体とは記されない,Codex
+久保の小女郎,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/50.html,本文「久保の小女郎」,和歌山県,named_supernatural_entity,既存名・aliasに久保の小女郎なし,reject,女性自身の超自然的行為は記されず、池の大蛇に連れ去られる人間,Codex
+琴の滝の牛鬼,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/40.html,本文「琴の滝の牛鬼」,和歌山県,folklore_being,既存kotono_taki_no_ushi_oni,reject,既存entityの同一資料・同一個体,Codex
+瀞の主,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/47.html,本文「瀞の主」,和歌山県,folklore_being,既存doro_no_nushi_wakayama,reject,既存entityの同一資料・同一個体,Codex
+一つたたら,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/44.html,本文「一つたたら」,和歌山県,folklore_being,既存hitotsu_tatara_nachi,reject,既存entityの同一資料・同一個体,Codex
+国主淵の大蛇,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/10.html,本文「国主淵の生き面」,和歌山県,folklore_being,既存kunishibuchi_no_daija,reject,既存entityの同一資料・同一個体,Codex
+小又川の枕がえし,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/31.html,本文「枕がえし」,和歌山県,supernatural_phenomenon,既存komatagawa_no_makuragaeshi,reject,既存entityの同一資料・同一現象,Codex
+てんぐの徳兵衛,https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/38.html,本文「てんぐ徳兵衛」,和歌山県,named_supernatural_entity,既存tengu_tokubei,reject,既存entityの同一資料・同一人物像,Codex
+おはらはんの大蛇,source_0371,本文「おはらはん」,和歌山県,folklore_being,既存kinokawa_kakou_no_daija,reject,既存entityと同じ紀ノ川河口の大蛇であり、おはらはんは腹を祀る神社の呼称,Codex
+室家の桂姫,source_0372,本文「住持池 室家の桂姫とのまつわり」,和歌山県,named_supernatural_entity,既存jujigaike_no_daijaが同じ物語を索引,defer,桂姫の人間から大蛇への変容と既存池蛇entityの粒度関係を原冊で確認したい,Codex
