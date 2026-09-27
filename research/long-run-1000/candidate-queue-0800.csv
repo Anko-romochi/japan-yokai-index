@@ -45,3 +45,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 犬飼村の猿神,source_0581,見出し『犬飼村の猿神退治』、大猿が犬と戦い狸に変じる段,兵庫県,folklore_being,既存entity名・地域・個別話を照合し一致なし,admit,博物館題名の猿神と本文の狸への変身を併記し、同一話の主体として索引。神格と狸の由来は確定しない。,Codex
 ソランジン,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story17/,見出し『鷲の地主神』、ソランジンを大鷲の正体と記す段,兵庫県,named_supernatural_entity,既存 soranjin と同一名・同一伝説を照合,reject,既存entityおよびsource_0242の採録済み記録と重複するため新規登録しない。,Codex
 唐櫃の黄金の鶏,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story16/,見出し『唐櫃の黄金の鶏』、埋蔵と禁忌の段,兵庫県,folklore_being,既存entity名を照合し一致なし,defer,黄金の鶏は埋められた品として語られ、鶏自体の超自然的行為とentity粒度を確認できない。,Codex
+秦武文の亡霊,source_0582,見出し『沼島女郎』、秦武文の入水と亡霊が海に現れる段,兵庫県,folklore_being,既存entity名・異名・人物を照合し一致なし,admit,再話中に名を持つ亡霊として出る主体のみ索引。秦武文の実在や亡霊出現を史実化しない。,Codex
+沼島女郎,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story19/,末段、オコゼに似た魚の地方名を説明,兵庫県,folklore_being,既存名称を照合し一致なし,reject,本文では魚の地方名であり、その魚の超自然的行為は語られない。題名だけで妖怪として索引しない。,Codex
