@@ -33,3 +33,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 おりや,source_0652,公開テキストNo.20、蝮と変身・長才との会話,山形県上山市周辺（物語内）,named_supernatural_entity,既存同名・同筋の大蛇との一致なし。人間から大蛇へ変じる描写が明示。,admit,本文で変身と後の蛇としての発話を確認。実在人物の証拠とは扱わない。,Codex
 柳兵衛,source_0653,公開テキストNo.33、化け比べ・狩人の罠,地域未特定,named_supernatural_entity,既存同名・aliasに一致なし。大平の狸とは別個体として本文が対話。,admit,見出しに振り仮名があり、本文も狐としての一貫した個体を語る。,Codex
 大平の狸,source_0653,公開テキストNo.33、柳兵衛との化け比べ,大平（所在地未特定）,folklore_being,柳兵衛とは別個体。ただし無名で説明的地名ラベル。,defer,地域同定と類型的狸からの独立粒度を先に確認する。,Codex
+お里乃,https://www.t-bunkyo.ac.jp/library/minwa/archives/osugiotama/text/57.html,小国町昔話集一・第57話「おりや峠」本文,越後・大里（物語内、所在地未確定）,named_supernatural_entity,既存おりやと蛇味噌漬け・盲の旅人・洪水・鉄での退治が共通。ただし呼称・人物・地名が異なる。,defer,同話型の異伝か同一人格か、語りの系譜未確認。自動alias統合しない。,Codex
+小国町昔話集のおさん狐,https://www.t-bunkyo.ac.jp/library/minwa/archives/satorinoobake/text/10.html,小国町昔話集二・第10話「法印と狐―おさん狐」本文,山形県小国町周辺（物語内）,named_supernatural_entity,既存露藤のおさん狐など複数。本文は「塞の神の狐」とするが、個体名の用例は見出しのみ。,defer,同名の地域狐との同一性と見出しの命名根拠が未解決。,Codex
+一足片片,https://www.t-bunkyo.ac.jp/library/minwa/archives/tanonaka/text/43.html,近きよ嫗昔話・第33話「一足片片」本文,山形県高畠町糠野目（語り内）,historical_person_in_supernatural_tradition,同名既存entityなし。,reject,本文では親切な草鞋売りの人間であり、超自然的な人物・怪異としての記述はない。,Codex
+今若,https://www.t-bunkyo.ac.jp/library/minwa/archives/satouke/text/14.html,佐藤家の昔話一・第14話「今若童子」本文,難波・京都・羅生門（物語内）,named_supernatural_entity,既存同名なし。渡辺綱の羅生門鬼との同一性を語る異伝。,defer,羅生門鬼の別名・再解釈・独立人格の粒度を他資料と照合する必要がある。,Codex
+竜宮童子,https://www.t-bunkyo.ac.jp/library/minwa/archives/ryuguwarashi/text/35.html,佐藤家の昔話十五・第35話「竜宮童子」本文,地域未特定,folklore_being,既存同名なし。ただし名ではなく竜宮から来た子の類型的役割を示す題名。,defer,具体的な固有名や地域同定がなく、独立entityか話型の索引かを判断できない。,Codex
+浪太郎,https://www.pref.niigata.lg.jp/sec/itoigawa_kikaku/1246392127949.html,新潟県「浪太郎」の紹介文,新潟県糸魚川市・高浪の池,folklore_being,既存同名なし。翠との同一性は未確認。,defer,巨大魚の目撃・伝説を扱うが通常動物と怪異entityの境界が不明。,Codex
+猫又権現,https://nagaoka-navi.or.jp/spot/42272,長岡観光ナビ「南部神社」解説,新潟県長岡市栃尾,named_supernatural_entity,既存猫又類型はあるが、当該呼称は神社の通称・祭神・猫像の関係が混在。,defer,独立した怪猫個体を示す資料ではないため、神社呼称からentityを作らない。,Codex
