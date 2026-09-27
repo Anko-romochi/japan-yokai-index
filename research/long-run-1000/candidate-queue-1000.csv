@@ -58,3 +58,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 龍が池の大蛇,source_0730,日本語解説文第1段,滋賀県大津市・比叡山延暦寺横川の龍が池,folklore_being,同池・同伝承の既存entityなし。弁財天と混同しない。,admit,良源との問答・変身・封印・龍神化までを一個体の伝説として記す。,Codex
 宇佐神宮百段の鬼,source_0731,日本語解説文第2段,大分県宇佐市・宇佐神宮百段,folklore_being,既存同段の鬼なし。蛇版との同一性は未確定。,admit,一晩の石段作りと八幡神との約束を記す個別伝説。,Codex
 宇佐神宮百段の大蛇,source_0731,日本語解説文第2段の別版,大分県宇佐市・宇佐神宮百段,folklore_being,鬼版の敵役との関係が異伝か別個体か未判定。,defer,同じ話の別版として短く言及され、独立した主体としての粒度を確認できない。,Codex
+ムー伝説の大ハブ,source_0732,日本語解説文『ムーの伝説』全段,鹿児島県大島郡徳之島町母間・井之川岳,folklore_being,既存同山・同伝説の大ハブなし。ほかの大蛇と同一視しない。,admit,国交省の個別解説に巨大ハブと島民への害・村人の行動が具体的に記載。,Codex
+切込湖・刈込湖の大蛇,source_0733,日本語解説文第2段,栃木県日光市・切込湖と刈込湖周辺,folklore_being,既存同湖の大蛇なし。勝道上人と主体を分ける。,admit,国交省の個別解説に一体の大蛇と勝道上人との場面がある。,Codex
+湯田温泉の白狐,https://www.mlit.go.jp/tagengo-db/R5-00323.html,日本語解説文第2段,山口県山口市・湯田温泉,folklore_being,既存同温泉の白狐なし。,defer,狐は温泉発見の契機だが超自然的能力や独立した怪異主体としての証拠は本文で弱い。,Codex
+書写山の天女,https://www.mlit.go.jp/tagengo-db/R2-01616.html,日本語解説文第1段,兵庫県姫路市・書写山圓教寺,folklore_being,既存同場面の天女なし。,defer,天女の一場面はあるが元の寺院伝承と解説文の像の年代に不整合があり、主体の粒度をさらに確認する。,Codex
