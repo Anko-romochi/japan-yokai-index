@@ -629,3 +629,5 @@
 {"id":"miyoshimine_no_sanko","name_ja":"三吉峰のさん子","name_kana":null,"name_romaji":null,"aliases":["さん子"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
 {"id":"sayama_no_sankichi_tanuki","name_ja":"狭山の三吉","name_kana":null,"name_romaji":null,"aliases":["三吉"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
 {"id":"okuno_ani_gitsune","name_ja":"オクノ","name_kana":"おくの","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
+{"id":"futodon_imutaike","name_ja":"フトドン","name_kana":"ふとどん","name_romaji":null,"aliases":["太殿"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"iimureyama_no_ooni","name_ja":"飯牟礼山の大鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
