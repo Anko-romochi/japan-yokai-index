@@ -17,3 +17,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 人形魚（悪病除刷物）,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-770.html,個別レコードF-320-770『説明』,未確認,folklore_being,既存名・人魚類型を照合し一致なし,defer,図像と呪符の効能は確認できるが、人形魚という呼称が資料内の存在名か目録名か未確認。予言の記載もない。,Codex
 日新真事誌の消える娘,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-225.html,個別レコードF-320-225『説明』,東京都（物語の場所）,folklore_being,既存の疱瘡神・幽霊・消える娘の記録を照合し一致なし,defer,1875年の錦絵は娘を疱瘡の厄神ではないかと推測する話。娘の同定・呼称・粒度は未確定。,Codex
 宝尾山の大蛇,source_0435,福井市『清水地域の三留町の伝承』2『宝尾山の大蛇』,福井県,folklore_being,既存 houosan_no_daija とsource_0435に一致,reject,既に同一個別本文に基づき採録済み。重複entity・sourceを作らない。,Codex
+白澤,source_0568,岩手県立博物館 資料ID9604『解説』,未確認（岩手県は所蔵館所在地で伝承地とは未確定）,named_supernatural_entity,既存名・異名・護符図の使用を照合し一致なし,admit,中国由来の霊獣を日本の江戸期に用いられた護符図の資料として索引。日本起源・岩手の地域伝承とは主張しない。,Codex
