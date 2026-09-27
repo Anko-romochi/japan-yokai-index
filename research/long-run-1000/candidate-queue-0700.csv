@@ -80,3 +80,11 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 鍋島猫化け騒動の怪猫,https://www.saga-otakara.jp/search/detail.html?cultureId=2489,登録ID 2489,佐賀県,folklore_being,他の化猫とは地名が異なるが類話との関係未照合,defer,DB掲載本文が史実と劇化後の筋を接続。原掲載資料と作品系譜を要確認,Codex
 浮島の森の大蛇,source_0516,本文「美少女おいの」大蛇出現・蛇の穴の段落,和歌山県,folklore_being,浮島・おいの・蛇の穴を既存entity照合し一致なし,admit,特定の森と穴に結び付いた一個体の大蛇譚,Codex
 おはらはん,source_0371,本文「おはらはん」身体三分の段落,和歌山県,named_supernatural_entity,既存entity kinokawa_kakou_no_daija と同じ記事・身体,reject,同じ大蛇の腹を祀る呼称。独立個体として増やさず既存entityとの関係検討事項,Codex
+喜三郎山の大六キツネ,source_0517,PDF 2頁・第5項「喜三郎山の大六キツネ」,和歌山県,named_supernatural_entity,喜三郎山・大六を既存照合し一致なし,admit,山の名と個体名および再会の物語がある。市冊子が示す先行資料は未照合,Codex
+玉の井の橋の女霊,source_0517,PDF 2頁・第8項「玉の井の橋と夜泣き地蔵」女の霊の段落,和歌山県,folklore_being,愛知県の夜泣き地蔵とは別。橋の女霊と地蔵も区別,admit,橋に結びつく特定の人霊譚。地蔵は別対象。市冊子が示す先行資料は未照合,Codex
+高野坂の天狗の火,source_0517,PDF 2頁・第15項「高野坂の天狗の火」,和歌山県,supernatural_phenomenon,高野坂・天狗の火を既存照合し一致なし,admit,一行に伴う火の現象を地名と見出しで索引。市冊子が示す先行資料は未照合,Codex
+越路の大猿,source_0517,PDF 2頁・第13項「越路の大猿」,和歌山県,folklore_being,越路・大猿・相撲を既存照合し一致なし,admit,言葉を話し家来を伴う場所固有の猿譚。市冊子が示す先行資料は未照合,Codex
+桑の木の滝のアメノウオ,source_0517,PDF 2頁・第19項「桑の木の滝のアメノウオ伝説」,和歌山県,folklore_being,奈良県ソウハン渕の大アメノウオとは別の滝・筋,admit,滝の淵に固有の魚の化身譚。市冊子が示す先行資料は未照合,Codex
+丹鶴姫,source_0517,PDF 2頁・第2項,和歌山県,historical_person_in_supernatural_tradition,子をさらう像と歴史上の人物の連続性は未確認,defer,1996年市広報・佐藤春夫作品の原文を先に照合,Codex
+鈴島の白馬,source_0517,PDF 2頁・第17項,和歌山県,folklore_being,白馬の超自然的性格は不明,defer,同頁の説明では普通の馬・由来譚との区別が弱い,Codex
+児ケ森の知らない子,source_0517,PDF 2頁・第18項,和歌山県,folklore_being,毎日の知らない子が同一個体か不明,defer,同一性・entity粒度を原掲載町誌で確認したい,Codex
