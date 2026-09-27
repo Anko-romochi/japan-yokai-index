@@ -28,3 +28,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 佐賀市大和町の鐘を撞く蛇女房,source_0424,県立図書館 Web版佐賀の昔話 No.1あらすじ,佐賀県佐賀市大和町久池井,folklore_being,既存蛇女房類型との個体粒度未比較。,defer,話型としても紹介されるため、個別伝承と類型の境界を先に確認。,Codex
 絹巻の観音様,source_0424,県立図書館 Web版佐賀の昔話 No.28あらすじ,佐賀県神埼市脊振町鳥羽院下,named_supernatural_entity,観音菩薩と娘の二者が一話に登場。,defer,娘が観音様と呼ばれる過程と祭祀対象のidentityを原掲載で照合する。,Codex
 黒髪山の大蛇,source_0424,県立図書館 Web版佐賀の昔話 No.30あらすじ,佐賀県有田町稗古場,folklore_being,既存kurokamiyama_no_daijaに同伝承を登録済み。,reject,既存entityの重複。資料追加候補にはなり得るが新entityとしない。,Codex
+三太ぎつね,source_0712,『三太ぎつねの話』第1–3段,大分県豊後高田市田染・鈴が谷,named_supernatural_entity,既存同名・同地域狐なし。,admit,市文化財室公開の本文に固有名・白狐の姿・行動がある。後段の幽霊を同一個体とは推測しない。,Codex
+鮪浦の大蛇,source_0713,『トピックス』内『鮪浦の大蛇と漁師の話』,大分県佐伯市鶴見・鮪浦,folklore_being,既存鮪浦の大蛇なし。蛇渕等は別地域・別伝承。,admit,市公開の長い伝説本文に個体の往来・変化・祭祀が具体的にある。,Codex
+お参・お市・白兵衛,https://www.city.usuki.oita.jp/docs/2014020501155/,『下ノ江駅の鳥越稲荷』末段,大分県臼杵市下ノ江駅・鳥越山,named_supernatural_entity,既存名なし。三名と一族を一括記す。,defer,個々の行動・同一性が一段落では分かれず、三個体への分割粒度を未確認。,Codex
+吉祥寺のぞうの首,https://www.city.saiki.oita.jp/kiji0031672/index.html,『吉祥寺物語』段,大分県佐伯市鶴見・沖松浦,supernatural_phenomenon,既存同名なし。,defer,ぞうの首の表記・複数性・主体が不明。原資料で照合。,Codex
