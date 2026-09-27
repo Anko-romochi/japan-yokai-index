@@ -45,3 +45,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 黒法師大天狗,source_0723,印刷p.6（1）・（2）,山梨県甲州市塩山藤木・恵林寺山,named_supernatural_entity,同名entityなし。黒法師山の地名と大天狗の人格を区別。,admit,2024年考古調査発表要旨の本文を直接確認。1582年は物語内年代。1563年の地名は人格の成立根拠にしない。,Codex
 妙国寺の蘇鉄,source_0724,『堺を見守る蘇鉄』第1–4段,大阪府堺市妙国寺,object_spirit,同名entityなし。寺の特定の蘇鉄を単位とし、一般的な蘇鉄伝説と自動統合しない。,admit,堺市本文に個別樹木と泣き・出血の伝説がある。信長期は物語内設定、原資料年代は不明。,Codex
 茶釜滝の天狗,source_0725,『太右衛門と天狗』本文後半・茶釜滝の段,秋田県鹿角市夜明島渓谷,folklore_being,既存同名・同場所entityなし。記述用索引名であり、伝承中の固有名とは主張しない。,admit,市の全文民話に滝の化身として一体の天狗と修行の役割が明示。原採録年代不明。,Codex
+光る怪鳥,source_0726,『光る怪鳥』本文冒頭第1–4段,秋田県鹿角市尾去沢・大森山,folklore_being,既存同名・同場所entityなし。タイトルは記述的な索引名で、固有名とは扱わない。,admit,市の全文伝説が尾去沢の一体の異形の鳥とその行動を描く。文明13年は物語内設定。,Codex
