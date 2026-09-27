@@ -38,3 +38,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 鬼岩寺の鬼,source_0683,本文1段落・鬼と岩への封印,静岡県藤枝市・鬼岩寺周辺,folklore_being,既存同寺の鬼なし。宇津ノ谷峠の食人鬼は別筋で連続性なし。,admit,市博物館の独立した伝説本文に鬼の居所と封印がある。,Codex
 賀姫,source_0681,本文1段落・大蛇にさらわれた娘,静岡県藤枝市,historical_person_in_supernatural_tradition,既存同名なし。伝承上の娘で実在人間かは未確認。,defer,本文は生存中の娘として描き、怪異化・死後の霊等の独立した超自然性を示さない。,Codex
 お杉とお玉,https://www.city.fujieda.shizuoka.jp/kyodomuse/11/12/1445916520346.html,本文・二本の木と人名の説明,静岡県藤枝市本郷・松沢,folklore_being,同名既存なし。本文は木の呼称と旅芸人の名を説明。,reject,妖怪・怪異の独立した主体が本文にない。,Codex
+坂下地蔵堂の鼻取り地蔵,source_0684,本文・子どもが牛を動かし足跡が像前で消える段,静岡県藤枝市岡部町・坂下地蔵堂,named_supernatural_entity,既存koanji_no_hanatori_jizoは三島市光安寺の別の地蔵。同名だけで統合しない。,admit,市博物館が現地地蔵像と異変・呼称を複数段落で示す。,Codex
+瀬戸川の狐（狐こう薬の伝説）,source_0685,本文1段落・娘の正体と薬の製法を教える段,静岡県藤枝市・瀬戸川,folklore_being,同名既存なし。『狐こう薬』は薬名・物語題であって狐の固有名とは扱わない。,admit,娘に化ける特定の狐と負傷・薬の交換が明記される。,Codex
+狼がくわえてきた子どもの狼,https://www.city.fujieda.shizuoka.jp/kyodomuse/11/12/1445916551201.html,本文、狼が赤子を置いて去る段,静岡県藤枝市朝比奈川,folklore_being,同名既存なし。神の使いか普通の狼か不明。,defer,狼の行動だけでは独立した超自然性を確定できない。,Codex
+玉取伝説の玉,https://www.city.fujieda.shizuoka.jp/kyodomuse/11/12/1445916513809.html,本文、宝玉と地名の伝説,静岡県藤枝市岡部町玉取,object_spirit,既存同名なし。宝玉は神体・地名由来の物体として説明。,reject,本文に自律的な怪異の主体としての描写がない。,Codex
