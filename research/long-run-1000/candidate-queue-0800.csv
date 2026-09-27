@@ -54,3 +54,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 卯の花姫,source_0585,『ものがたりの案内人：卯の花姫』の段,山形県,named_supernatural_entity,既存entity名・異名・三淵渓谷を照合し一致なし,admit,山形県の伝承解説で個体名と竜神化を確認。安倍貞任との系譜は史実として採用しない。,Codex
 桑畑の立石様,source_0584,pp.392–397、第8章第2節2（1）［神］、桑畑と下風呂の二つの立石様の段,青森県,folklore_being,既存entity名・異名・二地点を照合し一致なし,admit,同名の下風呂の立石様とは別の岩・場所として記述される。 両者を同一個体としない。,Codex
 下風呂の立石様,source_0584,pp.392–397、第8章第2節2（1）［神］、桑畑と下風呂の二つの立石様の段,青森県,folklore_being,既存entity名・異名・二地点を照合し一致なし,admit,同名の桑畑の立石様とは別の岩・場所として記述される。 両者を同一個体としない。,Codex
+茂庭の大蛇,source_0586,PDF p.4（印刷p.2）『茂庭の大蛇伝説』,福島県,folklore_being,既存entity名・異名・菅沼を照合し一致なし,admit,福島市公開冊子で地名に結び付く大蛇伝承を確認。建久3年は伝承内年代で採録年ではない。,Codex
