@@ -43,3 +43,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 石ヶ森の鴨左衛門狐,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・別名・信夫山の役割を照合し一致なし,admit,市の冊子本文に固有名と役割が明記。異本の表記は直接同一視せず未登録。,Codex
 信夫山のゴンボ狐,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・別名・信夫山の役割を照合し一致なし,admit,市の冊子本文に固有名と役割が明記。異本の表記は直接同一視せず未登録。,Codex
 猫のタマ,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・西坂稲荷を照合,defer,猫が祀られたと記すが、生前の動物と神格のentity粒度が未整理。,Codex
+百堂の渡しの三河童,source_0542,説明欄、筒井加右衛門が百堂の渡しにさしかかり三匹の河童が現れる段,大分県,folklore_being,既存名・別名・地名・説話内容を照合し一致なし,admit,県の説明文は三匹を個別に命名しない。場所と人数を使った索引名で、個々の河童の同一性は主張しない。,Codex
+泥谷の相撲河童,source_0543,『ふと見れば、そこに河童がいたことはありませんか？』、泥谷地区の水神相撲の段,大分県,folklore_being,既存名・別名・地名・説話内容を照合し一致なし,admit,市報の独立した説話に登場する河童一体を行動と場所で索引。固有名が伝わるとは主張しない。,Codex
+蛇渕の大蛇,source_0544,PDF1頁『郷土の伝説 ～蛇渕の話～（山香地区）』、大蛇の居所と藁人形の段,大分県,folklore_being,既存名・別名・地名・説話内容を照合し一致なし,admit,市議会だよりは山香町誌からの引用と表示。町誌本文や伝説内の天文三年の史実性は未照合。,Codex
+菊姫,source_0544,PDF1頁『蛇渕の話』,大分県,historical_person_in_supernatural_tradition,福岡県の菊姫怨霊とは別の説話,reject,本文では死亡した娘として語られ、菊姫自身の怪異化は確認できない。,Codex
