@@ -20,3 +20,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 小平のきつねさん,source_0646,PDF 4頁／冊子3頁「小平のきつねさん」,新潟県新潟市南区・新飯田地区,named_supernatural_entity,既存名・alias・新飯田民話・キャラクターを照合し一致なし。元の狐との個体同一性は主張しない。,admit,市冊子で固有名と姿を持つPRキャラクターとして直接確認。元民話の狐からの継承関係は未検証。,Codex
 野狐の手紙の狐,source_0646,PDF 4頁／冊子3頁、民話「野狐の手紙」の段,新潟県新潟市南区・新飯田地区,folklore_being,市の新キャラクターと元の民話中の狐を分離して確認。,defer,元民話の狐とPRキャラクターのidentity continuityは本文だけでは確定できない。,Codex
 さんかくやまベェ,source_0647,プロフィール本文・画像代替テキスト、「原作者について」の2007年個展の段,北海道札幌市西区,named_supernatural_entity,既存名・alias・作者・地域を照合し一致なし。,admit,市が妖怪設定と原作者・制作契機を明示する独立した現代キャラクター。架空の年齢を起源年代としない。,Codex
+赤木明神,source_0648,DB ID Fork_MN3_200000、Ⅲ部2①北村家巻物・⑤木村家「山立根元巻」,青森県田子町・新郷村（文書伝存）,named_supernatural_entity,既存名・alias・マタギ文書を照合し同名なし。現在の赤城山信仰との同一性は未判断。,admit,二つの県史翻刻に同じ呼称と戦闘役割を確認。江戸期年記は巻物の年記であり物語の成立年ではない。,Codex
+高森山の神,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_HM_6900,県史叢書07 pp.140–150「平内町山口の高森山」後半,青森県平内町山口,folklore_being,既存名なし。ただし女神・竜神・天狗・猿田彦像・羽衣竜神弁財天の関係が複合。,defer,同一神格・別表象・後世勧請の切り分けが一資料では不十分。,Codex
