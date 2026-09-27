@@ -41,3 +41,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "おさの狐","https://www.city.kadoma.osaka.jp/soshiki/shiminbunkabu/shogaigakushuka/4/2/3/2809.html","本文 柳町・高橋、蜆貝、信太山の結末","大阪府","named_supernatural_entity","既存name・alias・おさのを検索し一致なし","admit","自治体本文に固有名・狐の行動・位置が明記。原掲載本は未照合","Codex"
 "おこん","https://www.city.nagoya.jp/tempaku/miryoku/1025781/1025783.html","節「狐の嫁さん」、名乗り・正体","愛知県","named_supernatural_entity","茨城県おこん狐は別資料の別地域。連続性は未確認","admit","名古屋市本文に固有名と狐の正体が明示。同名の茨城県例とは統合しない","Codex"
 "尾崎白左衛門","https://www.city.nagoya.jp/tempaku/miryoku/1025781/1025783.html","節「尾崎白左衛門」、命名と結末","愛知県","named_supernatural_entity","既存name・alias・白左衛門を検索し一致なし","admit","同節に固有名・尾の特徴・行動が明記。原掲載本は未照合","Codex"
+"神子の藪狸","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 神子の藪狸大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","admit","固有名と川遊び・祈願の説明あり。神格と狸個体の関係は同節に明記","Codex"
+"鳳ノ木狸","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 鳳ノ木狸大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","admit","橋付近の狸として固有名と行動が記載","Codex"
+"榎狸","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 榎狸大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","admit","榎の下に住む個体として行動が記載","Codex"
+"祐七大明神","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 祐七大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","admit","祠節に狸として固有名と行動が記載","Codex"
+"大鷹・小鷹・熊鷹","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 大鷹・小鷹・熊鷹大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","defer","親子・二代目金長の名跡関係がありentity粒度と既存金長との重複審査が必要","Codex"
