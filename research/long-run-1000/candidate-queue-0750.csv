@@ -50,3 +50,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 東成田の大蛇,source_0545,『トピックス-斉兵衛の大蛇退治伝説』、大蛇と斉兵衛の段,宮城県,folklore_being,既存名・別名・地名・役割を照合し一致なし,admit,一つの大蛇退治譚を場所で索引。『東成田の大蛇』は資料上の固有名ではない。,Codex
 奥州の蛇藤,source_0546,『13.根無藤』、白鳥神社の『奥州の蛇藤』に言及する段,宮城県,supernatural_phenomenon,既存名・別名・地名・役割を照合し一致なし,admit,資料上の名称を使用。藤と二匹の蛇を独立した個体に分割せず、変化する藤の伝説を現象として索引。,Codex
 水沼の蛇,https://www.city.ishinomaki.lg.jp/school/20301900/d0010/d0100/d0150/53ryuusenin/index.html,『水沼の蛇物語』,宮城県,folklore_being,既存名・水沼・龍泉院を照合し一致なし,defer,石巻市立稲井小学校の説明は新聞記者による小説化と人間の子・青年という別記述を併記。伝承と創作の粒度を確認できない。,Codex
+高山陣屋の大蛇,source_0547,『解説』末段、飼猫の首と大蛇の段,岐阜県,folklore_being,既存名・別名・高山陣屋・飼猫の説話を照合し一致なし,admit,物語内で娘を狙う大蛇一体を場面で索引。索引名は資料上の固有名ではない。,Codex
+根古石の飼猫の霊,source_0547,『解説』末段、根古石の段,岐阜県,named_supernatural_entity,既存名・根古石を照合,defer,資料は飼猫の霊を祀ったとするが、生前動物と祭祀対象のentity粒度をこの段だけでは確定しない。,Codex
+蛇穴の大蛇,https://www.pref.gifu.lg.jp/page/2198.html,『近隣観光地』中『蛇穴』,岐阜県,folklore_being,既存名・蛇穴・和良を照合,defer,県の一行解説には大蛇が現れ昇天したとあるが、独立した伝承内容とentity粒度の確認が不足。,Codex
