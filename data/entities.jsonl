@@ -833,3 +833,4 @@
 {"id":"masuemon_tanuki_sumoto","name_ja":"桝右衛門","name_kana":"ますえもん","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["2002"],"attested_regions":["兵庫県洲本市"],"tags":[],"research_status":"provisional"}
 {"id":"yokodegasaki_no_onatsu","name_ja":"横出が崎のお夏","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["2017"],"attested_regions":["長野県松本市今井"],"tags":[],"research_status":"provisional"}
 {"id":"genbanosuke_shiojiri","name_ja":"玄蕃之丞","name_kana":"げんばのじょう","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":["2023"],"attested_regions":["長野県塩尻市"],"tags":[],"research_status":"provisional"}
+{"id":"horodo_numa_no_nushi","name_ja":"ホロド沼の主","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["2001"],"attested_regions":["青森県階上町"],"tags":[],"research_status":"provisional"}
