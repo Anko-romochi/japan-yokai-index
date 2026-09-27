@@ -29,3 +29,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 笠師の狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100211?f=1,個別レコード0800100211『原文』末段／原掲載p.211,茨城県土浦市笠師村,folklore_being,同名既存なし。侍への変化は『かもしれません』という作中の推測。,defer,特定の母狐の超自然行動を資料自体が確言していない。,Codex
 新池の狐,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0801100022?f=1,個別レコード0801100022『原文』,茨城県かすみがうら市兵崎・新池,folklore_being,既存shinike_no_kitsune_ishiokaと同じ資料・同じ池。,reject,重複採録になる。,Codex
 坪貝の竜神,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MT1_820210,『青森県史民俗編資料津軽』pp.410–411［神］,青森県青森市油川・坪貝神社,named_supernatural_entity,ツボ子・佐五右衛門の二人を祀る竜神様。個体／祭祀名の粒度未確定。,defer,二人と竜神の同一性を索引本文だけで一個体に固定できない。,Codex
+鞍が淵の大蛇,source_0679,PDF 1頁／紙面1頁『上田の伝説 大蛇の恋』,長野県上田市・独鈷山鞍が淵,folklore_being,既存の大蛇と舞台・物語が異なる。小泉小太郎はこの大蛇の子であり同一視しない。,admit,1978年市広報が女性に変化する一個体の行動と小太郎出生を複数文で語る。鞍が淵は資料上の場所で起源証明ではない。,Codex
+甲田池の河童,https://www.city.ueda.nagano.jp/site/nihonisan/56657.html,かるた一覧『い』甲田池の1行説明,長野県上田市・甲田池,folklore_being,既存甲田池entityなし。地方の河童類型との粒度未確定。,defer,かるた一覧1行だけでは地域の別個体としての粒度が弱い。原話を探す。,Codex
+小泉小太郎,source_0679,PDF 1頁／紙面1頁『大蛇の恋』末段,長野県上田市・鞍が淵の伝説,folklore_being,鞍が淵の大蛇の子。既存同名entityなし。,defer,市広報は豪傑となった人間と述べるが、この資料だけで妖怪・怪異entityとしての独立した超自然性は未確定。,Codex
