@@ -32,3 +32,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 鞍が淵の大蛇,source_0679,PDF 1頁／紙面1頁『上田の伝説 大蛇の恋』,長野県上田市・独鈷山鞍が淵,folklore_being,既存の大蛇と舞台・物語が異なる。小泉小太郎はこの大蛇の子であり同一視しない。,admit,1978年市広報が女性に変化する一個体の行動と小太郎出生を複数文で語る。鞍が淵は資料上の場所で起源証明ではない。,Codex
 甲田池の河童,https://www.city.ueda.nagano.jp/site/nihonisan/56657.html,かるた一覧『い』甲田池の1行説明,長野県上田市・甲田池,folklore_being,既存甲田池entityなし。地方の河童類型との粒度未確定。,defer,かるた一覧1行だけでは地域の別個体としての粒度が弱い。原話を探す。,Codex
 小泉小太郎,source_0679,PDF 1頁／紙面1頁『大蛇の恋』末段,長野県上田市・鞍が淵の伝説,folklore_being,鞍が淵の大蛇の子。既存同名entityなし。,defer,市広報は豪傑となった人間と述べるが、この資料だけで妖怪・怪異entityとしての独立した超自然性は未確定。,Codex
+宇津ノ谷峠の鬼,source_0680,本文・小僧の鬼化と旅僧の退治、原掲載1998年冊子未照合,静岡県静岡市駿河区・宇津ノ谷峠,folklore_being,既存同舞台の鬼なし。祥白童子は作中の自称でaliasとしない。鬼岩寺の鬼とも場所と筋が異なる。,admit,市博物館の複数段落の再話で一個体の変化・行動・退治を確認。,Codex
+青池の大蛇,source_0681,本文1段落・青池の大蛇と賀姫,静岡県藤枝市・青池,folklore_being,同名／同池の既存entityなし。賀姫は別の人物。,admit,市博物館の再話が池に住む大蛇の変身と姫への行動を具体的に記す。,Codex
+鬼岩寺のクロ,source_0682,本文第1段落・クロの入水から黒犬群の出現・祭祀,静岡県藤枝市・鬼岩寺,named_supernatural_entity,既存クロ犬霊なし。鬼岩寺の鬼とも別。,admit,特定名の犬と死後の怪異・祭祀を記す。生前の犬の実在は断定しない。,Codex
+鬼岩寺の鬼,source_0683,本文1段落・鬼と岩への封印,静岡県藤枝市・鬼岩寺周辺,folklore_being,既存同寺の鬼なし。宇津ノ谷峠の食人鬼は別筋で連続性なし。,admit,市博物館の独立した伝説本文に鬼の居所と封印がある。,Codex
+賀姫,source_0681,本文1段落・大蛇にさらわれた娘,静岡県藤枝市,historical_person_in_supernatural_tradition,既存同名なし。伝承上の娘で実在人間かは未確認。,defer,本文は生存中の娘として描き、怪異化・死後の霊等の独立した超自然性を示さない。,Codex
+お杉とお玉,https://www.city.fujieda.shizuoka.jp/kyodomuse/11/12/1445916520346.html,本文・二本の木と人名の説明,静岡県藤枝市本郷・松沢,folklore_being,同名既存なし。本文は木の呼称と旅芸人の名を説明。,reject,妖怪・怪異の独立した主体が本文にない。,Codex
