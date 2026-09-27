@@ -57,3 +57,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 茂庭の大蛇,source_0586,PDF p.4（印刷p.2）『茂庭の大蛇伝説』,福島県,folklore_being,既存entity名・異名・菅沼を照合し一致なし,admit,福島市公開冊子で地名に結び付く大蛇伝承を確認。建久3年は伝承内年代で採録年ではない。,Codex
 洞雲寺の狐,source_0587,『山の寺伝説』、白髪の老人と狐の祠の段,宮城県,folklore_being,既存entity名・異名・洞雲寺を照合し一致なし,admit,仙台市解説で狐が老人に化ける個別伝承を確認。『洞雲寺伝』本文は未確認。,Codex
 仙台・猫塚の三毛猫,source_0588,見出し『猫塚の伝説』、三毛猫の首と大蛇の段,宮城県,folklore_being,既存entity名・異名・仙台の猫塚を照合し一致なし,admit,一匹の三毛猫の超常的行為を索引する説明的名称。各地の同名猫塚譚は統合しない。,Codex
+角田浜の七頭大蛇,source_0589,『岩屋の七つ頭大蛇伝説と修験道』冒頭,新潟県,folklore_being,既存entity名・異名・角田浜岩屋を照合し一致なし,admit,妙光寺の寺伝として索引。後段の山伏解釈を伝承上の事実とせず、全国の七面大明神と自動同一視しない。,Codex
+藤五郎狐,https://kashiwazaki-jc.or.jp/legacy/machisirube/,まちしるべ『33.藤五郎狐の里』,新潟県,folklore_being,既存同名entityなし。藤五郎は人間、狐は無名と本文で照合,reject,『藤五郎狐』は物語・祭りの呼称で、本文では藤五郎という若者が無名の古狐を退治しに行く。狐の固有名として採用しない。,Codex
+セキジロ,https://www.city.aomori.aomori.jp/area/aomoriayumi/im112.html,『正月の訪問者 セキジロ』,青森県,folklore_being,既存同名entityなし。青森市本文で正月の門付芸人と照合,reject,記録は母娘らしい二人組の正月の門付芸人であり、超自然存在とは確認できない。,Codex
+蓮華寺の蛙合戦,https://www.city.aomori.aomori.jp/area/aomoriayumi/im098.html,『蓮華寺の蛙合戦』,青森県,folklore_being,既存同名entityなし。青森市本文で蛙の群集行動と照合,reject,記録は蛙の群集行動を擬人化して語るが、独立した超自然存在は確認できない。,Codex
+鳥屋野潟の亀,source_0392,印刷頁60／PDF 2頁、鳥屋野潟の主・大亀・白山亀との比較の段,新潟県,folklore_being,既存白山亀と鳥屋野潟の竜灯は別索引,defer,同一潟の主を鯉・貝・亀とする別説が併記され、複数の大亀描写を一個体へ統合できない。,Codex

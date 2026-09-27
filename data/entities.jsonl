@@ -780,3 +780,4 @@
 {"id": "moniwa_no_daija", "name_ja": "茂庭の大蛇", "name_kana": "もにわのだいじゃ", "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["福島県"], "tags": [], "research_status": "provisional"}
 {"id": "tounji_no_kitsune", "name_ja": "洞雲寺の狐", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["宮城県"], "tags": [], "research_status": "provisional"}
 {"id": "sendai_nekozuka_mikeneko", "name_ja": "仙台・猫塚の三毛猫", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["宮城県"], "tags": [], "research_status": "provisional"}
+{"id": "kakudahama_nanatsugashira_daija", "name_ja": "角田浜の七頭大蛇", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["新潟県"], "tags": [], "research_status": "provisional"}
