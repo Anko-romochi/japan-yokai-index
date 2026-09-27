@@ -12,3 +12,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 乳なし仁王,https://www.city.ichikawa.lg.jp/site/library/3171.html,公開抄録、運慶の母の出現と仁王像の彫刻の段,千葉県,object_spirit,既存名・像・母の霊を照合,defer,怪異主体は出現する母の霊であり、仁王像は公開部分では活動しない。母は無名でentity粒度が未確定。,Codex
 姫魚（平戸）,source_0565,国立歴史民俗博物館F-320-592『説明』釈文,長崎県（文書に記された平戸沖。発祥地とは未判定）,named_supernatural_entity,既存名・別称・予言獣の役割を照合し一致なし,admit,個別収蔵記録は原品1枚と文政2年表記の釈文を提示。神社姫等との同一性は未主張。DBカードを原品そのものとは扱わない。,Codex
 神社姫,https://miyoshi-mononoke.jp/wp/wp-content/uploads/2022/09/%E4%BA%88%E8%A8%80%E7%8D%A3%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9_%E5%B1%95%E7%A4%BA%E7%9B%AE%E9%8C%B2.pdf,展示目録の神社姫資料項目,未確認,named_supernatural_entity,既存名・姫魚との関係を照合し一致なし,defer,展示目録だけでは個別資料本文・役割・姫魚との境界を確認できない。,Codex
+尼彦（明治十五年の錦絵）,source_0566,国立歴史民俗博物館F-320-745『説明』釈文,熊本県（錦絵中の出現場所。刊行地・発祥地ではない）,named_supernatural_entity,既存名・アマビコ表記・予言獣の姿を照合し一致なし,admit,個別の1882年錦絵を索引。尼彦と他のアマビコ類や姫魚を自動統合しない。読みは未確認。,Codex
