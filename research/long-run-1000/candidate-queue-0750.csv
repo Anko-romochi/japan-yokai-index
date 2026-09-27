@@ -53,3 +53,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 高山陣屋の大蛇,source_0547,『解説』末段、飼猫の首と大蛇の段,岐阜県,folklore_being,既存名・別名・高山陣屋・飼猫の説話を照合し一致なし,admit,物語内で娘を狙う大蛇一体を場面で索引。索引名は資料上の固有名ではない。,Codex
 根古石の飼猫の霊,source_0547,『解説』末段、根古石の段,岐阜県,named_supernatural_entity,既存名・根古石を照合,defer,資料は飼猫の霊を祀ったとするが、生前動物と祭祀対象のentity粒度をこの段だけでは確定しない。,Codex
 蛇穴の大蛇,https://www.pref.gifu.lg.jp/page/2198.html,『近隣観光地』中『蛇穴』,岐阜県,folklore_being,既存名・蛇穴・和良を照合,defer,県の一行解説には大蛇が現れ昇天したとあるが、独立した伝承内容とentity粒度の確認が不足。,Codex
+乱堂,source_0548,回答欄、『おかやま今と昔 話の散歩』『岡山話の散歩』を紹介する第1項,岡山県,named_supernatural_entity,既存名・別名・地域・役割を照合し一致なし,admit,二冊を挙げる図書館回答に固有名と役割が明記。1928年の別作品にいる無名の古狐と同一とは主張しない。,Codex
+カイコギツネ,source_0549,回答欄、『岡山県のけもの』の『幻の獣（カイコギツネ）』を示す段,岡山県,folklore_being,既存名・別名・地域・役割を照合し一致なし,admit,県の刊行物を挙げる図書館回答に名称・地域・対象が明記。質問文の『かいころ狐』との同一性や異読は未確定。,Codex
+かいころ狐,source_0549,質問欄,岡山県,folklore_being,カイコギツネとの関係を照合,defer,質問文の呼称と回答文のカイコギツネが同一対象か、原本を未照合のためaliasにはしない。,Codex
