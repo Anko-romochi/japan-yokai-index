@@ -815,3 +815,4 @@
 {"id": "takamaru_tsugaru", "name_ja": "高丸", "name_kana": "たかまる", "name_romaji": null, "aliases": [], "entity_type": "named_supernatural_entity", "attested_periods": [], "attested_regions": ["青森県"], "tags": [], "research_status": "provisional"}
 {"id":"zenki_ennogyosha","name_ja":"前鬼","name_kana":"ぜんき","name_romaji":null,"aliases":["義覚"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["奈良県"],"tags":[],"research_status":"provisional"}
 {"id":"goki_ennogyosha","name_ja":"後鬼","name_kana":"ごき","name_romaji":null,"aliases":["義賢"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["奈良県"],"tags":[],"research_status":"provisional"}
+{"id":"seki_no_taro_oniiwa","name_ja":"関の太郎","name_kana":"せきのたろう","name_romaji":null,"aliases":["鬼の太郎"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["岐阜県"],"tags":[],"research_status":"provisional"}
