@@ -42,3 +42,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 菊石,source_0720,『菊石伝説』1612年『川並村申し伝え』の説明段,滋賀県長浜市余呉湖・川並,named_supernatural_entity,既存同名entityなし。余呉湖の他の龍・天女伝承と自動統合しない。,admit,文化財協会が固有名・読み・文献年代・湖の主という役割を記す。原資料未照合と明記。,Codex
 石留明神,source_0721,『石留明神（石止伝説）』第2–4段,宮城県仙台市泉区七北田川,named_supernatural_entity,既存同名entityなし。志波彦神と別の家来神として記述。,admit,仙台市本文に固有名・祭祀場所・伝承内の役割が明示。物語年代は未詳。,Codex
 お美津狐,source_0722,『お美津稲荷』説明板転記第1段,岐阜県下呂市萩原町上呂,named_supernatural_entity,同名entityなし。狐の個体名と稲荷の社名を区別。,admit,大学掲載の説明板に固有名と化ける行動がある。言及される古文書本文・時代・読みは未確認。,Codex
+黒法師大天狗,source_0723,印刷p.6（1）・（2）,山梨県甲州市塩山藤木・恵林寺山,named_supernatural_entity,同名entityなし。黒法師山の地名と大天狗の人格を区別。,admit,2024年考古調査発表要旨の本文を直接確認。1582年は物語内年代。1563年の地名は人格の成立根拠にしない。,Codex
