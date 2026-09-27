@@ -45,6 +45,7 @@ A: 日文研2400113、pp.281–282への索引。B: 後藤捷一「阿波に於�
 - **locator**: pp.281–282（カードから得たlocator、本文未確認）
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 天保年間（物語内、カード要約）
+- **earliest confirmed appearance**: 金長・六右衛門の最古出現は未確定。1922年原論文は書誌のみ、森脇2023の写本図版は写本の成立順を確定しない。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 金長の初代／二代目と六右衛門は別の人物関係。

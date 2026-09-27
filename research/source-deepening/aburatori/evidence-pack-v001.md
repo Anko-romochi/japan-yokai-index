@@ -43,6 +43,7 @@ A: 日文研1550068。B: 高田十郎「各地のいひならはし（其六）�
 - **locator**: 高田1925『なら』32号3裏（カードlocator、本文未確認）
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 不明。戦争の予兆という俗信で特定戦争年ではない。
+- **earliest confirmed appearance**: 1925年『なら』32号を指すDBカードが確認層。俗信の成立・初出は未確定。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: folklore_beingか俗信・役割名か保留。

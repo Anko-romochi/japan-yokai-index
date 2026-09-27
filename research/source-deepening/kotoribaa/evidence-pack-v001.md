@@ -43,6 +43,7 @@ A: 日文研1231229の呼称・要約・書誌。B: 三木春露「竹槍騒擾�
 - **locator**: 三木1942 pp.65–75（カードlocator、本文未確認）
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 明治6年6月26日旧暦（カード中の事件日時）
+- **earliest confirmed appearance**: 1942年原論文を指すDBカードが確認層。1942年を噂の初出とは認定しない。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 子取婆の噂／実在女性ノブ／社会事件を分離。

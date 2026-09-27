@@ -66,6 +66,7 @@ A: 宗像市歴史文化遺産リスト印刷p.53／PDF p.55、番号4/13/15/18/
 - **locator**: 一覧印刷p.53／PDF p.55、番号4/13/15/18/19/27。参考29–31の各本文頁は不明。
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 一覧が扱う出来事時期は未確定。
+- **earliest confirmed appearance**: 各entityとも市一覧の行を確認しただけで、原話初出は未確定。参考資料31の1978年などは未読の書誌年。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 6件それぞれ単独霊／白蛇類型／名付けられた河童／場所説話／記述的龍名／船現象の候補。

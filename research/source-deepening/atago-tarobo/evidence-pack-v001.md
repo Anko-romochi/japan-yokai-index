@@ -47,6 +47,7 @@ A: 日文研1140355は中村節1972 p.9のDB要約。B: 中村節「蛇骨寺の
 - **locator**: 『源平盛衰記』巻8「法皇三井の灌頂」住吉明神の返答。中村1972 p.9未確認。
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 後白河法皇・近衛天皇の作中時点。事件史実としては未認定。
+- **earliest confirmed appearance**: 直接読んだ範囲では『源平盛衰記』巻8の公開校訂本文に名を確認。作品の正確な成立年・諸本差・最古性は未確定。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 愛宕山の名付けられた天狗／愛宕権現との関係を区別。

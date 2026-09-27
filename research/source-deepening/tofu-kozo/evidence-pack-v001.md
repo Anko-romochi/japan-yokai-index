@@ -49,6 +49,7 @@ A: NDL展示「妖怪『豆腐小僧』」とJFDB映画レコード。B: NDL『�
 - **locator**: NDL PID10301827コマ7左丁、PID9892727コマ13右丁（先行調査で原画像確認）。
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 不明。[1779]/[1792]はNDLの推定刊年。
+- **earliest confirmed appearance**: 本packで原画像を確認したうち早いのはNDL推定[1779]の『妖怪仕内評判記』。NDL解説も早い掲載例とするが創作初発とは断定しない。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 黄表紙図像・NDL同定・2011映画personaを別資料層に置く。

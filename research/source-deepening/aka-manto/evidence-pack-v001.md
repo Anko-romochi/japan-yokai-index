@@ -43,6 +43,7 @@ A: 現行は日文研「異界の杜」第42回の一節のみで個別カード
 - **locator**: 大宅1939『中央公論』54(4) pp.422–427（目録、本文未確認）。日文研第42回第2段落。
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 帝都流言は1939年の記事対象。現行子取り怪人の出来事・発生年は不明。
+- **earliest confirmed appearance**: 現行の子取り怪人に限ると最古出現は未確定。1939年記事の索引は同名流言でidentity未接続。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 子取り怪人／実在人物への通称／学校の色選択型を別grainに置く。

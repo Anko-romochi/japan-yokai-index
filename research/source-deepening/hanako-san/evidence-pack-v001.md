@@ -43,6 +43,7 @@ A: 日文研個別カード1140574/575（山形1990）、1140615（山形1992）
 - **locator**: 『西郊民俗』132 p.31・139 p.32、『下野民俗』39 pp.43–44、『山陰民俗研究』6 p.59（カードのlocator、本文未確認）
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 不明。1990/1992/1999/2001は掲載年。
+- **earliest confirmed appearance**: 照合した個別カード群では1990年『西郊民俗』132号の記録が最も早い。全国的な呼称・personaの初出ではない。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 一つの個体より広い呼称単位／学校別説話の可能性。

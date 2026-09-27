@@ -45,6 +45,7 @@ A: NDL論文書誌・抄録と歴博絵巻目録F-320-6。B: 勝田至「火車�
 - **locator**: 勝田2012印刷pp.7–30、特に7/14/19/24/30。研究本文確認。
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 各説話の物語内事件年は未確定。
+- **earliest confirmed appearance**: 勝田2012論文は中世資料を遡及的に論じるが、引用原典の個別本文は未照合。火車というentityの最古出現は本packで認定しない。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 仏教的車／死体奪取怪異／図像／猫等の同定を別記。

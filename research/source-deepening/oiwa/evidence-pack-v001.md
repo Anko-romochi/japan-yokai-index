@@ -43,6 +43,7 @@ p.35の話者・前後文脈、史的人物・怪談・芝居の接続は未解�
 - **locator**: 山中1915『郷土研究』3(7) p.35（カードlocator、本文未確認）
 - **source publication date**: Current sources表の登録値とLayer Bの書誌を分けて記載。空欄は不明。
 - **alleged event date**: 盆という年中時期。特定年・伝承初出は不明。
+- **earliest confirmed appearance**: 家跡の蛇譚としては1915年『郷土研究』のDBカード確認に限る。お岩の人物・芝居personaの初出とは別。
 - **observed names / observed readings**: 上記「観察」節の資料別原表記と読み。原資料未読の読みは未確認。
 - **geographic wording**: 上記「観察」節の原記載。現行region欄とは別扱いで、発祥地へ拡張しない。
 - **entity grain assessment**: 人物・霊・蛇モチーフ・芝居上の人格を分離。
