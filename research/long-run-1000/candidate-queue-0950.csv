@@ -68,3 +68,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 谷坂のおじもん,https://www.town.takanabe.lg.jp/material/files/group/17/20230922.pdf,Returns Vol.16 PDF p.1『谷坂の怪』、怪異との噂と砂落下・髪の錯覚,宮崎県高鍋町谷坂,supernatural_phenomenon,同地点entityなし。怪異主体の特定は本文にない。,defer,恐怖の噂・物理現象は確認できるが独立した存在単位の粒度が未確定。,Codex
 トンゴシ,source_0692,Returns Vol.14 PDF p.1『トンゴシの話』本文,宮崎県高鍋町・お崎のはな付近,named_supernatural_entity,既存同名・同地点entityなし。後年挿絵の姿を本文の独立証拠として扱わない。,admit,町再編集本文に固有呼称・場所・音と老婆の姿が明示される。原掲載資料と採話年代は未確認。,Codex
 コデク・コデク,https://www.town.takanabe.lg.jp/material/files/group/17/20230623.pdf,Returns Vol.15 PDF p.1、蛙の鳴声を大工への悪口と聞き取る話,宮崎県高鍋町・馬ん糞橋,supernatural_phenomenon,既存同話なし。ただし妖怪の固有名・個体ではない。,reject,蛙の声を言葉と聞き違える教訓話で、超自然的な独立存在は本文に確認できない。,Codex
+妙慶寺の天狗,source_0693,市公開『天狗さんの寺』本文2、8–11,石川県金沢市寺町・妙慶寺,folklore_being,既存同寺・同話entityなし。『妙慶寺の天狗』は識別用ラベルで物語内の固有名ではない。,admit,市の連続本文に寺守り・トンビへの変身・火除け板が確認できる。原掲載・採話時期は不明。,Codex
+金石道入寺の飴買い幽霊,https://www4.city.kanazawa.lg.jp/bunka_sports_kanko/rekishi_bunkazai/5/3/index.html,市公開『ゆうれいのあめ買い』本文1、4、7（原掲載未照合）,石川県金沢市金石町・道入寺,folklore_being,同名の他地域の話と伝播・同一人物を推測しない。,defer,市再話は特定女性の名・歴史上の身元を示さず、地域個体と共有話型の索引粒度を追加確認する。,Codex
