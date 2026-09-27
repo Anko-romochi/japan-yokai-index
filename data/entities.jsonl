@@ -801,3 +801,4 @@
 {"id": "osen_takeishi", "name_ja": "お仙", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "named_supernatural_entity", "attested_periods": [], "attested_regions": ["長野県"], "tags": [], "research_status": "provisional"}
 {"id": "shobei_takeishi", "name_ja": "庄兵衛", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "named_supernatural_entity", "attested_periods": [], "attested_regions": ["長野県"], "tags": [], "research_status": "provisional"}
 {"id": "kinjiro_takeishi", "name_ja": "金次郎", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "named_supernatural_entity", "attested_periods": [], "attested_regions": ["長野県"], "tags": [], "research_status": "provisional"}
+{"id": "kitamae_no_tanuki", "name_ja": "北前の狸", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["高知県"], "tags": [], "research_status": "provisional"}
