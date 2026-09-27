@@ -62,3 +62,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "甑島のトシドン","https://online.bunka.go.jp/heritages/detail/136687","概要 解説 来訪・トシモチ","鹿児島県","folklore_being","既存name・aliasにトシドンなし","admit","文化庁解説が仮装行事と来訪神の役割を明示。甑島以外の同名伝承と自動統合しない","Codex"
 "薩摩硫黄島のメンドン","https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/mishima/hassakutaikoodori.html","本文第3段落","鹿児島県","folklore_being","既存name・aliasにメンドンなし","admit","県解説が硫黄島の仮面神と祓いの役割を明記。行事の実施と超自然的存在の史実性は区別","Codex"
 "悪石島のボゼ","https://online.bunka.go.jp/special_content/intangible/209809","主情報 解説第1–3段落","鹿児島県","folklore_being","既存name・aliasにボゼなし","admit","文化庁解説が仮装者と祓いの役割を区別して記述。3人を別entityにはしない","Codex"
+"吉浜のスネカ","https://online.bunka.go.jp/heritages/detail/200426","概要 解説","岩手県","folklore_being","既存name・aliasにスネカなし","admit","吉浜固有の来訪神行事と仮装者の行為を文化庁解説で確認。ナマハゲと統合しない","Codex"
+"見島のカセドリ","https://online.bunka.go.jp/heritages/detail/189512","概要 解説","佐賀県","folklore_being","既存カセドリの狐は山形県で別語義","admit","佐賀見島の来訪神行事として独立。山形のカセドリの狐と同名部分だけで統合しない","Codex"
+"遊佐のアマハゲ","https://online.bunka.go.jp/heritages/detail/199906","概要 解説","山形県","folklore_being","既存ナマハゲは秋田県の別伝承","admit","遊佐の3集落に記録される仮面来訪神。ナマハゲへの同一性を主張しない","Codex"
+"能登のアマメハギ","https://online.bunka.go.jp/heritages/detail/170125","概要 解説","石川県","folklore_being","既存name・aliasにアマメハギなし","admit","能登の広域来訪神類型として文化庁解説に記載。メンサマ等を無条件aliasにはしない","Codex"
+"宮古島のパーントゥ","https://online.bunka.go.jp/heritages/detail/136697","概要 解説","沖縄県","folklore_being","既存name・aliasにパーントゥなし","defer","文化財項目が島尻と野原の行事を一括記載し、同一entity粒度を追加調査する必要","Codex"
