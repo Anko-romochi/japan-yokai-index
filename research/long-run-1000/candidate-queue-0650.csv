@@ -67,3 +67,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "遊佐のアマハゲ","https://online.bunka.go.jp/heritages/detail/199906","概要 解説","山形県","folklore_being","既存ナマハゲは秋田県の別伝承","admit","遊佐の3集落に記録される仮面来訪神。ナマハゲへの同一性を主張しない","Codex"
 "能登のアマメハギ","https://online.bunka.go.jp/heritages/detail/170125","概要 解説","石川県","folklore_being","既存name・aliasにアマメハギなし","admit","能登の広域来訪神類型として文化庁解説に記載。メンサマ等を無条件aliasにはしない","Codex"
 "宮古島のパーントゥ","https://online.bunka.go.jp/heritages/detail/136697","概要 解説","沖縄県","folklore_being","既存name・aliasにパーントゥなし","defer","文化財項目が島尻と野原の行事を一括記載し、同一entity粒度を追加調査する必要","Codex"
+"能代のナゴメハギ","https://online.bunka.go.jp/heritages/detail/170285","概要 解説","秋田県","folklore_being","既存name・aliasにナゴメハギなし","admit","文化庁が能代浅内沼付近の来訪神行事を記載。男鹿ナマハゲとの同一性は未主張","Codex"
+"頭無堀の大蛇","https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf","印刷p.70 PDF p.12 江南区 頭無堀","新潟県","folklore_being","既存name・aliasに頭無堀なし","admit","頭のない大蛇と人を引き込む行為を市研究報告で確認。原掲載は未照合","Codex"
+"丸潟化物","https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf","印刷p.70 PDF p.12 江南区 丸潟化物","新潟県","supernatural_phenomenon","既存name・aliasに丸潟化物なし","admit","場所を移る灯りへの地域呼称が明示される。白鷲説もあり正体は断定しない","Codex"
+"川口の生き地蔵","https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf","印刷pp.70–71 PDF pp.12–13 秋葉区 川口の生き地蔵","新潟県","object_spirit","既存name・aliasに川口の生き地蔵なし","admit","特定の地蔵像に洪水警告の行為が帰属される。史実性は未主張し原掲載は未照合","Codex"
