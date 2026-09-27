@@ -39,3 +39,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 軽足,source_0539,『麻呂子親王の鬼退治』,京都府,named_supernatural_entity,既存名・別名・物語内の役割を照合し一致なし,admit,京都府の機関解説に個別の名と役割が明記。伝説内の時代を記録成立年代としない。,Codex
 土熊,source_0539,『麻呂子親王の鬼退治』,京都府,named_supernatural_entity,既存名・別名・物語内の役割を照合し一致なし,admit,京都府の機関解説に個別の名と役割が明記。伝説内の時代を記録成立年代としない。,Codex
 山科小山の大蛇,source_0540,冊子p.22／PDF23頁『大蛇伝説』,京都府,folklore_being,既存名・小山・牛尾山・二の講を照合し一致なし,admit,共同調査報告書の本文で大蛇と二の講の関係を確認。巻物の内容や古さは未照合。,Codex
+一盃森の長次郎狐,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・別名・信夫山の役割を照合し一致なし,admit,市の冊子本文に固有名と役割が明記。異本の表記は直接同一視せず未登録。,Codex
+石ヶ森の鴨左衛門狐,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・別名・信夫山の役割を照合し一致なし,admit,市の冊子本文に固有名と役割が明記。異本の表記は直接同一視せず未登録。,Codex
+信夫山のゴンボ狐,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・別名・信夫山の役割を照合し一致なし,admit,市の冊子本文に固有名と役割が明記。異本の表記は直接同一視せず未登録。,Codex
+猫のタマ,source_0541,PDF12頁『信夫の三狐と猫稲荷』,福島県,named_supernatural_entity,既存名・西坂稲荷を照合,defer,猫が祀られたと記すが、生前の動物と神格のentity粒度が未整理。,Codex
