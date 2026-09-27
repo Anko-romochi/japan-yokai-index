@@ -18,3 +18,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 日新真事誌の消える娘,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-225.html,個別レコードF-320-225『説明』,東京都（物語の場所）,folklore_being,既存の疱瘡神・幽霊・消える娘の記録を照合し一致なし,defer,1875年の錦絵は娘を疱瘡の厄神ではないかと推測する話。娘の同定・呼称・粒度は未確定。,Codex
 宝尾山の大蛇,source_0435,福井市『清水地域の三留町の伝承』2『宝尾山の大蛇』,福井県,folklore_being,既存 houosan_no_daija とsource_0435に一致,reject,既に同一個別本文に基づき採録済み。重複entity・sourceを作らない。,Codex
 白澤,source_0568,岩手県立博物館 資料ID9604『解説』,未確認（岩手県は所蔵館所在地で伝承地とは未確定）,named_supernatural_entity,既存名・異名・護符図の使用を照合し一致なし,admit,中国由来の霊獣を日本の江戸期に用いられた護符図の資料として索引。日本起源・岩手の地域伝承とは主張しない。,Codex
+都井の大蛇,source_0569,串間市『広報くしま』2025年8月号 PDF 3ページ目・誌面pp.4-5『大蛇退治伝説』,宮崎県,folklore_being,既存ID・名称・地域・祭りの伝承を照合し一致なし,admit,都井地区の一伝説に現れる無名の大蛇を説明的索引名で登録。伝説の出来事・年代を史実としない。,Codex
+大雄寺の飴を買う女,source_0570,松江市『小泉八雲ゆかりの地マップ』PDF 2ページ目・地点15『大雄寺』,島根県,folklore_being,光源寺の飴屋の幽霊とは寺・地域・資料の索引単位が異なることを確認,admit,松江の個別物語を作品名と場所で索引。広域の子育て幽霊類型や別寺の同型譚と同一個体とはみなさない。,Codex
+守山の火まつりの大蛇,source_0397,滋賀県『祭の起源～天皇平癒伝説～』節,滋賀県,folklore_being,既存 moriyama_himatsuri_daija と source_0397 に一致,reject,守山市の別ページを探索したが、同じ祭りの大蛇伝承を既に索引していた。,Codex
+海坊主（桑名の錦絵）,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-840.html,個別レコードF-320-840『説明』,三重県,folklore_being,既存 umibozu と同じ広域類型,defer,桑名屋徳蔵との問答は地域作品として比較価値があるが、既存海坊主と別entityにすべき根拠は不足。,Codex
+月照寺の大亀,https://www.city.matsue.lg.jp/material/files/group/32/koizumiyakumomap.pdf,PDF 2ページ目・地点14『月照寺』,島根県,object_spirit,既存 gesshoji_no_kame_sekizo に一致,reject,松江市マップにも記載があるが、既に同寺の亀石像を索引している。,Codex
