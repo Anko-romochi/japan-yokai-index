@@ -52,3 +52,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 アカエイサマ,source_0584,pp.392–397、第8章第2節2（1）［精霊］、アカエイサマの段,青森県,folklore_being,既存entity名・異名・むつ市田名部川を照合し一致なし,admit,青森県史の公開本文に固有の呼称と伝承上の行為を確認。原報告本文は未確認。,Codex
 南宗坊,https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/000/860/37.pdf,『柄目屋敷の桂』の検索結果,岩手県,named_supernatural_entity,既存nansobo／南祖坊と表記が近い,defer,別entity化はしない。公開本文と既存南祖坊との関係・異表記を後続照合する。,Codex
 卯の花姫,source_0585,『ものがたりの案内人：卯の花姫』の段,山形県,named_supernatural_entity,既存entity名・異名・三淵渓谷を照合し一致なし,admit,山形県の伝承解説で個体名と竜神化を確認。安倍貞任との系譜は史実として採用しない。,Codex
+桑畑の立石様,source_0584,pp.392–397、第8章第2節2（1）［神］、桑畑と下風呂の二つの立石様の段,青森県,folklore_being,既存entity名・異名・二地点を照合し一致なし,admit,同名の下風呂の立石様とは別の岩・場所として記述される。 両者を同一個体としない。,Codex
+下風呂の立石様,source_0584,pp.392–397、第8章第2節2（1）［神］、桑畑と下風呂の二つの立石様の段,青森県,folklore_being,既存entity名・異名・二地点を照合し一致なし,admit,同名の桑畑の立石様とは別の岩・場所として記述される。 両者を同一個体としない。,Codex
