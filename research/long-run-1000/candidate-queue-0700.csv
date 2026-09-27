@@ -88,3 +88,10 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 丹鶴姫,source_0517,PDF 2頁・第2項,和歌山県,historical_person_in_supernatural_tradition,子をさらう像と歴史上の人物の連続性は未確認,defer,1996年市広報・佐藤春夫作品の原文を先に照合,Codex
 鈴島の白馬,source_0517,PDF 2頁・第17項,和歌山県,folklore_being,白馬の超自然的性格は不明,defer,同頁の説明では普通の馬・由来譚との区別が弱い,Codex
 児ケ森の知らない子,source_0517,PDF 2頁・第18項,和歌山県,folklore_being,毎日の知らない子が同一個体か不明,defer,同一性・entity粒度を原掲載町誌で確認したい,Codex
+寂仙山の大蛇,source_0518,PDF 14頁／冊子3-2頁「寂仙坊〈岩国市錦町〉」,山口県,folklore_being,既存名・地名・隣接伝承との重複を照合し一致なし,admit,見出しは寂仙坊だが、大蛇の固有名ではない。山名を付けた記述名で索引。原掲載『ふるさと叢書II 周防長門の伝説』1976未照合。,Codex
+太鼓岩の大太鼓,source_0518,PDF 15頁／冊子3-3頁「太鼓岩の大太鼓〈柳井市大畠〉」,山口県,object_spirit,既存名・地名・隣接伝承との重複を照合し一致なし,admit,太鼓岩と現れる大太鼓を分けて索引。原掲載『語りつぎたい山口昔話』1997未照合。,Codex
+竜文寺の竜,source_0518,PDF 16頁／冊子3-4頁「竜文寺〈周南市〉」,山口県,folklore_being,既存名・地名・隣接伝承との重複を照合し一致なし,admit,寺名を竜の固有名としない。所在地と関係を示す記述名。原掲載『ふるさと叢書II 周防長門の伝説』1976未照合。,Codex
+方便山の黄金馬,source_0518,PDF 17頁／冊子3-5頁「方便山の黄金馬〈山口市〉」,山口県,folklore_being,既存名・地名・隣接伝承との重複を照合し一致なし,admit,精霊との同一視は語り手の解釈として記述。原掲載『趣味の山口』1932未照合。,Codex
+天の川の大蛇,source_0518,PDF 14頁／冊子3-2頁「大蛇の塔」,山口県,folklore_being,関連名・地域を照合,defer,塔・蛇・地域の分析単位を保留。原掲載1976年版を先に照合,Codex
+今津の白蛇,source_0518,PDF 14頁／冊子3-2頁「白蛇伝」,山口県,folklore_being,関連名・地域を照合,defer,同地域の白蛇伝承との粒度・継承関係を保留,Codex
+般若姫,source_0518,PDF 16頁／冊子3-4頁「般若寺の由来」,山口県,folklore_being,関連名・地域を照合,defer,実在人物・神格・救難譚の同一性を保留,Codex
