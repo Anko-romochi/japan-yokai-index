@@ -85,3 +85,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 犬鳴の笛の天狗,source_0600,第4話『天狗の笛』、三本柞での雷雨と笛を探す段,福岡県,folklore_being,既存犬鳴の笛天狗なし。地域外の天狗個体と同定しない,admit,同一話中に居所・所有物・行動を持つ天狗として区別可能,Codex
 筵内熊野神社の黒馬,source_0600,第3話『熊野神社の黒馬』後半,福岡県,folklore_being,既存筵内絵馬馬なし。絵馬と走る馬の同一性は物語内の噂として限定,admit,特定の神社の絵馬と結びつく作中の黒馬を索引,Codex
 古賀の古狸,https://www.city.koga.fukuoka.jp/cityhall/work/kikaku/007.php,第1話『古賀の古狸』,福岡県,folklore_being,既存古賀村の古狸なし,defer,怪異の原因を古狸とするのは近隣住民の推測であり個体の確認がない,Codex
+井川平のオサンジョ,source_0381,PDF p.37、同名項目冒頭と婚礼行列の段,熊本県,named_supernatural_entity,既存同名なし。二の坂のおまん狸等と地域・名・役割を区別,admit,固有名・土地・人を化かす行動・婚礼が同一資料にある,Codex
+宇土陣のスグルワラ,source_0381,PDF p.37、同名項目の稲穂の悪戯と婚礼の段,熊本県,named_supernatural_entity,既存同名なし。オサンジョの配偶者だが別個体,admit,固有名・土地・稲穂を抜く行動が明示される,Codex
+天狗多聞天,source_0601,広報ふくろいp.23・PDF p.2『天狗になった芝村の小太郎』,静岡県,named_supernatural_entity,既存多聞天・芝村小太郎なし。小笠山の先行天狗と別個体,admit,少年小太郎が天狗多聞天となる命名と役割を紙面が明記,Codex
+おふじ,source_0602,『神さんになったおふじ』本文後半,長崎県,named_supernatural_entity,既存おふじなし。実在の女中との同定はしない,admit,物語内で女中から神へ変わる名のある人物として索引,Codex
+第六天のキツネ,https://www.city.sayama.saitama.jp/manabu/dentou/minwa_densyo/horigane_chiku/dairokutenkitune.html,本文と同市『第六天さまの狐』,埼玉県,folklore_being,同じ第六天の林の狐に関する別話があり同一個体か別個体か未確認,defer,同名同所の複数話を統合・分割する根拠が未確認,Codex
