@@ -48,3 +48,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 宅左衛門狸,source_0655,兵庫県立歴史博物館『狸と狐』節『洲本八狸』内の同名小見出し,兵庫県洲本市（物語の舞台）,named_supernatural_entity,同名・同地域の既存entityなし。芝右衛門・お増・桝右衛門とは別の個体として明記。,admit,博物館が2002年刊の絵本に基づき個体名と行動を説明。古い伝承成立時期は未確認。,Codex
 お松狸,source_0655,兵庫県立歴史博物館『狸と狐』節『洲本八狸』内の同名小見出し,兵庫県洲本市（物語の舞台）,named_supernatural_entity,同名・同地域の既存entityなし。芝右衛門・お増・桝右衛門とは別の個体として明記。,admit,博物館が2002年刊の絵本に基づき個体名と行動を説明。古い伝承成立時期は未確認。,Codex
 川太郎狸,https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story12/journey10/,節『洲本八狸』の小見出し『川太郎狸』,兵庫県洲本市（物語の舞台）,named_supernatural_entity,既存同名なし。ただし一家全員が川太郎という名と明記。,defer,家族の共通名であり単一個体としてのentity粒度が未解決。,Codex
+源太郎,source_0656,個別レコード0800100012『原文』p.12,茨城県那珂市・静／瓜連城（物語内）,named_supernatural_entity,既存同名なし。四兄弟の別個体として原文に明記。,admit,県アーカイブの個別レコードに名称・役割・物語が明記。原画像は未照合。,Codex
+甚二郎,source_0656,個別レコード0800100012『原文』p.12,茨城県那珂市・米崎城（物語内）,named_supernatural_entity,既存同名なし。四兄弟の別個体として原文に明記。,admit,県アーカイブの個別レコードに名称・役割・物語が明記。原画像は未照合。,Codex
+四郎介,source_0656,個別レコード0800100012『原文』p.12,茨城県ひたちなか市・那珂湊（物語内）,named_supernatural_entity,既存同名なし。四兄弟の別個体として原文に明記。,admit,県アーカイブの個別レコードに名称・役割・物語が明記。原画像は未照合。,Codex
+紋三郎,https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100012?f=1,個別レコード0800100012『原文』p.12,茨城県笠間市・笠間城（物語内）,named_supernatural_entity,既存の笠間稲荷の紋三郎狐と同名・同地域。直接同一性は未検証。,defer,既存entityとのidentityを精査するまで新規登録も統合も行わない。,Codex
+ろっぽの六助,source_0347,個別レコード0800100007『原文』冒頭、原掲載p.7,茨城県常総市（物語内）,named_supernatural_entity,既存同名なし。,defer,兄弟狐としての名は確認できるが、超自然的な役割は本文で不明。,Codex
+堀切藤造,source_0347,個別レコード0800100007『原文』冒頭、原掲載p.7,茨城県常総市（物語内）,named_supernatural_entity,既存同名なし。,defer,兄弟狐としての名は確認できるが、超自然的な役割は本文で不明。,Codex
