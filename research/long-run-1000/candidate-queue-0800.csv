@@ -73,3 +73,4 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 田村麻呂伝説の大蛇,source_0593,見出し『浜松武将アラカルト（4）』、田村麻呂と俊光に関する伝説の概略（段落1–2）,静岡県,folklore_being,既存同名・俊光母と薬師の淵を結ぶentityなし。田村麻呂や俊光自身とは区別,admit,物語に登場する大蛇の個体を索引。市は歴史的根拠なしと明記しており実在・古代成立を主張しない。,Codex
 名草厳島神社の白い大蛇,source_0594,見出し『由緒他』第1箇条、白い大蛇が空海を導く段,栃木県,folklore_being,既存同名・名草神社の白蛇entityなし。全国の白蛇信仰と同一視しない,admit,特定社の由緒に登場する白蛇を索引。弁財天との関係は市の『化身と思われる』という限定を保つ。,Codex
 新宮池の竜,https://www.city.hamamatsu.shizuoka.jp/tn-shinko/ward/tenryuku/inaka/wat12.html,『新宮池』紹介の竜や大蛇に触れる段,静岡県,folklore_being,既存新宮池個体なし。市の頁は竜や大蛇伝説の存在のみ記す,defer,伝説本文と主のidentity・役割・個体数を確認できない。,Codex
+さるとらへび,source_0595,『高賀神社の由来』後段と『さるとらへびの伝説』結末,岐阜県,folklore_being,既存同名・高賀山個体なし。鵺との同一性は資料にない,admit,関市に伝わる特定の複合形の妖魔を索引。最初の光る魔物との同一性や古代成立は主張しない。,Codex
