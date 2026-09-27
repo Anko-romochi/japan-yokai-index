@@ -24,3 +24,8 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 海坊主（桑名の錦絵）,https://khirin.rekihaku.ac.jp/pid/nmjh_collection/F-320-840.html,個別レコードF-320-840『説明』,三重県,folklore_being,既存 umibozu と同じ広域類型,defer,桑名屋徳蔵との問答は地域作品として比較価値があるが、既存海坊主と別entityにすべき根拠は不足。,Codex
 月照寺の大亀,https://www.city.matsue.lg.jp/material/files/group/32/koizumiyakumomap.pdf,PDF 2ページ目・地点14『月照寺』,島根県,object_spirit,既存 gesshoji_no_kame_sekizo に一致,reject,松江市マップにも記載があるが、既に同寺の亀石像を索引している。,Codex
 『雷の落ちない村』の雷獣,source_0571,大津市『三橋節子と近江昔話』見出し『雷の落ちない村・雷封じの宮』,滋賀県,folklore_being,既存名称・雷獣類型・作品名を照合し一致なし,admit,1974年の絵画と後世の市立美術館解説で確認できる個別作品の雷獣として索引。先行伝承との同一性や起源は主張しない。,Codex
+『三井の晩鐘』の竜神の娘,source_0571,大津市『三橋節子と近江昔話』見出し『三井の晩鐘 大津市園城町』,滋賀県,folklore_being,既存龍神山・二畳ヶ滝・縄が池の竜神とは別作品・別地域の索引単位,admit,1973年の絵画の題材として説明された個別物語を索引。古い伝承からの直接継承や他の竜神譚との同一性は未確認。,Codex
+龍巣院の乾龍,source_0572,伝説15『龍巣院の乾龍』、毒龍の縮小・寺宝の小箱・雨乞いの段,静岡県,folklore_being,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,単一の池の毒龍と寺宝の乾龍を同一話内で結ぶ個別伝説。乾龍を別の龍一般と統合しない。,Codex
+吉佐美の白狐,source_0573,伝説17『狐の化けた管長さん』、吉佐美の貫主来訪と終盤の白狐判明の段,静岡県,folklore_being,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,吉佐美の一話に現れる狐を説明的地名付きで索引。本文末尾に挙がる他地域の類話と同一個体とはみなさない。,Codex
+コガセンばあさん,source_0574,伝説04『コガセンばあさん』、祠の位置と死後に咳の神として信仰される段,静岡県,named_supernatural_entity,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,特定の女性だったとする由来を持つ祠の名として索引。女性の実在や死因を史実とは断定しない。,Codex
+オテンパクサマ,source_0575,伝説21『オテンパクサ』、吉佐美上条の祠・無名の武士の死・禁伐の段,静岡県,named_supernatural_entity,既存entity名・異名・地名・原集話番号を照合し一致なし,admit,祠で呼ばれる霊の名を索引。伝説の無名武士を実在人物と確定せず、森の禁伐を史実化しない。,Codex
