@@ -53,3 +53,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 老松を守った蛇,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「老松を守った蛇」,北海道,folklore_being,願応寺・老松で既存照合し一致なし,defer,通常の蛇に守護力を帰した語りか独立した怪異主体か未確定,Codex
 木古内の坊,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「木古内の坊」,北海道,historical_person_in_supernatural_tradition,木古内の坊・友吉で既存照合し一致なし,defer,実在人物と転生伝説の区別およびentity type判断が必要,Codex
 中野の橋の幽霊,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「幽霊とにおうの花」,北海道,folklore_being,中野の橋を既存照合し一致なし,reject,本文で幽霊は花の見間違いと明示される,Codex
+百合子沢のお地蔵さま,source_0507,見出し「百合子沢のお地蔵さま」全文,北海道,object_spirit,百合子沢・地蔵で既存照合し一致なし,admit,特定の三体の地蔵像と火災を抑える逸話。成立年代は不明,Codex
+更木の人の名を呼ぶキツネ,source_0507,見出し「人の名前をよぶキツネ」全文,北海道,folklore_being,更木・名を呼ぶ狐で既存照合し一致なし,admit,笹原の狐が人声をまねる個別話。別の更木の狐と統合しない,Codex
+イワナが姫,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,見出し「あまばんの由来」,北海道,object_spirit,イワナガ姫との音韻類似は同一性未確認,defer,本文の名が神格名か石の呼称か不明。類似神名との関係未確認,Codex
+更木にあらわれたキツネ,https://www.town.kikonai.hokkaido.jp/tourism/history/mukashibanashi/,同名見出し全文,北海道,folklore_being,更木の別狐との同一性不明,defer,複数の更木狐譚を同一個体または別個体と判断できない,Codex
