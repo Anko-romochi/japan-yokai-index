@@ -13,3 +13,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 乾亨院のコンニャクの化け物,source_0528,登録ID 2494本文、大楠に住む段,佐賀県,folklore_being,既存名・場所・役割を照合し、青梅のこんにゃく岩とは別の伝承,admit,佐賀市の個別カードが怪異を明記。記事の昔という表現を成立年代にしない。,Codex
 北面天満宮の河童木像,source_0529,登録ID 430本文第1段落、河童木像が川に飛び込む段,佐賀県,object_spirit,既存名・場所・役割を照合し一致なし,admit,木像が行為主体となる固有の伝承として索引。神社の中世という分類を怪異の成立年代にしない。,Codex
 大中島のカワソウ,https://www.saga-otakara.jp/search/detail.html?cityId=1&cultureId=1554,登録ID 1554「水神・海神」本文、弁財天がカワソウを捕える段,佐賀県,folklore_being,既存名・場所を照合,defer,水神解説内の短い伝承で、単一個体と類型の粒度を原掲載『諸富町史』p.1196まで保留。,Codex
+矢田の賽の神の石,source_0530,「とんど行事」石が語る段と石を火にかける段,大阪府,object_spirit,既存名・場所・役割を照合し一致なし,admit,発話する一個の石と祭祀を市の個別記事で確認。話の年代は不明。,Codex
+鼬川の老いた鼬,source_0531,「鼬川」願泉寺の記録を紹介する段,大阪府,folklore_being,既存名・場所・役割を照合し一致なし,admit,川の名に関する伝説中の一匹の鼬を索引。願泉寺原記録は未確認。,Codex
+権助狐,https://www.city.osaka.lg.jp/higashisumiyoshi/page/0000033855.html,「037 権助狐と今川墓地」本文,大阪府,named_supernatural_entity,既存名・場所を照合,defer,題名に狐名があるが本文は狐の個体としての行為を明示せず、今川墓地の地蔵相撲との関係は不明。,Codex
+鞍馬山の雌の大蛇,source_0382,鞍馬山竹伐り会式の伝説段,京都府,folklore_being,既存akkai_gohou_zenjinと同一の記録,reject,既存閼伽井護法善神の別称となる候補で、重複entityを作らない。,Codex
