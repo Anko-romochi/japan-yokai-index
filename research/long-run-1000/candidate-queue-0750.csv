@@ -1,0 +1,5 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+牛ノ江の婿河童,source_0246,民話編2『カッパの恩がえし』冊子p.17～18／PDF p.20～21、若者に化けて婿入りし魚を届ける段,鹿児島県,folklore_being,既存名・alias・場所・説話内容を照合し一致なし,admit,娘の婿となる一匹の河童を場所・役割で索引。冊子の祭祀年表記の矛盾は採録claimに使わない。,Codex
+生福のガラッパ,source_0246,民話編3『ガラッパ（河童）どんの手』冊子p.18～19／PDF p.21～22、切られた腕を祀る段,鹿児島県,folklore_being,既存名・alias・場所・説話内容を照合し一致なし,admit,川崎家の説話に登場する腕を失ったガラッパを索引。石塔の年代は伝承成立年代としない。,Codex
+キッチョンと話す冠岳の天狗,source_0246,民話編24『キッチョンと冠岳の天狗』冊子p.57～58／PDF p.60～61、天狗とキッチョンの会話・蓑笠の貸借の段,鹿児島県,folklore_being,既存名・alias・場所・説話内容を照合し一致なし,admit,先行の複数天狗記事と同一個体と断定せず、キッチョンの説話に登場する相手を索引。,Codex
+退休寺の化け横槌,source_0523,『語り』本文、毎夜踊る三人の正体の段（椿の横槌）,鳥取県,object_spirit,既存名・alias・場所・説話内容を照合し一致なし,admit,同じ語りの鶏・山芋とは別の器物として索引。採集年を成立年代としない。,Codex
