@@ -64,3 +64,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 戸隠の九頭龍大神,source_0552;source_0553,図書館資料解説／戸隠神社『地蔵堂』学門行者欄,長野県,named_supernatural_entity,既存の箱根・福井の九頭龍と地域・由緒を区別,admit,戸隠の資料に結びつく固有の信仰対象として索引。二つの縁起の同一性や成立順序は未判断。,Codex
 くらがり沢の大蛇,source_0554,PDF 8頁／印刷16頁【伝説】欄,長野県,folklore_being,既存名・地域・伝承の行為を照合し一致なし,admit,県の防災資料が個別の沢と大蛇の行為を記す。物語が参照する洪水の年代を発祥年代とはしない。,Codex
 多鯰ヶ池のお種,https://www.city.tottori.lg.jp/archives/shihou/img/pr/S580601.pdf,PDF 8頁／印刷8頁『ふるさと再訪（3）多鯰ヶ池』,鳥取県,named_supernatural_entity,既存tanegaike_taneと照合,reject,OCRの『おたか』は原紙面で『おたね』。既存『たね』と同系統のため新規entity化しない。,Codex
+貝鞍が池の大蛇,source_0555,PDF 1頁『言い伝え・伝説』,長野県,folklore_being,既存名・池・行動を照合し一致なし,admit,個別カードに居所と移動を伴う伝説あり。墓石の建立時期を発祥時期としない。,Codex
+おりの,source_0556,『大里峠伝説』第1～2段,新潟県,named_supernatural_entity,既存名・大里峠・役割を照合し一致なし,admit,県の個別解説に固有名と変身後の行動あり。採録原資料は未確認。,Codex
+庄川の盲目の大蛇,source_0557,『庄川地区には「小太郎神社」の逸話があります。』の段,新潟県,folklore_being,既存名・庄川・小太郎神社を照合し一致なし,admit,七左衛門が小太郎の霊魂と感じた逸話を記録。大蛇と人霊の同一性は未確定。,Codex
