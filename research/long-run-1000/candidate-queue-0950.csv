@@ -93,3 +93,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 伝燈寺の狛犬,https://www4.city.kanazawa.lg.jp/bunka_sports_kanko/rekishi_bunkazai/5/2/index.html,市公開『おおかみを退治したこま犬』本文1・9–11,石川県金沢市鳴和奥・伝燈寺（物語の舞台）,object_spirit,同話の既存なし。左右一対の像が同時に行動する。,defer,一対を一entityとするか個体を分けるか、本文で個体差がないためgrainを検討。,Codex
 邇幣姫,https://www.ginzan-wm.jp/purpose_post/%E6%B5%AE%E5%B8%83%E3%81%AE%E6%B1%A0/,浮布の池・伝説と神社の段,島根県大田市・浮布池,named_supernatural_entity,同名既存なし。市小冊子の無名の娘と観光協会記事の名付き姫の同一性を未検証。,defer,観光記事は姫の入水と神社の名を併記するが姫自身の超自然的性質・同一神格化を示さない。,Codex
 法船寺の大ねずみ,source_0698,市公開『法船寺のねずみたいじ』本文4・7–9,石川県金沢市中央通町・法船寺（物語の舞台）,folklore_being,同話・同個体の既存なし。先のdefer後に本文1–11を照合。,admit,普通の鼠でないという語りと大きさ・毒気を市再話で直接確認し、物語内の個体を識別できる。,Codex
+薬屋さんの化け物退治の大物,https://www.pref.tottori.lg.jp/266710.htm,語り・薬屋の退治段,鳥取県米子市観音寺（採集地）,folklore_being,ウワバミかどうか話者も不確定。汎用怪物の一話型。,defer,名称と個体識別が不安定なため独立entity化を保留。,Codex
+細越のにせ本尊狐,source_0699,『にせ本尊』語り・細越の狐、本尊変身、伊勢での再会,鳥取県三朝町吉尾（採集地）,folklore_being,細越・にせ本尊・偽本尊で既存照合し同個体なし。記述名で固有名ではない。,admit,一続きの採集語りで細越の狐の変身と再会を追え、同話内の個体として識別できる。,Codex
+サバ食い山姥,https://www.pref.tottori.lg.jp/266702.htm,語り・牛方山姥型の追跡段,鳥取県三朝町吉尾（採集地）,folklore_being,無名の山姥で同型の複数伝承との差異は未照合。,defer,一話型中の山姥を独立個体とする粒度を保留。,Codex
