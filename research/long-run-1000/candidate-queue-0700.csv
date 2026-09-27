@@ -95,3 +95,15 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 天の川の大蛇,source_0518,PDF 14頁／冊子3-2頁「大蛇の塔」,山口県,folklore_being,関連名・地域を照合,defer,塔・蛇・地域の分析単位を保留。原掲載1976年版を先に照合,Codex
 今津の白蛇,source_0518,PDF 14頁／冊子3-2頁「白蛇伝」,山口県,folklore_being,関連名・地域を照合,defer,同地域の白蛇伝承との粒度・継承関係を保留,Codex
 般若姫,source_0518,PDF 16頁／冊子3-4頁「般若寺の由来」,山口県,folklore_being,関連名・地域を照合,defer,実在人物・神格・救難譚の同一性を保留,Codex
+お静狐,source_0519,PDF 1頁「江向のイチョウ」指定理由、田中のキツネの伝説,山口県,named_supernatural_entity,既存entityの名称・地名・説話関係を照合し一致なし,admit,樹木そのものと狐の個体を区別。お静という名は台帳本文に明示。,Codex
+大槌島の大蛇,https://www.city.kurashiki.okayama.jp/_res/projects/default_project/_page_/001/002/922/1002922_ma_31.pdf,PDF 6頁／目録6/6、文書番号142「蛇鱗乃由来」,岡山県,folklore_being,既存entityの名称・地名・説話関係を照合し一致なし,defer,目録だけでは普通の大蛇標本と怪異を区別できない。原文書の確認待ち,Codex
+二上山の大蛇,source_0521,PDF 1頁／冊子24–25頁「悪王子伝説―封じ込められた荒神」,富山県,folklore_being,既存entityの名称・地名・説話関係を照合し一致なし,admit,悪王子と封じられた大蛇の同一性は本文だけで固定しない。記述名で索引。,Codex
+八畔鹿,source_0522,PDF 43頁／冊子付・41頁、(5)伝承ⅰ「八畔鹿」,島根県,named_supernatural_entity,既存entityの名称・地名・説話関係を照合し一致なし,admit,本文の読み「やつぐろのしか」を採用。筑紫からの移動は物語内の設定。,Codex
+本覚寺のえんこう,source_0522,PDF 44頁／冊子付・42頁、(5)伝承ⅵ「本覚寺の河童の詫び状」,島根県,folklore_being,既存entityの名称・地名・説話関係を照合し一致なし,admit,同資料の左鐙・二俣とは別地点・別説話の個体。元禄頃は物語内年代。,Codex
+左鐙のえんこう,source_0522,PDF 44–45頁／冊子付・42～43頁、(5)伝承ⅵ「左鐙のえんこう」,島根県,folklore_being,既存entityの名称・地名・説話関係を照合し一致なし,admit,女の姿のえんこうと兄弟の人間を区別。他の川のえんこうと同一視しない。,Codex
+二俣のえんこう,source_0522,PDF 45頁／冊子付・43頁、(5)伝承ⅵ「二俣のえんこう」,島根県,folklore_being,既存entityの名称・地名・説話関係を照合し一致なし,admit,本覚寺・左鐙と独立した場所の説話。地域を名称に付けて索引。,Codex
+宝尾山の大蛇,source_0435,2「宝尾山の大蛇」,福井県,folklore_being,関連名・既存IDを照合,reject,既存entity houosan_no_daija と重複,Codex
+浮布池の大蛇の若者,https://nature-parks.pref.shimane.lg.jp/viewpoint/sanbe.php,浮布の池,島根県,folklore_being,関連名・既存IDを照合,defer,県内二資料で若者と大蛇の変身方向が逆。原資料まで同一性を保留,Codex
+大蛇ヶ池の陰霊・わら龍,source_0522,PDF 43頁／冊子付・41頁、伝承ⅱ,島根県,folklore_being,関連名・既存IDを照合,defer,ヤマタノオロチの陰霊と祭礼のわら龍を同一entityにできるか未確認,Codex
+多鯰ヶ池のおたか,https://www.city.tottori.lg.jp/archives/shihou/img/pr/S580601.pdf,市報1983年6月1日号3頁,鳥取県,folklore_being,関連名・既存IDを照合,defer,既存たね伝承との異名・別系統関係と直接本文へのアクセスが未解決,Codex
+千鳥ヶ池の千鳥,source_0520,PDF 1頁『伝説』、千鳥が大蛇となり池の主になる段落,福岡県,named_supernatural_entity,既存名・千鳥ヶ池・伝吉の説話を照合し一致なし,admit,古賀市2005年発行PDFの直接確認。1873年資料は池の記載であり伝説年代としない,Codex
