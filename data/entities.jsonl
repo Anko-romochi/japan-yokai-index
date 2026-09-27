@@ -858,3 +858,4 @@
 {"id":"rokuroshi_tsuyuzaemon","name_ja":"六呂師の梅雨左衛門","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["山口県岩国市・旧六呂師村"],"tags":[],"research_status":"provisional"}
 {"id":"yashiro_tsuyuzaemon","name_ja":"八代村の梅雨左衛門","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["山口県周南市・旧八代村"],"tags":[],"research_status":"provisional"}
 {"id":"okazuki_yanai","name_ja":"尾かづき","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["edo"],"attested_regions":["山口県柳井市新庄（旧岩国領）"],"tags":[],"research_status":"provisional"}
+{"id":"niko_buchi_no_daija","name_ja":"にこ淵の大蛇","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":["reiwa"],"attested_regions":["高知県いの町・にこ淵"],"tags":[],"research_status":"provisional"}
