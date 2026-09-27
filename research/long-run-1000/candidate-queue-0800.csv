@@ -1,0 +1,9 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+逆立ち幽霊,source_0561,個別カード47O220799『概要』『民話詳細DATA』話者がつけた題名,沖縄県（話者出身地。物語の場所は不明）,folklore_being,既存名・alias・記録番号を照合し一致なし,admit,話者が付けた題名と、一体の幽霊を描く語りを個別カードで確認。題名を広域で安定した固有名とは主張しない。,Codex
+枡の角の幽霊,https://okimu.jp/museum/minwa/1582436960/,個別カード47O376546『概要』,沖縄県（話者出身地）,folklore_being,既存名・alias・記録番号を照合し一致なし,defer,幽霊は一体だが無名。決定題名は物語全体を指し、entityの呼称・粒度を追加確認する。,Codex
+遊女の幽霊,https://okimu.jp/museum/minwa/1582430886/,個別カード47O377711『概要』,沖縄県（話者出身地）,folklore_being,既存名・alias・記録番号を照合し一致なし,defer,短い梗概は遊女の亡霊を語るが、決定題名は編者側で、個体名や地点が未確定。,Codex
+毛遊びの幽霊,https://okimu.jp/museum/minwa/1582443171/,個別カード47O361840『概要』,沖縄県（話者出身地）,folklore_being,既存名・alias・記録番号を照合し一致なし,defer,一人の死者が再訪する語りだが、決定題名は編者側で個体呼称がない。,Codex
+龍宮の黒い大蛇,source_0562,市川市立図書館『龍宮さまと大蛇』本文冒頭,千葉県,folklore_being,既存の龍宮・大蛇・地域を照合し一致なし,admit,龍宮さまは場所・祠の呼称、大蛇は別の主として区別。公開部分のみをclaim化。,Codex
+でえだらぼう（市川）,source_0563,市川市立図書館『でえだらぼう』本文冒頭と山を移す段,千葉県,folklore_being,既存巨人の名称・地域・役割を照合し一致なし,admit,公開本文が同一人物の異名として『だいだらぼっち』を明示。市川の語りの一例として索引し全国の全事例と同一視しない。,Codex
+鬼越のお不動さま,https://www.city.ichikawa.lg.jp/site/library/8056.html,公開本文前半・後半省略,千葉県,named_supernatural_entity,既存名・寺院・小栗判官を照合,defer,公開抄録は不動明王への祈りの後で途切れ、超自然的行為や独立entity粒度を確認できない。,Codex
+お経塚,https://www.city.ichikawa.lg.jp/site/library/2359.html,公開本文前半・後半省略,千葉県,supernatural_phenomenon,既存名・塚の地名を照合,reject,公開部分は災害と祈祷・塚の話で、区別可能な怪異主体が確認できない。,Codex
