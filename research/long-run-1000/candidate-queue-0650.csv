@@ -71,3 +71,14 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "頭無堀の大蛇","https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf","印刷p.70 PDF p.12 江南区 頭無堀","新潟県","folklore_being","既存name・aliasに頭無堀なし","admit","頭のない大蛇と人を引き込む行為を市研究報告で確認。原掲載は未照合","Codex"
 "丸潟化物","https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf","印刷p.70 PDF p.12 江南区 丸潟化物","新潟県","supernatural_phenomenon","既存name・aliasに丸潟化物なし","admit","場所を移る灯りへの地域呼称が明示される。白鷲説もあり正体は断定しない","Codex"
 "川口の生き地蔵","https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf","印刷pp.70–71 PDF pp.12–13 秋葉区 川口の生き地蔵","新潟県","object_spirit","既存name・aliasに川口の生き地蔵なし","admit","特定の地蔵像に洪水警告の行為が帰属される。史実性は未主張し原掲載は未照合","Codex"
+赤池の大蛇,source_0392,印刷pp.73–74 PDF pp.14–15 赤池の大蛇,新潟県,folklore_being,既存名・alias一致なし,admit,西川大曲の池の一つの大蛇譚。原掲載未照合、時代は付与しない,Codex
+蛻庵,card 0910002,要約／原掲載pp.18–20,長野県,named_supernatural_entity,既存名・alias一致なし,admit,狐個体が蛻庵と名乗る。蛻庵稲荷は祀り名としてclaimで区別,Codex
+那波八郎,card C1040210-000,要約／原掲載p.796,群馬県,named_supernatural_entity,既存名・alias一致なし,admit,大蛇が名乗る名。ヨミは異読可能性があるためname_kana未確定,Codex
+お種,card 2010001,要約／原掲載p.7,島根県,named_supernatural_entity,既存名・alias一致なし,admit,憑依発話の固有名。白狐の同定は伝承内の判断であり事実断定しない,Codex
+納戸橋の怪物,card 1070353,要約／原掲載p.91,石川県,folklore_being,既存名・alias一致なし,admit,個別カード呼称と橋の一話を索引。男の正体は未確定,Codex
+好間の淵の主,card C0730386-000,要約／原掲載pp.577–579,福島県,folklore_being,既存名・alias一致なし,admit,好間町の一伝承を地域修飾して索引。機織り姫の同一視はしない,Codex
+膳椀淵の主,card C1130070-000,要約／原掲載pp.588–589,埼玉県,folklore_being,既存名・alias一致なし,defer,個別カードを現時点で直接再取得できず、淵名と蛇の人格の粒度も保留,Codex
+百子沢のお花,card 0540070,要約／原掲載pp.99–100,山形県,named_supernatural_entity,既存名・alias一致なし,defer,個別カードを直接再取得できず、既存のお菊系とのidentity比較が必要,Codex
+栄大権現,source_0392,印刷p.69 PDF p.11 栄大権現,新潟県,named_supernatural_entity,既存名・alias一致なし,defer,蛇・祠・神号の粒度を原掲載『にいがたふる里さんぽ』で確認したい,Codex
+念吉の大亀,source_0392,印刷p.69 PDF p.11 玄的,新潟県,folklore_being,既存名・alias一致なし,defer,大亀になるという発話のみで変化や怪異個体の成立は未確認,Codex
+大曲の地蔵さま,source_0392,印刷p.74 PDF p.15 大曲の地蔵堂,新潟県,object_spirit,既存名・alias一致なし,defer,地蔵群のどの像に夢告が帰属するか複数伝承で不一致,Codex
