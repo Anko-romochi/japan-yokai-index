@@ -625,3 +625,4 @@
 {"id":"otonoki_danuki","name_ja":"鳳ノ木狸","name_kana":null,"name_romaji":null,"aliases":["鳳ノ木狸大明神"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["徳島県"],"tags":[],"research_status":"provisional"}
 {"id":"enoki_danuki_komatsushima","name_ja":"榎狸","name_kana":null,"name_romaji":null,"aliases":["榎狸大明神"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["徳島県"],"tags":[],"research_status":"provisional"}
 {"id":"yushichi_daimyojin","name_ja":"祐七大明神","name_kana":null,"name_romaji":null,"aliases":["祐七"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["徳島県"],"tags":[],"research_status":"provisional"}
+{"id":"sanko_oga","name_ja":"サンコ","name_kana":"さんこ","name_romaji":null,"aliases":["石山のサンコ"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}

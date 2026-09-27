@@ -46,3 +46,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "榎狸","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 榎狸大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","admit","榎の下に住む個体として行動が記載","Codex"
 "祐七大明神","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 祐七大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","admit","祠節に狸として固有名と行動が記載","Codex"
 "大鷹・小鷹・熊鷹","https://www.city.komatsushima.lg.jp/docs/2120.html","神社・祠 > 大鷹・小鷹・熊鷹大明神","徳島県","named_supernatural_entity","既存name・alias検索し一致なし","defer","親子・二代目金長の名跡関係がありentity粒度と既存金長との重複審査が必要","Codex"
+"アカカナジャー","https://okimu.jp/museum/minwa/1582447695/","カード47O381159 題名と話者題名","沖縄県","folklore_being","既存キジムナーとの関係を要確認","defer","話者題名は体験談キジムナー。別系統か呼称差か不明で独立entity化を保留","Codex"
+"あまんじゃく（佐伯区）","https://www.city.hiroshima.lg.jp/saekiku/shoukai/1027808/1027814/1007937.html","本文 あまんじゃく伝説","広島県","named_supernatural_entity","一般あまんじゃくとの同名に注意","reject","当該本文では逆らい癖のある男の子と父の埋葬の話で超自然的存在と確認できない","Codex"
+"石山のサンコ","https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5570","カード番号5564 あらすじ末尾 原掲載pp.84–85","秋田県","named_supernatural_entity","サンコ・石山のサンコを検索し一致なし","admit","博物館カードに狐の固有名と連れ去る言い伝えあり。原掲載本文は未照合","Codex"
