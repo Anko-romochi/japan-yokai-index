@@ -1,0 +1,12 @@
+candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+寄姫,source_0707,PDF p.2『由来・歴史』,熊本県西原村河原・白糸の滝,named_supernatural_entity,既存の寄姫なし。長崎の白糸の滝の白狐とも別地点・別話。,admit,県の個別解説に固有名・兵部との関係・大蛇の場面がある。読みと初出は未確認。,Codex
+清夜姫,source_0708,『広報あそ』Vol.118 p.15／PDF p.15『小池七池伝説』,熊本県阿蘇市山田・小池七池,named_supernatural_entity,既存の清夜姫なし。寄姫とは異なる名称・場所・話筋。,admit,市広報PDF本文で固有名と蛇身化を直接確認。2013年抄述へ名前を遡及しない。,Codex
+東成田の大蛇,https://www.pref.miyagi.jp/soshiki/sizenhogo/higasinarita.html,『斉兵衛の大蛇退治伝説』の段,宮城県大郷町,folklore_being,既存 higashinarita_no_daija と同じ県解説。,reject,既存entityの重複。,Codex
+奥州の蛇藤,https://www.pref.miyagi.jp/soshiki/oksgsin-ns/noudou-uzen14.html,『13.根無藤』白鳥神社の段,宮城県村田町,supernatural_phenomenon,既存 oshu_no_hebidou と同じ県解説。,reject,既存entityの重複。,Codex
+龍頭巌の大蛇,https://www.city.nagasaki.lg.jp/nagazine/uta/051124/index.html,(5)城の古祉の段,長崎県長崎市,folklore_being,既存 ryuzugan_no_daija と同じ市解説。,reject,既存entityの重複。,Codex
+洞雲寺の狐,https://www.city.sendai.jp/izumi-katsudo/izumiku/shokai/profile/shisekimeguri/mesho/tounji.html,『古碑』白髪の老人の段,宮城県仙台市泉区,folklore_being,既存 tounji_no_kitsune と同じ寺伝説。,reject,既存entityの重複。,Codex
+洞雲寺の二匹の大蛇,https://www.city.sendai.jp/izumi-katsudo/izumiku/shokai/profile/shisekimeguri/mesho/tounji.html,『古碑』美童・長者妻の入水の段,宮城県仙台市泉区,folklore_being,既存の狐とは別。二人／二匹を一entityに束ねる粒度が未解決。,defer,原典『洞雲寺伝』未照合。二匹の個体識別と同一性を先に確認する。,Codex
+蓑ヶ坂の大蛇,https://www.pref.aomori.lg.jp/soshiki/kotsu/tetsudo/files/2010-0420-1611.pdf,青い森鉄道利活用案の蓑ヶ坂伝説の抄述,青森県三戸町,folklore_being,既存同名なし。,defer,政策資料の短い要約のみ。語りの原掲載資料と個体粒度を確認する。,Codex
+泡池の腰元大蛇,https://www.city.aso.kumamoto.jp/files/uploads/2014/05/caldera201311_20.pdf,p.1『泡池』,熊本県阿蘇市,folklore_being,清夜姫に同行する六人の一人とされるが個人識別不能。,defer,六人を池ごとに独立entity化する根拠が不足。2008年郷土読本を確認する。,Codex
+味生池の悪龍,https://www.city.kumamoto.jp/kiji00321624/5_21624_266968_up_MH0SV0HT.pdf,龍伝説コラム p.159,熊本県熊本市,folklore_being,縁起絵巻の第1・第4話と大蛇夫婦の同一性は未照合。,defer,市解説は複数資料をまとめる。個体と資料段階を分けて原絵巻を確認する。,Codex
+川内町の背高・背低の化物,https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MS1_810110,事例12『化物のはなし』／引用元『西通りの民俗』p.195,青森県旧川内町,folklore_being,既存同名なし。,defer,採録の物語役で固有名なし。個別entityの粒度と原掲載資料を先に確認する。,Codex
