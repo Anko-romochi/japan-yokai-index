@@ -38,3 +38,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "孫左衛門","https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100123?f=1","個別原文 願いと大蛇変身、原掲載p.123","茨城県","named_supernatural_entity","孫左衛門と該当題名を検索し一致なし","admit","人間から大蛇への変化を物語として索引。実在人物とみなさない","Codex"
 "おまん狐","https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100207?f=1","個別原文 才三郎狐の妻への一言、原掲載p.207","茨城県","named_supernatural_entity","おまん狐を検索し一致なし","defer","本カードでは妻としての言及のみ。独立した行動・別資料を追加確認してから採録判断","Codex"
 "イッパクの霊","https://www.library-archives.pref.fukui.lg.jp/bunsho/category/tenji/29991.html","展示(20) グリフィス原英文・訳文と同定注記","福井県","named_supernatural_entity","イッパク・ippaku・一国女を検索し一致なし","admit","source_0254再利用。原記録では女の姿だが一国女との同一性は文書館自身が混同を注記し未確定","Codex"
+"おさの狐","https://www.city.kadoma.osaka.jp/soshiki/shiminbunkabu/shogaigakushuka/4/2/3/2809.html","本文 柳町・高橋、蜆貝、信太山の結末","大阪府","named_supernatural_entity","既存name・alias・おさのを検索し一致なし","admit","自治体本文に固有名・狐の行動・位置が明記。原掲載本は未照合","Codex"
+"おこん","https://www.city.nagoya.jp/tempaku/miryoku/1025781/1025783.html","節「狐の嫁さん」、名乗り・正体","愛知県","named_supernatural_entity","茨城県おこん狐は別資料の別地域。連続性は未確認","admit","名古屋市本文に固有名と狐の正体が明示。同名の茨城県例とは統合しない","Codex"
+"尾崎白左衛門","https://www.city.nagoya.jp/tempaku/miryoku/1025781/1025783.html","節「尾崎白左衛門」、命名と結末","愛知県","named_supernatural_entity","既存name・alias・白左衛門を検索し一致なし","admit","同節に固有名・尾の特徴・行動が明記。原掲載本は未照合","Codex"
