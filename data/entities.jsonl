@@ -825,3 +825,4 @@
 {"id":"kanra_unzen","name_ja":"歓羅","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
 {"id":"kusenki_unzen","name_ja":"空仙鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
 {"id":"nanrinno_unzen","name_ja":"難林王","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
+{"id":"tamagai_yokabi","name_ja":"タマガイ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"supernatural_phenomenon","attested_periods":[],"attested_regions":["沖縄県"],"tags":[],"research_status":"provisional"}
