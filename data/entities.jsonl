@@ -821,3 +821,7 @@
 {"id":"katsuyo_hime_ogawarako","name_ja":"勝世姫","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["青森県上北郡六戸町"],"tags":[],"research_status":"provisional"}
 {"id":"ogon_no_koma_bandai","name_ja":"黄金の駒","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"object_spirit","attested_periods":[],"attested_regions":["福島県"],"tags":[],"research_status":"provisional"}
 {"id":"kurondo_kaigaranuma","name_ja":"クロンド","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["福島県"],"tags":[],"research_status":"provisional"}
+{"id":"miso_goro_unzen","name_ja":"みそ五郎","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県","熊本県"],"tags":[],"research_status":"provisional"}
+{"id":"kanra_unzen","name_ja":"歓羅","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
+{"id":"kusenki_unzen","name_ja":"空仙鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
+{"id":"nanrinno_unzen","name_ja":"難林王","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["長崎県"],"tags":[],"research_status":"provisional"}
