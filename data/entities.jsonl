@@ -773,3 +773,4 @@
 {"id": "inukai_no_sarugami", "name_ja": "犬飼村の猿神", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["兵庫県"], "tags": [], "research_status": "provisional"}
 {"id": "hata_no_takebumi_no_borei", "name_ja": "秦武文の亡霊", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["兵庫県"], "tags": [], "research_status": "provisional"}
 {"id": "neya_nishizaka_no_oodanuki", "name_ja": "寝屋の西坂の大狸", "name_kana": null, "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["大阪府"], "tags": [], "research_status": "provisional"}
+{"id": "akaei_sama", "name_ja": "アカエイサマ", "name_kana": "あかえいさま", "name_romaji": null, "aliases": [], "entity_type": "folklore_being", "attested_periods": [], "attested_regions": ["青森県"], "tags": [], "research_status": "provisional"}
