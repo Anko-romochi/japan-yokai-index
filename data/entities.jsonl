@@ -934,3 +934,4 @@
 {"id":"takanabe_tongoshi","name_ja":"トンゴシ","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["宮崎県高鍋町・お崎のはな付近（掲載資料の地名）"],"tags":[],"research_status":"provisional"}
 {"id":"myokeiji_no_tengu","name_ja":"妙慶寺の天狗","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["石川県金沢市寺町・妙慶寺（市公開民話の舞台）"],"tags":[],"research_status":"provisional"}
 {"id":"hatta_suzuki_miyo","name_ja":"みよ","name_kana":"みよ","name_romaji":"Miyo","aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["石川県金沢市八田町・森本川下流（市公開民話の舞台）"],"tags":[],"research_status":"provisional"}
+{"id":"inegami_sama_sanuki","name_ja":"稲神さま","name_kana":null,"name_romaji":null,"aliases":["稻神さま"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":[],"tags":[],"research_status":"provisional"}

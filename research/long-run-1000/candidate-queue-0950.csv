@@ -72,3 +72,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 金石道入寺の飴買い幽霊,https://www4.city.kanazawa.lg.jp/bunka_sports_kanko/rekishi_bunkazai/5/3/index.html,市公開『ゆうれいのあめ買い』本文1、4、7（原掲載未照合）,石川県金沢市金石町・道入寺,folklore_being,同名の他地域の話と伝播・同一人物を推測しない。,defer,市再話は特定女性の名・歴史上の身元を示さず、地域個体と共有話型の索引粒度を追加確認する。,Codex
 八田のスズキ・みよ,source_0694,金沢市『魚の恩がえし』本文1、4、6、8、11,石川県金沢市八田町・森本川下流,named_supernatural_entity,『みよ』という名は本文4で明示。同名の他地域の女性や鈴木家の歴史人物と統合しない。,admit,脚本付きの市再話を全11頁確認。魚が女性となる同一物語内のidentityが明示される。原資料・神社との歴史的連続性は未検証。,Codex
 法船寺の大ねずみ,https://www4.city.kanazawa.lg.jp/bunka_sports_kanko/rekishi_bunkazai/5/6/index.html,市公開『法船寺のねずみたいじ』本文1、5、11を確認。中間頁は今回未照合,石川県金沢市中央通町・法船寺,folklore_being,同寺・同話既存なし。普通のねずみと超自然的個体の境界が未確認。,defer,現時点では二匹の猫の退治譚と義猫塚の記述まで確認。大ねずみの異常な性質・entity粒度は中間本文照合後に判断。,Codex
+稻神さま,source_0295,pp.91–92、後編第65話「稻神さま」,資料の採集地は香川県だが物語内の場所は不明,named_supernatural_entity,同名・同資料の既存entityなし。稲荷神と同定しない。,admit,1941年刊の図書館公開翻刻に固有の呼称と役割が明記。編者が新しい作り物と評する点を同一claimに明示し、古い信仰の実在を推測しない。,Codex
+鬼の橋の鬼,source_0295,pp.99–100、後編第77話「鬼の橋」,話者は多度津町、物語内の橋の所在地は不明,folklore_being,既存の汎用鬼と物語上の個体を分ける根拠が不足。,defer,話題名に橋の固有名がなく、主人公との追跡関係だけでは安定したentity grainを確定しない。,Codex
+ゴーヘイ鳥,source_0295,p.100、後編第78話「ゴーヘイ鳥」,話者の地方は明示されない,folklore_being,既存entityなし。,reject,本文が天狗との誤認を解き、梟ともいう鳥の鳴き声として説明している。独立した超自然的存在としては扱わない。,Codex
+魔の池の魔物,source_0295,pp.101–102、後編第80話「魔の池」,山奥とだけ記載、採集地・固有の池は未確認,folklore_being,既存の蛇婿入話型との関係は編者も断定しない。,defer,一話の名無しの娘／魔物であり、場所も不詳。独立entityとしての識別力が弱い。,Codex
