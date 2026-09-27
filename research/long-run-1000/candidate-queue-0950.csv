@@ -42,3 +42,7 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 瀬戸川の狐（狐こう薬の伝説）,source_0685,本文1段落・娘の正体と薬の製法を教える段,静岡県藤枝市・瀬戸川,folklore_being,同名既存なし。『狐こう薬』は薬名・物語題であって狐の固有名とは扱わない。,admit,娘に化ける特定の狐と負傷・薬の交換が明記される。,Codex
 狼がくわえてきた子どもの狼,https://www.city.fujieda.shizuoka.jp/kyodomuse/11/12/1445916551201.html,本文、狼が赤子を置いて去る段,静岡県藤枝市朝比奈川,folklore_being,同名既存なし。神の使いか普通の狼か不明。,defer,狼の行動だけでは独立した超自然性を確定できない。,Codex
 玉取伝説の玉,https://www.city.fujieda.shizuoka.jp/kyodomuse/11/12/1445916513809.html,本文、宝玉と地名の伝説,静岡県藤枝市岡部町玉取,object_spirit,既存同名なし。宝玉は神体・地名由来の物体として説明。,reject,本文に自律的な怪異の主体としての描写がない。,Codex
+古賀村の古狸,source_0600,第1話『古賀の古狸』、古狸説と家の異変,福岡県古賀市・旧古賀村,folklore_being,同名・同話の既存entityなし。狸の実見ではなく人々の帰属として記録。,admit,市の公開民話に複数の具体的異変と古狸への帰属がある。古賀町誌原冊は未照合。,Codex
+筵内熊野神社の黒馬,source_0600,第3話『熊野神社の黒馬』,福岡県古賀市,folklore_being,mushirochi_kumano_kuroumaとして既収載。,reject,既存entityとの重複。,Codex
+犬鳴の天狗,source_0600,第4話『天狗の笛』,福岡県古賀市,folklore_being,inunaki_fue_no_tenguとして既収載。,reject,既存entityとの重複。,Codex
+貝舞のほら貝,source_0600,第2話『貝舞』,福岡県古賀市,object_spirit,既存同名なし。ほら貝の漂流と地名由来の話。,defer,現本文に自律的な妖怪・怪異主体を確認できない。,Codex
