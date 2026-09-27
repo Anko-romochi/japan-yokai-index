@@ -59,3 +59,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "飯牟礼山の大鬼","https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf","民話編5 飯牟礼山 印刷pp.25–26 PDF pp.27–28","鹿児島県","folklore_being","既存name・aliasに飯牟礼山なし","admit","地名付きの一個体として山を割る行動を史料本文で確認。フトドンとの系譜関係は未主張","Codex"
 "花もれどん","https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf","民話編6 印刷pp.26–29 PDF pp.28–31","鹿児島県","named_supernatural_entity","既存name・aliasに花もれどんなし","defer","本文は狩人に由来すると語る石塔・供養の対象であり怪異的主体としての粒度は未確定","Codex"
 "八幡が丘の天狗","https://www.city.ichikikushikino.lg.jp/bunka1/documents/kyoudo1.pdf","民話編5 天狗の足跡 印刷p.26 PDF p.28","鹿児島県","folklore_being","既存に同名なし","defer","一話の無名の天狗で既存天狗類型から独立させる粒度が未確定","Codex"
+"甑島のトシドン","https://online.bunka.go.jp/heritages/detail/136687","概要 解説 来訪・トシモチ","鹿児島県","folklore_being","既存name・aliasにトシドンなし","admit","文化庁解説が仮装行事と来訪神の役割を明示。甑島以外の同名伝承と自動統合しない","Codex"
+"薩摩硫黄島のメンドン","https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/mishima/hassakutaikoodori.html","本文第3段落","鹿児島県","folklore_being","既存name・aliasにメンドンなし","admit","県解説が硫黄島の仮面神と祓いの役割を明記。行事の実施と超自然的存在の史実性は区別","Codex"
+"悪石島のボゼ","https://online.bunka.go.jp/special_content/intangible/209809","主情報 解説第1–3段落","鹿児島県","folklore_being","既存name・aliasにボゼなし","admit","文化庁解説が仮装者と祓いの役割を区別して記述。3人を別entityにはしない","Codex"

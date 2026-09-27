@@ -631,3 +631,6 @@
 {"id":"okuno_ani_gitsune","name_ja":"オクノ","name_kana":"おくの","name_romaji":null,"aliases":[],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
 {"id":"futodon_imutaike","name_ja":"フトドン","name_kana":"ふとどん","name_romaji":null,"aliases":["太殿"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
 {"id":"iimureyama_no_ooni","name_ja":"飯牟礼山の大鬼","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"koshikijima_no_toshidon","name_ja":"甑島のトシドン","name_kana":"こしきじまのとしどん","name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"satsumaioujima_no_mendon","name_ja":"薩摩硫黄島のメンドン","name_kana":null,"name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
+{"id":"akusekijima_no_boze","name_ja":"悪石島のボゼ","name_kana":"あくせきじまのぼぜ","name_romaji":null,"aliases":[],"entity_type":"folklore_being","attested_periods":[],"attested_regions":["鹿児島県"],"tags":[],"research_status":"provisional"}
