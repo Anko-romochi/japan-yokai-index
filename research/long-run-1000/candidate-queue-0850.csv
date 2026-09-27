@@ -1,0 +1,6 @@
+﻿candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decision,decision_reason,reviewed_by
+お仙,source_0603,PDF p.2『お仙が淵伝説』、お仙が淵に祀る段,長野県上田市武石,named_supernatural_entity,既存名・alias・武石の伝承を照合し一致なし。三姉弟は資料内で別名と別々の祭祀場所が明示される。,admit,県資料の伝説欄で名前、大蛇の化身、別々に祀る場所を確認。原人物の歴史的実在や成立年代は主張しない。,Codex
+庄兵衛,source_0603,PDF p.2『お仙が淵伝説』、築地原のしょうぶ池に祀る段,長野県上田市武石,named_supernatural_entity,既存名・alias・武石の伝承を照合し一致なし。三姉弟は資料内で別名と別々の祭祀場所が明示される。,admit,県資料の伝説欄で名前、大蛇の化身、別々に祀る場所を確認。原人物の歴史的実在や成立年代は主張しない。,Codex
+金次郎,source_0603,PDF p.2『お仙が淵伝説』、権現の金次郎池に祀る段,長野県上田市武石,named_supernatural_entity,既存名・alias・武石の伝承を照合し一致なし。三姉弟は資料内で別名と別々の祭祀場所が明示される。,admit,県資料の伝説欄で名前、大蛇の化身、別々に祀る場所を確認。原人物の歴史的実在や成立年代は主張しない。,Codex
+龍梅観音伝説の雌雄大蛇,https://www.city.takaoka.toyama.jp/material/files/group/39/25kuniyosi.pdf,PDF p.1『国上山：信光寺』冒頭,富山県高岡市,folklore_being,既存大蛇・龍梅観音との関係未確認,defer,市のウォーキング地図は伝説の導入部のみで途切れ、二体の個別identityと物語の結末を確認できない。,Codex
+大雄寺の水飴幽霊,https://www.city.matsue.lg.jp/material/files/group/34/kouza25-5sakai.pdf,PDF p.1『民話について』伝説の例示,島根県松江市,folklore_being,既存幽霊類型との個体区別未確認,defer,講座資料は題名を例示するだけで個別本文・entityの識別情報がない。,Codex
