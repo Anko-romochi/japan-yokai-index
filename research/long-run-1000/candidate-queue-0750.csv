@@ -10,3 +10,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 風呂ヶ谷の白狐,https://www.city.sanda.lg.jp/soshiki/15/gyomu/rekishi_bunkazai/minwa/1883.html,本文、白狐が水たまりに入る段,兵庫県,folklore_being,既存名・場所を照合,reject,白狐が温泉を見つけるが怪異性・超自然的行為が示されない,Codex
 虚空蔵山の黒白の蛇,https://www.city.sanda.lg.jp/soshiki/15/gyomu/rekishi_bunkazai/minwa/3415.html,本文、黒蛇と白蛇が現れる段,兵庫県,folklore_being,既存名・場所を照合,defer,二匹のentity粒度と雨乞いとの因果の強さを原掲載書まで保留,Codex
 竜神池の金の鶏,https://www.city.sanda.lg.jp/soshiki/15/gyomu/rekishi_bunkazai/minwa/1910.html,本文、鶏の声と寺の宝物の推測の段,兵庫県,object_spirit,既存名・場所を照合,defer,声の主を金の鶏とするのは記事内の推測で物体の怪異化は未確定,Codex
+乾亨院のコンニャクの化け物,source_0528,登録ID 2494本文、大楠に住む段,佐賀県,folklore_being,既存名・場所・役割を照合し、青梅のこんにゃく岩とは別の伝承,admit,佐賀市の個別カードが怪異を明記。記事の昔という表現を成立年代にしない。,Codex
+北面天満宮の河童木像,source_0529,登録ID 430本文第1段落、河童木像が川に飛び込む段,佐賀県,object_spirit,既存名・場所・役割を照合し一致なし,admit,木像が行為主体となる固有の伝承として索引。神社の中世という分類を怪異の成立年代にしない。,Codex
+大中島のカワソウ,https://www.saga-otakara.jp/search/detail.html?cityId=1&cultureId=1554,登録ID 1554「水神・海神」本文、弁財天がカワソウを捕える段,佐賀県,folklore_being,既存名・場所を照合,defer,水神解説内の短い伝承で、単一個体と類型の粒度を原掲載『諸富町史』p.1196まで保留。,Codex
