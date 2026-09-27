@@ -19,3 +19,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 西林寺の大狸,source_0037,『伊予たぬき伝説巡り』(5),東温市西林寺,folklore_being,同名既存なし。名称が説明的。,defer,手にタコを持つ一文だけでは独立した個体名と粒度を固定しにくい。,Codex
 三光姫狸,source_0037,『伊予たぬき伝説巡り』(6),松山市高井町・高井八幡神社,named_supernatural_entity,同名既存なし。おさん狸の地域別同名entityとの関係未確定。,defer,愛称の同一性と出征譚の原資料を追加確認する。,Codex
 刑部狸,source_0037,『伊予たぬき伝説巡り』(8)・『伊予八百八狸』,松山市久谷町,named_supernatural_entity,既存inugami_gyobuと説明上対応する。,reject,既存entityの重複採録になる。今回alias追加も原資料照合まで保留。,Codex
+月見草の精,source_0424,Web版佐賀の昔話 No.59『月見草の花嫁』あらすじ第1–2段落,佐賀県嬉野市塩田町美野（語り手所在地）,folklore_being,既存の杵島山の松の精とは別話・別植物・別人物。,admit,県立図書館の複数段落のあらすじに、一人の娘の婚姻と月見草の精としての正体がある。安定した個体名ではなく資料内の記述名。,Codex
+杵島山の松の精,source_0424,Web版佐賀の昔話 No.27,佐賀県嬉野市塩田町美野,folklore_being,既存kishimayama_matsu_no_seiと同一索引・同一話。,reject,既存entityの重複採録。,Codex
+水神さんの手紙の姉妹,source_0424,Web版佐賀の昔話 No.48あらすじ,佐賀県嬉野市塩田町美野,named_supernatural_entity,同名既存なし。姉・妹の正体と人数の粒度が未確定。,defer,題名だけでは水神と語り中の二人の女性との同一性を固定できない。,Codex
