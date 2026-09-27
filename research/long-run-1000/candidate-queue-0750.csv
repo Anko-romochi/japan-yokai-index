@@ -67,3 +67,9 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 貝鞍が池の大蛇,source_0555,PDF 1頁『言い伝え・伝説』,長野県,folklore_being,既存名・池・行動を照合し一致なし,admit,個別カードに居所と移動を伴う伝説あり。墓石の建立時期を発祥時期としない。,Codex
 おりの,source_0556,『大里峠伝説』第1～2段,新潟県,named_supernatural_entity,既存名・大里峠・役割を照合し一致なし,admit,県の個別解説に固有名と変身後の行動あり。採録原資料は未確認。,Codex
 庄川の盲目の大蛇,source_0557,『庄川地区には「小太郎神社」の逸話があります。』の段,新潟県,folklore_being,既存名・庄川・小太郎神社を照合し一致なし,admit,七左衛門が小太郎の霊魂と感じた逸話を記録。大蛇と人霊の同一性は未確定。,Codex
+中将坊,source_0558,『八栗の天狗さまとは』本尊・奉納下駄の段,香川県,named_supernatural_entity,既存名・八栗寺・天狗の役割を照合し一致なし,admit,寺院公式解説に固有名と信仰・行動あり。大黒天との実在的同一性や信仰起源は未判断。,Codex
+黒体竜王,source_0559,PDF 1頁『言い伝え・伝説』,長野県,named_supernatural_entity,既存名・釜ヶ入の甌穴を照合し一致なし,admit,県の個別カードに固有名と黒い姿の伝えあり。カードの災害年を成立年としない。,Codex
+羅刹鬼（三ツ石伝説）,source_0445,本文、三ツ石様に縛られ手形を押す段,岩手県,named_supernatural_entity,既存三ツ石様とは別主体、既存羅刹名・役割を照合,admit,同じ伝承に登場する鬼を、既採録の三ツ石様とは別entityとして索引。,Codex
+大沼池の大蛇,source_0560,PDF 1頁『言い伝え・伝説』,長野県,folklore_being,既存名・大沼池・中野城主との関係を照合し一致なし,admit,県の個別カードに池・城主・暴風雨の行動あり。祭りと大蛇を同一entityにしない。,Codex
+鎧潟の大蛇,source_0511,PDF 5頁／印刷90頁『鎧潟』,新潟県,folklore_being,既存名・鎧潟を照合し一致なし,defer,登録URLが現在取得不能。新潟市の公式アーカイブで本文と安定URLを再確認してから採否判断。,Codex
+鏡潟の主,source_0511,PDF 6頁／印刷90頁『鏡潟』,新潟県,folklore_being,既存名・鏡潟を照合し一致なし,defer,登録URLが現在取得不能。娘と蛇の同一性も語りの推測であり原掲載まで遡る必要あり。,Codex
