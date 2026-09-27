@@ -49,3 +49,5 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 "アカカナジャー","https://okimu.jp/museum/minwa/1582447695/","カード47O381159 題名と話者題名","沖縄県","folklore_being","既存キジムナーとの関係を要確認","defer","話者題名は体験談キジムナー。別系統か呼称差か不明で独立entity化を保留","Codex"
 "あまんじゃく（佐伯区）","https://www.city.hiroshima.lg.jp/saekiku/shoukai/1027808/1027814/1007937.html","本文 あまんじゃく伝説","広島県","named_supernatural_entity","一般あまんじゃくとの同名に注意","reject","当該本文では逆らい癖のある男の子と父の埋葬の話で超自然的存在と確認できない","Codex"
 "石山のサンコ","https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5570","カード番号5564 あらすじ末尾 原掲載pp.84–85","秋田県","named_supernatural_entity","サンコ・石山のサンコを検索し一致なし","admit","博物館カードに狐の固有名と連れ去る言い伝えあり。原掲載本文は未照合","Codex"
+"三吉峰のさん子","https://www.akihaku.jp/monogatari/show_detail.php?serial_no=442","カード番号442 冒頭文・あらすじ 原掲載pp.116–120","秋田県","named_supernatural_entity","石山のサンコは男鹿市の別カード。名称類似だけでは統合しない","admit","狐の固有名と化け比べが明示。石山のサンコとの連続性は未確認","Codex"
+"狭山の三吉","https://www.akihaku.jp/monogatari/show_detail.php?serial_no=442","カード番号442 結末文・あらすじ 原掲載pp.116–120","秋田県","named_supernatural_entity","既存name・aliasに狭山の三吉なし","admit","狸の固有名と坊主への変化が明示。原掲載本文は未照合","Codex"

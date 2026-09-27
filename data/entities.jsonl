@@ -626,3 +626,5 @@
 {"id":"enoki_danuki_komatsushima","name_ja":"榎狸","name_kana":null,"name_romaji":null,"aliases":["榎狸大明神"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["徳島県"],"tags":[],"research_status":"provisional"}
 {"id":"yushichi_daimyojin","name_ja":"祐七大明神","name_kana":null,"name_romaji":null,"aliases":["祐七"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["徳島県"],"tags":[],"research_status":"provisional"}
 {"id":"sanko_oga","name_ja":"サンコ","name_kana":"さんこ","name_romaji":null,"aliases":["石山のサンコ"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
+{"id":"miyoshimine_no_sanko","name_ja":"三吉峰のさん子","name_kana":null,"name_romaji":null,"aliases":["さん子"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
+{"id":"sayama_no_sankichi_tanuki","name_ja":"狭山の三吉","name_kana":null,"name_romaji":null,"aliases":["三吉"],"entity_type":"named_supernatural_entity","attested_periods":[],"attested_regions":["秋田県"],"tags":[],"research_status":"provisional"}
