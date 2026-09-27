@@ -61,3 +61,6 @@ candidate_name,source,locator,region,entity_type_candidate,duplicate_check,decis
 海のガーラ,source_0295,p.74、第47話『運定め話』,香川県,folklore_being,既存河童・ガーラと照合,defer,丸亀在住の話者による一話で、名称が地域種を指すか独立個体を指すか未確認。,Codex
 万八狸（三木）,source_0551,見出し『万八狸とお万狐（1）』直下、『この地域には』から化けくらべの説明まで,兵庫県,named_supernatural_entity,既存名・別名・地域と化けくらべの組合せを照合,admit,香川県の同名『万八狸』と同一個体かは未確認。地域を括弧で付けた索引名として分ける。,Codex
 お万狐,source_0551,見出し『万八狸とお万狐（1）』直下、両者が化けくらべをしたとする段,兵庫県,named_supernatural_entity,既存名・別名・地域と化けくらべの組合せを照合,admit,同名・類似名の他地域の狐とは統合しない。市の説明を越えた人物像は付与しない。,Codex
+戸隠の九頭龍大神,source_0552;source_0553,図書館資料解説／戸隠神社『地蔵堂』学門行者欄,長野県,named_supernatural_entity,既存の箱根・福井の九頭龍と地域・由緒を区別,admit,戸隠の資料に結びつく固有の信仰対象として索引。二つの縁起の同一性や成立順序は未判断。,Codex
+くらがり沢の大蛇,source_0554,PDF 8頁／印刷16頁【伝説】欄,長野県,folklore_being,既存名・地域・伝承の行為を照合し一致なし,admit,県の防災資料が個別の沢と大蛇の行為を記す。物語が参照する洪水の年代を発祥年代とはしない。,Codex
+多鯰ヶ池のお種,https://www.city.tottori.lg.jp/archives/shihou/img/pr/S580601.pdf,PDF 8頁／印刷8頁『ふるさと再訪（3）多鯰ヶ池』,鳥取県,named_supernatural_entity,既存tanegaike_taneと照合,reject,OCRの『おたか』は原紙面で『おたね』。既存『たね』と同系統のため新規entity化しない。,Codex
