@@ -1,0 +1,20 @@
+# Full-corpus claim source check — batch 069
+
+Checked 2026-09-28. Claims 0905–0912: **8 new unique direct checks**. Research only; corpus unchanged.
+
+| Claim | Directly read passage | Finding and source-layer limit |
+| --- | --- | --- |
+| 0905 | [秋田市『広報あきた』2001-06-22](https://www.city.akita.akita.jp/city/pl/pb/koho/htm/20010622/6-22-8.html), 「空素沼の伝説…」第1段落 | A white-haired man appears at a villager's pillow on the night the pond forms and calls himself the pond master. The same paragraph mentions a snake earlier; it does not identify the old man with that snake. The article then discusses possible physical formation separately. |
+| 0906 | [西会津町『広報にしあいづ』No.748 (2021-02)](https://www.town.nishiaizu.fukushima.jp/uploaded/attachment/7734.pdf), PDF p.1 「安座集落・八蛇沼の大蛇伝説」 | The town page says a female snake lived in 八蛇沼, crossed a connecting waterway to the male in 沼沢沼, and died after the water receded. The large PDF exceeded the web parser's limit; the publicly hosted single-page PDF was downloaded and visually inspected locally. It credits an original text by the late 長谷川謙吉, which was not separately read. |
+| 0907 | [same 西会津町 page](https://www.town.nishiaizu.fukushima.jp/uploaded/attachment/7734.pdf), PDF p.1, first two body paragraphs | A male snake inhabits 沼沢沼 and sends beautiful woven cloth through the waterway to the female in 八蛇沼. These are two separately located beings in one tale. The map and town names are source context, not proof of the tale's origin date. |
+| 0908 | [嶋田忠一『秋田県立博物館研究報告』24 (1999)](https://www.akihaku.jp/cms/wp-content/uploads/2022/11/aktpmrep24_037-052.pdf), printed p.44 / PDF p.8, note 7 | The paper quotes a 1927 newspaper account reprinted in 『我が郷土』(1931): a snake of 阿彦沼 coils around 阿彦館 to shield it, and attackers throw swords into the pond. OCR is poor but the relevant passage and the note's publication chain are legible. Neither the newspaper nor the 1931 volume was directly read; do not claim independent confirmation from all three. |
+| 0909 | [山口県「梅雨を操る『梅雨左衛門』」](https://happiness-yamaguchi.pref.yamaguchi.lg.jp/kiralink/202105/yamaguchigaku/index.html), opening quotation attributed to 『玖珂郡志』 | The quoted 六呂師村 account describes a pair of small, white-headed snakes at a rock hole and rites when they appear late. The prefectural article is directly read; the 1802 gazetteer itself is not. The pair and the later 八代 red snake share a name but must not be merged. |
+| 0910 | [same 山口県 article](https://happiness-yamaguchi.pref.yamaguchi.lg.jp/kiralink/202105/yamaguchigaku/index.html), 「タブーあり」 quotation attributed to 『防長風土注進案』 | The 八代村 account names a red small snake 梅雨左衛門 and gives a local story of a dead same-named person's spirit becoming a snake. This human-to-snake explanation belongs to this locality; the original gazetteer volume was not directly read. |
+| 0911 | [山口県文書館「文書館動物記 20」](https://archives.pref.yamaguchi.lg.jp/user_data/upload/File/doubutsu20.pdf), PDF p.1, 『浦日記』天保12年6月16日条の解説・翻刻 | The diary passage reports a three-forked tail and the popular label 尾かづき, then rejects parts of the rumor as false and describes a sick マミ狸. Record the rumor and the diarist's skepticism together. An archive reproduction and transcription are available; no claim of a proven supernatural animal. |
+| 0912 | [高知県『第2次仁淀川清流保全計画』改訂3版 (2025-03)](https://www.pref.kochi.lg.jp/doc/2025022800429/file_contents/file_20253311131040_1.pdf), printed p.31 / PDF p.35, 「にこ淵の伝説」 | The plan's story says an expelled daughter takes great-snake form in a nearby hut, is seen, and enters にこ淵. The 2025 plan is a later institutional retelling; original storyteller, collection and formation date remain untraced. Human daughter and snake are one figure within this version only. |
+
+## Follow-up
+
+- The two 西会津 snakes are coupled in one narrative but remain different individuals. Compare 長谷川謙吉's credited original before promoting depth.
+- 山口's two 梅雨左衛門 accounts have conflicting form, color, number, locality and human-origin explanation; same name is insufficient for a merge.
+- Preserve the 1841 diary's own correction to the 尾かづき rumor, and distinguish 1927, 1931 and 1999 in the 阿彦沼 source chain.
