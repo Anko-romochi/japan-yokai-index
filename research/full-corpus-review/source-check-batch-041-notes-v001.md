@@ -1,0 +1,15 @@
+# Full-corpus claim source check — batch 041
+
+Checked 2026-09-28. Claims 0526–0532: **seven new checks** against Wakayama Prefecture's full retelling excerpts. Each page names an earlier publication, which was **not** read. Historical acts, landforms, relics and cult continuity described inside the stories are not independent facts. Corpus frozen.
+
+| Claim | Registered page / locator | Finding and source-layer limit |
+| --- | --- | --- |
+| 0526 | [「国主淵の生き面」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/10.html), 龍宮岩 through 桜井刑部's fight; cited 『貴志川町史』 unread | The tale calls a snake 大国主明神's messenger living inside the rock. A horizontal object first looks like a tree or snake, then moves and is fought as a snake; the ambiguous observation belongs to the story. The living masks are distinct objects. |
+| 0527 | [「おはらはん」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/02.html), snake's arrival / three parts / 杉尾神社; cited 海南市教育委員会 『ふるさとをたずねて（むかし話Ⅰ）』 unread | One snake's head, belly and feet are ritually placed at different sites. おはらはん names the belly-associated shrine/cult, not an independently named second snake. |
+| 0528 | [「住持池 室家の桂姫とのまつわり」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/06.html), procession and lake ending; cited 『岩出町誌』 unread | One snake takes 桂姫; later two snakes swim where she appeared. The story implies transformation but does not separately observe and name a second snake beforehand. 康和 is an alleged story setting only. |
+| 0529 | [「狸々の話」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/35.html), 天神崎 visitor and hair fishing line; cited 『熊野古道大辺路の民話』 unread | The visitor calls herself the daughter of a sea 狸々 and gives her hair as a fishing line. Parent/type and daughter are separate grains. The later place-name/relic explanations are within the same excerpt, not independent corroboration. |
+| 0530 | [「枕がえし」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/31.html), 小又川 hut, wood repair, pillows and next morning; cited 『龍神の民話』 unread | **Several small beings** replace chips in the fir tree, then turn seven woodcutters' pillows; all seven are dead at dawn, while 次郎作 is spared. Group grain; the tale's closing question about tree spirit does not identify one named perpetrator. |
+| 0531 | [「巨人の足跡」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/07.html), 最初峯 / 高野山 / 大台原; cited 『打田町の民話と伝説』 unread | A giant's steps produce landscape in the telling. Its claimed geological and vast-time chronology is etiological story content, not geological evidence or earliest attestation. |
+| 0532 | [「てんぐ徳兵衛」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/38.html), return / report / nickname / shrine; cited 『熊野古道大辺路の民話』 unread | 徳兵衛 is a **human** said to be rescued and taught by a tengu; villagers later nickname him てんぐの徳兵衛 and build a shrine. The nickname does not make him biologically or ontologically a tengu. |
+
+**Human review candidates:** 0527 title versus animal grain; 0528 princess transformation versus named snake; 0529 daughter/parent; 0530 plurality; 0532 historical-person-like protagonist versus tengu association. No proposed corpus correction was applied.
