@@ -1,6 +1,6 @@
 # Full-corpus claim source check — batch 059
 
-Checked 2026-09-28. Claims 0796–0804: **9 new unique checks**. Read the registered institutional page/card or its object transcription. A museum's transcription is closer to the historical print than a generic overview, yet the object image itself was not inspected. Dates inside prophecy texts and modern site updates are kept separate from object dating. Corpus unchanged.
+Checked 2026-09-28. Claims 0796–0804: **8 new unique checks and 1 recheck**. Claim 0804 had already been checked in batch 002; its row here refines that assessment and must not be counted as new coverage. Read the registered institutional page/card or its object transcription. A museum's transcription is closer to the historical print than a generic overview, yet the object image itself was not inspected. Dates inside prophecy texts and modern site updates are kept separate from object dating. Corpus unchanged.
 
 | Claim | Directly read passage | Finding and source-layer limit |
 | --- | --- | --- |
