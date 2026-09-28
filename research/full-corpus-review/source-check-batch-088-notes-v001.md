@@ -1,0 +1,13 @@
+# Full-corpus bibliographic source-chain recheck — batch 088
+
+Rechecked 2026-09-28. One existing indexed claim, `claim_0692` (`naha_hachiro`); no new entity, source, or claim. The registered [Nichibun card C1040210-000](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=C1040210-000) directly supports the limited claim about its **summary**: a snake at みどろが池 names itself 那波八郎 and gives a grievance against his brothers. The card cites 井田安雄, 「群馬の伝説の代表例」 in 『群馬県史 資料編27 民俗3』, p.796. That printed page remains unread; the claim stays `indexed_only` for original-publication depth.
+
+## Publication-date conflict
+
+The same card's bibliography gives **「S55年3月31日」** and **「1982年」** for the publication. 昭和55 corresponds to **1980**, not 1982. Three independent institutional catalog descriptions of this *same edition* corroborate 1980: the [publisher's prefectural archive volume list](https://www.pref.gunma.jp/site/monjyokan/130233.html) says S55.3 for volume 27; the [Showakan holding](https://search.showakan.go.jp/search/book/detail.php?material_cord=000011190) says 1980-03; and [Osaka Prefectural Library's holdings list](https://www.library.pref.osaka.jp/site/central/lib-lhist-lhist10.html) says 1980. These are bibliographic cross-checks, **not independent evidence for the legend**. The corpus `source_0487.date` currently says `1982-03-31`, apparently following the card's inconsistent Western-year field. Recommend human-reviewed correction candidate to `1980-03-31`, subject to checking the volume's title or colophon page. Do not infer the legend's occurrence date from publication.
+
+## Access limits
+
+The [registered Niigata 2017 report PDF](https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29takahashi06.pdf) and its [full-volume PDF](https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/H29-houkokusyo.pdf), plus the [2016 report PDF](https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/05_fumimaru_takahashi.pdf) and its [full-volume PDF](https://www.city.niigata.lg.jp/kurashi/kankyo/kataken/kataken_kankoubutsu.files/heisei28_kenkyuseikahokokusho_all.pdf), returned HTTP 404 during this recheck. Search-engine snippets for former copies do not count as direct passage checks. The affected claims retain their prior open-queue statuses. No original work cited within either report was newly read.
+
+The latest tally remains **1020 registered-source direct-supported and 32 other/open results** across 1052 unique claim IDs. The [open queue v007](open-claim-source-queue-v007.csv) adds the date contradiction to `claim_0692` without removing it. Corpus and validator remain frozen.
