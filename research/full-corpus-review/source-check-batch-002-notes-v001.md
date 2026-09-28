@@ -1,0 +1,17 @@
+# Source check batch 002 — 12 claims
+
+Performed 2026-09-28 against the frozen 1000-entity corpus. Nine recorded source passages were readable and support their limited `source_fact` claims. Two URLs could not be fetched; a third card is visible only in search indexing on an alternate host. No corpus correction was made or inferred from inaccessible content.
+
+| Claims | Source passage and result |
+|---|---|
+| `claim_0147`, `claim_0150`, `claim_0151` | 日文研 image catalog [やなり](https://www.nichibun.ac.jp/cgi-bin/YoukaiGazou/card.cgi?identifier=U426_nichibunken_0051_0032_0000), [つるべ火](https://www.nichibun.ac.jp/cgi-bin/YoukaiGazou/card.cgi?identifier=U426_nichibunken_0082_0011_0000), [ひやうすべ](https://www.nichibun.ac.jp/cgi-bin/YoukaiGazou/card.cgi?identifier=U426_nichibunken_0082_0018_0000), each 「内容記述」 and 「情報源」. Catalog descriptions support the claim wording. Their 2006/2007 image dates do not date the original parent works. |
+| `claim_0433` | [秋田県立博物館 card 2837](https://www.akihaku.jp/monogatari/show_detail.php?serial_no=2843), 「あらすじ」 and 1990 bibliographic fields; original 『男鹿五里合民俗誌』 pp.388–389 unread. |
+| `claim_0435` | [秋田県立博物館 URL](https://www.akihaku.jp/monogatari/show_detail.php?serial_no=4871) could not be fetched. Card title/original-publication fields in the corpus remain unconfirmed in this run. |
+| `claim_0436` | [秋田県立博物館 card 2840](https://www.akihaku.jp/monogatari/show_detail.php?serial_no=2846), 「あらすじ」 and 1990 bibliographic fields; original 『太田の昔話と伝説』 pp.107–108 unread. The monk and catfish are linked by food found in the stomach, a story inference. No independent identity evidence. |
+| `claim_0438` | [秋田県立博物館 URL](https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5769) could not be fetched. Retry card and 『東由利の民話（第四集）』 pp.50–52. |
+| `claim_0439` | [秋田県立博物館 card 5703](https://www.akihaku.jp/monogatari/show_detail.php?serial_no=5709), 「あらすじ」; original 『ふるさとの心とくらし』 pp.120–121 unread. Snow death and post-death dream are story events, not publication dates. |
+| `claim_0604`, `claim_0605` | [佐賀県立図書館「佐賀の昔話」](https://www2.tosyo-saga.jp/kentosyo/web-mukashibanashi/title.html), No.27 and No.90 「あらすじ」 support their limited claims. Years 1916 and 1932 on this page are narrator birth years. Original 843話 for No.27 unread. A comment compares giant motifs to 『常陸国風土記』; it does not establish that this named ミソゴロドン existed in that earlier source. |
+| `claim_0804` | [岩手県立博物館資料9604](https://jmapps.ne.jp/iwtkhk/det.html?data_id=9604), 「解説」 supports the claim as a museum account; inscription on the back of the scroll has not been independently transcribed in this run. |
+| `claim_1006` | Registered [日文研 URL](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2366438) could not be fetched. Search indexed a matching card ID on [another 日文研 host](https://sekiei.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2366438), but direct fetch there also failed. Treat as a **source URL verification candidate**, not a confirmed broken URL; original 1990 『民俗採訪』 p.122 unread. Similarity results show other サケノスケ cards, which are separate witnesses until compared. |
+
+This batch exposes repeated source-layer distinctions: image catalog versus parent work, card abstract versus original publication, narration's alleged time versus printed date, and same-name search results versus entity identity. They are research follow-ups; none warrants a corpus edit by itself.
