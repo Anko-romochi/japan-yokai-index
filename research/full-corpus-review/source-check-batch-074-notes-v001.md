@@ -1,0 +1,18 @@
+# Full-corpus claim source check — batch 074
+
+Checked 2026-09-28. Claims 0952–0961: **10 new direct checks of the registered source passages**. A checked passage can still be a modern retelling or a reference answer; it does not imply that the cited original was read. Research only; corpus unchanged.
+
+| Claim | Directly read locator | Finding and source-layer limit |
+| --- | --- | --- |
+| 0952 | [出雲かんべの里「化け物問答」](https://kanbenosato.com/minwa/294/), telling and 解説 | The tale has a large monk-like apparition called テッチン坊, which the monk identifies as a camellia pestle; villagers break it and see blood. The explanation dates collection from narrator 別所菊子 to August 1988 in 鳥取県三朝町吉尾. The narrated mountain temple is not thereby located in Misasa. Audio uninspected. |
+| 0953 | [茨城県民話Webアーカイブ「野々井と大蛇」](https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0801100028?f=1), 原文 / source book p.85 | The transcribed text puts a great snake near 北ノ谷の野々井, has a man kill it and wash it in the well, and describes red blood in fields and downstream. The final sentence only speculates that the snake might have guarded the well. Original zine image uninspected. |
+| 0954 | [茨城県民話Webアーカイブ「大蛇丸」](https://www.bunkajoho.pref.ibaraki.jp/minwa/minwa/no-0800100108?f=1), 原文 / source book p.108 | The snake attacks fields and houses, 志筑 castle's 保親 cuts it, and people later attribute illness and disasters to its curse. The sword is named 大蛇丸 at the end; this is distinct from a demonstrated proper name of the snake. Original scan uninspected. |
+| 0955 | [香川県立図書館公開翻刻『東讃岐昔話集』](https://www.library.pref.kagawa.lg.jp/know/local/local_3004-3), 六三「蛇骨の話」printed pp.112–113 | 森本実's telling describes the 庄屋's daughter showing scales, changing to a great snake at sea near 大槌島, and bones later taken offshore. The printed 1979 collection is represented by the library transcription; original image and collection date uninspected. |
+| 0956 | [山梨県立図書館の調査回答](https://www.lib.pref.yamanashi.jp/reference/jirei/yamanashi.html), 「娘に化けた大ウナギ」回答・調査過程 | The librarian identifies 市川三郷町上野樋田のうなぎ沢 and summarizes a large eel taking a girl's form to plead against poison fishing. The listed 1975/1976 books and other witnesses were not directly read; they are leads, not independent confirmations yet. |
+| 0957 | [same 山梨県立図書館 page](https://www.lib.pref.yamanashi.jp/reference/jirei/yamanashi.html), 「さつき姫伝説」回答・参考資料 | The answer places the tale at 福士小久保 and says the princess enters 池の山の大池 and becomes a dragon deity. It lists town histories, a shrine history, and other texts, with variations noted by the librarian; those texts were not read or counted as independent evidence. |
+| 0958 | [松山観光コンベンション協会「たぬき伝説」](https://www.mcvb.jp/kankou/tanuki.html), 伊予たぬき伝説巡り (1) | The short profile says お袖狸 saved an old woman, drew worship and has a shrine in 堀之内. The original telling and chronology are absent. |
+| 0959 | [same 松山 tourism page](https://www.mcvb.jp/kankou/tanuki.html), (2) | The 六角堂狸 profile connects trickery with a skull, a priest's gift of a robe, and reform. This is a later short summary with no original tale citation. |
+| 0960 | [松山城「松山城豆知識」](https://www.matsuyamajo.jp/discover/trivia.html), 「毘沙門狸」 | The castle page situates the tanuki by 毘沙門堂 and lists transformations into a monk-like yokai, lantern, and train, with the name 毘沙門狸. Its anecdote involving 柳原極堂 and 夏目漱石 requires independent source tracing before a historical-person linkage is asserted. |
+| 0961 | [松山 tourism page](https://www.mcvb.jp/kankou/tanuki.html), (7) | The 金平狸 profile attributes literacy, abacus skill, and errands for 大宮八幡神社's priest. The original narrative and date are not identified. |
+
+Claim 0962 had a prior source check and is not part of this batch.
