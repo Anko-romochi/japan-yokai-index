@@ -1,0 +1,549 @@
+{
+  "entity_count": 1000,
+  "source_count": 744,
+  "claim_count": 1052,
+  "prior_deepening_entity_ids": 106,
+  "prior_deepening_research_units": 100,
+  "entity_type_counts": {
+    "folklore_being": 500,
+    "supernatural_phenomenon": 76,
+    "named_supernatural_entity": 357,
+    "object_spirit": 51,
+    "historical_person_in_supernatural_tradition": 14,
+    "urban_legend_figure": 2
+  },
+  "source_type_counts": {
+    "institutional_catalog": 35,
+    "institutional_explanation": 452,
+    "research_article": 11,
+    "database_record": 206,
+    "primary_or_early_source": 40
+  },
+  "claim_review_counts": {
+    "reviewed": 1050,
+    "pending": 2
+  },
+  "flags": {
+    "single_claim": 961,
+    "single_source": 967,
+    "region_unrecorded": 103,
+    "period_unrecorded": 945,
+    "catalog_only": 39,
+    "source_date_unrecorded": 460,
+    "explanation_only": 623,
+    "database_only": 214,
+    "claim_probable": 3,
+    "kana_unrecorded": 606,
+    "duplicate_source_url": 3,
+    "claim_pending": 2
+  },
+  "duplicate_urls": {
+    "https://www.nichibun.ac.jp/YoukaiDB/ikai/report.html": [
+      "source_0079",
+      "source_0087"
+    ],
+    "https://www.city.mishima.shizuoka.jp/page/1320.html": [
+      "source_0426",
+      "source_0455"
+    ]
+  },
+  "top_source_hosts": {
+    "www.nichibun.ac.jp": 140,
+    "www.bunka.pref.mie.lg.jp": 26,
+    "www.bunkajoho.pref.ibaraki.jp": 22,
+    "www.pref.chiba.lg.jp": 18,
+    "www.pref.tottori.lg.jp": 17,
+    "rekihaku.pref.hyogo.lg.jp": 16,
+    "www.akihaku.jp": 16,
+    "wave.pref.wakayama.lg.jp": 14,
+    "okimu.jp": 13,
+    "www.city.yokohama.lg.jp": 9,
+    "kenshi-archives.pref.aomori.lg.jp": 9,
+    "www.mlit.go.jp": 9,
+    "www.ndl.go.jp": 8,
+    "www.vill.totsukawa.lg.jp": 8,
+    "www.library.pref.kagawa.lg.jp": 8
+  },
+  "priority_candidates": [
+    {
+      "position": 328,
+      "entity_id": "oritate_nekomata_no_kai",
+      "name_ja": "折立・猫又の滝の怪猫",
+      "triage_score": 22,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; claim_pending; claim_probable; explanation_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 336,
+      "entity_id": "souhanbuchi_no_ooameno_uo",
+      "name_ja": "ソウハン渕の大アメノウオ",
+      "triage_score": 22,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; claim_pending; claim_probable; explanation_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 60,
+      "entity_id": "sakura_sogo",
+      "name_ja": "佐倉惣五郎",
+      "triage_score": 9,
+      "triage_flags": "region_unrecorded; period_unrecorded; claim_probable; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/sakura_sogo/evidence-pack-v001.md"
+    },
+    {
+      "position": 73,
+      "entity_id": "aka_manto_child_snatcher",
+      "name_ja": "赤マント",
+      "triage_score": 9,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; region_unrecorded; period_unrecorded; explanation_only; duplicate_source_url; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/aka-manto/evidence-pack-v001.md"
+    },
+    {
+      "position": 76,
+      "entity_id": "nanji",
+      "name_ja": "ナンジ",
+      "triage_score": 9,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; explanation_only; duplicate_source_url; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 1,
+      "entity_id": "kappa",
+      "name_ja": "河童",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/kappa/evidence-pack-v001.md"
+    },
+    {
+      "position": 2,
+      "entity_id": "tengu",
+      "name_ja": "天狗",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/tengu/evidence-pack-v001.md"
+    },
+    {
+      "position": 3,
+      "entity_id": "kitsunebi",
+      "name_ja": "狐火",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 16,
+      "entity_id": "yamauba",
+      "name_ja": "山姥",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/yamauba/evidence-pack-v001.md"
+    },
+    {
+      "position": 17,
+      "entity_id": "inugami",
+      "name_ja": "犬神",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/inugami/evidence-pack-v001.md"
+    },
+    {
+      "position": 101,
+      "entity_id": "aburaname",
+      "name_ja": "油舐め",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 102,
+      "entity_id": "tenome",
+      "name_ja": "手の目",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 103,
+      "entity_id": "umizato",
+      "name_ja": "海座頭",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 104,
+      "entity_id": "noderabo",
+      "name_ja": "野寺坊",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 105,
+      "entity_id": "gagoze",
+      "name_ja": "ガゴゼ",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 106,
+      "entity_id": "yanari",
+      "name_ja": "家鳴り",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 107,
+      "entity_id": "uwan",
+      "name_ja": "うわん",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 108,
+      "entity_id": "ouni",
+      "name_ja": "苧うに",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 109,
+      "entity_id": "tsurubebi",
+      "name_ja": "釣瓶火",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 110,
+      "entity_id": "hyosube",
+      "name_ja": "兵主部",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 111,
+      "entity_id": "takaonna",
+      "name_ja": "高女",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 112,
+      "entity_id": "tesso",
+      "name_ja": "鉄鼠",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 148,
+      "entity_id": "umashika",
+      "name_ja": "馬鹿",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 149,
+      "entity_id": "nobusuma",
+      "name_ja": "のぶすま",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 150,
+      "entity_id": "domokomo",
+      "name_ja": "どふもこうも",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 226,
+      "entity_id": "kodama_sekien",
+      "name_ja": "木魅",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 227,
+      "entity_id": "shirachigo_sekien",
+      "name_ja": "白児",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 228,
+      "entity_id": "kawauso_sekien",
+      "name_ja": "獺",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 229,
+      "entity_id": "akaname_sekien",
+      "name_ja": "垢嘗",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 230,
+      "entity_id": "tanuki_sekien",
+      "name_ja": "狸",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 231,
+      "entity_id": "amikiri_sekien",
+      "name_ja": "網剪",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 232,
+      "entity_id": "jorogumo_sekien",
+      "name_ja": "絡新婦",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; region_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/jorogumo_sekien/evidence-pack-v001.md"
+    },
+    {
+      "position": 295,
+      "entity_id": "kukihime_onryo_munakata",
+      "name_ja": "菊姫の怨霊",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/munakata-six/evidence-pack-v001.md"
+    },
+    {
+      "position": 296,
+      "entity_id": "chinkokuji_no_shirohebi",
+      "name_ja": "鎮国寺の白蛇",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/munakata-six/evidence-pack-v001.md"
+    },
+    {
+      "position": 297,
+      "entity_id": "tsurigawa_no_chotaro_kappa",
+      "name_ja": "釣川の長太郎河童",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/munakata-six/evidence-pack-v001.md"
+    },
+    {
+      "position": 298,
+      "entity_id": "tarumitouge_no_kappa",
+      "name_ja": "樽見峠の河童",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/munakata-six/evidence-pack-v001.md"
+    },
+    {
+      "position": 299,
+      "entity_id": "tsuwase_no_yureisen",
+      "name_ja": "津和瀬の幽霊船",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/munakata-six/evidence-pack-v001.md"
+    },
+    {
+      "position": 300,
+      "entity_id": "ryuoike_no_kinryu",
+      "name_ja": "龍王池の金色の龍",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/munakata-six/evidence-pack-v001.md"
+    },
+    {
+      "position": 500,
+      "entity_id": "fukanuma_kaido_no_kitsune",
+      "name_ja": "深沼街道の狐",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 531,
+      "entity_id": "taroten_yayama",
+      "name_ja": "太郎天",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 694,
+      "entity_id": "oshizu_gitsune",
+      "name_ja": "お静狐",
+      "triage_score": 8,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; catalog_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 251,
+      "entity_id": "sagi_musume",
+      "name_ja": "さぎむすめ",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; region_unrecorded; period_unrecorded; catalog_only",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 252,
+      "entity_id": "toki_jin",
+      "name_ja": "痘鬼神",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; region_unrecorded; period_unrecorded; catalog_only",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 253,
+      "entity_id": "tonyoku_no_baba",
+      "name_ja": "頓欲の婆々",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; region_unrecorded; period_unrecorded; catalog_only",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 338,
+      "entity_id": "takayama_no_yanagi_no_sei",
+      "name_ja": "高山の柳の精",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 339,
+      "entity_id": "hata_no_osangitsune",
+      "name_ja": "波多のおさん狐",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 340,
+      "entity_id": "otani_no_osangitsune",
+      "name_ja": "大谷のおさん狐",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/otani_no_osangitsune/evidence-pack-v001.md"
+    },
+    {
+      "position": 341,
+      "entity_id": "akamatsuike_no_hebi_hime",
+      "name_ja": "赤松の池の蛇体の姫",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 342,
+      "entity_id": "tonai_gitsune",
+      "name_ja": "藤内狐",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 343,
+      "entity_id": "shimo_no_shichibe_no_gaikotsu",
+      "name_ja": "下の七兵衛の骸骨",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 344,
+      "entity_id": "ryugu_no_hanatare_kozo",
+      "name_ja": "竜宮のはなたれ小僧",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 345,
+      "entity_id": "hikonano_yaobikuni",
+      "name_ja": "彦名の八百比丘尼",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 346,
+      "entity_id": "utsubukiyama_no_tennyo",
+      "name_ja": "打吹山の天女",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 347,
+      "entity_id": "binbogami",
+      "name_ja": "貧乏神",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 378,
+      "entity_id": "shichi_majimun",
+      "name_ja": "シチマジムン",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 379,
+      "entity_id": "ahiru_majimun",
+      "name_ja": "アヒルマジムン",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 380,
+      "entity_id": "inabo_majuunu",
+      "name_ja": "イナボーマジューヌ",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 381,
+      "entity_id": "yachiba",
+      "name_ja": "ヤチバー",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    },
+    {
+      "position": 382,
+      "entity_id": "shikina_inenbi",
+      "name_ja": "識名の遺念火",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": "research/source-deepening/shikina_inenbi/evidence-pack-v001.md"
+    },
+    {
+      "position": 383,
+      "entity_id": "madanbashi_inenbi",
+      "name_ja": "真玉橋の遺念火",
+      "triage_score": 7,
+      "triage_flags": "single_claim; single_source; kana_unrecorded; period_unrecorded; database_only; source_date_unrecorded",
+      "existing_deepening_pack": ""
+    }
+  ]
+}
