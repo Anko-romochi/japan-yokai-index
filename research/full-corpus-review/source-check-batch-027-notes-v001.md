@@ -16,3 +16,5 @@ Checked 2026-09-28. Claims 0331–0345. The municipal PDF, Munakata list, museum
 | 0345 | [狭山市「笹井のタケ坊河童の話」](https://www.city.sayama.saitama.jp/shisei/kouhou/koho/sayamanomukashi/202608.html), lines 184–196 | City posted text 2026-08-10, credited 題字・絵・文 to 池原昭治. タケ坊 is named at 笹井のタケが淵; later incense-scented offering story is part of this publication. Current publication date does not show earliest transmission. |
 
 Priority contradiction: 0335 reverses the ghost and victim. Priority source limits: 0336–0341 are catalog rows, and 0343–0344 are museum retellings of an unread work. No original-source depth upgrade or corpus edit.
+
+Bounded Local LLM check: `google/gemma-4-12b` was given only the extracted 0335 actor sequence and classified the saddle-maker's ghost as actor and living お光 as victim. The human source reading above fixes the conclusion; model output is not evidence.
