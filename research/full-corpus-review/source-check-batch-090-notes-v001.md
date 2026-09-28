@@ -1,0 +1,11 @@
+# Full-corpus earlier-publication lead — batch 090
+
+Rechecked 2026-09-28: existing `claim_0695` (`yoshima_no_fuchi_no_nushi`), research only. The [registered Nichibun card C0730386-000](https://www.nichibun.ac.jp/YoukaiCard/C0730386-000.html) directly states the limited claim about its summary: a prayer during drought promises a daughter, rain follows, and the pool's lord takes her. It locates this account in 和田文夫's section of 『福島県史 24 民俗2』 (1967-03-31), pp.577–579. **The prefectural-history pages remain unread**, so original-publication depth remains at index level.
+
+## Source-chain lead, not an earlier attestation
+
+The card's 「話者（引用文献）」 field says 『磐城の水の伝説』. A [separate Nichibun card 1230341](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1230341) identifies 高木誠一・岩崎敏夫, 「磐城の水の伝説」, 『旅と伝説』9(8), no.104 (1936-08-01), pp.37–43. That second card's **own** indexed item is 四升清水 in 植田町, not the 好間町 pool-lord story. Matching a cited title to a publication identifies a plausible earlier document to inspect; it does **not** establish that this entity or passage appears there. The [NDL volume catalog](https://ndlsearch.ndl.go.jp/books/R100000039-I1483570?locale=ja) identifies the 1936 issue, but its article pages were not read.
+
+An [いわき市立図書館 exhibition list](https://library.city.iwaki.fukushima.jp/manage/archive/upload/00000_20130205_0006.pdf), PDF p.4, also lists 高木誠一「石城の水の伝説」, a 1936-07 school-magazine offprint. The spelling, month, and publication differ from the August 『旅と伝説』 article. It may be related, but **no identity, reprint relationship, or independence** is established without comparing both texts. Neither bibliographic record proves the 好間 episode's earliest appearance. The 1967 `source_0490.date` is not a narrative event date.
+
+Retain `claim_0695` as `indexed_only` and in the open queue. Next evidence step is to inspect 『福島県史』 p.577–579 and both 1936 versions, then trace the exact 好間 wording and source dependency. Do not merge this pool lord with other generic 「淵の主」 records by name alone. The frozen corpus remains 1000/744/1052; [queue v009](open-claim-source-queue-v009.csv) records the narrower lead. Latest registered-layer tally remains **1020 direct-supported / 32 open**.
