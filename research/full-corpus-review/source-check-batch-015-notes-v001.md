@@ -1,0 +1,22 @@
+# Full-corpus source check, batch 015
+
+Checked 2026-09-28 UTC. Fourteen previously unchecked claims, `claim_0161`–`claim_0174`: six individual Nichibun cards and eight separately named stories on one Sumida City page. The card-level checks do not verify the underlying journal passages. The municipal page is a modern summary based on *墨田区文化財叢書第2集 墨田区の民間伝承・民間信仰* (Sumida Board of Education, 2008), not eight independent original witnesses. Corpus remains frozen.
+
+| Claim | Exact source locator | Observation and boundary |
+| --- | --- | --- |
+| `0161` | [Nichibun card 0080228](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0080228), `地域`, `要約`; *あゆみ―忽那諸島の民俗―* 8 (1968), p. 51 | Oso in Awai/Kamura, Ehime, is described both as an animal and a deceiver of people; the card does not settle a zoological identity. |
+| `0162` | [card 1860013](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1860013), `地域`, `要約`; *兵庫県民俗資料* 11 (1933), p. 75 | Kakurebaba appears in lane corners or dead ends during children's twilight hide-and-seek in Kobe, Hyogo-ku. |
+| `0163` | [card C0411214-000](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=C0411214-000), `話者（引用文献）`, `地域`, `要約`; *宮城縣史 民俗3* (1956), pp. 505–506 | Shiwahime, Kurihara: a white-haired woman heard/seen washing rice in a stream. The card cites NHK survey material; its relation to the published text has not been checked. This is also a place-name story (`化け物屋敷`). |
+| `0164` | [card 3000011](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=3000011), `地域`, `要約`; *芳賀郡土俗研究会報* 1 (1929), pp. 2–3 | Under a wooden bridge at Shimizu/Yamaguchi boundary, Motegi, Tochigi, Ashikaki-babaa scratches passersby's legs. |
+| `0165` | [card 1300094](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1300094), `要約`; *土の鈴* 15 (1922), pp. 21–23 | A monk who consumes the villagers' somen is revealed as the Jizo of Utsunoya, punishing extortionate sellers. This is a local Jizo manifestation narrative. |
+| `0166` | [card 1300049](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1300049), `地域`, `要約`; *土の鈴* 12 (1922), pp. 62–63 | The `遊び地蔵` of Matsuzaki, Tono wanders to liquor shops and pleasure quarters. Same religious object category as `0165`, but no identity merger. |
+| `0167` | [Sumida City FAQ 1148, `置いてけ堀`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | The call `おいてけ` and vanished fish are present. The page offers multiple estimated locations; none should be selected as a definitive origin. |
+| `0168` | [Same page, `狸囃子`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | Night drumming varying in loudness and direction in the Honjo area. Sound phenomenon, not a witnessed animal persona. |
+| `0169` | [Same page, `消えずの行灯、灯りなしの蕎麦`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | Soba-shop lamp cannot be extinguished; page specifies Minamiwarigesui. |
+| `0170` | [Same section](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | `灯りなしの蕎麦` is explicitly the inverse: lamp cannot be lit. The two named motifs share a page but should not be merged. |
+| `0171` | [Same page, `送り提灯`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | Light ahead goes out on approach and recurs farther away. The page locates the story near Oyokogawa/Hoonji-demura. |
+| `0172` | [Same page, `送り拍子木`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | An unseen clapper sound follows a night watchman, a distinct auditory phenomenon. |
+| `0173` | [Same page, `片葉の芦`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | The page expressly separates an initial one-sided reed growth explanation from a later O-Koma murder story. It supplies a relative sequence but no dates for each stage. Do not project the later tale into the earliest form. |
+| `0174` | [Same page, `足洗い屋敷`](https://www.city.sumida.lg.jp/faq/bunka_kanko/bunka_jigyou/1148.html) | A large foot emerges from a ceiling and the house shakes if it is not washed. This is one house legend, not evidence for a free-standing species. |
+
+The Sumida page says the set contains more than seven accounts and that the collection varies by era and recorder. These eight checks address exact named sections, not a reconstruction of a fixed original seven. The six original journal/volume passages and the 2008 source for Sumida remain follow-up candidates; no source depth upgrade or corpus correction is made here.
