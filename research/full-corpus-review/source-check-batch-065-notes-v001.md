@@ -1,0 +1,27 @@
+# Full-corpus claim source check — batch 065
+
+Checked 2026-09-28. Claims 0866–0881: **16 new unique direct checks**. Each registered page or PDF passage was read. Secondary references and tale dates remain separate from original publications. Research only; corpus unchanged.
+
+| Claim | Directly read passage | Finding and source-layer limit |
+| --- | --- | --- |
+| 0866 | [御嵩町観光協会「鬼の首塚」](https://mitake-kankou.jp/experience/%E9%AC%BC%E3%81%AE%E9%A6%96%E5%A1%9A/), body | 関の太郎 resides in 鬼の岩屋, is beheaded, and is thereafter said to protect the land. “約800年前” is tale chronology, not the page or source date. |
+| 0867 | [広報みたけ 2025年2月号](https://www.town.mitake.lg.jp/wp-content/uploads/b06b47062b9cbbf90dca5012cca398e1.pdf), printed p.20/PDF p.20 「御嵩町の文化財」 | The 2025 article gives 「鬼の太郎」 and summarizes the lower volume of 『大寺記』, compiled 1730: robber, magic/flight, death and guardian declaration. The PDF text extraction has broken column order, but the corresponding fragments are legible on page 20. 『大寺記』 itself was **not** read, so 1730 is a cited publication date, not verified wording of the original. |
+| 0868 | [中島村「村の歴史と文化」](https://www.vill-nakajima.jp/page/page000197.html), 「汗かき地蔵」 | 代畑堂の stone statue, sweat before calamity and 奥州汗かき地蔵尊 are explicit. The stone object and its omen legend are different evidence layers. |
+| 0869 | [福島県教育委員会「汗かき地蔵」](https://www.gimu.fks.ed.jp/plugin/databases/detail/2/18/17), heading and description | Confirms reading あせかきじぞう, 1335 inscription on the back and March 1975 village designation. 1335 dates the statue inscription, **not** the earliest sweating legend. |
+| 0870 | [六戸町「六戸の伝説」](https://www.town.rokunohe.aomori.jp/docs/2022051100062/), 「橘公塚」 | Page attributes the account to 『六戸町史』 and names 『六戸郡姉戸沼崎観世音縁起』; 玉世姫 enters 姉沼 and becomes its master. Both named earlier texts remain unread. 白雉5 (654) is setting, not attestation. |
+| 0871 | [same 六戸町 page](https://www.town.rokunohe.aomori.jp/docs/2022051100062/), same section | Sister 勝世姫 enters 小川原湖, called 妹沼 in the story. Distinct named woman and water body from 0870, though a shared single text. |
+| 0872 | [磐梯町「黄金の駒」](https://www.town.bandai.fukushima.jp/site/enichiji/minwa_sub1.html), latter half | Beauty says three grains of rice will yield three gold pieces; the narration describes three droppings and a large serving makes the horse fly away. “生む” is acceptable shorthand for the magical product, but its physical mechanism is internally worded differently. The tale's creation/publication date is unknown. |
+| 0873 | [same 磐梯町 tale](https://www.town.bandai.fukushima.jp/site/enichiji/minwa_sub1.html), 貝殻沼 episode | クロンド is summoned by name at a pond in 備前, appears as a boy, escorts 倉吉 underwater and gives the golden horse. The boy is an appearance in this telling, not proof of a human identity. |
+| 0874 | [長崎県「特別名勝温泉岳保存活用計画」 section 6](https://www.pref.nagasaki.jp/uploads/2024/04/1713400136.pdf), PDF p.7/printed p.52 and table 2-2-4 | 2024 plan calls みそ五郎 a giant fond of miso and lists separate stone, red-earth, pond and island tales with their locations. The table is a compilation, not independent sources for each locale; modern festival reuse is another layer. |
+| 0875 | [same 長崎県 plan](https://www.pref.nagasaki.jp/uploads/2024/04/1713400136.pdf), PDF p.7 「鬼石」 | Quotes 『温泉山縁起』 for four-faced great ogre 歓羅, described as the mountain's original master. The quoted original work was not itself opened; 『肥前国風土記』 mention elsewhere in the plan concerns the hot spring, not 歓羅. |
+| 0876 | [same 長崎県 plan](https://www.pref.nagasaki.jp/uploads/2024/04/1713400136.pdf), same paragraph | 空仙鬼 is the male ogre tied to the 山嶺鬼石. Ogre and geological rock are separate grains; the plan quotes but does not directly supply an independently checked original. |
+| 0877 | [same 長崎県 plan](https://www.pref.nagasaki.jp/uploads/2024/04/1713400136.pdf), same paragraph | 難林王 is the female ogre tied to the 雲仙鬼石. Same witness as 0875–0876, not three independent attestations. |
+| 0878 | [沖縄県公文書館「ヨーカビー」](https://www.archives.pref.okinawa.jp/news/that_day/4965), opening paragraphs | Defines タマガイ as fireball and records death omen plus locally opposite fortunate reading when distinctly visible. Geographic variation should remain explicit; the bibliographic list is contextual and not individually verified for this claim. |
+| 0879 | [鮭川村「与蔵沼の伝説」](https://www.vill.sakegawa.yamagata.jp/sakegawa/history/54), ending | The mother calls 与蔵, a white serpent answers, and the tale says the man transformed after drinking from the newly formed pond. Transformation is narrated; lake name is etiological, not independent historic proof. |
+| 0880 | [新庄まつり 2012山車「最上白髭沼の龍神伝説」](https://shinjo-matsuri.jp/db/2012_09), 解説 | Describes rain prayer to the pool's master and the master pursuing a lord as a dragon deity. The 2012 float description is a reuse/retelling, not the earliest attestation. |
+| 0881 | [和歌山県文化情報アーカイブ「久保の小女郎」](https://wave.pref.wakayama.lg.jp/bunka-archive/minwa/50.html), final paragraphs | White thread reaches 船戸の池 and a serpent holding 小女郎 appears; the girl identifies it as the pond master. Page cites 『北山村史』下巻, not directly opened. Its introductory “時代は不詳” prevents inferred event dating. |
+
+## Follow-up
+
+- Original-source chain: 1730 『大寺記』, 『六戸町史』 and cited 縁起, 『温泉山縁起』, 『北山村史』下巻 remain to be directly located and checked.
+- Avoid dating folklore from statue inscriptions, heritage plans, festival floats, or alleged event periods.
