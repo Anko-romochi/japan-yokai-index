@@ -1,0 +1,22 @@
+# Full-corpus claim source check — batch 070
+
+Checked 2026-09-28. Claims 0913–0922: **8 new unique direct checks and 2 rechecks** (0914 and 0920 were already checked in batches 003 and 001). Research only; corpus unchanged.
+
+| Claim | Directly read passage | Finding and source-layer limit |
+| --- | --- | --- |
+| 0913 | [新潟市南区『みなみくようかいだいずかん』第2巻](https://www.city.niigata.lg.jp/minami/kohoshi/minamikuyoukai.files/Minamikuyoukaidaizukan2.pdf), PDF p.3 / booklet p.2 | The illustrated かっぱのるいくん carries a pear and is introduced with 月潟「かっぱ松」 as the motif. The character design is a present-day civic creation; the older kappa tale is not evidence that this named character existed earlier. PDF text extraction interleaves vertical text, so the page image was inspected. |
+| 0914 | [same 新潟市 booklet](https://www.city.niigata.lg.jp/minami/kohoshi/minamikuyoukai.files/Minamikuyoukaidaizukan2.pdf), PDF p.4 / booklet p.3 | 小平のきつねさん is shown with leaf and brush; the panel identifies 新飯田「野狐の手紙」 as a source motif. The modern character's design and the folk narrative are different source layers and not automatically the same individual. Page image directly inspected. |
+| 0915 | [札幌市西区「さんかくやまベェのプロフィール」](https://www.city.sapporo.jp/nishi/yamabee/profile.html), profile and creator section | The official page links the character's birth to 本明ゆうじ's 2007 exhibition and gives 三角山・琴似発寒川 as its fictional home. Its claimed great age is character setting, not a historical date. Page update is 2023-04-27. |
+| 0916 | [青森県史デジタルアーカイブ、マタギ文書翻刻](https://kenshi-archives.pref.aomori.lg.jp/il/meta_pub/G0000004txt_Fork_MN3_200000), ⑤木村靖康家所蔵「山立根元巻」 | The transcribed narrative sets 赤木明神 against 日光山大権現 and has it appear as a giant serpent when 万三郎 meets it. The 2001 county-history transcription is read, not the physical scroll; story-era reign names and copied document colophons do not date this exact text. Its 上野国 setting differs from its 青森伝存地. |
+| 0917 | [新潟県「坊ヶ池」](https://www.pref.niigata.lg.jp/sec/nochikensetsu/1295211704199.html), overview paragraph | The prefecture calls 坊太郎 the dragon deity's child in a pond legend and offers this as a pond-name explanation. It separately says the irrigation pond was built in the Edo period. Neither that construction period nor the 2019 page update proves the tale's formation date. |
+| 0918 | [小千谷青年会議所「中町の猫」](https://www.ojiyajc.org/densetsu/den_nakamachi.php), middle and ending paragraphs | A long-resident, unnamed cat leaves the 中町 house, wanders, then stays at 雲洞庵 and participates in a staged funeral marvel. The page currently emits missing-header/footer PHP warnings, but the tale body is accessible. Its prior publication or recording is not identified. |
+| 0919 | [大郷町町勢要覧](https://www.town.miyagi-osato.lg.jp/uploaded/attachment/8224.pdf), PDF p.24 / printed p.23, 「三毛猫の恩返し（味明地区）」 | The guide's short synopsis names 泉永寺's priest and a headman's daughter as recipients of help from a calico-cat spirit. The large PDF exceeded web extraction, so the town-hosted PDF text was read locally. This is a synopsis, not a directly inspected full telling; original collection remains untraced. |
+| 0920 | [東北文教大学「佐藤家の昔話」20](https://www.t-bunkyo.ac.jp/library/minwa/archives/satouke/text/20.html), opening and 長才 encounter | おりや eats preserved vipers, becomes a large snake, and later tells 長才 of her flood plan. Human and snake are the same figure within this telling. The public transcription is read; original recording or manuscript was not checked. |
+| 0921 | [東北文教大学「佐藤家の昔話」33](https://www.t-bunkyo.ac.jp/library/minwa/archives/satouke/text/33.html), whole tale | 柳兵衛 is the fox challenging 大平の狸 to a disguise contest; its final paragraph also identifies the fox caught by a hunter's trap as 柳兵衛. Both episodes occur in one published transcription; they do not show separate independent attestations. |
+| 0922 | [広島市『ひろしま市民と市政』2022-01-01 中区版](https://www.city.hiroshima.lg.jp/www/koho/shimintoshiseir040101/shimintoshisei/ward/naka/topics/topics01.html), 「おさん狐」 | The city reports a trickster fox of 江波 and a statue on 舟入通り. This is a civic summary and modern commemoration; original tale and statue installation date are not established. |
+
+## Follow-up
+
+- Preserve modern civic character identity separately from the motifs in 新潟's older tales and from 札幌's fictional biography.
+- The 青森 transcription and 大郷 synopsis need their physical or full original sources before further depth promotion.
+- The 小千谷 page body remains usable despite PHP template errors; monitor its stability and seek the original telling.
