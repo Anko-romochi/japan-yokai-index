@@ -1,0 +1,18 @@
+JYI Atlas licensing boundaries
+
+New JYI Atlas code: MIT, as scoped by LICENSE-SCOPE.json. Preserve its copyright
+notice and license text when copying or distributing the licensed software.
+
+Existing JYI original metadata and short descriptions: their existing CC0 1.0
+terms remain unchanged. The existing corpus validator retains its existing MIT
+notice. The upstream LICENSE is preserved separately in source/release packages.
+
+The new MIT permission does not apply to third-party publications, images,
+databases, their original descriptions, private assets, or other Studio Anko
+products. Links and rights_note records are not redistribution permission.
+No external image or full-text payload is bundled. Credit referenced material
+according to the originating provider's terms and retain source URLs/locators.
+
+A production card is data and user creative notes, not a transfer of third-party
+rights. The tool's MIT license does not automatically relicense those notes or
+the linked material. Publication approval of a release is a separate gate.

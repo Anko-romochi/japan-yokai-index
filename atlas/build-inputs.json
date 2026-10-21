@@ -1,0 +1,89 @@
+{
+  "base_commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+  "files": {
+    "data/entities.jsonl": {
+      "bytes": 259553,
+      "sha256": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807"
+    },
+    "data/sources.jsonl": {
+      "bytes": 483747,
+      "sha256": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52"
+    },
+    "data/claims.jsonl": {
+      "bytes": 508210,
+      "sha256": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+    },
+    "research/source_deepening/aburatori/evidence-pack.md": {
+      "bytes": 3117,
+      "sha256": "9970caadd8e1c761cc196dc1e7306820e50f298a35a719e55e128c2efdc0950f"
+    },
+    "research/source_deepening/aka-manto/evidence-pack.md": {
+      "bytes": 4098,
+      "sha256": "ee7cb1c89262dee9fa8f4a6a4c53731ea22b5d6f79260790a3fdee7669d45ee4"
+    },
+    "research/source_deepening/atago-tarobo/evidence-pack.md": {
+      "bytes": 3693,
+      "sha256": "17cbfed261f2ec9f23bbf7f9f551f0abcdfd07ef553e421773a544ec960a7b82"
+    },
+    "research/source_deepening/hanako-san/evidence-pack.md": {
+      "bytes": 8092,
+      "sha256": "bba96f5617e8cb2355d8cb9a62ecbcbcb8478df0cb123a89436d54ceaa8fe406"
+    },
+    "research/source_deepening/kasha/evidence-pack.md": {
+      "bytes": 3648,
+      "sha256": "6e51de96b498f837589de940d2aaff34b731a7fa4cc5c17c960e0ab1beceb7b6"
+    },
+    "research/source_deepening/kinnaga-rokuemon/evidence-pack.md": {
+      "bytes": 7862,
+      "sha256": "7d38099865181bff2dd2502ec39be06ed9c21f3ecbe1e85fbc893f1895639264"
+    },
+    "research/source_deepening/kotoribaa/evidence-pack.md": {
+      "bytes": 3244,
+      "sha256": "c47c29329f2b4f65959653292ca88016c1e291c234a297b4d66bf14daf3d173b"
+    },
+    "research/source_deepening/munakata-six/evidence-pack.md": {
+      "bytes": 10250,
+      "sha256": "93e7e400d08fd025b779c71875f43ead9709876a5348f8caefb7654df42eee8e"
+    },
+    "research/source_deepening/oiwa/evidence-pack.md": {
+      "bytes": 2897,
+      "sha256": "047cf4a59da775116ec22c9d4fb6964bf8e5b48b0e34ea8d99687c3f25ef8799"
+    },
+    "research/source_deepening/tofu-kozo/evidence-pack.md": {
+      "bytes": 3775,
+      "sha256": "901adf227b82d742a61e8e1013f90c1493aaf0b5d2371ae7cf9062bb56fc3a28"
+    },
+    "research/full-corpus-review/open-claim-source-queue-v013.csv": {
+      "bytes": 6364,
+      "sha256": "2009e575da8f25218d2675722f369663606df94fc15e54dd9b91b8ae0c3c79c9"
+    },
+    "research/full-corpus-review/open-claim-queue-v013-triage-v001.md": {
+      "bytes": 3394,
+      "sha256": "6dd6233bc12ab6bede06bd2dcc8e620e6359abe7e662adb7ba280ada4e64c895"
+    },
+    "research/full-corpus-review/priority-1-corpus-correction-review-v001.md": {
+      "bytes": 14570,
+      "sha256": "3ec6246595037d89490d1f7131796b9cb78f28c91617cbe7f5bb2c89db7448f9"
+    },
+    "research/full-corpus-review/source-check-batch-089-notes-v001.md": {
+      "bytes": 2913,
+      "sha256": "55b29e96572ea8e8d63388104caf4dd0273f5715ba70dcff3cc65763f037b4f2"
+    },
+    "research/full-corpus-review/munakata-six-source-chain-follow-up-v001.md": {
+      "bytes": 3656,
+      "sha256": "7eaf031ec65c67850e34e31f3607549a6019083c3fb37c8506bc826644c08e0e"
+    },
+    "atlas/research-timeline.json": {
+      "bytes": 10036,
+      "sha256": "ac08f8dc332583ee19d965e10a179c6b82361670e1457bdc5af3395812aae733"
+    },
+    "research/full-corpus-review/source-chain-follow-up-006-notes-v001.md": {
+      "bytes": 5562,
+      "sha256": "3db16b13119d312d6729e2547d01379550df8b34f3f1e189c938cd81ca2baa5b"
+    },
+    "research/full-corpus-review/source-chain-follow-up-011-notes-v001.md": {
+      "bytes": 3627,
+      "sha256": "76f86443c7111af9e41acf5859ca416e1fdc206f4896adec68e65376f6e5dcf6"
+    }
+  }
+}

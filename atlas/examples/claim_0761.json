@@ -1,0 +1,204 @@
+{
+  "format": "jyi-production-card/1",
+  "snapshot": {
+    "id": "public-main-bf35b905",
+    "commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+    "origin": "https://github.com/Anko-romochi/japan-yokai-index",
+    "scope": "public main snapshot; SERVER export not included",
+    "files": {
+      "entities": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807",
+      "sources": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52",
+      "claims": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+    },
+    "payload_sha256": {
+      "entities": "96bcee77cc664e3c4d798cbf2210eb296825d2fd1201e0defadb67c0db5d0444",
+      "sources": "3f3c49fb1330516f392091acacfc3c09f0a5370488e62cafc2eeff50caf3e51a",
+      "claims": "3207dc16c6a3682d78378f0db5875f8db7cb4f0cabe5766736cdb190383245f9",
+      "research_packs": "e6ac9c183597f216ef84302e6aecd36284de8bae46acf5a898a92085ddac2596",
+      "research_annotations": "e6e718d64c4dde597e9cb20aaf3937198111cad95437bd8d50efec23270a62ba",
+      "research_documents": "6d57be6959539190493057b9c324cdcc3db810e77f9ef4db307c42cd47acc71c"
+    },
+    "integrity_method": "sha256-canonical-json-sorted-keys-utf8-v1",
+    "payload_verification": {
+      "status": "verified",
+      "actual_payload_sha256": {
+        "entities": "96bcee77cc664e3c4d798cbf2210eb296825d2fd1201e0defadb67c0db5d0444",
+        "sources": "3f3c49fb1330516f392091acacfc3c09f0a5370488e62cafc2eeff50caf3e51a",
+        "claims": "3207dc16c6a3682d78378f0db5875f8db7cb4f0cabe5766736cdb190383245f9",
+        "research_packs": "e6ac9c183597f216ef84302e6aecd36284de8bae46acf5a898a92085ddac2596",
+        "research_annotations": "e6e718d64c4dde597e9cb20aaf3937198111cad95437bd8d50efec23270a62ba",
+        "research_documents": "6d57be6959539190493057b9c324cdcc3db810e77f9ef4db307c42cd47acc71c"
+      },
+      "scope": "Loaded JSON payload matches declared digests; publisher authenticity is not verified. Raw JSONL file hashes are build-time records."
+    }
+  },
+  "entity": {
+    "id": "fujioka_no_samurai_ni_baketa_kitsune",
+    "name_ja": "藤岡のさむらいに化けた狐",
+    "name_kana": null,
+    "name_romaji": null,
+    "aliases": [],
+    "entity_type": "folklore_being",
+    "attested_periods": [],
+    "attested_regions": [
+      "栃木県"
+    ],
+    "tags": [],
+    "research_status": "provisional"
+  },
+  "claims": [
+    {
+      "id": "claim_0761",
+      "entity_id": "fujioka_no_samurai_ni_baketa_kitsune",
+      "claim_ja": "栃木市教育研究所の民話PDFは、狐が侍に化けて酒を取り上げ、翌朝、葉をかぶって死んでいたと語る。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_0535"
+      ],
+      "evidence_locations": {
+        "source_0535": "PDF 1頁「さむらいに化けた狐」、侍に化けて酒を取り上げる段と翌朝の段"
+      },
+      "confidence": "confirmed",
+      "review_status": "reviewed"
+    }
+  ],
+  "sources": [
+    {
+      "id": "source_0535",
+      "title": "栃木市教育研究所「さむらいに化けた狐」",
+      "author": null,
+      "date": null,
+      "period": null,
+      "repository": "栃木市教育研究所",
+      "source_url": "https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1096",
+      "external_id": "PDF file ID 1096",
+      "location": "藤岡地域・さむらいに化けた狐。公開PDF本文をページ画像で直接確認。採録時期・原話者・伝承成立年代は不明。",
+      "language": "ja",
+      "source_type": "institutional_explanation",
+      "rights_note": "教育研究所のPDFを直接確認し独自短文要約のみ。原文・画像転載なし。",
+      "accessed_on": "2026-09-27"
+    }
+  ],
+  "production_notes": "未採用候補の比較例。",
+  "research_status": [
+    {
+      "claim_id": "claim_0761",
+      "entity_id": "fujioka_no_samurai_ni_baketa_kitsune",
+      "historical_status": "open_as_of_queue_v013",
+      "research_status": "wording_recheck_candidate",
+      "recorded_on": "2026-09-28",
+      "queue": "v013",
+      "current_result": "claim_correction_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：狐が酒を要求し、百姓が瓶を投げる動作と、現claim・locatorの「取り上げる」の差が判断待ち。頁画像の再確認ゲートあり。",
+      "registered_source_directly_read": true,
+      "recorded_locations": {
+        "source_0535": "PDF 1頁「さむらいに化けた狐」、侍に化けて酒を取り上げる段と翌朝の段"
+      },
+      "next_gate": "既存priority-1文案と該当資料を再確認し、文言・必要なlocatorの採否を個別判断する。原DBは判断前に変更しない。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-queue-v013-triage-v001.md",
+        "research/full-corpus-review/open-claim-source-queue-v013.csv",
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ],
+      "historical_notice": "旧v013研究ログの保留注記。この票は原DBを書換えずに作られたものであり、後続コミットによる修正済み状態とは別に保持する。",
+      "historical_summary_ja": "狐が酒を要求し、百姓が瓶を投げる動作と、現claim・locatorの「取り上げる」の差が判断待ち。頁画像の再確認ゲートあり。",
+      "historical_next_gate": "PDF_p1_fox_demands_sake_farmer_throws_sake_bottle_registered_locator_wording_correction_candidate",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "notice": "旧研究票と後続履歴・現行文を照合した現在の追加注記。直近資料の照合、上流原典の実読、文言候補、同一性を別軸として保持し、今回の原典再実読とは区別する。"
+    }
+  ],
+  "selection": {
+    "mode": "user_selected",
+    "included_claim_ids": [
+      "claim_0761"
+    ],
+    "excluded_claim_ids": [],
+    "notice": "持出す根拠の選択であり、史実性・資料独立性・再利用許諾の認定ではありません。"
+  },
+  "unresolved_source_ids": [],
+  "interpretation_notice": "source_fact は出典記述の事実。reviewed は既存の出典照合状態であり、伝承の史実性や今回の再照合を保証しません。複数資料は異説や独立性を保証しない。制作メモは研究claimではない。",
+  "media": {
+    "included": [],
+    "excluded_reason": "外部図版・私用ギャラリー画像は収録しない。権利不明画像は配布対象外。"
+  },
+  "rights": {
+    "corpus": "既存LICENSE参照：独自メタデータ等 CC0 1.0。外部資料は対象外。",
+    "new_tool": "JYI Atlasの道具コードはMIT。著作権表示とlicense文を保持。データ・第三者資料・制作メモの条件とは別。",
+    "code_license": "MIT",
+    "code_copyright": "Copyright (c) 2026 Anko-romochi and JYI Atlas contributors"
+  },
+  "original_snapshot": {
+    "id": "public-main-bf35b905",
+    "commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+    "scope": "public main snapshot; SERVER export not included",
+    "files": {
+      "entities": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807",
+      "sources": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52",
+      "claims": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+    },
+    "origin": "https://github.com/Anko-romochi/japan-yokai-index",
+    "payload_sha256": {
+      "entities": "96bcee77cc664e3c4d798cbf2210eb296825d2fd1201e0defadb67c0db5d0444",
+      "sources": "3f3c49fb1330516f392091acacfc3c09f0a5370488e62cafc2eeff50caf3e51a",
+      "claims": "3207dc16c6a3682d78378f0db5875f8db7cb4f0cabe5766736cdb190383245f9",
+      "research_packs": "e6ac9c183597f216ef84302e6aecd36284de8bae46acf5a898a92085ddac2596",
+      "research_annotations": "e6e718d64c4dde597e9cb20aaf3937198111cad95437bd8d50efec23270a62ba",
+      "research_documents": "6d57be6959539190493057b9c324cdcc3db810e77f9ef4db307c42cd47acc71c"
+    },
+    "payload_verification": {
+      "status": "verified",
+      "actual_payload_sha256": {
+        "entities": "96bcee77cc664e3c4d798cbf2210eb296825d2fd1201e0defadb67c0db5d0444",
+        "sources": "3f3c49fb1330516f392091acacfc3c09f0a5370488e62cafc2eeff50caf3e51a",
+        "claims": "3207dc16c6a3682d78378f0db5875f8db7cb4f0cabe5766736cdb190383245f9",
+        "research_packs": "e6ac9c183597f216ef84302e6aecd36284de8bae46acf5a898a92085ddac2596",
+        "research_annotations": "e6e718d64c4dde597e9cb20aaf3937198111cad95437bd8d50efec23270a62ba",
+        "research_documents": "6d57be6959539190493057b9c324cdcc3db810e77f9ef4db307c42cd47acc71c"
+      },
+      "scope": "Loaded JSON payload matches declared digests; publisher authenticity is not verified. Raw JSONL file hashes are build-time records."
+    }
+  },
+  "candidate": {
+    "overlay_id": "registered-source-wording-candidates-20261020",
+    "adoption_state": "not_adopted",
+    "items": [
+      {
+        "candidate_id": "correction-claim_0761-20261020",
+        "claim_id": "claim_0761",
+        "entity_id": "fujioka_no_samurai_ni_baketa_kitsune",
+        "source_ids": [
+          "source_0535"
+        ],
+        "original": {
+          "claim_ja": "栃木市教育研究所の民話PDFは、狐が侍に化けて酒を取り上げ、翌朝、葉をかぶって死んでいたと語る。",
+          "evidence_locations": {
+            "source_0535": "PDF 1頁「さむらいに化けた狐」、侍に化けて酒を取り上げる段と翌朝の段"
+          }
+        },
+        "candidate": {
+          "claim_ja": "栃木市教育研究所の民話PDFは、侍に化けた狐が百姓に酒を要求し、百姓が酒どっくりを投げつけた後、翌朝その狐が芋の葉をかぶって死んでいたと語る。",
+          "evidence_locations": {
+            "source_0535": "PDF 1頁「さむらいに化けた狐」、酒と包みを要求する段、百姓が酒どっくりを投げる段、翌朝の段"
+          }
+        },
+        "locator_change": "required",
+        "reason_ja": "酒を要求することと取り上げることを分け、瓶投げを死因と因果断定しない。",
+        "evidence_layer": {
+          "registered_source_type": "institutional_explanation",
+          "source_url": "https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1096",
+          "read_extent": "1頁PDF全体の抽出本文と描画頁画像、「藤岡地域／さむらいに化けた狐」。",
+          "underlying_unread": "採集日、話者、発祥時期、史実性は未確認。",
+          "checked_at": "2026-10-20T10:30:00Z",
+          "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+          "review_method": "live PDF GET and rendered page check",
+          "implementation_did_not_refetch_source": true
+        },
+        "remaining_unverified": "採集日、話者、発祥時期、史実性、死因の因果関係。",
+        "adoption_state": "not_adopted"
+      }
+    ]
+  }
+}

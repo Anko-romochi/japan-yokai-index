@@ -1,0 +1,255 @@
+{
+  "format": "jyi-corrections-candidate/1",
+  "id": "registered-source-wording-candidates-20261020",
+  "original_snapshot": {
+    "id": "public-main-bf35b905",
+    "commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+    "files": {
+      "entities": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807",
+      "sources": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52",
+      "claims": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+    }
+  },
+  "adoption_state": "not_adopted",
+  "scope_notice": "短い文言・locator候補のみ。元snapshotを変更せず、出典の独立性・史実性・個体の同一性・確度・原典到達度の新認定ではない。原資料の本文・画像は収録しない。",
+  "items": [
+    {
+      "candidate_id": "correction-claim_0209-20261020",
+      "claim_id": "claim_0209",
+      "entity_id": "daikairyuu_ookami",
+      "source_ids": [
+        "source_0170"
+      ],
+      "original": {
+        "claim_ja": "日文研カードは、小佐の浜に上がった亀が夢で老人として現れ、大海龍大神を名乗ったという話を要約する。",
+        "evidence_locations": {
+          "source_0170": "カード2130010「呼称」「地域」「要約」；原掲載頁43–45"
+        }
+      },
+      "candidate": {
+        "claim_ja": "日文研カードは、小佐の浜に上がった亀について、浄土寺の和尚と谷村佐助がそれぞれ白髪の老人の夢を見たと要約する。大海龍大神を名乗るのは佐助の夢である。",
+        "evidence_locations": {
+          "source_0170": "カード2130010「呼称」「地域」「要約」；原掲載頁43–45"
+        }
+      },
+      "locator_change": "unchanged",
+      "reason_ja": "和尚と佐助の二つの夢の主体・状況を分ける。",
+      "evidence_layer": {
+        "registered_source_type": "database_record",
+        "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2130010",
+        "read_extent": "日文研カード2130010の書誌と「要約」全体。",
+        "underlying_unread": "磯部宅成「小佐の亀さん」『みなみ』60 (1995) pp.43–45は未読。",
+        "checked_at": "2026-10-20T10:30:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "registered web page read reported by parent reviewer",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "原掲載の文言、出来事の史実性、異なる神名の互換性。",
+      "adoption_state": "not_adopted"
+    },
+    {
+      "candidate_id": "correction-claim_0215-20261020",
+      "claim_id": "claim_0215",
+      "entity_id": "imida",
+      "source_ids": [
+        "source_0176"
+      ],
+      "original": {
+        "claim_ja": "日文研カードは、所有者に不吉な出来事が続いたため地蔵や石碑が建てられた板倉町の忌田の話を要約する。",
+        "evidence_locations": {
+          "source_0176": "カード1420069「呼称」「地域」「要約」；原掲載頁108"
+        }
+      },
+      "candidate": {
+        "claim_ja": "日文研カードは、板倉町の忌田について、ある所有者が供養のため地蔵を建て、別の所有者が樺山大神の石碑を建て、この田の所有中に不吉な出来事に遭ったと要約する。",
+        "evidence_locations": {
+          "source_0176": "カード1420069「呼称」「地域」「要約」；原掲載頁108"
+        }
+      },
+      "locator_change": "unchanged",
+      "reason_ja": "地蔵建立と別所有者の石碑建立・災難を共通因果にしない。",
+      "evidence_layer": {
+        "registered_source_type": "database_record",
+        "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1420069",
+        "read_extent": "日文研カード1420069の書誌と「要約」全体。",
+        "underlying_unread": "『利根川中流水場のムラの民俗』p.108は未読。",
+        "checked_at": "2026-10-20T10:29:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "registered web page read reported by parent reviewer",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "原掲載の文言、碑・事件の精密な順序、史実性。",
+      "adoption_state": "not_adopted"
+    },
+    {
+      "candidate_id": "correction-claim_0381-20261020",
+      "claim_id": "claim_0381",
+      "entity_id": "hata_no_osangitsune",
+      "source_ids": [
+        "source_0262"
+      ],
+      "original": {
+        "claim_ja": "1985年に智頭町波多で採集された『かみそり狐』の語りは、おさん狐が娘や僧に化け、若者の頭髪を食いちぎったと語る。三朝町大谷の同名狐との同一性は未確認。",
+        "evidence_locations": {
+          "source_0262": "『語り』本文、冒頭の『おさん狐』と結末の剃髪場面"
+        }
+      },
+      "candidate": {
+        "claim_ja": "1985年に智頭町波多で採集された『かみそり狐』の語りは、おさん狐が娘に化け、若者が僧に髪を剃られる体験をした後、狐に頭髪を食いちぎられていたと語る。三朝町大谷の同名狐との同一性は未確認。",
+        "evidence_locations": {
+          "source_0262": "「語り」冒頭の娘への変化、僧による剃髪場面、結末の仲間による頭髪確認"
+        }
+      },
+      "locator_change": "optional_precision",
+      "reason_ja": "明記された娘への変化と、僧が現れる体験を区別し断定度を精密化する。",
+      "evidence_layer": {
+        "registered_source_type": "database_record",
+        "source_url": "https://www.pref.tottori.lg.jp/265927.htm",
+        "read_extent": "鳥取県立博物館ページ全体の概観と「語り」冒頭、娘への変化、僧・剃髪、結末。",
+        "underlying_unread": "埋込録音は未聴。",
+        "checked_at": "2026-10-20T10:31:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "registered web page read reported by parent reviewer",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "録音内容、同名個体の同一性、発祥時期。1985-08-15は採集日。",
+      "adoption_state": "not_adopted"
+    },
+    {
+      "candidate_id": "correction-claim_0440-20261020",
+      "claim_id": "claim_0440",
+      "entity_id": "akubyo_no_kami_sawaguchi",
+      "source_ids": [
+        "source_0315"
+      ],
+      "original": {
+        "claim_ja": "秋田県立博物館の「悪病の神」カードは、病をもたらす神を坊主姿の男と少女の二姿で語る話を要約する。",
+        "evidence_locations": {
+          "source_0315": "個別カード「あらすじ」・番号 1721（原掲載 山村民俗誌 pp.96 は未照合）"
+        }
+      },
+      "candidate": {
+        "claim_ja": "秋田県立博物館の「悪病の神」カードは、坊主の男と少女という二人の悪病の神を語る話を要約する。",
+        "evidence_locations": {
+          "source_0315": "個別カード「あらすじ」・番号 1721（原掲載 山村民俗誌 pp.96 は未照合）"
+        }
+      },
+      "locator_change": "unchanged",
+      "reason_ja": "男と少女の二人を、一者の二姿と読ませない。",
+      "evidence_layer": {
+        "registered_source_type": "database_record",
+        "source_url": "https://www.akihaku.jp/monogatari/show_detail.php?serial_no=1731",
+        "read_extent": "表示番号1721の個別カードの「あらすじ」全体と書誌。URLのserial_no=1731とは別識別子。",
+        "underlying_unread": "『山村民俗誌』(1980) p.96は未読。",
+        "checked_at": "2026-10-20T10:30:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "registered web page read reported by parent reviewer",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "原掲載の文言と事件の史実性。二人の歴史的実在を認定しない。",
+      "adoption_state": "not_adopted"
+    },
+    {
+      "candidate_id": "correction-claim_0462-20261020",
+      "claim_id": "claim_0462",
+      "entity_id": "oyonegitsune_nukanome",
+      "source_ids": [
+        "source_0319"
+      ],
+      "original": {
+        "claim_ja": "東北文教大学公開翻刻の「およね狐」は、糠野目藤野の狐が若い女に化けるので人々がこの名で呼んだと記す。",
+        "evidence_locations": {
+          "source_0319": "つゆふじの伝説 第二部 妖怪・動物 第87話「およね狐」本文（https://www.t-bunkyo.ac.jp/library/minwa/archives/tsuyufujinodensetsu/text/87.html）"
+        }
+      },
+      "candidate": {
+        "claim_ja": "東北文教大学公開翻刻の「およね狐」は、糠野目藤野に多くいた狐が若い女に化けるので、人々がそのような狐をおよね狐と呼んだと記す。",
+        "evidence_locations": {
+          "source_0319": "つゆふじの伝説 第二部 妖怪・動物 第87話「およね狐」本文（https://www.t-bunkyo.ac.jp/library/minwa/archives/tsuyufujinodensetsu/text/87.html）"
+        }
+      },
+      "locator_change": "unchanged",
+      "reason_ja": "複数の狐への呼称を、一つの安定した名付き個体にしない。",
+      "evidence_layer": {
+        "registered_source_type": "primary_or_early_source",
+        "source_url": "https://www.t-bunkyo.ac.jp/library/minwa/archives/tsuyufujinodensetsu/text/87.html",
+        "read_extent": "公開翻刻『つゆふじの伝説』第87話のweb本文全体、特に冒頭。",
+        "underlying_unread": "原刊本と採集・伝達の経緯は未確認。",
+        "checked_at": "2026-10-20T10:30:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "registered web page read reported by parent reviewer",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "後の出現が同一個体か、伝達経路、原刊本の文言、発祥時期。",
+      "adoption_state": "not_adopted"
+    },
+    {
+      "candidate_id": "correction-claim_0761-20261020",
+      "claim_id": "claim_0761",
+      "entity_id": "fujioka_no_samurai_ni_baketa_kitsune",
+      "source_ids": [
+        "source_0535"
+      ],
+      "original": {
+        "claim_ja": "栃木市教育研究所の民話PDFは、狐が侍に化けて酒を取り上げ、翌朝、葉をかぶって死んでいたと語る。",
+        "evidence_locations": {
+          "source_0535": "PDF 1頁「さむらいに化けた狐」、侍に化けて酒を取り上げる段と翌朝の段"
+        }
+      },
+      "candidate": {
+        "claim_ja": "栃木市教育研究所の民話PDFは、侍に化けた狐が百姓に酒を要求し、百姓が酒どっくりを投げつけた後、翌朝その狐が芋の葉をかぶって死んでいたと語る。",
+        "evidence_locations": {
+          "source_0535": "PDF 1頁「さむらいに化けた狐」、酒と包みを要求する段、百姓が酒どっくりを投げる段、翌朝の段"
+        }
+      },
+      "locator_change": "required",
+      "reason_ja": "酒を要求することと取り上げることを分け、瓶投げを死因と因果断定しない。",
+      "evidence_layer": {
+        "registered_source_type": "institutional_explanation",
+        "source_url": "https://tm2.tcn.ed.jp/kyouken/wysiwyg/file/download/1/1096",
+        "read_extent": "1頁PDF全体の抽出本文と描画頁画像、「藤岡地域／さむらいに化けた狐」。",
+        "underlying_unread": "採集日、話者、発祥時期、史実性は未確認。",
+        "checked_at": "2026-10-20T10:30:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "live PDF GET and rendered page check",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "採集日、話者、発祥時期、史実性、死因の因果関係。",
+      "adoption_state": "not_adopted"
+    },
+    {
+      "candidate_id": "correction-claim_0837-20261020",
+      "claim_id": "claim_0837",
+      "entity_id": "kurokamiyama_no_daija",
+      "source_ids": [
+        "source_0596"
+      ],
+      "original": {
+        "claim_ja": "日本山岳会の黒髪山解説は、ふもとの池にすむ七本角の大蛇が田畑や村人を害し、万寿姫をおとりとして源為朝らに退治される伝説を紹介する。",
+        "evidence_locations": {
+          "source_0596": "大蛇退治の設問、正答『角が7本あった』直後の解説段"
+        }
+      },
+      "candidate": {
+        "claim_ja": "日本山岳会の黒髪山解説は、ふもとの池にすむ七本角の大蛇が田畑や村人を害し、万寿姫を生け贄にして源為朝らに退治される伝説を紹介する。",
+        "evidence_locations": {
+          "source_0596": "大蛇退治の設問、正答『角が7本あった』直後の解説段"
+        }
+      },
+      "locator_change": "unchanged",
+      "reason_ja": "「おとり」ではなく登録解説の「生け贄」とする。",
+      "evidence_layer": {
+        "registered_source_type": "institutional_explanation",
+        "source_url": "https://www.jac.or.jp/oyako/f15/d504010.html",
+        "read_extent": "日本山岳会「黒髪山」の設問選択肢3と直後の解説。後代の機関解説。",
+        "underlying_unread": "初期伝承資料は未読。取得web readerのcrawl snapshotは先月表示。",
+        "checked_at": "2026-10-20T10:29:00Z",
+        "review_reporter": "delegated registered-institutional-source review reported to this implementation",
+        "review_method": "registered web page read reported by parent reviewer",
+        "implementation_did_not_refetch_source": true
+      },
+      "remaining_unverified": "初期の異版、解説の独立性、伝承の史実性。",
+      "adoption_state": "not_adopted"
+    }
+  ]
+}

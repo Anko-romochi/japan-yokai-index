@@ -6,7 +6,7 @@
 
 ## Status and limits
 
-- MVO v0.3: 30 entities, 19 sources, 31 claims. 完全収録ではありません。
+- 公開Corpus baseline: 1000 entities, 744 source records, 1052 claims (`bf35b90509547fc1b2c550f47349d3f288cbf8e1`)。完全収録ではありません。
 - デジタルアクセス可能な資料と機関公開ページに偏りがあります。
 - 誤りや未確認情報が含まれ得ます。Issue・PRによる訂正を歓迎します。
 - `source_fact`, `established_view`, `inference`, `hypothesis` を分離します。独自仮説は `theory/` に置き、一般事実とは扱いません。
@@ -31,10 +31,19 @@ Python 3.10+ の標準ライブラリのみ使用します。プロジェクト�
 python scripts/validate_corpus.py
 ```
 
-検証対象はUTF-8、JSONL、スキーマの必須項目・型・列挙値、ID重複、参照整合性、`source_fact` の根拠資料と位置です。実行結果が `PASS` でも出典内容の人手確認は必要です。2026-09-23 のローカル結果：`PASS: 30 entities, 19 sources, 31 claims`。
+検証対象はUTF-8、JSONL、スキーマの必須項目・型・列挙値、ID重複、参照整合性、`source_fact` の根拠資料と位置です。実行結果が `PASS` でも出典内容の人手確認は必要です。2026-10-20 の公開baseline検証：`PASS: 1000 entities, 744 sources, 1052 claims`。
 
 ## Contribute and reuse
 
 [CONTRIBUTING.md](CONTRIBUTING.md) に追加・訂正手順があります。データの出典管理、確度、翻訳方針は [methodology](docs/methodology.md)、[data policy](docs/data-policy.md)、[terminology](docs/terminology.md) を参照してください。
 
 このプロジェクト自身が作成したメタデータと文章は CC0 1.0、validator は MIT License です。外部資料の本文・画像・各機関の権利は含まれません。詳細は [LICENSE](LICENSE) を参照してください。
+
+
+## JYI Atlas — ローカル研究reader
+
+[atlas/README.md](atlas/README.md) に検索・資料比較・未採用の修正候補・出典付きカードZIPの起動手順があります。Python標準ライブラリで `python atlas/build.py` → `python -m http.server 8875 --bind 127.0.0.1` を実行し、http://127.0.0.1:8875/atlas/ を開きます。通常利用にNode、APIキー、私用データは不要です。
+
+Atlasは原data/schema/既存LICENSEを変更しない追加層です。7件の文言・locator候補は未採用の別overlayで、元snapshotを上書きしません。新Atlasコードと対応テストだけがMIT（[atlas/LICENSE](atlas/LICENSE)、[対象一覧](atlas/LICENSE-SCOPE.json)）。既存メタデータ等のCC0と既存validatorのMIT、第三者資料の条件は維持します。
+
+初回候補の内容gateと公開先・操作grantは [atlas/RELEASE-STATUS.json](atlas/RELEASE-STATUS.json) で区別します。この差分の準備は公開push、PR、tag、GitHub Releaseやdeployを実行したという意味ではありません。

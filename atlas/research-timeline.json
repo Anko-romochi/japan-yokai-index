@@ -1,0 +1,185 @@
+{
+  "scope": "Limited reconciliation of inherited audit records with pinned public HEAD; not a new original-source audit",
+  "default_current_status": "unknown",
+  "records": {
+    "claim_0335": {
+      "research_status": "resolved_for_reported_issue",
+      "resolved_issue": "chronology wording",
+      "resolution_commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+      "resolution_url": "https://github.com/Anko-romochi/japan-yokai-index/commit/bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+      "summary_ja": "旧v013票の出来事順序の指摘は、現行HEADで生前のお光への動作と死後の供養に修正済み。史実性やentity粒度の解決はこのコミットから認定しない。",
+      "remaining_status": "identity and original-source truth not adjudicated here",
+      "evidence_refs": [
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0061": {
+      "research_status": "registered_page_unread",
+      "summary_ja": "後続source-chain-follow-up-011も登録市ページの回復と原掲載照合をopenのままと明記。現行claimのreviewedと分ける。今回URLの現在疎通を再検証した記録ではない。",
+      "evidence_refs": [
+        "research/full-corpus-review/source-chain-follow-up-011-notes-v001.md"
+      ]
+    },
+    "claim_0209": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：夢の登場人物・順序の圧縮に修正文案あり。二つの夢を区別する判断待ち。原掲載pp.43–45は未読。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0215": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：地蔵と石碑を建てた別々の所有者と、不吉な出来事との因果表現が判断待ち。原掲載p.108は未読。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0381": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：娘への変化は記録されるが、後の僧が狐の変身と断定できるか判断待ち。同名狐との同一性も未確認。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0440": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：二人の悪病の神を一者の二姿と読ませる表現の判断待ち。原掲載p.96は未読。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0462": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：複数の狐への集合的呼称と単独個体の区別が判断待ち。単一の名付き個体へ自動統合しない。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0761": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：狐が酒を要求し、百姓が瓶を投げる動作と、現claim・locatorの「取り上げる」の差が判断待ち。頁画像の再確認ゲートあり。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0837": {
+      "research_status": "wording_recheck_candidate",
+      "summary_ja": "現行文は旧票基準commitの文言から未変更。既存レビューに基づく再確認候補：解説の「生け贄」と現claimの「おとり」の役割表現が判断待ち。歴史的事実の認定ではない。",
+      "current_text_unchanged_since_queue_base": true,
+      "original_source_rechecked_this_work": false,
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md",
+        "atlas/research-timeline.json"
+      ]
+    },
+    "claim_0458": {
+      "research_status": "identity_unassessed",
+      "summary_ja": "旧票はNo claim rewrite。若衆と後の河童の死骸の同一性だけ未判定。現claimの中立的な順序表現を変更しない。",
+      "evidence_refs": [
+        "research/full-corpus-review/priority-1-corpus-correction-review-v001.md"
+      ]
+    },
+    "claim_0336": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0337": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0338": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0339": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0340": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0341": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0691": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0692": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。刊年にも既存の候補差がある。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0693": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0694": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    },
+    "claim_0695": {
+      "research_status": "upstream_original_unread",
+      "summary_ja": "登録された直近の一覧・DBカードと、その背後の原掲載の実読は別軸。原掲載の指定頁は未読。",
+      "evidence_refs": [
+        "research/full-corpus-review/open-claim-source-queue-v013.csv"
+      ]
+    }
+  },
+  "reconciliation": {
+    "queue_base_commit": "de30d8200040a1178253bdb3cbcb343b1050c863",
+    "current_commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+    "commits_ahead": 14,
+    "data_changes": "only claim_0335 chronology wording",
+    "compare_url": "https://github.com/Anko-romochi/japan-yokai-index/compare/de30d8200040a1178253bdb3cbcb343b1050c863...bf35b90509547fc1b2c550f47349d3f288cbf8e1"
+  }
+}
