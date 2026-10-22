@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+internal/
+*.private.*
+prepare_server_snapshot.py
+evidence/*
+!evidence/.keep
+samples/*
+!samples/.keep

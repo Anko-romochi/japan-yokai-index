@@ -1,0 +1,31 @@
+{
+  "artifact_version": "jyi-atlas-rc1",
+  "source_version": "jyi-atlas-source-rc1",
+  "release_version": "jyi-atlas-release-rc1",
+  "base_commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
+  "rights_gate": {
+    "status": "passed",
+    "new_code_license": "MIT",
+    "existing_data_terms": "unchanged",
+    "third_party_permission_extended": false
+  },
+  "content_gate": {
+    "status": "accepted_for_first_distribution_candidate",
+    "independent_basis": "v5 native-received code/data acceptance: no P0/P1; independent browser operation was not performed",
+    "local_followup": "candidate Markdown locator/link safety and README-only clean-release journey verified by shipped local tests",
+    "scope": "first practical candidate; no source historicity or all-originals audit claim"
+  },
+  "operation_grant": {
+    "status": "pending_parent_operation_verification",
+    "target": "https://github.com/Anko-romochi/japan-yokai-index",
+    "push_executed": false,
+    "deploy_executed": false,
+    "target_repository": "Anko-romochi/japan-yokai-index",
+    "placement": "atlas/",
+    "pr_executed": false,
+    "tag_executed": false,
+    "release_executed": false
+  },
+  "public_ready": false,
+  "reason": "Content and rights are prepared for the first candidate. Placement is the existing repository atlas/; exact push/PR/tag/release/deploy operations await parent verification and have not been executed."
+}
