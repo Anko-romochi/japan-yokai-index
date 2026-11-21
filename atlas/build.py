@@ -1,7 +1,6 @@
 """Rebuild from pinned files with Python stdlib; works without .git."""
 import argparse,csv,hashlib,io,json,pathlib
 ROOT=pathlib.Path(__file__).resolve().parents[1]
-BASE_COMMIT='bf35b90509547fc1b2c550f47349d3f288cbf8e1'
 QUEUE='research/full-corpus-review/open-claim-source-queue-v013.csv'
 TRIAGE='research/full-corpus-review/open-claim-queue-v013-triage-v001.md'
 PRIORITY='research/full-corpus-review/priority-1-corpus-correction-review-v001.md'
@@ -30,7 +29,7 @@ def build(root=ROOT,release=False,output=None):
   raw=read(name)
   if len(raw)!=expected['bytes'] or hashlib.sha256(raw).hexdigest()!=expected['sha256']:raise ValueError('Pinned build input mismatch: '+name)
  data={key:[json.loads(l) for l in read('data/'+key+'.jsonl').decode('utf-8').splitlines() if l.strip()] for key in ('entities','sources','claims')}
- data['snapshot']={'id':'public-main-bf35b905','commit':BASE_COMMIT,'origin':'https://github.com/Anko-romochi/japan-yokai-index','scope':'public main snapshot; SERVER export not included','files':{k:hashlib.sha256(read('data/'+k+'.jsonl')).hexdigest() for k in ('entities','sources','claims')}}
+ data['snapshot']={'id':manifest['snapshot_id'],'commit':manifest['base_commit'],'origin':'https://github.com/Anko-romochi/japan-yokai-index','scope':manifest['snapshot_scope'],'files':{k:hashlib.sha256(read('data/'+k+'.jsonl')).hexdigest() for k in ('entities','sources','claims')}}
  data['research_packs']={pathlib.PurePosixPath(n).parent.name:read(n).decode('utf-8') for n in sorted(manifest['files']) if n.startswith('research/source_deepening/') and n.endswith('/evidence-pack.md')}
  docs=[n for n in manifest['files'] if n.startswith('research/full-corpus-review/')]
  data['research_documents']={n:read(n).decode('utf-8') for n in sorted(docs)}

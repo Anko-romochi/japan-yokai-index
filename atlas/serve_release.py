@@ -4,7 +4,7 @@ ROOT=pathlib.Path(__file__).resolve().parent
 ALLOWED_AUXILIARY_FILES={'release-manifest.json'}
 
 def verify():
- manifest=json.loads((ROOT/'release-manifest.json').read_text())
+ manifest=json.loads((ROOT/'release-manifest.json').read_text(encoding='utf-8'))
  expected_files=set(manifest['files'])|ALLOWED_AUXILIARY_FILES
  actual_files=set()
  for path in ROOT.rglob('*'):

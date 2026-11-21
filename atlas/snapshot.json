@@ -13998,6 +13998,56 @@
       ],
       "tags": [],
       "research_status": "provisional"
+    },
+    {
+      "id": "gyosai_hyakki_gadan_skeleton_army",
+      "name_ja": "『暁斎百鬼画談』の骸骨の軍勢",
+      "name_kana": null,
+      "name_romaji": null,
+      "aliases": [],
+      "entity_type": "folklore_being",
+      "attested_periods": [],
+      "attested_regions": [],
+      "tags": [
+        "図像",
+        "資料内の集団",
+        "索引用の記述名"
+      ],
+      "research_status": "provisional"
+    },
+    {
+      "id": "kamikiri_mushi",
+      "name_ja": "髪切虫",
+      "name_kana": null,
+      "name_romaji": null,
+      "aliases": [],
+      "entity_type": "folklore_being",
+      "attested_periods": [],
+      "attested_regions": [],
+      "tags": [
+        "流言",
+        "資料内の呼称"
+      ],
+      "research_status": "provisional"
+    },
+    {
+      "id": "okikumushi_hyogo",
+      "name_ja": "お菊虫（兵庫の伝承）",
+      "name_kana": null,
+      "name_romaji": null,
+      "aliases": [],
+      "entity_type": "folklore_being",
+      "attested_periods": [],
+      "attested_regions": [
+        "姫路",
+        "尼崎",
+        "加東市の旧滝野町"
+      ],
+      "tags": [
+        "虫に姿を変える亡霊",
+        "皿屋敷関連伝承"
+      ],
+      "research_status": "provisional"
     }
   ],
   "sources": [
@@ -25160,6 +25210,81 @@
       "source_type": "institutional_explanation",
       "rights_note": "県公開案内を独自短文で要約。水路の現況と白狐の伝説を区別し、原文・画像転載なし。",
       "accessed_on": "2026-09-28"
+    },
+    {
+      "id": "source_1011",
+      "title": "怪異・妖怪画像データベース：骸骨；ガイコツ，武者；ムシャ，合戦；カッセン",
+      "author": "国際日本文化研究センター",
+      "date": null,
+      "period": null,
+      "repository": "国際日本文化研究センター",
+      "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiGazou/card.cgi?identifier=U426_nichibunken_0093_0001_0000",
+      "external_id": "U426_nichibunken_0093_0001_0000",
+      "location": "内容記述・資源識別子・情報源（親書誌 U426_nichibunken_0093）。IIIF manifest https://iiif.nichibun.ac.jp/IIIF/manifest/FZK/003665395.json、canvas=6、xywh=489:441:2009:1275。source_1011とsource_1012は同じ図の全体・細部で、独立資料ではない。",
+      "language": "ja",
+      "source_type": "database_record",
+      "rights_note": "国際日本文化研究センター「怪異・妖怪画像データベース」の解説・画像は提供元の利用条件に従う。本文・画像は転載しない。日付欄2006を原作品の制作年と扱わない。",
+      "accessed_on": "2026-11-17"
+    },
+    {
+      "id": "source_1012",
+      "title": "怪異・妖怪画像データベース：骸骨；ガイコツ，幽霊馬；ユウレイウマ",
+      "author": "国際日本文化研究センター",
+      "date": null,
+      "period": null,
+      "repository": "国際日本文化研究センター",
+      "source_url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiGazou/card.cgi?identifier=U426_nichibunken_0093_0001_0002",
+      "external_id": "U426_nichibunken_0093_0001_0002",
+      "location": "内容記述・資源識別子・情報源（親書誌 U426_nichibunken_0093）。IIIF manifest https://iiif.nichibun.ac.jp/IIIF/manifest/FZK/003665395.json、canvas=6、xywh=1043:888:613:775。source_1011とsource_1012は同じ図の全体・細部で、独立資料ではない。",
+      "language": "ja",
+      "source_type": "database_record",
+      "rights_note": "国際日本文化研究センター「怪異・妖怪画像データベース」の解説・画像は提供元の利用条件に従う。本文・画像は転載しない。日付欄2006を原作品の制作年と扱わない。",
+      "accessed_on": "2026-11-17"
+    },
+    {
+      "id": "source_1013",
+      "title": "嚴島神社御鎮座の話",
+      "author": null,
+      "date": null,
+      "period": null,
+      "repository": "一般社団法人宮島観光協会",
+      "source_url": "https://www.miyajima.or.jp/legend/legend_tale01.html",
+      "external_id": null,
+      "location": "「おじいちゃん」「圭ちゃん」の対話本文。神が高天原から連れて来た神鴉について述べる段と、その次の養父崎沖から脇浦までの船の案内の段。現代の再話であり、冒頭で言及される棚守房顕の覚え書き自体は未照合。",
+      "language": "ja",
+      "source_type": "institutional_explanation",
+      "rights_note": "公開再話に基づく独自短文要約。原文・画像転載なし。本文中の相対年代やサイトの著作権年を刊行日・伝承成立年に用いず、伝承の史実性を主張しない。",
+      "accessed_on": "2026-11-17"
+    },
+    {
+      "id": "source_1014",
+      "title": "鬼魅の名は―近世前期における妖怪の名づけ―",
+      "author": "香川雅信",
+      "date": "2020-05-29",
+      "period": null,
+      "repository": "一般社団法人日本民俗学会／J-STAGE",
+      "source_url": "https://www.jstage.jst.go.jp/article/nihonminzokugaku/302/0/302_1/_article/-char/ja/",
+      "external_id": "doi:10.34560/nihonminzokugaku.302.0_1",
+      "location": "『日本民俗学』302号 pp.1–35。当該箇所は印刷p.9／PDF第9ページ（1起算）、第3節「髪を切る『虫』」資料1（山岡元隣『宝蔵』の引用）と直後の解説。PDF https://www.jstage.jst.go.jp/article/nihonminzokugaku/302/0/302_1/_pdf/-char/ja 。dateは発行日でJ-STAGE公開日2023-04-19とは区別。引用元の『宝蔵』原刊本・論文使用の校訂本は未照合。",
+      "language": "ja",
+      "source_type": "research_article",
+      "rights_note": "学術論文を直接読み、独自の短文要約のみ登録。本文・紙面画像を転載しない。論文に引用された風説の記述を扱い、髪切虫の実在、被害発生、古典の初出や成立年代を断定しない。",
+      "accessed_on": "2026-11-17"
+    },
+    {
+      "id": "source_1015",
+      "title": "ひょうご伝説紀行 ー 妖怪と自然の世界 ー 『播州皿屋敷』を訪ねて",
+      "author": "兵庫県立歴史博物館",
+      "date": null,
+      "period": null,
+      "repository": "兵庫県立歴史博物館",
+      "source_url": "https://rekihaku.pref.hyogo.lg.jp/digital_museum/legend3/story1/journey1/",
+      "external_id": null,
+      "location": "「県域のお菊伝説」末段（お菊虫）",
+      "language": "ja",
+      "source_type": "institutional_explanation",
+      "rights_note": "博物館の解説を実読し短い独自要約のみ保存。原典・標本の実見はしていない。",
+      "accessed_on": "2026-11-17"
     }
   ],
   "claims": [
@@ -40948,22 +41073,112 @@
       },
       "confidence": "confirmed",
       "review_status": "reviewed"
+    },
+    {
+      "id": "claim_1324",
+      "entity_id": "kidomaru",
+      "claim_ja": "国立国会図書館の解説では、鬼童丸の待ち伏せは見破られ、渡辺綱に退治されたと説明されている。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_0002"
+      ],
+      "evidence_locations": {
+        "source_0002": "見出し「鬼童丸（きどうまる）」本文第1段落・末文"
+      },
+      "confidence": "probable",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "claim_1325",
+      "entity_id": "gyosai_hyakki_gadan_skeleton_army",
+      "claim_ja": "国際日本文化研究センターの『暁斎百鬼画談』画像カードによると、この場面では騎馬や武者の装いの骸骨が闇から現れる。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_1011"
+      ],
+      "evidence_locations": {
+        "source_1011": "資源識別子 U426_nichibunken_0093_0001_0000「内容記述」。親書誌 U426_nichibunken_0093。"
+      },
+      "confidence": "confirmed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "claim_1326",
+      "entity_id": "gyosai_hyakki_gadan_skeleton_army",
+      "claim_ja": "国際日本文化研究センターの『暁斎百鬼画談』画像データベースにある骸骨の騎手の細部カードは、長い刀を携えた骸骨の騎手と、その乗る馬の人間の頭部および三角巾を記述している。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_1012"
+      ],
+      "evidence_locations": {
+        "source_1012": "資源識別子 U426_nichibunken_0093_0001_0002「内容記述」。親書誌 U426_nichibunken_0093。同図判定：IIIF manifest https://iiif.nichibun.ac.jp/IIIF/manifest/FZK/003665395.json、canvas=6。source_1011の領域489:441:2009:1275にsource_1012の領域1043:888:613:775が含まれる。"
+      },
+      "confidence": "confirmed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "claim_1327",
+      "entity_id": "ogarasu",
+      "claim_ja": "宮島観光協会の再話は、神が高天原から連れてきた神鴉について、二羽が弥山から飛来し、粢団子をくわえて船を導いたと語る。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_1013"
+      ],
+      "evidence_locations": {
+        "source_1013": "対話本文、神が高天原から連れて来た神鴉の案内を予告する段、および続く養父崎沖で粢を浮かべ、弥山の二羽が船の前へ進み脇浦で姿を消す段。"
+      },
+      "confidence": "confirmed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "claim_1328",
+      "entity_id": "kamikiri_mushi",
+      "claim_ja": "香川雅信の論文は『宝蔵』に記された髪切虫の風説として、剃刀の牙とはさみの手足を持ち、煎瓦（焙烙）の下に潜むという姿を紹介する。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_1014"
+      ],
+      "evidence_locations": {
+        "source_1014": "印刷p.9／PDF第9ページ（1起算）、第3節「髪を切る『虫』」資料1の後半と直後の解説。『宝蔵』原刊本ではなく、この論文の引用・解説を確認した主張。"
+      },
+      "confidence": "confirmed",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "claim_1329",
+      "entity_id": "okikumushi_hyogo",
+      "claim_ja": "兵庫県立歴史博物館は、お菊の亡霊が虫の姿で現れるという「お菊虫」の伝説を紹介し、虫の実体はアゲハチョウのさなぎと説明する。",
+      "claim_en": null,
+      "layer": "source_fact",
+      "evidence_source_ids": [
+        "source_1015"
+      ],
+      "evidence_locations": {
+        "source_1015": "「県域のお菊伝説」末段。亡霊の虫への変身、アゲハチョウのさなぎとの説明、姫路・尼崎・加東市の旧滝野町を挙げる段落。番町の人物や各地域のヒロインの同一性を主張しない。"
+      },
+      "confidence": "confirmed",
+      "review_status": "reviewed"
     }
   ],
   "snapshot": {
-    "id": "public-main-bf35b905",
+    "id": "atlas-rc2-reviewed-20261121",
     "commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
     "origin": "https://github.com/Anko-romochi/japan-yokai-index",
-    "scope": "public main snapshot; SERVER export not included",
+    "scope": "public corpus publication candidate; RC1 plus six source-reviewed claims; bulk SERVER export excluded",
     "files": {
-      "entities": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807",
-      "sources": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52",
-      "claims": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+      "entities": "6fca76475f260b3cf1b5148d9edc29cc6cae2f84022e891c414dcb9373a6d17d",
+      "sources": "aacd0786175e8e91b702408bfd98a1976ccdf5a41c58cf7c6120ad2b9b11c4c5",
+      "claims": "2b77215c37c36cb3c3178f6b58908365eb18554504e1c13fd2bae653877563df"
     },
     "payload_sha256": {
-      "entities": "96bcee77cc664e3c4d798cbf2210eb296825d2fd1201e0defadb67c0db5d0444",
-      "sources": "3f3c49fb1330516f392091acacfc3c09f0a5370488e62cafc2eeff50caf3e51a",
-      "claims": "3207dc16c6a3682d78378f0db5875f8db7cb4f0cabe5766736cdb190383245f9",
+      "entities": "3496276b680ec9ad6354e3a225ceafdeb787deb84855c46acce2eb70223469a7",
+      "sources": "6e0db82059112e256ba28313e4d67fa7c350f173d9950ccfc3c090df32917e13",
+      "claims": "4d8ab5daced21bb8c7f4c1c207e536c8d46dba86a57738cdc893bc035b8274d6",
       "research_packs": "e6ac9c183597f216ef84302e6aecd36284de8bae46acf5a898a92085ddac2596",
       "research_annotations": "e6e718d64c4dde597e9cb20aaf3937198111cad95437bd8d50efec23270a62ba",
       "research_documents": "6d57be6959539190493057b9c324cdcc3db810e77f9ef4db307c42cd47acc71c"

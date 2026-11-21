@@ -13,8 +13,8 @@ def check(root):
  if found:raise ValueError('Excluded metadata found: '+', '.join(found))
  license_files=[p for p in [root/'atlas/LICENSE',root/'code/LICENSE',root/'source/atlas/LICENSE',root/'release/code/LICENSE'] if p.is_file()]
  for license_file in license_files:
-  assert license_file.read_text().startswith('MIT License\n')
-  scope=json.loads(license_file.with_name('LICENSE-SCOPE.json').read_text());assert scope['identifier']=='MIT' and scope['approval_status']=='owner_approved'
+  assert license_file.read_text(encoding='utf-8').startswith('MIT License\n')
+  scope=json.loads(license_file.with_name('LICENSE-SCOPE.json').read_text(encoding='utf-8'));assert scope['identifier']=='MIT' and scope['approval_status']=='owner_approved'
  print(json.dumps({'root_name':root.name,'public_metadata_scan':'pass','new_code_license':'MIT' if license_files else 'not_applicable_to_this_check','public_ready':False,'remaining_gate':'target-specific public operation grant pending parent verification'}))
 if __name__=='__main__':
  parser=argparse.ArgumentParser();parser.add_argument('directory',type=pathlib.Path);a=parser.parse_args();check(a.directory)
