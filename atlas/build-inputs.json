@@ -2,16 +2,16 @@
   "base_commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
   "files": {
     "data/entities.jsonl": {
-      "bytes": 259553,
-      "sha256": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807"
+      "bytes": 260443,
+      "sha256": "6fca76475f260b3cf1b5148d9edc29cc6cae2f84022e891c414dcb9373a6d17d"
     },
     "data/sources.jsonl": {
-      "bytes": 483747,
-      "sha256": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52"
+      "bytes": 488442,
+      "sha256": "aacd0786175e8e91b702408bfd98a1976ccdf5a41c58cf7c6120ad2b9b11c4c5"
     },
     "data/claims.jsonl": {
-      "bytes": 508210,
-      "sha256": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+      "bytes": 511843,
+      "sha256": "2b77215c37c36cb3c3178f6b58908365eb18554504e1c13fd2bae653877563df"
     },
     "research/source_deepening/aburatori/evidence-pack.md": {
       "bytes": 3117,
@@ -85,5 +85,7 @@
       "bytes": 3627,
       "sha256": "76f86443c7111af9e41acf5859ca416e1fdc206f4896adec68e65376f6e5dcf6"
     }
-  }
+  },
+  "snapshot_id": "atlas-rc2-reviewed-20261121",
+  "snapshot_scope": "public corpus publication candidate; RC1 plus six source-reviewed claims; bulk SERVER export excluded"
 }

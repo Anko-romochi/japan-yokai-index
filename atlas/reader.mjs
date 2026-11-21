@@ -1,6 +1,6 @@
 // A snapshot is an indivisible collection. Never merge entity/claim/source arrays.
 export const CONTRACTS=Object.freeze({
- public_main:{id:'public-main-bf35b905',counts:{entities:1000,sources:744,claims:1052},baseCommit:'bf35b90509547fc1b2c550f47349d3f288cbf8e1',scope:'public main snapshot; SERVER export not included'}
+ public_main:{id:'atlas-rc2-reviewed-20261121',counts:{entities:1003,sources:749,claims:1058},baseCommit:'bf35b90509547fc1b2c550f47349d3f288cbf8e1',scope:'public corpus publication candidate; RC1 plus six source-reviewed claims; bulk SERVER export excluded',fileSha256:{entities:'6fca76475f260b3cf1b5148d9edc29cc6cae2f84022e891c414dcb9373a6d17d',sources:'aacd0786175e8e91b702408bfd98a1976ccdf5a41c58cf7c6120ad2b9b11c4c5',claims:'2b77215c37c36cb3c3178f6b58908365eb18554504e1c13fd2bae653877563df'}}
 
 });
 export function validateSnapshot(data){

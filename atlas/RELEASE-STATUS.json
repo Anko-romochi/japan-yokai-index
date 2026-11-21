@@ -1,7 +1,7 @@
 {
-  "artifact_version": "jyi-atlas-rc1",
-  "source_version": "jyi-atlas-source-rc1",
-  "release_version": "jyi-atlas-release-rc1",
+  "artifact_version": "jyi-atlas-rc2",
+  "source_version": "jyi-atlas-source-rc2",
+  "release_version": "jyi-atlas-release-rc2",
   "base_commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
   "rights_gate": {
     "status": "passed",
@@ -10,22 +10,20 @@
     "third_party_permission_extended": false
   },
   "content_gate": {
-    "status": "accepted_for_first_distribution_candidate",
-    "independent_basis": "v5 native-received code/data acceptance: no P0/P1; independent browser operation was not performed",
-    "local_followup": "candidate Markdown locator/link safety and README-only clean-release journey verified by shipped local tests",
-    "scope": "first practical candidate; no source historicity or all-originals audit claim"
+    "status": "reviewed_local_candidate",
+    "scope": "Six source-fact additions reviewed against their recorded sources; no bulk corpus or upstream-original review implied"
   },
   "operation_grant": {
-    "status": "pending_parent_operation_verification",
+    "status": "draft_review_only",
     "target": "https://github.com/Anko-romochi/japan-yokai-index",
-    "push_executed": false,
     "deploy_executed": false,
     "target_repository": "Anko-romochi/japan-yokai-index",
     "placement": "atlas/",
-    "pr_executed": false,
     "tag_executed": false,
-    "release_executed": false
+    "release_executed": false,
+    "draft_pr_url": "https://github.com/Anko-romochi/japan-yokai-index/pull/2",
+    "main_update_executed": false
   },
   "public_ready": false,
-  "reason": "Content and rights are prepared for the first candidate. Placement is the existing repository atlas/; exact push/PR/tag/release/deploy operations await parent verification and have not been executed."
+  "reason": "RC2 code and data are a draft review candidate. Main integration, release publication, tagging and deployment are not authorized by this candidate."
 }

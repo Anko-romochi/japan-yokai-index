@@ -2,12 +2,12 @@
   "format": "jyi-corrections-candidate/1",
   "id": "registered-source-wording-candidates-20261020",
   "original_snapshot": {
-    "id": "public-main-bf35b905",
+    "id": "atlas-rc2-reviewed-20261121",
     "commit": "bf35b90509547fc1b2c550f47349d3f288cbf8e1",
     "files": {
-      "entities": "c2b8d38ff43d3d471d24856f8f3ba11e42264a065b35531e883fde59bd573807",
-      "sources": "0d8f5dd201b11b6cac338c9c38d29da0d39036430b491d20e67457f689ee9c52",
-      "claims": "843001dee1be62129a8fb323114ab18705ab000b40d12dc5998e0da6158f7571"
+      "entities": "6fca76475f260b3cf1b5148d9edc29cc6cae2f84022e891c414dcb9373a6d17d",
+      "sources": "aacd0786175e8e91b702408bfd98a1976ccdf5a41c58cf7c6120ad2b9b11c4c5",
+      "claims": "2b77215c37c36cb3c3178f6b58908365eb18554504e1c13fd2bae653877563df"
     }
   },
   "adoption_state": "not_adopted",
