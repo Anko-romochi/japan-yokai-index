@@ -66,7 +66,7 @@ def build(root=ROOT,release=False,output=None):
  data['snapshot']['payload_sha256']={k:hashlib.sha256(canonical(data[k])).hexdigest() for k in payload_keys}
  data['snapshot']['integrity_method']='sha256-canonical-json-sorted-keys-utf8-v1'
  target=pathlib.Path(output) if output else root/('data/public-main/snapshot.json' if release else 'atlas/snapshot.json')
- target.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+ target.write_bytes((json.dumps(data,ensure_ascii=False,indent=2)+'\n').encode('utf-8'))
  return data
 if __name__=='__main__':
  parser=argparse.ArgumentParser();parser.add_argument('--root',type=pathlib.Path);parser.add_argument('--release-root',type=pathlib.Path);parser.add_argument('--output',type=pathlib.Path);a=parser.parse_args();d=build((a.release_root or a.root or ROOT).resolve(),bool(a.release_root),a.output);print({k:len(d[k]) for k in ('entities','sources','claims','research_annotations')})
